@@ -1,0 +1,1242 @@
+{
+  "institution_id": "362",
+  "institution_name": "University of Cape Town",
+  "programme_count": 149,
+  "programmes_enriched": 149,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.115,
+  "completeness_after": 0.188,
+  "improvement": 0.073,
+  "overall_quality": {
+    "mean": 0.188,
+    "min": 0.067,
+    "max": 0.267,
+    "count": 149
+  },
+  "fields_completed": {
+    "admissionRequirements": 114,
+    "min_aps": 23,
+    "faculty_name": 26
+  },
+  "fields_still_missing": {
+    "nqf_level": 149,
+    "duration": 149,
+    "credits": 149,
+    "career_outcomes": 149,
+    "study_mode": 149,
+    "department": 149,
+    "programme_code": 149,
+    "saqa_code": 149,
+    "campus": 149,
+    "modules": 149,
+    "qualification_code": 149,
+    "min_aps": 120,
+    "admissionRequirements": 35,
+    "faculty_name": 20
+  },
+  "pdf_source_audit": {
+    "total_mapped": 0,
+    "useful_files": {
+      "prospectuses/university-of-capetown-ug-prospectus-2026.pdf": [
+        "faculty_name"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "Advanced Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Advanced Diploma IN ACCOUNTING",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Advanced Diploma in ACET). UCT",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Advanced Diploma IN ACTUARIAL SCIENCE",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Advanced Diploma in Adult and Community",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Advanced Diploma IN ADULT AND COMMUNITY EDUCATION AND TRAINING",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Advanced Diploma in Cosmetic Formulation",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Advanced Diploma in Cosmetic Formulation Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Advanced Diploma in Cosmetic Formulation Science are also offered.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Advanced Diploma in Cosmetic Formulation Science need not write the NBTs.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Advanced Diploma in Cosmetic Formulation Science: 10",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Advanced Diploma in School Leadership & Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA (BA) AND BSocSci",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (BA) and BSocSci (BSocSc) degrees offer a flexible",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA (Fine Art)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (Fine Art) R84 200",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (Theatre & Performance)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (Theatre and Performance) R81 600",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA and Bachelor of Social",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA degree may",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA degree or a BSocSci degree: a",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA degree. Selection criteria are explained during the first",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA in Fine Art",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Fine Art (BA FA) *",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Fine Art (BA FA) – 4 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Fine Art (BA(FA))",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Theatre & Performance",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Theatre & Performance (BA T&P)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Theatre & Performance (BA T&P) – 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Theatre & Performance (BA T&P)*",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA or BSocSci",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA SPECIALISING IN FILM",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA specialising in Film and Media",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA(FA)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA(T&P)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Architectural",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF ARCHITECTURAL STUDIES",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Architectural Studies (BAS) focuses on the design of the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Architectural Studies R86 660",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Business Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF BUSINESS SCIENCE (BBUSSC) &",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Business Science Actuarial",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF BUSINESS SCIENCE AND BCom",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Business Science.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF MEDICINE",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB): 240",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.2,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Music",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF MUSIC (BMUS)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Music (BMus) *",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Music (BMus) - 4 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Music but excludes some of the academic",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Music R71 700 - R74 900",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Music specialisations are listed with the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF MUSIC STREAMS",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Music, students can pursue the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF SOCIAL",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Social Work (BSW)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF SOCIAL WORK+",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF SURGERY",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom (BCOM)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom and Bachelor of Business Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom and the four year",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BCom in Information Systems and Computer Science provide",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BCom specialising in:",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Audiology) R91 770",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (BSc) degree. The courses offered within the degree structure are",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (BSc). Below are the possible majors",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (Construction Studies) R89 350",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (Eng)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Eng) in Mechanical Engineering allows graduate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Engineering) R79 460 - R89 350",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (Geomatics) R71 120",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (Occupational",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Occupational Therapy)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Physiotherapy)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Physiotherapy) R80 240",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Property Studies) R87 220",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (Speech-Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc IN AUDIOLOGY",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Audiology: 37",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Construc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc IN CONSTRUCTION",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Construction Studies and BSc in Property Studies",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Construction Studies and the BSc Honours in Quantity Surveying and in Construction Management are",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc in Construction Studies will enable you to prepare",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc IN ENGINEERING IN CHEMICAL ENGINEERING",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc IN ENGINEERING IN ELECTRICAL, ELECTRICAL AND COMPUTER",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc IN ENGINEERING IN MECHANICAL, AND MECHANICAL &",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc IN GEOMATICS",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Geomatics is accredited by the South African",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Geomatics which is recognised by the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc IN OCCUPATIONAL THERAPY",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Occupational Therapy: 70",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc IN PHYSIOTHERAPY",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Physiotherapy: 70",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc IN PROPERTY STUDIES",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Property Studies will give you a head start in a challenging",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc IN SPEECH-LANGUAGE",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc IN SPEECH-LANGUAGE PATHOLOGY",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Speech-Language Pathology: 40",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc R83 000",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc(Eng) in Civil Engineering includes",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSocSci",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSocSci (BSocSc) degrees offer a flexible",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci IN PHILOSOPHY",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSocSci IN PHILOSOPHY, POLITICS",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSocSci in Philosophy, Politics and Economics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSocSci in Philosophy, Politics and Economics (BSocSc PPE)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Accounting (PGDA), followed by a three-year training",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in ACET",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Adult",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Education (including a National Professional Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Music",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Music Performance",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "DIPLOMA IN MUSIC PERFORMANCE (DMP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Music Performance (DMP) - 3 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Music Performance is available in the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "DIPLOMA IN MUSIC PERFORMANCE STREAMS",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Music Performance: Satisfactory performance in a music theory test and interview",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Theatre",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "DIPLOMA IN THEATRE & PERFORMANCE (DTP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Theatre & Performance (DTP) – 3 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Theatre & Performance 6",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Theatre and Performance",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Honours and the Master of Architecture (professional). All applicants for",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours degrees in any of the three",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours degrees in Property Studies, Quantity Surveying",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours degrees: Quantity Surveying",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours in Computer Science at UCT, become",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours in Construction",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours in Construction Management.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours in Property Studies is accredited by the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours that articulates into the Master of Architecture",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "LLB (LLB) OR must have passed all the courses from their",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "LLB (LLB) R76 810",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "LLB) degree. An LLB is the universal general qualification",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Master of Architecture (professional). All applicants for",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Master of Laws and Postgraduate Diploma programmes",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MBA at our award-winning Graduate School",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "MBA by ons bekroonde “Graduate School of Business” .",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "MBA kwiSikolo sezoShishino esiphumelele amabhaso.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "MBChB (MBChB) R108 800",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MBChB – MBCHB",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD level. UCT is ideally placed to offer such a",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    }
+  ]
+}

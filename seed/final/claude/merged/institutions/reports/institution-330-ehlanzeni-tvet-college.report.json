@@ -1,0 +1,298 @@
+{
+  "institution_id": "330",
+  "institution_name": "Ehlanzeni TVET College",
+  "programme_count": 21,
+  "programmes_enriched": 21,
+  "synthetic_injected": [
+    "Nated (Report 191)",
+    "National Certificate: N2",
+    "National Certificate: N3",
+    "National Certificate: N4",
+    "National Certificate: N5",
+    "National Certificate: N6"
+  ],
+  "pdf_discovered": [
+    {
+      "name": "National Certiﬁcate Vocational [NC(V)] Programme Level 2 -",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Which NCV Programmes are oﬀered at Ehlanzeni TVET College",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Report 191 (NATED) Programmes Details",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "The dates where evidence e.g. a doctor's note or a copy of a",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "to students who enroll for Report 191 courses and NC(V) programmes.",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "NC(V) level 2/3 and Report 191 (NATED) courses students who were",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "NC(V) PROGRAMME NQF Level 2-4",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "WHAT IS THE NATIONAL CERTIFICATE [NC(V)] QUALIFICATION?",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "The NC(V) is the vocational programme at level 2 – 4 of the National Qualiﬁcations",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "The NC(V) Qualiﬁcation is designed to provide both theory and practice,",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "WHICH NC(V) PROGRAMMES ARE OFFERED BY EHLANZENI TVET COLLEGE",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Each NC(V) Qualiﬁcation has a total of 7 Subjects per NQF Level",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "into the NC(V) Programmes. Candidates are referred to study PVLP in order to improve their subject",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "REPORT 191 (NATED) PROGRAMME DETAILS",
+      "source": "ehlanzeni-college-prospectus.pdf",
+      "qual_type": "Nated (Report 191)"
+    }
+  ],
+  "completeness_before": 0.067,
+  "completeness_after": 0.159,
+  "improvement": 0.092,
+  "overall_quality": {
+    "mean": 0.159,
+    "min": 0.067,
+    "max": 0.267,
+    "count": 21
+  },
+  "fields_completed": {
+    "nqf_level": 14,
+    "career_outcomes": 13,
+    "study_mode": 2
+  },
+  "fields_still_missing": {
+    "duration": 21,
+    "credits": 21,
+    "min_aps": 21,
+    "faculty_name": 21,
+    "career_outcomes": 8,
+    "study_mode": 19,
+    "department": 21,
+    "programme_code": 21,
+    "saqa_code": 21,
+    "admissionRequirements": 21,
+    "campus": 21,
+    "modules": 21,
+    "qualification_code": 21,
+    "nqf_level": 7
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "ehlanzeni-college-prospectus.pdf": [
+        "nqf_level",
+        "career_outcomes",
+        "study_mode"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "NC(V) level 2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Nated (Report 191)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Certificate: N2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N5",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N6",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certiﬁcate Vocational [NC(V)] Programme Level 2 -",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Which NCV Programmes are oﬀered at Ehlanzeni TVET College",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Report 191 (NATED) Programmes Details",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "The dates where evidence e.g. a doctor's note or a copy of a",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "to students who enroll for Report 191 courses and NC(V) programmes.",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) level 2/3 and Report 191 (NATED) courses students who were",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "NC(V) PROGRAMME NQF Level 2-4",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "WHAT IS THE NATIONAL CERTIFICATE [NC(V)] QUALIFICATION?",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "The NC(V) is the vocational programme at level 2 – 4 of the National Qualiﬁcations",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "The NC(V) Qualiﬁcation is designed to provide both theory and practice,",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "WHICH NC(V) PROGRAMMES ARE OFFERED BY EHLANZENI TVET COLLEGE",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Each NC(V) Qualiﬁcation has a total of 7 Subjects per NQF Level",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "into the NC(V) Programmes. Candidates are referred to study PVLP in order to improve their subject",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "REPORT 191 (NATED) PROGRAMME DETAILS",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "ehlanzeni-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    }
+  ]
+}

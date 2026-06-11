@@ -1,0 +1,231 @@
+{
+  "institution_id": "352",
+  "institution_name": "Rhodes University",
+  "programme_count": 22,
+  "programmes_enriched": 22,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.07,
+  "completeness_after": 0.194,
+  "improvement": 0.124,
+  "overall_quality": {
+    "mean": 0.194,
+    "min": 0.067,
+    "max": 0.267,
+    "count": 22
+  },
+  "fields_completed": {
+    "admissionRequirements": 20,
+    "duration": 16,
+    "career_outcomes": 4,
+    "faculty_name": 1
+  },
+  "fields_still_missing": {
+    "nqf_level": 22,
+    "credits": 22,
+    "min_aps": 22,
+    "faculty_name": 20,
+    "career_outcomes": 18,
+    "study_mode": 22,
+    "department": 22,
+    "programme_code": 22,
+    "saqa_code": 22,
+    "campus": 22,
+    "modules": 22,
+    "qualification_code": 22,
+    "duration": 6,
+    "admissionRequirements": 2
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "rhodes-university.pdf": [
+        "duration",
+        "career_outcomes"
+      ],
+      "lib/seed/prospectuses/rhodes-university.pdf": [
+        "faculty_name"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "BA (BA) 34-44 (Dean's discretion)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Economics (BEco)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Information Systems",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Law (LLB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom (BCom)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd (BEDFP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BEd (Foundation Phase",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BPharm (BPharm) 40-44 (Dean's discretion)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (BSc)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc degree (BSc) is its flexibility. Within the confines",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci (BSS) 34-44 (Dean's discretion)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Education (BEDFP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Pharmacy (BPharm) 40-44 (Dean's discretion)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Social Science (BSS) 34-44 (Dean's discretion)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "bed",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    }
+  ]
+}

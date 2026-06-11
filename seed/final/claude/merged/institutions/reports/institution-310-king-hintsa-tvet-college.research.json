@@ -1,0 +1,38 @@
+{
+  "institution_id": "310",
+  "institution_name": "King Hintsa TVET College",
+  "sources_used": [
+    "king-hintsa-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/king-hintsa-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Msobomvu"
+      ],
+      "confidence": 0.099,
+      "source": "prospectus",
+      "sourceFile": "king-hintsa-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Msobomvu"
+      ],
+      "confidence": 0.159,
+      "source": "prospectus",
+      "sourceFile": "king-hintsa-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 2
+  },
+  "confidence_mean": 0.129
+}

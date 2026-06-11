@@ -1,0 +1,1168 @@
+{
+  "institution_id": "413",
+  "institution_name": "Sefako Makgatho Health Sciences University",
+  "programme_count": 139,
+  "programmes_enriched": 139,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.094,
+  "completeness_after": 0.171,
+  "improvement": 0.077,
+  "overall_quality": {
+    "mean": 0.171,
+    "min": 0.067,
+    "max": 0.4,
+    "count": 139
+  },
+  "fields_completed": {
+    "credits": 19,
+    "nqf_level": 14,
+    "modules": 19,
+    "study_mode": 102,
+    "duration": 6
+  },
+  "fields_still_missing": {
+    "duration": 133,
+    "min_aps": 139,
+    "faculty_name": 82,
+    "career_outcomes": 139,
+    "study_mode": 37,
+    "department": 139,
+    "programme_code": 139,
+    "saqa_code": 139,
+    "admissionRequirements": 139,
+    "campus": 139,
+    "modules": 120,
+    "qualification_code": 139,
+    "credits": 120,
+    "nqf_level": 125
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "sefako-makgatho-health-sciences-university.pdf": [
+        "credits",
+        "nqf_level",
+        "modules",
+        "study_mode",
+        "duration"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "Advanced Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Public Health (Monash University)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BPharm (BPharm) programme .",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BPharm BPharm BPHA01 28",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (Biological Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Hons)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bsc (Molecular & Life Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Pharm)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Wits)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BTech (Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BTech (Pharmaceutical Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Hospital",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "DIPLOMA IN HOSPITAL PHARMACY MANAGEMENT PROGRAMME",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Pharmaceutical Regulatory Affairs",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Pharmaceutical Regulatory Affairs. The professional Masters degree qualifications",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Doctorate degree (+2)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Doctorate in Pharmacy (DPharm degree) as part of the university qualifications mix. School of Pharmacy boasts",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Honours Business",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Honours Degree: one additional credit if achieved in minimum time (+3).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Honours Degree: one additional credit if achieved in minimum time without distinction (+2).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours Degrees",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Hons (Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Hons (Wits), PhD",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Hons Public Administration",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Hons) (Pharmacy) (Liverpool JMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Hons) Chemistry (CalabarNigeria)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Hons)-Pharmacology (NWU) MPharm (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MASTER OF PHARMACY (MPHARM)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MASTER OF PHARMACY (MPHARM) .........................",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Master of Pharmacy in Public Health",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MASTER OF PHARMACY IN PUBLIC HEALTH PHARMACY AND MANAGEMENT",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "MASTER OF PHARMACY IN PUBLIC HEALTH PHARMACY AND MANAGEMENT .....................",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Master of Pharmacy in Public Health Pharmacy and Management Qualification Code: MPPHPM",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Master of Pharmacy in Radiopharmacy",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Master of Pharmacy in Radiopharmacy (MPRP01) curriculum consists of seven modules detailed below:",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MASTER OF PHARMACY IN RADIOPHARMACY .................",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Master of Pharmacy MPharm MPRA01 35",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Masters of Pharmacy degree programme in Radiopharmacy offered at SMU is the only",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Masters of Pharmacy in Clinical Pharmacy, and Masters of Pharmacy (MPharm) in Public Health",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MBA (UNISA)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MCOM (UJ) PhD (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MPhil (Paed ID) UCT",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MPhil Local Government",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc (Clinic. Pharm), PhD",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc (Med)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc (Med) (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc (Med) Pharmac",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc (Med) Pharmacy",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc (RU) (Pharmaceutics), PhD (Otago) (Pharmaceutics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc or equivalent degree in Pharmacy may be accepted for full -time study in the fields of interest",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc, PhD (Rhodes)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc. Pharm (RU), PMPP",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (McGill University)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (MEDUNSA)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (Pharmaceutical",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (RU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (UJ)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (UL)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (UL, Medunsa)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (University of Manchester)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD (UWC)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD DEGREE PROGRAMME",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "PhD DEGREE PROGRAMME ..........................",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD in Pharmacy DHMA05 46",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD Pharmacy (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD Quality of Care in General Practice (University of Manchester)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "PhD shall execute during not less than two academic years advanced research under the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "PhD shall execute during not less than two academic years of research work. The research",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "PhD student Senate shall appoint a supervisor who shall have at least the same qualification",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "PhD) degree in any discipline of the pharmacy profession, it also offers a professional doctoral progra",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BA",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Pharmacy (BPharm) programme .",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Public Health (Monash University),",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (Hons)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BTech",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Pharmaceutical Regulatory Affairs. The professional Masters degree qualifications",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Doctorate degree (+2)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Doctorate in Pharmacy (DPharm degree) as part of the university qualifications mix. School of Pharmacy boasts",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours Business",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours Degree: one additional credit if achieved in minimum time without distinction (+2).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours Degrees",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Hons (Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Hons (Wits), PhD",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Hons Public Administration",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Hons) (Pharmacy) (Liverpool JMU),",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Hons) Chemistry (CalabarNigeria),",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Hons)-Pharmacology (NWU) MPharm (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MASTER OF PHARMACY (MPHARM)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MASTER OF PHARMACY (MPHARM) .........................",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Master of Pharmacy in Public Health",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "MASTER OF PHARMACY IN PUBLIC HEALTH PHARMACY AND MANAGEMENT",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "MASTER OF PHARMACY IN PUBLIC HEALTH PHARMACY AND MANAGEMENT .....................",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Master of Pharmacy in Public Health Pharmacy and Management Qualification Code: MPPHPM",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Master of Pharmacy in Radiopharmacy",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Master of Pharmacy in Radiopharmacy (MPRP01) curriculum consists of seven modules detailed below:",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MASTER OF PHARMACY IN RADIOPHARMACY .................",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Master of Pharmacy MPharm MPRA01 35",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Masters of Pharmacy degree programme in Radiopharmacy offered at SMU is the only",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Masters of Pharmacy in Clinical Pharmacy, and Masters of Pharmacy (MPharm) in Public Health",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MBA (UNISA)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MCOM (UJ) PhD (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MPhil (Paed ID) UCT",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MPhil Local Government",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc (Clinic. Pharm), PhD,",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc (Med)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc (Med) (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc (Med) Pharmac",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc (Med) Pharmacy",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc (RU) (Pharmaceutics), PhD (Otago) (Pharmaceutics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc or equivalent degree in Pharmacy may be accepted for full -time study in the fields of interest",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MSc, PhD (Rhodes)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc. Pharm (RU), PMPP",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (McGill University)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (MEDUNSA)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (Pharmaceutical",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (RU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (UJ)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (UL)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (UL, Medunsa)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (University of Manchester)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD (UWC)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD DEGREE PROGRAMME",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "PhD DEGREE PROGRAMME ..........................",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "PhD in Pharmacy DHMA05 46",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD Pharmacy (SMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD Quality of Care in General Practice (University of Manchester)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD shall execute during not less than two academic years advanced research under the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "PhD shall execute during not less than two academic years of research work. The research",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "PhD student Senate shall appoint a supervisor who shall have at least the same qualification,",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "PhD) degree in any discipline of the pharmacy profession, it also offers a professional doctoral progra",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Hons) (Pharmacy) (Liverpool JMU)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Hons) Chemistry (CalabarNigeria)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MSc (Clinic. Pharm), PhD",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD student Senate shall appoint a supervisor who shall have at least the same qualification",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

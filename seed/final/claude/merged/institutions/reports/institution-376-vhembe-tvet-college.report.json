@@ -1,0 +1,566 @@
+{
+  "institution_id": "376",
+  "institution_name": "Vhembe TVET College",
+  "programme_count": 43,
+  "programmes_enriched": 43,
+  "synthetic_injected": [
+    "National Vocational Certificate - Level 1",
+    "National Vocational Certificate - Level 2",
+    "National Vocational Certificate - Level 3",
+    "National Vocational Certificate - Level 4",
+    "NC(V)",
+    "Nated (Report 191)",
+    "National Certificate: N2",
+    "National Certificate: N3",
+    "National Certificate: N4",
+    "National Certificate: N5",
+    "National Certificate: N6"
+  ],
+  "pdf_discovered": [
+    {
+      "name": "Shingwedzi and Musina). The College offers NC (V), Report 191 Business Studies and Engineering",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Vhembe TVET College offers a variety of programmes under National Certificate Vocational (NCV) and NATED.",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "different courses under our NATED programmes,",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "National Certificate: Electrical Infrastructure &",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Certificate: Engineering & Related",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Certificate: Process Plant Operations",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Certificate: Civil Engineering & Building",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Certificate: Management",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Certificate: Marketing",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Certificate: Office Administration -",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Certificate: Finance, Economic",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Certificate: Primary Agriculture",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Certificate: Hospitality",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "National Diploma: Electrical Engineering Heavy",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Electrical Engineering Light",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Civil Engineering",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Mechanical Engineering",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Chemical Engineering",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Motor Mechanics",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Fitting & Turning - Offered",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Boiler Maker - Offered at",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Business Management -",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Financial Management",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Human Resource Management",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Clothing Production - Offered",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Hospitality & Catering",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Farming Management",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Marketing Management -",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Public Management",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Management Assistant",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    },
+    {
+      "name": "National Diploma: Tourism Management",
+      "source": "vhembe-tvet-prospectus.pdf",
+      "qual_type": "Diploma"
+    }
+  ],
+  "completeness_before": 0.067,
+  "completeness_after": 0.133,
+  "improvement": 0.066,
+  "overall_quality": {
+    "mean": 0.133,
+    "min": 0.067,
+    "max": 0.267,
+    "count": 43
+  },
+  "fields_completed": {
+    "nqf_level": 3,
+    "duration": 3,
+    "career_outcomes": 33,
+    "study_mode": 4
+  },
+  "fields_still_missing": {
+    "nqf_level": 40,
+    "duration": 40,
+    "credits": 43,
+    "min_aps": 43,
+    "faculty_name": 43,
+    "career_outcomes": 10,
+    "study_mode": 39,
+    "department": 43,
+    "programme_code": 43,
+    "saqa_code": 43,
+    "admissionRequirements": 43,
+    "campus": 43,
+    "modules": 43,
+    "qualification_code": 43
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "vhembe-tvet-prospectus.pdf": [
+        "nqf_level",
+        "duration",
+        "career_outcomes",
+        "study_mode"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 1",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Vocational Certificate - Level 2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Vocational Certificate - Level 3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Vocational Certificate - Level 4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Nated (Report 191)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Certificate: N2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N5",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N6",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Shingwedzi and Musina). The College offers NC (V), Report 191 Business Studies and Engineering",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Vhembe TVET College offers a variety of programmes under National Certificate Vocational (NCV) and NATED.",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "different courses under our NATED programmes,",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Certificate: Electrical Infrastructure &",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Certificate: Engineering & Related",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Certificate: Process Plant Operations",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Certificate: Civil Engineering & Building",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Certificate: Management",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: Marketing",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Certificate: Office Administration -",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Certificate: Finance, Economic",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Certificate: Primary Agriculture",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "National Certificate: Hospitality",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Electrical Engineering Heavy",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Electrical Engineering Light",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Civil Engineering",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Mechanical Engineering",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Chemical Engineering",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Motor Mechanics",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Fitting & Turning - Offered",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Boiler Maker - Offered at",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Business Management -",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Financial Management",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Human Resource Management",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Clothing Production - Offered",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Hospitality & Catering",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Farming Management",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Marketing Management -",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Public Management",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Management Assistant",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma: Tourism Management",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "vhembe-tvet-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    }
+  ]
+}

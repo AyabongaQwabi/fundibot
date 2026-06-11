@@ -1,0 +1,463 @@
+{
+  "institution_id": "376",
+  "institution_name": "Vhembe TVET College",
+  "sources_used": [
+    "vhembe-tvet-prospectus.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/vhembe-tvet-prospectus.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 1,
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.121,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "are not limited to:",
+        "Process Controller, Process Specialist, Supervisor",
+        "Operator, Plant Operator and Packaging Plant"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "are not limited to:",
+        "Process Controller, Process Specialist, Supervisor",
+        "Operator, Plant Operator and Packaging Plant"
+      ],
+      "confidence": 0.121,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Mashamba Campus",
+        "business",
+        "business"
+      ],
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Mashamba Campus",
+        "business",
+        "business"
+      ],
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered"
+      ],
+      "confidence": 0.117,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.246,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Mavhoi, Musina,",
+        "Technics",
+        "Technics"
+      ],
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.522,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:23.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 1,
+      "confidence": 0.231,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.218,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 1,
+      "confidence": 0.268,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:12.0"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.253,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:12.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "but are not limited to:",
+        "Computer Programming, Information Technology",
+        "Management, Data Processing and Computer"
+      ],
+      "confidence": 0.175,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "but are not limited to:",
+        "Electrical Engineering, Industrial Engineering, Sound",
+        "Technology, Theatre Technology, Process Level"
+      ],
+      "confidence": 0.134,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "are not limited to:",
+        "Process Controller, Process Specialist, Supervisor",
+        "Operator, Plant Operator and Packaging Plant"
+      ],
+      "confidence": 0.21,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "are not limited to:",
+        "Process Controller, Process Specialist, Supervisor",
+        "Operator, Plant Operator and Packaging Plant"
+      ],
+      "confidence": 0.156,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela Campus"
+      ],
+      "confidence": 0.107,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Shingwedzi and"
+      ],
+      "confidence": 0.119,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Line",
+        "Offered at Makwarela and"
+      ],
+      "confidence": 0.156,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Mashamba Campus",
+        "business",
+        "business"
+      ],
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.131,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela Campus"
+      ],
+      "confidence": 0.106,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Mavhoi, Musina",
+        "Technics",
+        "Technics"
+      ],
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Mavhoi, and"
+      ],
+      "confidence": 0.195,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Mavhoi, Musina,",
+        "Technics",
+        "Technics"
+      ],
+      "confidence": 0.104,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at",
+        "Technics",
+        "Technics"
+      ],
+      "confidence": 0.119,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Mavhoi, Musina and"
+      ],
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Mavhoi, Musina and",
+        "Technics",
+        "Technics"
+      ],
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela Campu"
+      ],
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at",
+        "Technics",
+        "Technics"
+      ],
+      "confidence": 0.168,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Tshisimani Campus"
+      ],
+      "confidence": 0.104,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Shingwedzi and"
+      ],
+      "confidence": 0.131,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered"
+      ],
+      "confidence": 0.165,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered"
+      ],
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela Campus"
+      ],
+      "confidence": 0.196,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela and Tshisimani Campuses"
+      ],
+      "confidence": 0.202,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Shingwedzi and"
+      ],
+      "confidence": 0.153,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Offered at Makwarela, Shingwedzi and"
+      ],
+      "confidence": 0.14,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "are not limited to:",
+        "Personal Assistant, Executive Assistant, Administration",
+        "Assistant, Assistant Store Manager, Sales Assistant"
+      ],
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "are not limited to:",
+        "Personal Assistant, Executive Assistant, Administration",
+        "Assistant, Assistant Store Manager, Sales Assistant"
+      ],
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 1,
+    "low<0.5": 42
+  },
+  "confidence_mean": 0.168
+}

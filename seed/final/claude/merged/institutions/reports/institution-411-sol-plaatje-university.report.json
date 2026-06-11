@@ -1,0 +1,281 @@
+{
+  "institution_id": "411",
+  "institution_name": "Sol Plaatje University",
+  "programme_count": 29,
+  "programmes_enriched": 29,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.113,
+  "completeness_after": 0.17,
+  "improvement": 0.057,
+  "overall_quality": {
+    "mean": 0.17,
+    "min": 0.133,
+    "max": 0.2,
+    "count": 29
+  },
+  "fields_completed": {
+    "admissionRequirements": 19,
+    "faculty_name": 6
+  },
+  "fields_still_missing": {
+    "nqf_level": 29,
+    "duration": 29,
+    "credits": 29,
+    "min_aps": 29,
+    "career_outcomes": 29,
+    "study_mode": 29,
+    "department": 29,
+    "programme_code": 29,
+    "saqa_code": 29,
+    "admissionRequirements": 10,
+    "campus": 29,
+    "modules": 29,
+    "qualification_code": 29,
+    "faculty_name": 3
+  },
+  "pdf_source_audit": {
+    "total_mapped": 0,
+    "useful_files": {
+      "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf": [
+        "faculty_name"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "Advanced Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Advanced Diploma IN INFORMATION AND COMMUNICATION TECHNOLOGY IN APPLICATIONS",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA (B.A.)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA exits at HEQSF level 7 and the minimum duration is three years.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA – 3 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom (GENERIC) - B.Com.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BCom exits at HEQSF level 7 and the minimum duration is three years. A student needs to obtain a total",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom – 3 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BEd (B.Ed.)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BEd (B.Ed.) Degrees",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BEd (Senior Phase and FET Phase) – 4 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (B.Sc.)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc degree has been carefully designed to address a critical skills shortage in the country and will",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc DEGREE IN DATA SCIENCE",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Data Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Data Science degree has a strong mathematics core and focuses on data science and applications",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Data Science – 3 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc – 3 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Applications Development and advances the applied and general skills through the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in ICT in Applications Development",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in ICT specialising in Applications Development",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "DIPLOMA IN INFORMATION AND COMMUNICATION TECHNOLOGY (ICT)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Information and Communication Technology in",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "DIPLOMA IN INFORMATION AND COMMUNICATION TECHNOLOGY:",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Retail Business",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "DIPLOMA IN RETAIL BUSINESS MANAGEMENT",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "DIPLOMA IN RETAIL BUSINESS MANAGEMENT – 3 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "honours or postgraduate diploma studies.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    }
+  ]
+}

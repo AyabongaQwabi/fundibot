@@ -1,0 +1,460 @@
+{
+  "institution_id": "411",
+  "institution_name": "Sol Plaatje University",
+  "sources_used": [
+    "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf"
+  ],
+  "prospectus_files": [],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.468,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:0.55"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.568,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:0.67"
+    },
+    {
+      "field": "faculty_name",
+      "value": "HUMANITIES",
+      "confidence": 0.484,
+      "source": "json",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "json-sim:0.55"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "faculty_name",
+      "value": "EDUCATION",
+      "confidence": 0.456,
+      "source": "json",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "json-sim:0.52"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "History",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "History (734 / History and Technology (732 / History, Social Sciences, Language (735"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy (737"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (731 / Mathematics (736 / Mathematics, Mathematical Literacy (737 / Mathematics or History and Technology (7"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics is an elective: NSC Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics is an elective: NSC Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.567,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:0.67"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "History",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "History (734 / History and Technology (732 / History, Social Sciences, Language (735"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy (737"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (731 / Mathematics (736 / Mathematics, Mathematical Literacy (737 / Mathematics or History and Technology (7"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy (737"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Mathematical Literacy (737"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.385,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "faculty_name",
+      "value": "EDUCATION",
+      "confidence": 0.687,
+      "source": "json",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "json-sim:0.78"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy (737"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Mathematical Literacy (737"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.452,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "faculty_name",
+      "value": "EDUCATION",
+      "confidence": 0.398,
+      "source": "json",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "json-sim:0.45"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy (737"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Mathematical Literacy (737"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.735,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:0.86"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.84,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:0.99"
+    },
+    {
+      "field": "faculty_name",
+      "value": "EDUCATION",
+      "confidence": 0.87,
+      "source": "json",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "json-sim:0.99"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.555,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:0.65"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.715,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:0.84"
+    },
+    {
+      "field": "faculty_name",
+      "value": "EDUCATION",
+      "confidence": 0.74,
+      "source": "json",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "json-sim:0.84"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 12,
+    "mid 0.5-0.8": 7,
+    "low<0.5": 6
+  },
+  "confidence_mean": 0.697
+}

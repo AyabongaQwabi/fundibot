@@ -1,0 +1,1679 @@
+{
+  "institution_id": "347",
+  "institution_name": "Nelson Mandela Metropolitan University",
+  "programme_count": 202,
+  "programmes_enriched": 202,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.116,
+  "completeness_after": 0.323,
+  "improvement": 0.208,
+  "overall_quality": {
+    "mean": 0.323,
+    "min": 0.067,
+    "max": 0.467,
+    "count": 202
+  },
+  "fields_completed": {
+    "modules": 55,
+    "campuses_offering": 106,
+    "admissionRequirements": 136,
+    "duration": 133,
+    "study_mode": 137,
+    "career_outcomes": 149,
+    "nqf_level": 7,
+    "credits": 4,
+    "qualification_type": 8
+  },
+  "fields_still_missing": {
+    "nqf_level": 195,
+    "duration": 69,
+    "credits": 198,
+    "min_aps": 202,
+    "faculty_name": 40,
+    "career_outcomes": 53,
+    "study_mode": 65,
+    "department": 202,
+    "programme_code": 202,
+    "saqa_code": 202,
+    "admissionRequirements": 66,
+    "campus": 202,
+    "qualification_code": 202,
+    "modules": 147,
+    "qualification_type": 5
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "nelson-mandela-metropolitan-university.pdf": [
+        "modules",
+        "campuses_offering",
+        "duration",
+        "study_mode",
+        "career_outcomes",
+        "nqf_level",
+        "credits"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "NCV level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PhD).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Pharmacy (BPharm) and Bachelor or Radiography (Diagnostic) applications close on",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Pharmacy (BPharm)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Radiography (Diagnostic) qualifications close earlier",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V) level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "honours studies must apply for those bursaries on the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BCom (Accounting)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom (Computer Science & Information Systems)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom (Economics & Statistics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BCom (Industrial Psychology & Human Resource Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BCom (Information Systems & Business Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom (Logistics & Transport Economics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BCom (Food Service Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Commerce in Accounting Science (BCom: AccSc)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Arts (BA)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BA (Human Resource Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BA (Development Studies)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Education (BEd)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BEd (Foundation Phase)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BEd (Intermediate Phase)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BEd (Senior Phase and Further Education &Training)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Advanced Diploma in Technical and Vocational Teaching .................47",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Advanced Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Commerce (BCom)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom (Financial Planning)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BCom (Marketing & Business Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom (Hospitality Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Engineering (BEng)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BEng (Mechatronics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Engineering Technology (BEngTech)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Architectural Studies (BAS)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Architectural Studies ..........................64",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Science (BSc)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Construction Economics .",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BSc (Construction Studies)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Human Settlement Development (BHSD)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Information Technology (BIT)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Information Technology .....................70",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Environmental Health .........................74",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BA (Psychology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Dietetics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Nursing (Extended Curriculum) ..........80",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Nursing ...................80",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBChB) .............84-85",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Music (Curriculum 1) 91",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Diploma in Music (Curriculum 2) 91",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Visual Art (BVA) .88-90",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Music – BMus: Stream 1: School Music ......................... 92",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Arts (BA) .................97",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BA (Media, Communication & Culture)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BA (Politics & Economics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Law",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BA (Law)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom (Law)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BSc (Biological Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Biochemistry, Chemistry, Microbiology & Physiology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Environmental Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BSc (Computer Science)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Physical Science & Mathematics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom (General)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Accountancy provided they",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Accountancy provided they completed",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Diploma in Economics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Diploma in a chosen field.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Diploma in Human Resource",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Logistics provided they completed the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Diploma in Logistics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "diploma in an",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Management provided they completed",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Management (Extended",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Marketing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Tourism",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Advanced Diploma in Economics can open doors",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Advanced Diploma in Business",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Accountancy, or an equivalent NQF Exit",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Diploma in Internal Auditing.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom (Financial Planning (continued)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Honours degree in Business",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Accounting",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BCom in Logistics and Transport",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Accountancy, and then to",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Accountancy, and then the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BEd",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Education",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Advanced Diploma in Technical and Vocational Teaching",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Honours or Postgraduate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Education qualifications",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEng",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Advanced Diploma in Operations Management is",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Honours degree",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Architectural Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Honours degree programme.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Architectural Technology at",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Architectural",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Interior Design at",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Honours) degree and a",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours) studies and comply",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Hons",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Construction",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BSc (Construction Economics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Honours (Quantity Surveying) in order to develop the additional",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Honours (Construction",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Honours",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours level will",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Engineering Technology (BEng Tech)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Information",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Information",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Environmental Health",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Environmental",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Arts in Psychology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Social Work (BSW)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Human Movement Science (BHMS)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Health Science in Biokinetics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Nursing The purpose of the Bachelor of Nursing programme is to prepare",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Radiography in Diagnostic (BRad)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Emergency Medical Care (BEMC)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Emergency Medical",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Health Sciences in Medical Laboratory Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Surgery",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Visual Art (BVA)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Visual",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Visual Arts begins",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Music (DipMus)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Diploma in Music",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Music (BMus)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Advanced Diploma in Public",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BA",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (continued)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BA in Media",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Administration (BAdmin)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Administration",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Law (LLB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Agricultural Management or an",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Game",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Wood Technology or an equivalent",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Forestry",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Advanced Diploma in Forestry Programme, will be",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Forestry offered by",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Advanced Diploma in Forestry Programme after completing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Nature Conservation or an equivalent",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Wildlife Management). Candidates",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "diploma in an excellent position",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Diploma in Marketing provided they completed",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Commerce (General:",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Commerce",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Accounting (only offered in Gqeberha (formerly, Port",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom (General Accounting)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom: General (Accounting)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BEng (Mechatronics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Computer Science)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Logistics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Tourism Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "LLB (Law)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BCom: General (Economics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Agricultural Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Pharmacy (BPharm)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Laws (LLB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Human Resource Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Architectural Studies",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.0,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (BA)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA (BA) .................97",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Psychology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom (BCom)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom (General:",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom in Accounting Science (BCom: AccSc)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BEd (BEd)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BEng (BEng)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BEng Technology (BEng Tech)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BEng Technology (BEngTech)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BNurs",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BNurs (Extended Curriculum) ..........80",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BNurs ...................80",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BNurs The purpose of the BNurs programme is to prepare",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BPharm (BPharm)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BPharm (BPharm) and Bachelor or Radiography (Diagnostic) applications close on",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc (BSc)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Honours",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours (Construction",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Honours (Quantity Surveying) in order to develop the additional",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Honours degree",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours degree in Business",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours degree programme.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Honours level will",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Honours or Postgraduate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "honours studies must apply for those bursaries on the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours) degree and a",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Honours) studies and comply",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "MBChB",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "MBChB (MBChB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "MBChB (MBChB) .............84-85",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Media,",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Diploma in Forestry Programme, will be",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Honours degree,",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    }
+  ]
+}

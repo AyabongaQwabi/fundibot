@@ -1,0 +1,2305 @@
+{
+  "institution_id": "373",
+  "institution_name": "University of Venda",
+  "sources_used": [
+    "university-of-venda.pdf",
+    "prospectuses/university-of-venda.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-venda.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History or Economics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "English 1"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.512,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:24.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History or Economics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.463,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:22.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History or Economics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.376,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3 / Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "English 1"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.353,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.39"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Accounting Sciences (MSBCAS) NSC 35"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.113,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting) MSECMA 4 / Accounting) MSEBCA 4"
+          },
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics) MSEBCE 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.194,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science (adequate achievement, 50 / Physical Sciences and an adequate achievement (50"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences and an adequate achievement (50"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science (adequate achievement, 50"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3 / Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History or Economics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.355,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:16.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (40%"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy (50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.504,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:23.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "English 1"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.533,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:25.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences, (adequate achievement, 50"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.298,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:14.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting) MSECMA 4"
+          },
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics) MSEBCE 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Accounting Sciences (MSBCAS) NSC 35"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 32,
+              "minimum_nsc_level": null,
+              "notes": "Accounting (MSBBCA) NSC 32"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Accounting Sciences (MSBCAS) NSC 35"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics 3"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 32,
+              "minimum_nsc_level": null,
+              "notes": "Accounting (MSBBCA) NSC 32"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Accounting or Mathematics 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 32,
+            "minimum_nsc_level": null,
+            "notes": "Accounting (MSBBCA) NSC 32"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 75%"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Accounting or Mathematics 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting or Mathematics 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.189,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting or Mathematics 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting or Mathematics 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.142,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.213,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Accounting Sciences (MSBCAS) NSC 35"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 7,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 7"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 32,
+              "minimum_nsc_level": null,
+              "notes": "Accounting (MSBBCA) NSC 32"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Accounting or Mathematics 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (40%"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy (50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.152,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (40%"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy (50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.219,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (50"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences (60"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics, and Physical Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Sciences 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Candidates may be subjected to a selection procedure determined",
+        "Equivalent FET Level 4 qualifications in any of the above subjects"
+      ],
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Candidates may be subjected to a selection procedure determined",
+        "Equivalent FET Level 4 qualifications in any of the above subjects"
+      ],
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.191,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.158,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.327,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.38"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.297,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.35"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.133,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.312,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.302,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.35"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.425,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.415,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.138,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences, (adequate achievement, 50"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Life Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Life Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Life Sciences 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.113,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.493,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:23.4"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.123,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (50"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences (60"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics, and Physical Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Sciences 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.339,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.144,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.181,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.307,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:14.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (40%"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy (50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.448,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.225,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (40%"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy (50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.519,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.61"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.292,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:13.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Accounting Sciences (MSBCAS) NSC 35"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.369,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "matchingMethod": "adm-sim:0.43"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "university-of-venda.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 44,
+    "mid 0.5-0.8": 4,
+    "low<0.5": 59
+  },
+  "confidence_mean": 0.488
+}

@@ -1,0 +1,73 @@
+{
+  "institution_id": "337",
+  "institution_name": "Goldfields TVET College",
+  "sources_used": [
+    "prospectuses/goldfields-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/goldfields-tvet-college.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/goldfields-tvet-prospectus.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "English\n40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.461,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/goldfields-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "English\n40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.461,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/goldfields-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "English\n40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/goldfields-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 1,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 2
+  },
+  "confidence_mean": 0.591
+}

@@ -1,0 +1,1202 @@
+{
+  "institution_id": "412",
+  "institution_name": "University of Mpumalanga",
+  "sources_used": [
+    "university-of-mpumalanga.pdf",
+    "prospectuses/university-of-mpumalanga.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-mpumalanga.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 2,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 2"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nScience: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Science: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 28"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "credits",
+      "value": 360,
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.118,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Applicants must have completed"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 21,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 21"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics and 70%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 2,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 2"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.103,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Sciences: Level 4",
+        "Mathematical Literacy or Technical",
+        "Any three Additional Vocational"
+      ],
+      "confidence": 0.09,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 27"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 24,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 24"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "credits",
+      "value": 360,
+      "confidence": 0.123,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Applicants must have completed"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Science: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science: Level 4 / Physical\nScience or Geography: Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Agricultural Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Agricultural\nScience or Geography: Level 4"
+          },
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science: Level 4 / Physical Sciences: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 27,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 27"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics and 70%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 27,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 27"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "credits",
+      "value": 480,
+      "confidence": 0.181,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.171,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Preliminary admission is based",
+        "The prescribed seven subjects"
+      ],
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 24,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 24"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "credits",
+      "value": 360,
+      "confidence": 0.227,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Applicants must have completed"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "credits",
+      "value": 360,
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Life Science, Physical Science or"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Agricultural Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Agricultural\nScience or Geography: Level 4"
+          },
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 27,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 27"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science: Level 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "credits",
+      "value": 498,
+      "confidence": 0.106,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.1,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "NSC or IEB with Admission for",
+        "Physical Science: Level 4",
+        "Two of Life Science, Agricultural"
+      ],
+      "confidence": 0.088,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 25,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 25"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "credits",
+      "value": 360,
+      "confidence": 0.107,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Geography/History and One Other",
+        "Sciences: Level 4"
+      ],
+      "confidence": 0.088,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "credits",
+      "value": 360,
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Any other Four Modules"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "university-of-mpumalanga.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nSciences and Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 2,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 2"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 2,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 2"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics and 70%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.434,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:0.51"
+    },
+    {
+      "field": "min_aps",
+      "value": 32,
+      "confidence": 0.46,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-mpumalanga.pdf",
+      "matchingMethod": "adm-sim:0.51"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 22,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 29
+  },
+  "confidence_mean": 0.444
+}

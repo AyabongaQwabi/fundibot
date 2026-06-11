@@ -1,0 +1,179 @@
+{
+  "institution_id": "325",
+  "institution_name": "Capricorn TVET College",
+  "programme_count": 15,
+  "programmes_enriched": 15,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.231,
+  "improvement": 0.164,
+  "overall_quality": {
+    "mean": 0.231,
+    "min": 0.067,
+    "max": 0.333,
+    "count": 15
+  },
+  "fields_completed": {
+    "admissionRequirements": 13,
+    "duration": 9,
+    "career_outcomes": 9,
+    "study_mode": 2,
+    "credits": 1,
+    "modules": 2,
+    "nqf_level": 1
+  },
+  "fields_still_missing": {
+    "nqf_level": 14,
+    "duration": 6,
+    "credits": 14,
+    "min_aps": 15,
+    "faculty_name": 15,
+    "career_outcomes": 6,
+    "study_mode": 13,
+    "department": 15,
+    "programme_code": 15,
+    "saqa_code": 15,
+    "admissionRequirements": 2,
+    "campus": 15,
+    "modules": 13,
+    "qualification_code": 15
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "capricorn-tvet-college.pdf": [
+        "duration",
+        "career_outcomes",
+        "study_mode",
+        "credits",
+        "modules",
+        "nqf_level"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "N6 certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Diploma in Business Management (M + 3).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Diploma in Early Childhood Development (M + 3).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Diploma in Financial Management (M + 3)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Diploma in Hospitality and Catering (M + 3).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "National Diploma in Human Resource Management (M + 3)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Diploma in Management Assistant. (M + 3)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Diploma in Marketing Management (M + 3)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Diploma in Public Management (M + 3)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "National Diploma in Tourism (M + 3).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "NC (V) L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V) L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V) Level 2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "report 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    }
+  ]
+}

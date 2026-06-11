@@ -1,0 +1,79 @@
+{
+  "institution_id": "337",
+  "institution_name": "Goldfields TVET College",
+  "programme_count": 4,
+  "programmes_enriched": 4,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.117,
+  "completeness_after": 0.167,
+  "improvement": 0.05,
+  "overall_quality": {
+    "mean": 0.167,
+    "min": 0.067,
+    "max": 0.2,
+    "count": 4
+  },
+  "fields_completed": {
+    "admissionRequirements": 3
+  },
+  "fields_still_missing": {
+    "nqf_level": 4,
+    "duration": 4,
+    "credits": 4,
+    "faculty_name": 4,
+    "career_outcomes": 4,
+    "study_mode": 4,
+    "department": 4,
+    "programme_code": 4,
+    "saqa_code": 4,
+    "campus": 4,
+    "modules": 4,
+    "qualification_code": 4,
+    "min_aps": 1,
+    "admissionRequirements": 1
+  },
+  "pdf_source_audit": {
+    "total_mapped": 2,
+    "useful_files": {},
+    "unused_files": [
+      "goldfields-tvet-college.pdf",
+      "goldfields-tvet-prospectus.pdf"
+    ],
+    "verdict": "none"
+  },
+  "per_programme": [
+    {
+      "name": "NC(V) L2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) L3",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "REPORT 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

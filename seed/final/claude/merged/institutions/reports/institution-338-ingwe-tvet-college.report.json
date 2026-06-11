@@ -1,0 +1,190 @@
+{
+  "institution_id": "338",
+  "institution_name": "Ingwe TVET College",
+  "programme_count": 14,
+  "programmes_enriched": 14,
+  "synthetic_injected": [
+    "National Vocational Certificate - Level 1",
+    "National Vocational Certificate - Level 2",
+    "National Vocational Certificate - Level 3",
+    "National Vocational Certificate - Level 4",
+    "NC(V)",
+    "Nated (Report 191)",
+    "National Certificate: N2",
+    "National Certificate: N3",
+    "National Certificate: N4",
+    "National Certificate: N5",
+    "National Certificate: N6"
+  ],
+  "pdf_discovered": [
+    {
+      "name": "NCV Programmes",
+      "source": "Our Programmes _ Ingwe TVET College.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Level: NQF Level 2-4",
+      "source": "Our Programmes _ Ingwe TVET College.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "(/programmes/ncv)",
+      "source": "Our Programmes _ Ingwe TVET College.pdf",
+      "qual_type": "NCV"
+    }
+  ],
+  "completeness_before": 0.067,
+  "completeness_after": 0.077,
+  "improvement": 0.01,
+  "overall_quality": {
+    "mean": 0.077,
+    "min": 0.067,
+    "max": 0.2,
+    "count": 14
+  },
+  "fields_completed": {
+    "nqf_level": 1,
+    "duration": 1
+  },
+  "fields_still_missing": {
+    "nqf_level": 13,
+    "duration": 13,
+    "credits": 14,
+    "min_aps": 14,
+    "faculty_name": 14,
+    "career_outcomes": 14,
+    "study_mode": 14,
+    "department": 14,
+    "programme_code": 14,
+    "saqa_code": 14,
+    "admissionRequirements": 14,
+    "campus": 14,
+    "modules": 14,
+    "qualification_code": 14
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "Our Programmes _ Ingwe TVET College.pdf": [
+        "nqf_level",
+        "duration"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "National Vocational Certificate - Level 1",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NC(V)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Nated (Report 191)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N5",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N6",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NCV Programmes",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Our Programmes _ Ingwe TVET College.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Level: NQF Level 2-4",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Our Programmes _ Ingwe TVET College.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "(/programmes/ncv)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Our Programmes _ Ingwe TVET College.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

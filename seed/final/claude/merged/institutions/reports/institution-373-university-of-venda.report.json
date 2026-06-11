@@ -1,0 +1,565 @@
+{
+  "institution_id": "373",
+  "institution_name": "University of Venda",
+  "programme_count": 64,
+  "programmes_enriched": 64,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.132,
+  "completeness_after": 0.244,
+  "improvement": 0.112,
+  "overall_quality": {
+    "mean": 0.244,
+    "min": 0.2,
+    "max": 0.333,
+    "count": 64
+  },
+  "fields_completed": {
+    "admissionRequirements": 54,
+    "duration": 48,
+    "min_aps": 3,
+    "modules": 2
+  },
+  "fields_still_missing": {
+    "nqf_level": 64,
+    "duration": 16,
+    "credits": 64,
+    "min_aps": 59,
+    "career_outcomes": 64,
+    "study_mode": 64,
+    "department": 64,
+    "programme_code": 64,
+    "saqa_code": 64,
+    "campus": 64,
+    "modules": 62,
+    "qualification_code": 64,
+    "admissionRequirements": 10,
+    "faculty_name": 3
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "university-of-venda.pdf": [
+        "duration",
+        "min_aps",
+        "modules"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "BA",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (English",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and English 3 Years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BA (HSBBA) NCS 30 + an adequate achievement (50 -59%) or better in English 3 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BA (Media",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BA in",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA in Criminal",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BA in Youth",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Admin in",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Administration MSEBAD 4 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Earth",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Earth Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Environmental",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Indigenous",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Psychology (SHBBP) NSC 36 + adequate achievement (50-59%) in English",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Social Work (HSBBSW) NSC 35 + an adequate achievement (50 -59%) or better in English 4 Years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Bachelor of Urban and Regional Planning (ESBURP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom (Human",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom (in various disciplines)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom in",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom in Business Information",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom in Business Management (MSBCBM)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom in Cost and Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom in Economics (MSBBCE)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom in Industrial Psychology (MSBIP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BCom in Tourism Management (MSBTRM)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BEd in Foundation Phase",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BEd in Senior Phase and Further",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BNurs (SHBBN)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Biochemistry and Biology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Biochemistry and Microbiology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Botany and Zoology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Chemistry and Applied Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Chemistry and Biochemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Chemistry and Mathematics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Computer Science and Mathematics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Computer Science)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Mathematics and Applied Mathematics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Mathematics and Physics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Mathematics and Statistics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Microbiology and Botany)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Physics and Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc degree",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc DEGREES",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Agriculture (Agribusiness",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Agriculture (Agricultural",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Agriculture (Horticultural",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Biokinetics (SHBBSK) NSC 34 + adequate achievement (50-59%) in Life Sciences, En",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Chemistry and Applied Chemistry",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Food",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Nutrition (SHBBSN)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Recreation and",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc in Soil",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Sports and Exercise",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Freshwater",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Nursing (SHDPN)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "LLB (LWBBL) NSC 38 + a minimum of 60% in English 4 years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.2,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and Further",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Nursing (SHBBN)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    }
+  ]
+}

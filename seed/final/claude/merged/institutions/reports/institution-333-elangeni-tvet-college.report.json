@@ -1,0 +1,152 @@
+{
+  "institution_id": "333",
+  "institution_name": "Elangeni TVET College",
+  "programme_count": 11,
+  "programmes_enriched": 11,
+  "synthetic_injected": [
+    "National Vocational Certificate - Level 1",
+    "National Vocational Certificate - Level 2",
+    "National Vocational Certificate - Level 3",
+    "National Vocational Certificate - Level 4",
+    "NC(V)",
+    "Nated (Report 191)",
+    "National Certificate: N2",
+    "National Certificate: N3",
+    "National Certificate: N4",
+    "National Certificate: N5",
+    "National Certificate: N6"
+  ],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.14,
+  "improvement": 0.073,
+  "overall_quality": {
+    "mean": 0.14,
+    "min": 0.067,
+    "max": 0.267,
+    "count": 11
+  },
+  "fields_completed": {
+    "nqf_level": 4,
+    "duration": 4,
+    "study_mode": 4
+  },
+  "fields_still_missing": {
+    "credits": 11,
+    "min_aps": 11,
+    "faculty_name": 11,
+    "career_outcomes": 11,
+    "department": 11,
+    "programme_code": 11,
+    "saqa_code": 11,
+    "admissionRequirements": 11,
+    "campus": 11,
+    "modules": 11,
+    "qualification_code": 11,
+    "nqf_level": 7,
+    "duration": 7,
+    "study_mode": 7
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "elangeni-tvet-college.pdf": [
+        "nqf_level",
+        "duration",
+        "study_mode"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "National Vocational Certificate - Level 1",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Vocational Certificate - Level 2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Vocational Certificate - Level 3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Vocational Certificate - Level 4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "NC(V)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Nated (Report 191)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N5",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N6",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

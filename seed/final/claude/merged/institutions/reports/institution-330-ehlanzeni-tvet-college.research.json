@@ -1,0 +1,302 @@
+{
+  "institution_id": "330",
+  "institution_name": "Ehlanzeni TVET College",
+  "sources_used": [
+    "ehlanzeni-college-prospectus.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/ehlanzeni-college-prospectus.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.09,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.21,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.23,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.225,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.181,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.161,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.132,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.302,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.252,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.32,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:14.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.234,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.411,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:18.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.093,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.265,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:11.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.196,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.308,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "employed",
+        "RELATED AND ITC",
+        "RELATED FIELD"
+      ],
+      "confidence": 0.255,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Related Programmes",
+        "Related Programmes",
+        "Related Programmes"
+      ],
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "ehlanzeni-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 29
+  },
+  "confidence_mean": 0.204
+}

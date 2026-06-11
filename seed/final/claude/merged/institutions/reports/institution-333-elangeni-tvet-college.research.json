@@ -1,0 +1,114 @@
+{
+  "institution_id": "333",
+  "institution_name": "Elangeni TVET College",
+  "sources_used": [
+    "elangeni-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/elangeni-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.224,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.231,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.218,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.218,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "elangeni-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 12
+  },
+  "confidence_mean": 0.203
+}

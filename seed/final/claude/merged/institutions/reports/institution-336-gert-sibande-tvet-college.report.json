@@ -1,0 +1,77 @@
+{
+  "institution_id": "336",
+  "institution_name": "Gert Sibande TVET College",
+  "programme_count": 3,
+  "programmes_enriched": 3,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.2,
+  "improvement": 0.133,
+  "overall_quality": {
+    "mean": 0.2,
+    "min": 0.133,
+    "max": 0.267,
+    "count": 3
+  },
+  "fields_completed": {
+    "duration": 3,
+    "modules": 1,
+    "nqf_level": 1,
+    "study_mode": 1
+  },
+  "fields_still_missing": {
+    "nqf_level": 2,
+    "credits": 3,
+    "min_aps": 3,
+    "faculty_name": 3,
+    "career_outcomes": 3,
+    "study_mode": 2,
+    "department": 3,
+    "programme_code": 3,
+    "saqa_code": 3,
+    "admissionRequirements": 3,
+    "campus": 3,
+    "qualification_code": 3,
+    "modules": 2
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "gert-sibande-tvet-college.pdf": [
+        "duration",
+        "modules",
+        "nqf_level",
+        "study_mode"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "NC(V) L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) Level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Report 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    }
+  ]
+}

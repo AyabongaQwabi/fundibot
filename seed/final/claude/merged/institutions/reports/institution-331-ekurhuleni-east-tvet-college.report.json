@@ -1,0 +1,115 @@
+{
+  "institution_id": "331",
+  "institution_name": "Ekurhuleni East TVET College",
+  "programme_count": 8,
+  "programmes_enriched": 8,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.167,
+  "improvement": 0.1,
+  "overall_quality": {
+    "mean": 0.167,
+    "min": 0.067,
+    "max": 0.2,
+    "count": 8
+  },
+  "fields_completed": {
+    "nqf_level": 6,
+    "modules": 2,
+    "admissionRequirements": 4
+  },
+  "fields_still_missing": {
+    "duration": 8,
+    "credits": 8,
+    "min_aps": 8,
+    "faculty_name": 8,
+    "career_outcomes": 8,
+    "study_mode": 8,
+    "department": 8,
+    "programme_code": 8,
+    "saqa_code": 8,
+    "admissionRequirements": 4,
+    "campus": 8,
+    "qualification_code": 8,
+    "nqf_level": 2,
+    "modules": 6
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "ekurhuleni-east-tvet-college.pdf": [
+        "nqf_level",
+        "modules"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "N2 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "N6 certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NC(V) L 2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) L2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) Level 2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) Level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Report 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    }
+  ]
+}

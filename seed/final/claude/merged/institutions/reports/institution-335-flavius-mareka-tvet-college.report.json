@@ -1,0 +1,161 @@
+{
+  "institution_id": "335",
+  "institution_name": "Flavius Mareka TVET College",
+  "programme_count": 13,
+  "programmes_enriched": 13,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.231,
+  "improvement": 0.164,
+  "overall_quality": {
+    "mean": 0.231,
+    "min": 0.067,
+    "max": 0.333,
+    "count": 13
+  },
+  "fields_completed": {
+    "admissionRequirements": 11,
+    "career_outcomes": 7,
+    "modules": 8,
+    "study_mode": 2,
+    "duration": 2,
+    "nqf_level": 2
+  },
+  "fields_still_missing": {
+    "nqf_level": 11,
+    "duration": 11,
+    "credits": 13,
+    "min_aps": 13,
+    "faculty_name": 13,
+    "study_mode": 11,
+    "department": 13,
+    "programme_code": 13,
+    "saqa_code": 13,
+    "campus": 13,
+    "qualification_code": 13,
+    "career_outcomes": 6,
+    "modules": 5,
+    "admissionRequirements": 2
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "flavius-mareka-tvet-college.pdf": [
+        "career_outcomes",
+        "modules",
+        "study_mode",
+        "duration",
+        "nqf_level"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "Diploma in Business Management, a candidate must pass atleast one of the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Human Resource Management, a candidate must pass at least one of the following",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Management Assistant, a candidate must pass",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Marketing Management, a candidate must pass atleast one of the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "N4 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "N5 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "N6 certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "N6 National Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) L 2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "NC(V) L2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Diploma in Management Assistant, a candidate must pass;",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "Report 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

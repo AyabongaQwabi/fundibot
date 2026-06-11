@@ -1,0 +1,157 @@
+{
+  "institution_id": "332",
+  "institution_name": "Ekurhuleni West TVET College",
+  "sources_used": [
+    "ekurhuleni-west-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/ekurhuleni-west-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "duration",
+      "value": "24 months",
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "duration",
+      "value": "24 months",
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.117,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "saqa_code",
+      "value": "67037",
+      "confidence": 0.234,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "credits",
+      "value": 60,
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "duration",
+      "value": "5 years",
+      "confidence": 0.187,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "What is the",
+        "Duration of the study?",
+        "❑ The national Diploma allows the for the development of"
+      ],
+      "confidence": 0.164,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.131,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "saqa_code",
+      "value": "67039",
+      "confidence": 0.132,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "credits",
+      "value": 180,
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "What is the",
+        "Duration of the study?",
+        "❑ The national Diploma allows the for the development of"
+      ],
+      "confidence": 0.137,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Only one core is covered,",
+        "Retail shops i.e. Shoprite, Click"
+      ],
+      "confidence": 0.155,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "credits",
+      "value": 180,
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-west-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 16
+  },
+  "confidence_mean": 0.166
+}

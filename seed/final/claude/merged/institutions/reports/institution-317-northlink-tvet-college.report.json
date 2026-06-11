@@ -1,0 +1,344 @@
+{
+  "institution_id": "317",
+  "institution_name": "Northlink TVET College",
+  "programme_count": 26,
+  "programmes_enriched": 26,
+  "synthetic_injected": [
+    "National Vocational Certificate - Level 1",
+    "National Vocational Certificate - Level 2",
+    "National Vocational Certificate - Level 3",
+    "National Vocational Certificate - Level 4",
+    "NC(V)",
+    "Nated (Report 191)",
+    "National Certificate: N2",
+    "National Certificate: N3",
+    "National Certificate: N4",
+    "National Certificate: N5",
+    "National Certificate: N6"
+  ],
+  "pdf_discovered": [
+    {
+      "name": "Engineering Studies N4 (Electrical)",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Engineering Studies N5 (Electrical)",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Engineering Studies N6 (Electrical)",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Engineering Studies N4 (Building and Civil)",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Engineering Studies N5 (Building and Civil)",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Engineering Studies N6 (Building and Civil)",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Occupational Certificate: Panel Beater Year",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Occupational Certificate"
+    },
+    {
+      "name": "Engineering Studies N4",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Engineering Studies N5",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Engineering Studies N6",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Occupational Certificate: Beauty Therapist Year",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Occupational Certificate"
+    },
+    {
+      "name": "Occupational Certificate: Computer Technician year",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Occupational Certificate"
+    },
+    {
+      "name": "Occupational Certificate: Cybersecurity Analyst Year",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Occupational Certificate"
+    },
+    {
+      "name": "Occupational Certificate: Fitness Instructor Year",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Occupational Certificate"
+    },
+    {
+      "name": "Occupational Certificate: Internet of things Year",
+      "source": "northlink-tvet-college.pdf",
+      "qual_type": "Occupational Certificate"
+    }
+  ],
+  "completeness_before": 0.067,
+  "completeness_after": 0.08,
+  "improvement": 0.013,
+  "overall_quality": {
+    "mean": 0.08,
+    "min": 0.067,
+    "max": 0.133,
+    "count": 26
+  },
+  "fields_completed": {
+    "nqf_level": 5
+  },
+  "fields_still_missing": {
+    "duration": 26,
+    "credits": 26,
+    "min_aps": 26,
+    "faculty_name": 26,
+    "career_outcomes": 26,
+    "study_mode": 26,
+    "department": 26,
+    "programme_code": 26,
+    "saqa_code": 26,
+    "admissionRequirements": 26,
+    "campus": 26,
+    "modules": 26,
+    "qualification_code": 26,
+    "nqf_level": 21
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "northlink-tvet-college.pdf": [
+        "nqf_level"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "National Vocational Certificate - Level 1",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Vocational Certificate - Level 2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Vocational Certificate - Level 3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Vocational Certificate - Level 4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Nated (Report 191)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N5",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N6",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Engineering Studies N4 (Electrical)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Engineering Studies N5 (Electrical)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Engineering Studies N6 (Electrical)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Engineering Studies N4 (Building and Civil)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Engineering Studies N5 (Building and Civil)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Engineering Studies N6 (Building and Civil)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Occupational Certificate: Panel Beater Year",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Engineering Studies N4",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Engineering Studies N5",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Engineering Studies N6",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Occupational Certificate: Beauty Therapist Year",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Occupational Certificate: Computer Technician year",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Occupational Certificate: Cybersecurity Analyst Year",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Occupational Certificate: Fitness Instructor Year",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Occupational Certificate: Internet of things Year",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "northlink-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

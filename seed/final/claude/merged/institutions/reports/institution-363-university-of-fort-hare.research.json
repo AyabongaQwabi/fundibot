@@ -1,0 +1,1278 @@
+{
+  "institution_id": "363",
+  "institution_name": "University of Fort Hare",
+  "sources_used": [
+    "university-of-fort-hare.pdf",
+    "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/university-of-fort-hare.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.168,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.118,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.118,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.104,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.118,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specializatio"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.118,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.179,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.179,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.3,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "duration",
+      "value": "8 years",
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.43,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:19.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.411,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:18.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.42,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:18.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.3,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.336,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.38,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.38,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.328,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:14.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.328,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:14.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.783,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:35.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.783,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:35.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.595,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:30.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.646,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:33.5"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.693,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:31.0"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.693,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:31.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.241,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.241,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.306,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.273,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.271,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.271,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.738,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:54.7"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.613,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:29.0"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.249,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.242,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.136,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.368,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.5"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.255,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.204,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.216,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.255,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four compulsory modules.",
+        "The Selection Committee convenes to process all applications.",
+        "For all degrees, Li"
+      ],
+      "confidence": 0.098,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four compulsory modules.",
+        "The Selection Committee convenes to process all applications.",
+        "For all degrees, Li"
+      ],
+      "confidence": 0.088,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Alice Campus"
+      ],
+      "confidence": 0.16,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Bachelor Degree",
+      "confidence": 0.72,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Bachelor Degree",
+      "confidence": 0.72,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Bachelor Degree",
+      "confidence": 0.72,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.104,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Bachelor Degree",
+      "confidence": 0.72,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.133,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Bachelor Degree",
+      "confidence": 0.72,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Bachelor Degree",
+      "confidence": 0.72,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Bachelor Degree",
+      "confidence": 0.72,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.43,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:19.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.273,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.306,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.738,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:54.7"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.336,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.328,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:14.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.328,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:14.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.38,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.38,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.3,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.411,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:18.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.783,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:35.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.783,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:35.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.595,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:30.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.646,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:33.5"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.693,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:31.0"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.693,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:31.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.241,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.241,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.271,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.271,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.42,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:18.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.3,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "duration",
+      "value": "8 years",
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Alice Campus"
+      ],
+      "confidence": 0.16,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.242,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.613,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:29.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.249,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four compulsory modules.",
+        "The Selection Committee convenes to process all applications.",
+        "For all degrees, Li"
+      ],
+      "confidence": 0.098,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "At least 70% in four compulsory modules.",
+        "The Selection Committee convenes to process all applications.",
+        "For all degrees, Li"
+      ],
+      "confidence": 0.088,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.38,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.38,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 23,
+    "low<0.5": 127
+  },
+  "confidence_mean": 0.26
+}

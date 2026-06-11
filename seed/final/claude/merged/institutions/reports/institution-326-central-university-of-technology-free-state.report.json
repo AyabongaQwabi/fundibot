@@ -1,0 +1,538 @@
+{
+  "institution_id": "326",
+  "institution_name": "Central University of Technology, Free State",
+  "programme_count": 61,
+  "programmes_enriched": 61,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.44,
+  "completeness_after": 0.505,
+  "improvement": 0.065,
+  "overall_quality": {
+    "mean": 0.505,
+    "min": 0.4,
+    "max": 0.6,
+    "count": 61
+  },
+  "fields_completed": {
+    "admissionRequirements": 54,
+    "saqa_code": 3,
+    "modules": 2,
+    "programme_code": 1
+  },
+  "fields_still_missing": {
+    "credits": 61,
+    "career_outcomes": 61,
+    "department": 61,
+    "saqa_code": 58,
+    "campus": 61,
+    "modules": 59,
+    "qualification_code": 61,
+    "min_aps": 24,
+    "admissionRequirements": 7
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "university-of-the-free-state.pdf": [
+        "saqa_code",
+        "modules"
+      ],
+      "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm": [
+        "programme_code"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "(SP & FET): Computer Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "(SP & FET): Economic and Management Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "(SP & FET): Language Education",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "(SP & FET): Mathematics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "(SP & FET): Natural Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "(SP & FET): Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Accountancy",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "Agricultural Extension",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Agricultural Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Applied Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Biomedical Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Civil Engineering",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Community Development Work",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Computer networking",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Construction",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Construction Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Dental Assisting",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Design and Studio Art",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Design Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Doctor of Education",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Doctorate (Management Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Educational Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Electrical Engineering",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Entrepreneurial Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Environmental Health",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Foundation Phase Teaching",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Health and Safety Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Health and Safety Management (Construction)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Health Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Health Science: Medical Laboratory Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Health Sciences in Clinical Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Higher Education (Teaching and Learning)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Hospitality Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Human Resources Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Hydrology and Water Resources Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Information Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Internal Auditing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Language Practice",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Language Practice and Media Studies",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "Logistics and Transportation Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Management Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Marketing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Masters (Management Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Mathematics for Engineering Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Mechanical Engineering",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "MEd",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Media Studies",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Monitoring and Evaluation",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Office Management and Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Postgraduate Certificate In Education (PGCE)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Project Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Public Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "Quantity Surveying",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Radiography in Diagnostics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Renewable Energy Technologies",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Somatology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Studio Art",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Therapeutic Services",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Tourism Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Urban Development",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    }
+  ]
+}

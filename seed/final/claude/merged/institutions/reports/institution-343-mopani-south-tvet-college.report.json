@@ -1,0 +1,147 @@
+{
+  "institution_id": "343",
+  "institution_name": "Mopani South TVET College",
+  "programme_count": 11,
+  "programmes_enriched": 11,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.097,
+  "completeness_after": 0.285,
+  "improvement": 0.188,
+  "overall_quality": {
+    "mean": 0.285,
+    "min": 0.067,
+    "max": 0.4,
+    "count": 11
+  },
+  "fields_completed": {
+    "admissionRequirements": 8,
+    "nqf_level": 4,
+    "modules": 3,
+    "saqa_code": 2,
+    "duration": 6,
+    "career_outcomes": 5,
+    "study_mode": 3
+  },
+  "fields_still_missing": {
+    "duration": 5,
+    "credits": 11,
+    "min_aps": 6,
+    "faculty_name": 11,
+    "career_outcomes": 6,
+    "study_mode": 8,
+    "department": 11,
+    "programme_code": 11,
+    "campus": 11,
+    "qualification_code": 11,
+    "saqa_code": 9,
+    "modules": 8,
+    "nqf_level": 7,
+    "admissionRequirements": 3
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "mopani-south-tvet-college.pdf": [
+        "nqf_level",
+        "modules",
+        "saqa_code",
+        "duration",
+        "career_outcomes",
+        "study_mode"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "Diploma in Accounting Sciences, Level 6 (ID 94703).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Accounting, Level 6. (ID 93597).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Diploma in Office Management, Level 6.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "N3 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "N4 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "N5 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "N6 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "NCV L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Ba",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Report 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "institution_id": "312",
+  "institution_name": "Lovedale TVET College",
+  "programme_count": 14,
+  "programmes_enriched": 14,
+  "synthetic_injected": [
+    "National Vocational Certificate - Level 1",
+    "National Vocational Certificate - Level 2",
+    "National Vocational Certificate - Level 3",
+    "National Vocational Certificate - Level 4",
+    "NC(V)",
+    "Nated (Report 191)",
+    "National Certificate: N2",
+    "National Certificate: N3",
+    "National Certificate: N4",
+    "National Certificate: N5",
+    "National Certificate: N6"
+  ],
+  "pdf_discovered": [
+    {
+      "name": "The college specializes in National Certificate (Vocational) qualifications and Report",
+      "source": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "delivered in full compliance with national quality standards. Students gain NCV qualifications at Levels",
+      "source": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": ", 3, and 4 or equivalent Report 191 certifications, recognized across South Africa and internationally.",
+      "source": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
+      "qual_type": "Nated (Report 191)"
+    }
+  ],
+  "completeness_before": 0.067,
+  "completeness_after": 0.1,
+  "improvement": 0.033,
+  "overall_quality": {
+    "mean": 0.1,
+    "min": 0.067,
+    "max": 0.133,
+    "count": 14
+  },
+  "fields_completed": {
+    "career_outcomes": 7
+  },
+  "fields_still_missing": {
+    "nqf_level": 14,
+    "duration": 14,
+    "credits": 14,
+    "min_aps": 14,
+    "faculty_name": 14,
+    "study_mode": 14,
+    "department": 14,
+    "programme_code": 14,
+    "saqa_code": 14,
+    "admissionRequirements": 14,
+    "campus": 14,
+    "modules": 14,
+    "qualification_code": 14,
+    "career_outcomes": 7
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf": [
+        "career_outcomes"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "National Vocational Certificate - Level 1",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Vocational Certificate - Level 2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Vocational Certificate - Level 3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "National Vocational Certificate - Level 4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Nated (Report 191)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N5",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N6",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "The college specializes in National Certificate (Vocational) qualifications and Report",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "delivered in full compliance with national quality standards. Students gain NCV qualifications at Levels",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": ", 3, and 4 or equivalent Report 191 certifications, recognized across South Africa and internationally.",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "institution_id": "331",
+  "institution_name": "Ekurhuleni East TVET College",
+  "sources_used": [
+    "prospectuses/ekurhuleni-east-tvet-college.pdf",
+    "ekurhuleni-east-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/ekurhuleni-east-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.12,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "An NQF level4 qualification i.e. Technical Grade 12",
+        "NC(V) Level 4 Engineering",
+        "Passed N3 (4 Subjects)"
+      ],
+      "confidence": 0.092,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 40"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 1,
+      "confidence": 0.164,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 40"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 1,
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 40"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 1,
+      "confidence": 0.106,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 40"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.822,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.97"
+    },
+    {
+      "field": "nqf_level",
+      "value": 1,
+      "confidence": 0.117,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 1,
+      "confidence": 0.138,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "A NQF Level 1 qualification i.e. Grade 9",
+        "PLP results",
+        "AET Level 4"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "ekurhuleni-east-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 4,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 8
+  },
+  "confidence_mean": 0.363
+}

@@ -1,0 +1,125 @@
+{
+  "institution_id": "374",
+  "institution_name": "University of Zululand",
+  "programme_count": 10,
+  "programmes_enriched": 10,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.08,
+  "completeness_after": 0.146,
+  "improvement": 0.066,
+  "overall_quality": {
+    "mean": 0.146,
+    "min": 0.133,
+    "max": 0.2,
+    "count": 10
+  },
+  "fields_completed": {
+    "admissionRequirements": 10
+  },
+  "fields_still_missing": {
+    "nqf_level": 10,
+    "duration": 10,
+    "credits": 10,
+    "min_aps": 10,
+    "faculty_name": 8,
+    "career_outcomes": 10,
+    "study_mode": 10,
+    "department": 10,
+    "programme_code": 10,
+    "saqa_code": 10,
+    "campus": 10,
+    "modules": 10,
+    "qualification_code": 10
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {},
+    "unused_files": [
+      "university-of-zululand.pdf"
+    ],
+    "verdict": "none"
+  },
+  "per_programme": [
+    {
+      "name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Social Sciences in Political and International Studies",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Foundation Phase",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BEd in Intermediate Phase",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Education in Intermediate Phase",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    }
+  ]
+}

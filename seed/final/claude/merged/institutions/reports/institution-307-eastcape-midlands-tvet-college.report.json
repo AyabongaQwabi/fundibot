@@ -1,0 +1,201 @@
+{
+  "institution_id": "307",
+  "institution_name": "Eastcape Midlands TVET College",
+  "programme_count": 12,
+  "programmes_enriched": 12,
+  "synthetic_injected": [],
+  "pdf_discovered": [
+    {
+      "name": "In order to obtain a National Certificate (Vocational),",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "It is a specialised National Certificate for a chosen",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "Unknown"
+    },
+    {
+      "name": "NCV & REPORT",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Study further at a TVET college towards N4-6 National",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "NQF level 5 Higher Certificate at Selective",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "Higher Certificate"
+    },
+    {
+      "name": "REPORT 191 PROGRAMMES (N4 - N6)",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "(NATED) programmes are delivered under the auspices",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "with a National Certificate in the specific field of study.",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "Certificate"
+    },
+    {
+      "name": "National Certificate (NATED/TVET) Level 5 course (N5): The",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "National Certificate (NATED/TVET) Level 6 course (N6): The",
+      "source": "eastcape-midlands-tvet-college.pdf",
+      "qual_type": "Nated (Report 191)"
+    }
+  ],
+  "completeness_before": 0.073,
+  "completeness_after": 0.222,
+  "improvement": 0.15,
+  "overall_quality": {
+    "mean": 0.222,
+    "min": 0.067,
+    "max": 0.333,
+    "count": 12
+  },
+  "fields_completed": {
+    "modules": 5,
+    "duration": 9,
+    "nqf_level": 8,
+    "career_outcomes": 5
+  },
+  "fields_still_missing": {
+    "nqf_level": 4,
+    "duration": 3,
+    "credits": 12,
+    "min_aps": 12,
+    "career_outcomes": 7,
+    "study_mode": 12,
+    "department": 12,
+    "programme_code": 12,
+    "saqa_code": 12,
+    "admissionRequirements": 12,
+    "campus": 12,
+    "modules": 7,
+    "qualification_code": 12,
+    "faculty_name": 11
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "eastcape-midlands-tvet-college.pdf": [
+        "modules",
+        "duration",
+        "nqf_level",
+        "career_outcomes"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "NCV LEVEL 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "REPORT 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "In order to obtain a National Certificate (Vocational),",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "It is a specialised National Certificate for a chosen",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "NCV & REPORT",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Study further at a TVET college towards N4-6 National",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "NQF level 5 Higher Certificate at Selective",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "REPORT 191 PROGRAMMES (N4 - N6)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "(NATED) programmes are delivered under the auspices",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "with a National Certificate in the specific field of study.",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "National Certificate (NATED/TVET) Level 5 course (N5): The",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "National Certificate (NATED/TVET) Level 6 course (N6): The",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "eastcape-midlands-tvet-college.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    }
+  ]
+}

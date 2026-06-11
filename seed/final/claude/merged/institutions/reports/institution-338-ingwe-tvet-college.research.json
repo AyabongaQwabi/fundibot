@@ -1,0 +1,34 @@
+{
+  "institution_id": "338",
+  "institution_name": "Ingwe TVET College",
+  "sources_used": [
+    "Our Programmes _ Ingwe TVET College.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/Our Programmes _ Ingwe TVET College.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 2,
+      "confidence": 0.112,
+      "source": "prospectus",
+      "sourceFile": "Our Programmes _ Ingwe TVET College.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "duration",
+      "value": "36 months",
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "Our Programmes _ Ingwe TVET College.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 2
+  },
+  "confidence_mean": 0.107
+}

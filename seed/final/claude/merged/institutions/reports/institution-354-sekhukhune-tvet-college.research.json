@@ -1,0 +1,111 @@
+{
+  "institution_id": "354",
+  "institution_name": "Sekhukhune TVET College",
+  "sources_used": [
+    "sekhukhune-tvet-college-web.txt",
+    "prospectuses/sekhukhune-tvet-college-web.txt"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/sekhukhune-tvet-college-web.txt"
+  ],
+  "evidence": [
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.217,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.137,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.137,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.231,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.279,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:12.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.22,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.137,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Gr 11 with Maths"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.393,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Gr 11 with Maths"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.433,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "adm-sim:0.51"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 9
+  },
+  "confidence_mean": 0.243
+}

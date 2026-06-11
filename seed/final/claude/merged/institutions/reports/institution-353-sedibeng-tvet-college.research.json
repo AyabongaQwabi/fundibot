@@ -1,0 +1,425 @@
+{
+  "institution_id": "353",
+  "institution_name": "Sedibeng TVET College",
+  "sources_used": [
+    "sedibeng-tvet-college.pdf",
+    "prospectuses/sedibeng-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/sedibeng-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 2,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical literacy L2"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sedibeng-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Mathematical literacy L2-L4",
+        "Life Skills and Computer Literacy L2-L4 &"
+      ],
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.118,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Construction Planning",
+        "Plant & Equipment",
+        "Material"
+      ],
+      "confidence": 0.098,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Accounting (30%"
+          },
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "BUSINESS STUDIES (N4"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "TOURISM N4 / Tourism subject at 50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sedibeng-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "duration",
+      "value": "2 years",
+      "confidence": 0.142,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Theoret"
+      ],
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Accounting (30%"
+          },
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "BUSINESS STUDIES (N4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Maths 30%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sedibeng-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "duration",
+      "value": "2 years",
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Theoret"
+      ],
+      "confidence": 0.102,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Mathematical literacy L2-L4",
+        "Life Skills and Computer Literacy L2-L4 &"
+      ],
+      "confidence": 0.092,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Accounting (30%"
+          },
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "BUSINESS STUDIES (N4"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "TOURISM N4 / Tourism subject at 50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sedibeng-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "duration",
+      "value": "2 years",
+      "confidence": 0.142,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Theoret"
+      ],
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Accounting (30%"
+          },
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "BUSINESS STUDIES (N4"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "TOURISM N4 / Tourism subject at 50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ],
+          [
+            {
+              "subject": "Business Studies",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Business Studies 1"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.484,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sedibeng-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.57"
+    },
+    {
+      "field": "nqf_level",
+      "value": 5,
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.104,
+      "source": "prospectus",
+      "sourceFile": "sedibeng-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 4,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 17
+  },
+  "confidence_mean": 0.277
+}

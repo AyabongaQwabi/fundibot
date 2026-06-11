@@ -1,0 +1,28 @@
+{
+  "institution_id": "329",
+  "institution_name": "Durban University of Technology",
+  "sources_used": [
+    "durban-university-of-technology.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/durban-university-of-technology.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "modules",
+      "value": [
+        "INSTRUCTIONS BELOW:"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "durban-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 1
+  },
+  "confidence_mean": 0.0
+}

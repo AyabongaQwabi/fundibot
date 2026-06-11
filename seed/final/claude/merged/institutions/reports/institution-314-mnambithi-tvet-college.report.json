@@ -1,0 +1,103 @@
+{
+  "institution_id": "314",
+  "institution_name": "Mnambithi TVET College",
+  "programme_count": 6,
+  "programmes_enriched": 6,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.267,
+  "improvement": 0.2,
+  "overall_quality": {
+    "mean": 0.267,
+    "min": 0.067,
+    "max": 0.4,
+    "count": 6
+  },
+  "fields_completed": {
+    "duration": 5,
+    "modules": 3,
+    "admissionRequirements": 4,
+    "nqf_level": 4,
+    "study_mode": 2
+  },
+  "fields_still_missing": {
+    "nqf_level": 2,
+    "credits": 6,
+    "min_aps": 6,
+    "faculty_name": 6,
+    "career_outcomes": 6,
+    "study_mode": 4,
+    "department": 6,
+    "programme_code": 6,
+    "saqa_code": 6,
+    "admissionRequirements": 2,
+    "campus": 6,
+    "qualification_code": 6,
+    "duration": 1,
+    "modules": 3
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "Mnambithi_TVET_Prospectus_2022.pdf": [
+        "duration",
+        "modules",
+        "nqf_level",
+        "study_mode"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "Nated N4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NC(V) Level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "NCV Level 2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "NCV Level 3",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "NCV Level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    }
+  ]
+}

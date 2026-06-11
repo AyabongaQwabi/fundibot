@@ -1,0 +1,105 @@
+{
+  "institution_id": "353",
+  "institution_name": "Sedibeng TVET College",
+  "programme_count": 6,
+  "programmes_enriched": 6,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.3,
+  "improvement": 0.233,
+  "overall_quality": {
+    "mean": 0.3,
+    "min": 0.067,
+    "max": 0.4,
+    "count": 6
+  },
+  "fields_completed": {
+    "admissionRequirements": 5,
+    "modules": 2,
+    "credits": 1,
+    "duration": 5,
+    "career_outcomes": 4,
+    "nqf_level": 4
+  },
+  "fields_still_missing": {
+    "nqf_level": 2,
+    "min_aps": 6,
+    "faculty_name": 6,
+    "study_mode": 6,
+    "department": 6,
+    "programme_code": 6,
+    "saqa_code": 6,
+    "campus": 6,
+    "qualification_code": 6,
+    "credits": 5,
+    "modules": 4,
+    "career_outcomes": 2,
+    "duration": 1,
+    "admissionRequirements": 1
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "sedibeng-tvet-college.pdf": [
+        "modules",
+        "credits",
+        "duration",
+        "career_outcomes",
+        "nqf_level"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "NC(V) L2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "NC(V) L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "NC(V) level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "NC(V)L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "NCV L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "REPORT 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

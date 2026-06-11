@@ -1,0 +1,99 @@
+{
+  "institution_id": "334",
+  "institution_name": "False Bay TVET College",
+  "programme_count": 6,
+  "programmes_enriched": 6,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.078,
+  "improvement": 0.011,
+  "overall_quality": {
+    "mean": 0.078,
+    "min": 0.067,
+    "max": 0.133,
+    "count": 6
+  },
+  "fields_completed": {
+    "duration": 1
+  },
+  "fields_still_missing": {
+    "nqf_level": 6,
+    "duration": 5,
+    "credits": 6,
+    "min_aps": 6,
+    "faculty_name": 6,
+    "career_outcomes": 6,
+    "study_mode": 6,
+    "department": 6,
+    "programme_code": 6,
+    "saqa_code": 6,
+    "admissionRequirements": 6,
+    "campus": 6,
+    "modules": 6,
+    "qualification_code": 6
+  },
+  "pdf_source_audit": {
+    "total_mapped": 3,
+    "useful_files": {
+      "false-bay-student-brochure.pdf": [
+        "duration"
+      ]
+    },
+    "unused_files": [
+      "false-bay-tvet-admission-reqs.pdf",
+      "false-bay-tvet-college.pdf"
+    ],
+    "verdict": "partial"
+  },
+  "per_programme": [
+    {
+      "name": "N2 certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Nated N4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NC(V) Level 2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NC(V) Level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Report 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    }
+  ]
+}

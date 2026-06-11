@@ -1,0 +1,178 @@
+{
+  "institution_id": "332",
+  "institution_name": "Ekurhuleni West TVET College",
+  "programme_count": 15,
+  "programmes_enriched": 15,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.138,
+  "improvement": 0.071,
+  "overall_quality": {
+    "mean": 0.138,
+    "min": 0.067,
+    "max": 0.4,
+    "count": 15
+  },
+  "fields_completed": {
+    "duration": 6,
+    "credits": 4,
+    "saqa_code": 2,
+    "career_outcomes": 2,
+    "nqf_level": 1,
+    "modules": 1
+  },
+  "fields_still_missing": {
+    "nqf_level": 14,
+    "credits": 11,
+    "min_aps": 15,
+    "faculty_name": 15,
+    "career_outcomes": 13,
+    "study_mode": 15,
+    "department": 15,
+    "programme_code": 15,
+    "saqa_code": 13,
+    "admissionRequirements": 15,
+    "campus": 15,
+    "modules": 14,
+    "qualification_code": 15,
+    "duration": 9
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {
+      "ekurhuleni-west-tvet-college.pdf": [
+        "duration",
+        "credits",
+        "saqa_code",
+        "career_outcomes",
+        "nqf_level",
+        "modules"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "Diploma in business students in the workplace, this includes the challenges that an evaluator experience. This will",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Business Studies.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Engineering studies once the required",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Engineering Studies.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in HRM",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Human",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Marketing Management will give you a broad knowledge of marketing and an understanding of the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "N4 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "N5 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "N6 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Diploma in Human Resources Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "National Diploma in Public Relations consists of the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "NCV Level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Report 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "institution_id": "317",
+  "institution_name": "Northlink TVET College",
+  "sources_used": [
+    "northlink-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/northlink-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 5
+  },
+  "confidence_mean": 0.186
+}

@@ -1,0 +1,318 @@
+{
+  "institution_id": "374",
+  "institution_name": "University of Zululand",
+  "sources_used": [
+    "prospectuses/university-of-zululand.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-zululand.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography/History) 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "History) 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography/History) 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "History) 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics/Math Literacy 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Math Literacy 4"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Studies 3 / Tourism or Geog 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Tourism",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Tourism Management 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu 4 / IsiZulu HL 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu 4 / IsiZulu HL 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Geography & History) 3 / Geography & Tourism) 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History) 3 / History & IsiZulu) 3"
+          },
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu) 3"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Tourism) 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics/Math Literacy 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Math Literacy 4"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Studies 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics/Math Literacy 4"
+          },
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu 4 / IsiZulu HL 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Math Literacy 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 4"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Studies 3 / Tourism or Geog 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Tourism",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Tourism Management 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu 4 / IsiZulu HL 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.448,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu 4 / IsiZulu HL 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.454,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 8,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 2
+  },
+  "confidence_mean": 0.77
+}

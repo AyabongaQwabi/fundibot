@@ -1,0 +1,5414 @@
+{
+  "institution_id": "367",
+  "institution_name": "University of Pretoria",
+  "sources_used": [
+    "prospectuses/university-of-pretoria.pdf",
+    "university-of-pretoria.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-pretoria.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.514,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.57"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.168,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.355,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.39"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Design",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Design division by 30"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.302,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.194,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.7"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.183,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.7"
+    },
+    {
+      "field": "duration",
+      "value": "5 years",
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Design",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Design division by 30"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.136,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.343,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.38"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.159,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.498,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:22.3"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.469,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:22.3"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.237,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.549,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.61"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.386,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:18.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.517,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.57"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.361,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.1"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.308,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:14.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics and a 5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.33,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics and a 5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.425,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:20.2"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.244,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "quality assurance officers, consumer insight specialists and entrepreneurs.",
+        "Programmes",
+        "Application requ"
+      ],
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.9,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical\nLiteracy 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.431,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical\nLiteracy 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.621,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.73"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.348,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.39"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Sciences",
+              "minimum_percentage": 30,
+              "minimum_nsc_level": null,
+              "notes": "Life Sciences 30"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.398,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.44"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.344,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "developers, quality controllers and assurance managers, store managers, image",
+        "consultants, textile technologists, v"
+      ],
+      "confidence": 0.142,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.431,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.499,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:23.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "developers, quality controllers and assurance managers, store managers, image",
+        "consultants, textile technologists, v"
+      ],
+      "confidence": 0.438,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:23.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.482,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.314,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:14.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "quality assurance officers, consumer insight specialists and entrepreneurs.",
+        "Programmes",
+        "Application requ"
+      ],
+      "confidence": 0.276,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:14.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.468,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "duration",
+      "value": "5 years",
+      "confidence": 0.118,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "5 years",
+      "confidence": 0.107,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.438,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.433,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.103,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.458,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.103,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.409,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical\nLiteracy 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.366,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.43"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.491,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.55"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.332,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:15.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.421,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.34,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.409,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical\nLiteracy 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.366,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.43"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical\nLiteracy 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.354,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.347,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.39"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.155,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 30"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 30"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.689,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.81"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.467,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.659,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.73"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Sciences",
+              "minimum_percentage": 30,
+              "minimum_nsc_level": null,
+              "notes": "Life Sciences 30"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.427,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "duration",
+      "value": "5 years",
+      "confidence": 0.123,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "A candidate only qualifies for Award B if the candidate meets the"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 30"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.354,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "A candidate only qualifies for Award B if the candidate meets the"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.426,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.161,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.485,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "duration",
+      "value": "5 years",
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.42,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.117,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.368,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.5"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.389,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:18.5"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.244,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.349,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.331,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.198,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.389,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.158,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 30"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.447,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "duration",
+      "value": "2 years",
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "specific admission regulations",
+        "year Engineering degree",
+        "year Bachelor of Engineering programme [previously called"
+      ],
+      "confidence": 0.094,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.434,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.51"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.139,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.446,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.442,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "planners with the South African Council for Planners.",
+        "SCHOOL OF INFORMATION TECHNOLOGY",
+        "Programmes"
+      ],
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.628,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.74"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.62,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.73"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.226,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.55,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.65"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.411,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.129,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.446,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.386,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.43"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.328,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.39"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.337,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "5 years",
+      "confidence": 0.276,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.54,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.64"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.423,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Prinshof Campus",
+        "Onderstepoort Campus"
+      ],
+      "confidence": 0.133,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.129,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.449,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.329,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.24,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.331,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.39"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.332,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.301,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:14.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "developers, quality controllers and assurance managers, store managers, image",
+        "consultants, textile technologists, v"
+      ],
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.099,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.418,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.175,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.297,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.35"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.346,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.38"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.261,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.102,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programme",
+        ": Bachelor of Commerce in Investment"
+      ],
+      "confidence": 0.095,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.525,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.58"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.43,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Bachelor of Science in Zoology."
+      ],
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.43,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Bachelor of Science in Zoology."
+      ],
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.434,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.227,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.388,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.43"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.34,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "developing human resource strategies and policies, human resource planning,",
+        "relations and personnel administration.",
+        "University of"
+      ],
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.1"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.413,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.228,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.54,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.60"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.327,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:15.5"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.44,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "developing human resource strategies and policies, human resource planning,",
+        "relations and personnel administration.",
+        "University of"
+      ],
+      "confidence": 0.152,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.409,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.404,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.373,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.417,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.366,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.41"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.261,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.4"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.371,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.41"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.389,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.43"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.376,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.8"
+    },
+    {
+      "field": "min_aps",
+      "value": 32,
+      "confidence": 0.139,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.131,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.363,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.363,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.2"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.242,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.175,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.278,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.439,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:20.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.428,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:20.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.598,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:28.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.458,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:21.7"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.419,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:19.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.283,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "duration",
+      "value": "2 years",
+      "confidence": 0.184,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.379,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.302,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.35"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.138,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.309,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.156,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.196,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.115,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "specific admission regulations",
+        "year Engineering degree",
+        "year Bachelor of Engineering programme [previously called"
+      ],
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.737,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.87"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.123,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.108,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.41,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.311,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.155,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.136,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.425,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.371,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.44"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.213,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.187,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.181,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.455,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.324,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.185,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.459,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.359,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.313,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.28,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "engineers focus on asset management, trading bonds and derivatives, designing",
+        "financial products and managing credit and portfolio risk."
+      ],
+      "confidence": 0.246,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.341,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Bachelor of Science in Zoology."
+      ],
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.2"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.225,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.195,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.381,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:18.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.335,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:18.1"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.253,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.0"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.207,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.181,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.335,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.39"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.179,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.36,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.179,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.459,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.285,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "management or subcontracting field. With the honours programme, graduate"
+      ],
+      "confidence": 0.25,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.5"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.159,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Bachelor of Science in Food Science and",
+        "[4 years]",
+        "choice programmes: Bachelor of Science in Food Science,"
+      ],
+      "confidence": 0.138,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.379,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.133,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.117,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.302,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.35"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.144,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.412,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.44,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.449,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.316,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.138,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.418,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.113,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.412,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.158,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.495,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.58"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.316,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.388,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:18.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Bachelor of Science in Food Science and",
+        "[4 years]",
+        "choice programmes: Bachelor of Science in Food Science,"
+      ],
+      "confidence": 0.341,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:18.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.34,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.391,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:18.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Bachelor of Science in Food Science and",
+        "[4 years]",
+        "choice programmes: Bachelor of Science in Food Science,"
+      ],
+      "confidence": 0.343,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:18.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.311,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.273,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "standards.",
+        "Bachelor of Science",
+        "in Physics"
+      ],
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.308,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.267,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.496,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:23.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.435,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:23.5"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.29,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.255,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.459,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.242,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.212,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.482,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.57"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.425,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.409,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.418,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.195,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "engineers focus on asset management, trading bonds and derivatives, designing",
+        "financial products and managing credit and portfolio risk."
+      ],
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.454,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.169,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.461,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.129,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.113,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.404,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.133,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.117,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.454,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.425,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.202,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "standards.",
+        "Bachelor of Science",
+        "in Physics"
+      ],
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.45,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:21.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.395,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:21.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.401,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.181,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.159,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.378,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "government sectors.",
+        "choice programmes",
+        ": Bachelor of Science in Construction"
+      ],
+      "confidence": 0.307,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.361,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.185,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "laboratories such as the Nuclear Energy Corporation of South Africa, the South",
+        "biophysicists, climatologists, geophysici"
+      ],
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.459,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.175,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.449,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "government sectors.",
+        "choice programmes",
+        ": Bachelor of Science in Construction"
+      ],
+      "confidence": 0.137,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.302,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.35"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.249,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "government sectors.",
+        "choice programmes",
+        ": Bachelor of Science in Construction"
+      ],
+      "confidence": 0.218,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.34,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.224,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programme",
+        ": Bachelor of Commerce in Investment"
+      ],
+      "confidence": 0.196,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.701,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:33.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Bachelor of Science in Zoology."
+      ],
+      "confidence": 0.231,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.459,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.313,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.337,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.21,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.185,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.102,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.257,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.595,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.66"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.358,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "developing human resource strategies and policies, human resource planning,",
+        "relations and personnel administration.",
+        "University of"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.196,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.34,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "management or subcontracting field. With the honours programme, graduate"
+      ],
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.1"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.415,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.336,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programme",
+        ": Bachelor of Commerce in Investment"
+      ],
+      "confidence": 0.295,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.0"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.195,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "standards.",
+        "Bachelor of Science",
+        "in Physics"
+      ],
+      "confidence": 0.172,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.324,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.38"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.165,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programme",
+        ": Bachelor of Commerce in Investment"
+      ],
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.273,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Any of the programmes listed in the"
+      ],
+      "confidence": 0.24,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.165,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.9,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.254,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.0"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.317,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:15.1"
+    },
+    {
+      "field": "min_aps",
+      "value": 38,
+      "confidence": 0.177,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.254,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.0"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.419,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:19.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Any of the programmes listed in the"
+      ],
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.601,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.67"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.397,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:18.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.442,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.445,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.387,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.43"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "specific admission regulations"
+      ],
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.323,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:15.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.255,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.359,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.191,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 30"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.3,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.35"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.287,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.456,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:21.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.441,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:20.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.611,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:29.0"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.476,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:22.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.436,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:20.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Sciences",
+              "minimum_percentage": 30,
+              "minimum_nsc_level": null,
+              "notes": "Life Sciences 30"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.407,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.414,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.106,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.517,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.61"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "specific admission regulations",
+        "year Engineering degree",
+        "year Bachelor of Engineering programme [previously called"
+      ],
+      "confidence": 0.219,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.35,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.41"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.335,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.37"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "specific admission regulations",
+        "year Engineering degree",
+        "year Bachelor of Engineering programme [previously called"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Physical\nSciences) 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.446,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.464,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.121,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.629,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.70"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.374,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.7"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.365,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:17.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 38,
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.482,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.57"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.4,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.44"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.152,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.864,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.96"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.244,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.456,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.51"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programme",
+        ": Bachelor of Commerce in Investment"
+      ],
+      "confidence": 0.117,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.458,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.51"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.347,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.5"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.463,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.51"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.448,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:21.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.577,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.64"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.194,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 28"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.455,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.324,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.185,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.459,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.359,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.425,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.169,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.326,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.38"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "laboratories such as the Nuclear Energy Corporation of South Africa, the South",
+        "biophysicists, climatologists, geophysici"
+      ],
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.406,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.175,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "GISc Professional Practitioners",
+        "choice programmes: Bachelor of Science in Environmental",
+        "ups,"
+      ],
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 58,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 58%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.361,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.185,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "laboratories such as the Nuclear Energy Corporation of South Africa, the South",
+        "biophysicists, climatologists, geophysici"
+      ],
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.9,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.34,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "management or subcontracting field. With the honours programme, graduate"
+      ],
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.1"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.415,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.336,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programme",
+        ": Bachelor of Commerce in Investment"
+      ],
+      "confidence": 0.295,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:16.0"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.195,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "standards.",
+        "Bachelor of Science",
+        "in Physics"
+      ],
+      "confidence": 0.172,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.324,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.38"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.165,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programme",
+        ": Bachelor of Commerce in Investment"
+      ],
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.273,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Any of the programmes listed in the"
+      ],
+      "confidence": 0.24,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.165,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.658,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "matchingMethod": "adm-sim:0.73"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.587,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:27.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "choice programmes: Any of the programmes listed in the"
+      ],
+      "confidence": 0.198,
+      "source": "prospectus",
+      "sourceFile": "university-of-pretoria.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 25,
+    "mid 0.5-0.8": 23,
+    "low<0.5": 443
+  },
+  "confidence_mean": 0.312
+}

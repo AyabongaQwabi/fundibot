@@ -1,0 +1,211 @@
+{
+  "institution_id": "316",
+  "institution_name": "Northern Cape Urban TVET College",
+  "programme_count": 16,
+  "programmes_enriched": 16,
+  "synthetic_injected": [
+    "National Vocational Certificate - Level 1",
+    "National Vocational Certificate - Level 2",
+    "National Vocational Certificate - Level 3",
+    "National Vocational Certificate - Level 4",
+    "NC(V)",
+    "Nated (Report 191)",
+    "National Certificate: N2",
+    "National Certificate: N3",
+    "National Certificate: N4",
+    "National Certificate: N5",
+    "National Certificate: N6"
+  ],
+  "pdf_discovered": [
+    {
+      "name": "Pre-Matric BusinessStudies (NCV)",
+      "source": "Courses – Northern cape rural tvet TVET College prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Pre-Matric Engineering(NCV)",
+      "source": "Courses – Northern cape rural tvet TVET College prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Post-Matric BusinessStudies(Nated)",
+      "source": "Courses – Northern cape rural tvet TVET College prospectus.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Post-Matric Engineering(Nated)",
+      "source": "Courses – Northern cape rural tvet TVET College prospectus.pdf",
+      "qual_type": "Nated (Report 191)"
+    }
+  ],
+  "completeness_before": 0.067,
+  "completeness_after": 0.084,
+  "improvement": 0.017,
+  "overall_quality": {
+    "mean": 0.084,
+    "min": 0.067,
+    "max": 0.133,
+    "count": 16
+  },
+  "fields_completed": {
+    "duration": 4
+  },
+  "fields_still_missing": {
+    "nqf_level": 16,
+    "duration": 12,
+    "credits": 16,
+    "min_aps": 16,
+    "faculty_name": 16,
+    "career_outcomes": 16,
+    "study_mode": 16,
+    "department": 16,
+    "programme_code": 16,
+    "saqa_code": 16,
+    "admissionRequirements": 16,
+    "campus": 16,
+    "modules": 16,
+    "qualification_code": 16
+  },
+  "pdf_source_audit": {
+    "total_mapped": 2,
+    "useful_files": {
+      "Courses – Northern cape rural tvet TVET College prospectus.pdf": [
+        "duration"
+      ]
+    },
+    "unused_files": [
+      "northern-cape-urban-tvet-college.pdf"
+    ],
+    "verdict": "partial"
+  },
+  "per_programme": [
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 1",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NC(V)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Nated (Report 191)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N5",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N6",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Pre-Matric BusinessStudies (NCV)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Courses – Northern cape rural tvet TVET College prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Pre-Matric Engineering(NCV)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Courses – Northern cape rural tvet TVET College prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Post-Matric BusinessStudies(Nated)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Courses – Northern cape rural tvet TVET College prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Post-Matric Engineering(Nated)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "Courses – Northern cape rural tvet TVET College prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    }
+  ]
+}

@@ -1,0 +1,1998 @@
+{
+  "institution_id": "378",
+  "institution_name": "Walter Sisulu University of Technology and Science",
+  "programme_count": 244,
+  "programmes_enriched": 244,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.267,
+  "completeness_after": 0.331,
+  "improvement": 0.064,
+  "overall_quality": {
+    "mean": 0.331,
+    "min": 0.067,
+    "max": 0.667,
+    "count": 244
+  },
+  "fields_completed": {
+    "admissionRequirements": 223,
+    "qualification_type": 13
+  },
+  "fields_still_missing": {
+    "nqf_level": 154,
+    "credits": 244,
+    "career_outcomes": 244,
+    "study_mode": 154,
+    "department": 244,
+    "modules": 244,
+    "qualification_code": 244,
+    "saqa_code": 153,
+    "duration": 152,
+    "faculty_name": 152,
+    "programme_code": 152,
+    "campus": 152,
+    "admissionRequirements": 21,
+    "qualification_type": 1,
+    "min_aps": 137
+  },
+  "pdf_source_audit": {
+    "total_mapped": 0,
+    "useful_files": {},
+    "unused_files": [],
+    "verdict": "unmapped"
+  },
+  "per_programme": [
+    {
+      "name": "Bachelor of Accounting Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.467,
+      "completeness_after": 0.533
+    },
+    {
+      "name": "Diploma in Civil Engineering",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Accounting Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Civil Engineering",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Laws (LLB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Education (Foundation Phase)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Information Technology (App Dev)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Hospitality Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Computer Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Journalism",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Internal Auditing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Diploma in Accountancy",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Financial Information Systems",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Internal Auditing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Internal Auditing (Extended Curriculum Programme)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Accounting",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Accounting Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Commerce",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Commerce in Business Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Commerce in Economics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase & FET Teaching (Creative Arts History)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase & FET Teaching (Creative Arts English)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase & FET Teaching (Consumer & Management Science)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase & FET Teaching (Economic & Management Science)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase & FET Teaching (Humanities)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase & FET Teaching (Languages)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase & FET Teaching (Maths, Science & Technology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase & FET Teaching (Technical and Vocational Education)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Building Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Building Technology (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Civil Engineering (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Electrical Engineering",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Electrical Engineering (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Mechanical Engineering",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Mechanical Engineering (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in ICT in Applications Development",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in ICT in Applications Development (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in ICT in Business Analysis",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in ICT in Business Analysis (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in ICT in Communication Networks",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in ICT in Communication Networks (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in ICT in Support Services",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in ICT in Support Services (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Fashion",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Fine Art",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Arts",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Arts (English)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Social Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Laws",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Psychology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Higher Certificate in Versatile Broadcasting",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "Diploma in Administrative Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Hospitality Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Human Resources Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Human Resources Management (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Journalism",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Local Government Finance",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Local Government Finance (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Management (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Marketing Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Policing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Office Management & Technology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Office Management & Technology (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Public Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Public Relations Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Public Relations Management (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Small Business Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Sport Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Tourism Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Administration",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Medical Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Medicine in Clinical Practice",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBBCh)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Analytical Chemistry",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Analytical Chemistry (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Consumer Science in Food and Nutrition",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Consumer Science in Food and Nutrition (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Diploma in Pest Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Applied Mathematics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Applied Mathematics (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Applied Statistical Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Applied Statistical Sciences (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Biological Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Biological Sciences (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Chemistry",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "Bachelor of Science in Chemistry (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "Bachelor of Science in Computer Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Computer Science (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Environmental Studies",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Environmental Studies (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Mathematics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "Bachelor of Science in Mathematics (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "Bachelor of Science in Pest Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Pest Management (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.6
+    },
+    {
+      "name": "Bachelor of Science in Physics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Bachelor of Science in Physics (ECP)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.6,
+      "completeness_after": 0.667
+    },
+    {
+      "name": "Advanced Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Advanced Diploma in chemistry, which is a gateway to postgraduate qualifications such as a Postgraduate Diploma in Analy",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Advanced Diploma in Fine Art, BA, LLB, BSocSci, Bachelor of Psychology, an",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BA (ENGLISH) W66029",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA 7 360 3 Mthatha W66029 80197 BA (English) 7 360 3 Mthatha W66007 115218 BSocSci (An",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BA have various graduate opportunities in the entertainment industry, education, and media. Those who study law can, am",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BA W66004",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA, LLB, BSocSci, Bachelor of Psychology, and Bachelor of Social Work. Graduates in Fas",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Accounting 7 360 3 Mthatha W63009 114813 Bachelor of Accounting Science 7 480 4 Mthatha W63010 80806 BCom",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Accounting Science is an accredited program by the South African Institute of Chartered Accountants (SAICA), catering to",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Accounting Sciences W63009 27 • 5 (60-69%) for English as a Home Language or First Additional Language • 4 (50-59%) for M",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Accounting W63008",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Administration 7 360 3 Butterworth",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Administration W61029 25 • 4 (50-59%) for English as a Home Language or First Additional Language; • 4 (50-59%) for any o",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics 8 480 4 Mthatha W65006 80128 Bachelor of Medicine and Bachelor of Su",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics W65005",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics, Bachelor of Medical Sciences, Bachelor of Medicine in Clinical Prac",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Medical Sciences 7 360 3 Mthatha W65002 97150 Bachelor of Medicine in Clinical Practice 7 360 3 Mthatha W65004 118180 Bac",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Medical Sciences W65001",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Medicine in Clinical Practice W65002",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Psychology W66022",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Social Sciences W66005 & W66007/09/11/13/15/17/19 W66006 & W66008/10/12/14/16/18/20",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Social Work 8 516 4 Mthatha",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Bachelor of Social Work W66023",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BCom in Business Management 7 360 3 Mthatha W63012 112323 BCom in Economics 7 360 3 Mthatha",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BCom in Business Management W63011",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BCom in Economics W63012",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BCom W63010 25 • 4 (50-59%) for English as a Home Language or First Additional Language • 3 (40-49%) for Mathematics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Foundation Phase Teaching 7 480 4 Mthatha/Komani W62007 117038 BEd in Senior Phase & FET T",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Foundation Phase Teaching W62006",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Foundation Phase Teaching which has life orientation as a teaching subject and therefore Life Orientation is",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Consumer & Management Science) W62008",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Creative Arts English) 7 480 4 Mthatha W62008 117038 BEd in S",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Creative Arts English) W62019",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Creative Arts History) W62007",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Economic & Management Science) 7 480 4 Mthatha/Komani W62010 117038 Bachelor of",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Economic & Management Science) W62009",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Humanities) W62010",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Languages) 7 480 4 Mthatha/Komani W62012 117038 BEd in Senior",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Languages) W62011",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Maths, 24 • 4 (50-59%) for English as a Home Language or as a First Additional",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Technical and Vocational Education) 7 480 4 Mthatha",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase & FET Teaching (Technical and Vocational) W62018",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BEd in Senior Phase and Further Education and Training Teaching (SP & FET) is to provide a well-rounded education t",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BNurs W65004",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc and diploma programmes in both basic and applied sciences. The basic science programmes encompass a wide array of",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc in Applied Mathematics 7 480 3 Mthatha W64008 101254 BSc in Applied Mathematics (ECP) 7 360 4 Mth",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Applied Mathematics W64007 W64008",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Applied Statistical Science W64009 W64010",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Applied Statistical Sciences 7 360 3 Mthatha W64010 101255 BSc in Applied Statistical Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Biological Sciences 7 360 3 Mthatha W64012 112304 BSc in Biological Sciences (ECP) 7 360 4 Mth",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Biological Sciences W64011 W64012 25 23",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Chemistry 7 360 3 Mthatha W64014 116397 BSc in Chemistry (ECP) 7 360 4 Mthatha W64015 112446 B",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Chemistry W64013 W64014 25 23",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Computer Science (ECP) 7 360 4 Mthatha W64017 116190 BSc in Environmental Studies 7 360 3 Mtha",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Computer Science W64015 W64016 25 23",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Environmental Studies (ECP) 7 360 4 Mthatha W64019 101253 BSc in Mathematics 7 360 3 Mthatha W",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Environmental Studies W64017 W64018 25 23",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Mathematics (ECP) 7 360 4 Mthatha W64021 112432 BSc in Pest Management 7 360 3 Mthatha W64022",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Mathematics W64019 W64020 25 23",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Pest Management (ECP) 7 360 4 Mthatha W64023 112445 BSc in Physics 7 360 3 Mthatha W64024 1124",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Pest Management W64021 W64022 25 23",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Physics (ECP) 7 360 4 Mthatha",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Physics focuses on understanding the fundamental principles governing the natural world. Students are equipped",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSc in Physics W64023 W64024 25 23",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci (Anthropology) (ECP) 7 360 4 Mthatha W66009 115218 BSocSci (Criminology) 7 360 3 Mthath",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci (Criminology) (ECP) 7 360 4 Mthatha W66011 115218 BSocSci (Philosophy) 7 360 3 Mthatha",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci (Philosophy) (ECP) 7 360 4 Mthatha W66013 115218 BSocSci (Political Studies) 7 360 3 Mt",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci (Political Studies) (ECP) 7 360 4 Mthatha W66015 115218 BSocSci (Population Studies) 7",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci (Population Studies) (ECP) 7 360 4 Mthatha W66017 115218 BSocSci (Psychology) 7 360 3 M",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci (Psychology) (ECP) 7 360 4 Mthatha W66019 115218 BSocSci (Sociology) 7 360 3 Mthatha W6",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci (Sociology) (ECP) 7 360 4 Mthatha W66021 117039 LLB 8 512 4 Mthatha W66022 80194 Bachelor of Psychology 8 512 4 Mthatha W66023 111505 Bachelor of Social Work 8 516 4 Mthatha",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BSocSci find work with multiple government departments which include Arts and Culture, Correctional Services, Educ",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Accountancy 6 360 3 Mthatha W63002 101210 Diploma in Financial Information Systems 6 360 3 Mthatha W63004 101212 Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Accountancy W63001",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Administrative Management 6 360 3 Butterworth W61003 97042 Diploma in Hospitality Management 6 360 3 Butterworth W61004",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Administrative Management W61002 21 • 4 (50-59%) for English as a Home Language or First Additional Language. • 2 (30-39",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Analytical Chemistry 6 360 3 Buffalo City W64002 97039 Diploma in Analytical Chemistry (ECP) 6 360 4 Buffalo City W64004",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Analytical Chemistry W64001 & W64002",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Building Technology 6 360 3 Buffalo City / Butterworth W60002 101196 Diploma in Building Technology (ECP) 6 360 4 Buffal",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "diploma in Building technology Graduates from this faculty typically find employment in industry (consulting firms, construction co",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Building Technology is a broad-based, vocationally oriented qualification intended to prepare learners for supervisory a",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Building Technology is to train technicians who can execute technical tasks and using and applying their knowledge and j",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Building Technology W60001 & W60002",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "diploma in chemistry, which is a gateway to postgraduate qualifications such as a Postgraduate Diploma in Analytical Chemistry, a M",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Civil Engineering 6 360 3 Buffalo City / Butterworth W60004 101195 Diploma in Civil Engineering (ECP) 6 360 4 Buffalo Ci",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Civil Engineering W60003 & W60004",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Consumer Science in Food and Nutrition 6 360 3 Buffalo City W64039 96787 Diploma in Consumer Science in Food and Nutriti",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Consumer Sciences and Food Nutrition W64004 & W64039",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Electrical Engineering 6 360 3 Buffalo City W60006 101197 Diploma in Electrical Engineering (ECP) 6 360 4 Buffalo City W",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Electrical Engineering W60005 & W60006 24 22 ECP",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Fashion 6 360 3 Buffalo City W66002 97041 Diploma in Fine Art 6 360 3 Buffalo City W66004 80197 BA 7 360 3",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Fashion W66001",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Fashion, Diploma in Fine Art, Advanced Diploma in Fine Art, BA, LLB, Bachelor of Social Scien",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Financial Information Systems W63002",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Fine Art W66002 19 • 3 (40-49) for English as a Home Language or as a First Additional Language • In exceptional cases",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Hospitality Management W61003 21 • 4 (50-59%) for English as a Home Language or First Additional Language. • 3 (40-49%)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Human Resources Management 6 360 3 Butterworth /Komani W61005 97043 Diploma in Human Resources Management (ECP) 6 360 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Human Resources Management W61004 & W61005 21 20 Main stream • 3 (40-49%) for English as a Home Language or First Additi",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Information and Communications Technology in Applications Development 6 360 3 Buffalo City W60010 101175 Diploma in Info",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Information and Communications Technology in Applications Development W60009 & W60010",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Information and Communications Technology in Business Analysis 6 360 3 Buffalo City W60012 101194 Diploma in Information",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Information and Communications Technology in Business Analysis W60011 & W60012",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Information and Communications Technology in Communication Networks 6 360 3 Buffalo City W60014 101193 Diploma in Inform",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Information and Communications Technology in Communication Networks W60013 & W60014",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Information and Communications Technology in Support Services 6 360 3 Buffalo City W60016 101176 Diploma in Information",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Information and Communications Technology in Support Services W60015 & W60016",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Internal Auditing (ECP) 6 360 4 Mthatha W63008 78283 Bachelor of Accounting 7 360 3 Mthatha W63009 114813 Bachelor of Ac",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Internal Auditing W63004 & W63005",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Journalism 6 360 3 Buffalo City W61007 97045 Diploma in Local Government Finance 6 360 3 Butterworth /Komani W61008 9704",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Journalism W61006",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Local Government Finance (ECP) 6 360 4 Butterworth /Komani W61009 97046 Diploma in Management 6 360 3 Butterworth W61010",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Local Government Finance W61007 & W61008",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Management (ECP) 6 360 4 Butterworth W61011 97048 Diploma in Marketing Management 6 360 3 Butterworth W61012 97050 Diplo",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Management W61009 & W61010 21 20",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Marketing Management W61011 21 • 3 (40-49%) for English as a Home Language or First Additional Language; • 3 (40-49%) fo",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Mechanical Engineering 6 360 3 Buffalo City W60008 101198 Diploma in Mechanical Engineering (ECP) 6 360 4 Buffalo City W",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Mechanical Engineering W60007 & W60008",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Office Management & Technology 6 360 3 Butterworth W61014 97049 Diploma in Office Management & Technology (ECP) 6 360 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Office Management and Technology W61013 & W61014",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Pest Management 6 360 3 Mthatha W64007 101254 BSc in Applied Mathematics 7 480 3 Mthatha W64008 101254 B",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Pest Management W64005",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Policing W61012 21 • 3 (40-49%) for English as a Home Language or First Additional Language; • 3 (40-49%) for any other",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Public Management 6 360 3 Butterworth /Komani W61016 101179 Diploma in Public Relations Management 6 360 3 Butterworth W",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Public Management W61015 21 • 3 (40-49%) for English as a Home Language or First Additional Language; • 3 (40-49%) for a",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Public Relations Management (ECP) 6 360 4 Butterworth W61018 117828 Diploma in Small Business Management 6 360 3 Butterw",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Public Relations Management W61016 & W61017",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Small Business Management W61018 21 • 3 (40-49%) for English as a Home Language or First Additional Language; • 3 (40-49",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Sport Management 6 360 3 Butterworth W61020 97053 Diploma in Tourism Management 6 360 3 Butterworth W61029 80826 Bachelo",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Sport Management W61019 21 • 3 (40-49%) for English as a Home Language or First Additional Language; • 3 (40-49%) for an",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Diploma in Tourism Management W61020 21 • 4 (50-59%) for English as a Home Language or First Additional Language; • 3 (40-49%) for",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours level where there is specialisation and knowledge is deepened.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Honours level where there is specialisation and knowledge is deepened. Bachelor of Social Sciences W66005 &",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "LLB W66021 26 • 5 (60-69%) for English as a Home Language or First Additional Language • 3 (40-49%) for Mathematics or 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MBChB W65005",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "MBChB, and BNurs. Graduate opportunities in the health sector exist both in publ",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "MSc, and doctoral qualifications. Graduates from the programme can occupy technical positions i",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "PHD’s. The faculty provides a diverse range of educational opportunities through its Bachelor of Scienc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "institution_id": "327",
+  "institution_name": "Coastal TVET College",
+  "programme_count": 6,
+  "programmes_enriched": 6,
+  "synthetic_injected": [
+    "National Vocational Certificate - Level 1",
+    "National Vocational Certificate - Level 2",
+    "National Vocational Certificate - Level 3",
+    "National Vocational Certificate - Level 4",
+    "NC(V)"
+  ],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.067,
+  "improvement": 0.0,
+  "overall_quality": {
+    "mean": 0.067,
+    "min": 0.067,
+    "max": 0.067,
+    "count": 6
+  },
+  "fields_completed": {},
+  "fields_still_missing": {
+    "nqf_level": 6,
+    "duration": 6,
+    "credits": 6,
+    "min_aps": 6,
+    "faculty_name": 6,
+    "career_outcomes": 6,
+    "study_mode": 6,
+    "department": 6,
+    "programme_code": 6,
+    "saqa_code": 6,
+    "admissionRequirements": 6,
+    "campus": 6,
+    "modules": 6,
+    "qualification_code": 6
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {},
+    "unused_files": [
+      "coastal-tvet-college.pdf"
+    ],
+    "verdict": "none"
+  },
+  "per_programme": [
+    {
+      "name": "Report 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 1",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Vocational Certificate - Level 4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NC(V)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

@@ -1,0 +1,4083 @@
+{
+  "institution_id": "365",
+  "institution_name": "University of KwaZulu-Natal",
+  "sources_used": [
+    "prospectuses/university-of-kwazulu-natal.pdf",
+    "university-of-kwazulu-natal.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-kwazulu-natal.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.36,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "SGE/KN",
+        "year degree designed to"
+      ],
+      "confidence": 0.404,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:21.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.261,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.5"
+    },
+    {
+      "field": "min_aps",
+      "value": 26,
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.144,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.44,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:19.7"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.44,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:19.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.327,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:14.6"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.242,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 26,
+      "confidence": 0.468,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.207,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.169,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.574,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.68"
+    },
+    {
+      "field": "min_aps",
+      "value": 26,
+      "confidence": 0.461,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.51"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.442,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.276,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.251,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Howard College",
+        "Pietermaritzburg"
+      ],
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "min_aps",
+      "value": 26,
+      "confidence": 0.503,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.56"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.354,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.3,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.296,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "SGE/KN",
+        "year degree designed to"
+      ],
+      "confidence": 0.187,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "min_aps",
+      "value": 26,
+      "confidence": 0.586,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.65"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.457,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.274,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.251,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.567,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.67"
+    },
+    {
+      "field": "min_aps",
+      "value": 26,
+      "confidence": 0.442,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.261,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.207,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.574,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.68"
+    },
+    {
+      "field": "min_aps",
+      "value": 26,
+      "confidence": 0.446,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.24,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.204,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.798,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.94"
+    },
+    {
+      "field": "min_aps",
+      "value": 26,
+      "confidence": 0.499,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.55"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.21,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.171,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.131,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.236,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:12.3"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.245,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.23,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.131,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.12,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.425,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation), with Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Level 4 / Mathematics and Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Orientation",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Life Orientation), with Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.392,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.136,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.123,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Maths 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nOrientation Level 4 / Life\nOrientation at Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.45,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:21.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.412,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:21.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.617,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.73"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.404,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.376,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics (NSC at least Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.331,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:17.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.397,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.409,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Chemistry",
+        "Introduction to Engineering",
+        "Drawing and Design"
+      ],
+      "confidence": 0.133,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Westville Campus",
+        "Pietermaritzburg Campus"
+      ],
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Westville Campus",
+        "Pietermaritzburg Campus"
+      ],
+      "confidence": 0.334,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:16.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Chemistry",
+        "Introduction to Engineering",
+        "Drawing and Design"
+      ],
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.37,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.41"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.325,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.38"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.152,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Pietermaritzburg Campus"
+      ],
+      "confidence": 0.158,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.339,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.348,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.39"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation), with Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Level 4 / Mathematics and Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Orientation",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Life Orientation), with Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.302,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.316,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.35"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths and Phys Sci 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.535,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.63"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths and Phys Sci 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.566,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.63"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation), with Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Level 4 / Mathematics and Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Orientation",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Life Orientation), with Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.532,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.59"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.134,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.725,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.81"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Maths 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.667,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.78"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.159,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Maths 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.635,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.71"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.248,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Maths 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.595,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.66"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.266,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.181,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Maths 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.6,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.71"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.24,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.22,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences all at Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.471,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences all at Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.682,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.80"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.42,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.512,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.60"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "programme. Doctors’ professional",
+        "lives involve caring for people",
+        "and continuously learning more"
+      ],
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Chemistry",
+        "Introduction to Engineering",
+        "Drawing and Design"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Nursing and Public",
+      "confidence": 0.513,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "json-sim:0.58"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation), with Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Level 4 / Mathematics and Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Orientation",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Life Orientation), with Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.446,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.445,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics at level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.73,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.81"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "holistic practitioner with a strong",
+        "human rights ethos, who is able",
+        "to synthesise and apply theory to"
+      ],
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences all at Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "holistic practitioner with a strong",
+        "human rights ethos, who is able",
+        "to synthesise and apply theory to"
+      ],
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics at level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.376,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics at level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.679,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.80"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.326,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.415,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.46"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Nursing and Public",
+      "confidence": 0.702,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "json-sim:0.80"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.359,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.38,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.106,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics at level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.304,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.32,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.138,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences all at Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.345,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.38"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.542,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.60"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Chemistry",
+        "Introduction to Engineering",
+        "Drawing and Design"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.479,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.419,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.375,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.341,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Chemistry",
+        "Introduction to Engineering",
+        "Drawing and Design"
+      ],
+      "confidence": 0.105,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.098,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.12,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 36,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics HG ’D’ or SG ‘B’ and 36"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics Level 5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.198,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.181,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 36,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics HG ’D’ or SG ‘B’ and 36"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics Level 5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.555,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.65"
+    },
+    {
+      "field": "min_aps",
+      "value": 32,
+      "confidence": 0.587,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.65"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.247,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.226,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.14,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life orientation L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical\nLiteracy or a rating of 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.406,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:18.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.233,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.583,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:26.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy and a Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or Level 5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pietermaritzburg",
+        "Westville",
+        "The cost of a university education"
+      ],
+      "confidence": 0.092,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life orientation L4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.362,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.43"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pietermaritzburg",
+        "Westville",
+        "The cost of a university education"
+      ],
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy and a Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or Level 5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.54,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.64"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pietermaritzburg",
+        "Westville",
+        "The cost of a university education"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation at Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics at Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 33,
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pietermaritzburg",
+        "Westville"
+      ],
+      "confidence": 0.1,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "credits",
+      "value": 160,
+      "confidence": 0.117,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nOrientation at a minimum of Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.401,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pietermaritzburg",
+        "Westville"
+      ],
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "min_aps",
+      "value": 26,
+      "confidence": 0.115,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pietermaritzburg",
+        "Westville"
+      ],
+      "confidence": 0.241,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nOrientation at a minimum of Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.304,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.36"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Chemistry",
+        "Introduction to Engineering",
+        "Drawing and Design"
+      ],
+      "confidence": 0.218,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Westville Campus",
+        "Pietermaritzburg Campus"
+      ],
+      "confidence": 0.228,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics (NSC at least Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.462,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.49,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Chemistry",
+        "Introduction to Engineering",
+        "Drawing and Design"
+      ],
+      "confidence": 0.089,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Westville Campus",
+        "Pietermaritzburg Campus"
+      ],
+      "confidence": 0.096,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics (NSC at least Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics (NSC at least Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.462,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.49,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Chemistry",
+        "Introduction to Engineering",
+        "Drawing and Design"
+      ],
+      "confidence": 0.089,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Westville Campus",
+        "Pietermaritzburg Campus"
+      ],
+      "confidence": 0.096,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nOrientation at a minimum of Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.371,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.44"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pietermaritzburg",
+        "Westville"
+      ],
+      "confidence": 0.088,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.295,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "1a B Sc (Life and Earth Sciences)",
+        "B Sc in Agriculture, B Sc in Dietetics",
+        "B Sc Environmental Science and"
+      ],
+      "confidence": 0.207,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nOrientation at a minimum of Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.358,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pietermaritzburg",
+        "Westville"
+      ],
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pietermaritzburg",
+        "Westville"
+      ],
+      "confidence": 0.129,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nOrientation at a minimum of Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Engineering",
+        "Geomatics",
+        "Engineering Physics"
+      ],
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nOrientation at a minimum of Level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.574,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.68"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.212,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.169,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "√ √ KN-P-BSU"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Nursing and Public",
+      "confidence": 0.499,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "json-sim:0.57"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Nursing and Public",
+      "confidence": 0.557,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "json-sim:0.63"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy and a Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or Level 5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.358,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "A maximum of four percent (4%) of",
+        "Only applicants with complete",
+        "All selections will be done on academic"
+      ],
+      "confidence": 0.139,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "changing world."
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Edgewood Campus"
+      ],
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.305,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.247,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nOrientation Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.218,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Maths 5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 32,
+      "confidence": 0.756,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.84"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.12,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics at Level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.12,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 32,
+      "confidence": 0.369,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.41"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.342,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:17.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "changing world."
+      ],
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Edgewood Campus"
+      ],
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "changing world."
+      ],
+      "confidence": 0.648,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:47.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Edgewood Campus"
+      ],
+      "confidence": 0.702,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:47.3"
+    },
+    {
+      "field": "duration",
+      "value": "12 months",
+      "confidence": 0.171,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.335,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:17.4"
+    },
+    {
+      "field": "min_aps",
+      "value": 32,
+      "confidence": 0.336,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation), with Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Level 4 / Mathematics and Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Orientation",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Life Orientation), with Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.587,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.69"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.483,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.201,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation), with Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Level 4 / Mathematics and Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Orientation",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Life Orientation), with Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.587,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.69"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.483,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.54"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.201,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.725,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.81"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Maths 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.667,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.78"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.159,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.437,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.397,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.47"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.113,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.14,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation), with Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Level 4 / Mathematics and Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Orientation",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Life Orientation), with Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.349,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.41"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.363,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.40"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.27,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:14.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths and Phys Sci 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.405,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.48"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.372,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:19.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation), with Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Level 4 / Mathematics and Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Orientation",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Life Orientation), with Level 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.449,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.45,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Howard College Campus"
+      ],
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.419,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "min_aps",
+      "value": 33,
+      "confidence": 0.443,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "min_aps",
+      "value": 28,
+      "confidence": 0.341,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.38"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Chemistry",
+        "Introduction to Engineering",
+        "Drawing and Design"
+      ],
+      "confidence": 0.136,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.582,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.65"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.543,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.64"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.133,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.471,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.438,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.52"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.161,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.401,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.45"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Maths 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Maths 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Maths 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Maths 4"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.372,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.44"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "changing world."
+      ],
+      "confidence": 0.24,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Edgewood Campus"
+      ],
+      "confidence": 0.26,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.425,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.45,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.50"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "programme. Doctors’ professional",
+        "lives involve caring for people",
+        "and continuously learning more"
+      ],
+      "confidence": 0.121,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.479,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.53"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at level 4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.419,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "matchingMethod": "adm-sim:0.49"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.305,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.247,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "min_aps",
+      "value": 30,
+      "confidence": 0.108,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "changing world."
+      ],
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Edgewood Campus"
+      ],
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "changing world."
+      ],
+      "confidence": 0.648,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:47.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Edgewood Campus"
+      ],
+      "confidence": 0.702,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:47.3"
+    },
+    {
+      "field": "duration",
+      "value": "12 months",
+      "confidence": 0.171,
+      "source": "prospectus",
+      "sourceFile": "university-of-kwazulu-natal.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 31,
+    "mid 0.5-0.8": 39,
+    "low<0.5": 225
+  },
+  "confidence_mean": 0.365
+}

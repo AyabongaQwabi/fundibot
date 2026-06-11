@@ -1,0 +1,548 @@
+{
+  "institution_id": "335",
+  "institution_name": "Flavius Mareka TVET College",
+  "sources_used": [
+    "flavius-mareka-tvet-college.pdf",
+    "prospectuses/flavius-mareka-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/flavius-mareka-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Marketer",
+        "Buyer",
+        "Advertising Assistant"
+      ],
+      "confidence": 0.398,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:21.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Introductory Computer Practice N4 OR",
+        "Computer Practice N4"
+      ],
+      "confidence": 0.293,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:15.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.522,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.61"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Human Resource Clerk",
+        "Entrepreneur in HR related field",
+        "Industrial Relations Officer"
+      ],
+      "confidence": 0.563,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:30.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Introductory Computer Practice N4 OR",
+        "Computer Practice N4"
+      ],
+      "confidence": 0.563,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:30.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.519,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.61"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Human Resource Clerk",
+        "Entrepreneur in HR related field",
+        "Industrial Relations Officer"
+      ],
+      "confidence": 0.293,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:15.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Introductory Computer Practice N4 OR",
+        "Computer Practice N4"
+      ],
+      "confidence": 0.293,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:15.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.706,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.83"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Marketer",
+        "Buyer",
+        "Advertising Assistant"
+      ],
+      "confidence": 0.421,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:22.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Introductory Computer Practice N4 OR",
+        "Computer Practice N4"
+      ],
+      "confidence": 0.293,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:15.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N4"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.486,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.57"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N4"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.093,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "PersonalAssistant",
+        "Office Manager",
+        "Secretary"
+      ],
+      "confidence": 0.089,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "PersonalAssistant",
+        "Office Manager",
+        "Secretary"
+      ],
+      "confidence": 0.089,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N4"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.486,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.57"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N4"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.366,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.43"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Process Operator",
+        "Technician",
+        "Engineer"
+      ],
+      "confidence": 0.107,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.09,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 3,
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Completed application form as prescrib"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 3,
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Completed application form as prescrib"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.519,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "adm-sim:0.61"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Human Resource Clerk",
+        "Entrepreneur in HR related field",
+        "Industrial Relations Officer"
+      ],
+      "confidence": 0.293,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:15.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Introductory Computer Practice N4 OR",
+        "Computer Practice N4"
+      ],
+      "confidence": 0.293,
+      "source": "prospectus",
+      "sourceFile": "flavius-mareka-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:15.8"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 4,
+    "mid 0.5-0.8": 6,
+    "low<0.5": 22
+  },
+  "confidence_mean": 0.367
+}

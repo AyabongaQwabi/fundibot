@@ -1,0 +1,265 @@
+{
+  "institution_id": "307",
+  "institution_name": "Eastcape Midlands TVET College",
+  "sources_used": [
+    "eastcape-midlands-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/eastcape-midlands-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "modules",
+      "value": [
+        "Life Skills & Computer Literacy"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Life Skills & Computer Literacy"
+      ],
+      "confidence": 0.0,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 5,
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 5,
+      "confidence": 0.35,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "NQF level 5 Higher Certificate at Selective",
+        "QCTO NQF level 5 Higher Certificate a TVET college"
+      ],
+      "confidence": 0.29,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Communication",
+        "Introduction to Computer Practice",
+        "Introduction to Information"
+      ],
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 5,
+      "confidence": 0.262,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "NQF level 5 Higher Certificate at Selective",
+        "QCTO NQF level 5 Higher Certificate a TVET college"
+      ],
+      "confidence": 0.217,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 5,
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.112,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 5,
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.258,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 5,
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "NQF level 5 Higher Certificate at Selective",
+        "QCTO NQF level 5 Higher Certificate a TVET college"
+      ],
+      "confidence": 0.118,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.284,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:14.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Communication",
+        "Introduction to Computer Practice",
+        "Introduction to Information"
+      ],
+      "confidence": 0.201,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 5,
+      "confidence": 0.202,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "NQF level 5 Higher Certificate at Selective",
+        "QCTO NQF level 5 Higher Certificate a TVET college"
+      ],
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.289,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:14.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Communication",
+        "Introduction to Computer Practice",
+        "Introduction to Information"
+      ],
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 5,
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "NQF level 5 Higher Certificate at Selective",
+        "QCTO NQF level 5 Higher Certificate a TVET college"
+      ],
+      "confidence": 0.175,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 27
+  },
+  "confidence_mean": 0.182
+}

@@ -1,0 +1,68 @@
+{
+  "institution_id": "375",
+  "institution_name": "Vaal University of Technology",
+  "programme_count": 3,
+  "programmes_enriched": 3,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.067,
+  "completeness_after": 0.067,
+  "improvement": 0.0,
+  "overall_quality": {
+    "mean": 0.067,
+    "min": 0.067,
+    "max": 0.067,
+    "count": 3
+  },
+  "fields_completed": {},
+  "fields_still_missing": {
+    "nqf_level": 3,
+    "duration": 3,
+    "credits": 3,
+    "min_aps": 3,
+    "faculty_name": 3,
+    "career_outcomes": 3,
+    "study_mode": 3,
+    "department": 3,
+    "programme_code": 3,
+    "saqa_code": 3,
+    "admissionRequirements": 3,
+    "campus": 3,
+    "modules": 3,
+    "qualification_code": 3
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {},
+    "unused_files": [
+      "vaal-university-of-technology.pdf"
+    ],
+    "verdict": "none"
+  },
+  "per_programme": [
+    {
+      "name": "Advanced Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BTech",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

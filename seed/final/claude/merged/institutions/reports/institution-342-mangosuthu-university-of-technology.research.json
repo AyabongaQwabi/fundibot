@@ -1,0 +1,547 @@
+{
+  "institution_id": "342",
+  "institution_name": "Mangosuthu University of Technology",
+  "sources_used": [
+    "mangosuthu-university-of-technology.pdf",
+    "prospectuses/mangosuthu-university-of-technology.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/mangosuthu-university-of-technology.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 10,
+      "confidence": 0.191,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.191,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "faculty_name",
+      "value": "MANAGEMENT SCIENCES",
+      "confidence": 0.729,
+      "source": "json",
+      "sourceFile": "prospectuses/mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "json-sim:0.83"
+    },
+    {
+      "field": "nqf_level",
+      "value": 10,
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 10,
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.253,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.177,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.479,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:24.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.187,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.309,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:16.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.215,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.198,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.399,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:20.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.31,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:16.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.332,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:17.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 10,
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:15.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.336,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:17.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.303,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:15.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.325,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:16.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.112,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.177,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.479,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:24.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.187,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.309,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:16.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.215,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.198,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.399,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:20.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.31,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:16.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.332,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:17.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 10,
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:15.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.336,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:17.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.303,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:15.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.325,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:16.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.112,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.215,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 1,
+    "low<0.5": 65
+  },
+  "confidence_mean": 0.236
+}

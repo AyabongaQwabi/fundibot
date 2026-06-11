@@ -1,0 +1,199 @@
+{
+  "institution_id": "344",
+  "institution_name": "Motheo TVET College",
+  "programme_count": 14,
+  "programmes_enriched": 14,
+  "synthetic_injected": [
+    "Nated (Report 191)",
+    "National Certificate: N2",
+    "National Certificate: N3",
+    "National Certificate: N4",
+    "National Certificate: N5",
+    "National Certificate: N6"
+  ],
+  "pdf_discovered": [
+    {
+      "name": "NCV Level 2: A minimum of Grade 9 (Senior Phase) completion is required.",
+      "source": "motheo-tvet-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Report 191 N1–N3 (Engineering): A minimum of Grade 9 with passes in M athematics and Physical",
+      "source": "motheo-tvet-college-prospectus.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "Report 191 N4–N6 (Business): A Grade 12 / National Senior Certificate (NSC) or equivalent.",
+      "source": "motheo-tvet-college-prospectus.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "National Certificate Vocational (NCV) — NQF Levels 2–4",
+      "source": "motheo-tvet-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "NCV programmes run for three years and combine theory with practical training. Available fields include",
+      "source": "motheo-tvet-college-prospectus.pdf",
+      "qual_type": "NCV"
+    },
+    {
+      "name": "Report 191 / NATED Programmes (N1–N6)",
+      "source": "motheo-tvet-college-prospectus.pdf",
+      "qual_type": "Nated (Report 191)"
+    },
+    {
+      "name": "NATED programmes are offered in both Engineering Studies (trimester-based, N1–N6) and Business",
+      "source": "motheo-tvet-college-prospectus.pdf",
+      "qual_type": "Nated (Report 191)"
+    }
+  ],
+  "completeness_before": 0.067,
+  "completeness_after": 0.067,
+  "improvement": 0.0,
+  "overall_quality": {
+    "mean": 0.067,
+    "min": 0.067,
+    "max": 0.067,
+    "count": 14
+  },
+  "fields_completed": {},
+  "fields_still_missing": {
+    "nqf_level": 14,
+    "duration": 14,
+    "credits": 14,
+    "min_aps": 14,
+    "faculty_name": 14,
+    "career_outcomes": 14,
+    "study_mode": 14,
+    "department": 14,
+    "programme_code": 14,
+    "saqa_code": 14,
+    "admissionRequirements": 14,
+    "campus": 14,
+    "modules": 14,
+    "qualification_code": 14
+  },
+  "pdf_source_audit": {
+    "total_mapped": 1,
+    "useful_files": {},
+    "unused_files": [
+      "motheo-tvet-college-prospectus.pdf"
+    ],
+    "verdict": "none"
+  },
+  "per_programme": [
+    {
+      "name": "NCV Level 2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Nated (Report 191)",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N2",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N3",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N4",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N5",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate: N6",
+      "synthetic": true,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NCV Level 2: A minimum of Grade 9 (Senior Phase) completion is required.",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "motheo-tvet-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Report 191 N1–N3 (Engineering): A minimum of Grade 9 with passes in M athematics and Physical",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "motheo-tvet-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Report 191 N4–N6 (Business): A Grade 12 / National Senior Certificate (NSC) or equivalent.",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "motheo-tvet-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Certificate Vocational (NCV) — NQF Levels 2–4",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "motheo-tvet-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NCV programmes run for three years and combine theory with practical training. Available fields include",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "motheo-tvet-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Report 191 / NATED Programmes (N1–N6)",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "motheo-tvet-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NATED programmes are offered in both Engineering Studies (trimester-based, N1–N6) and Business",
+      "synthetic": false,
+      "pdf_discovered": true,
+      "discovery_source": "motheo-tvet-college-prospectus.pdf",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

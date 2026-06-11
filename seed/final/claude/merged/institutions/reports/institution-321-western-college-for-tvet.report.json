@@ -1,0 +1,117 @@
+{
+  "institution_id": "321",
+  "institution_name": "Western College for TVET",
+  "programme_count": 9,
+  "programmes_enriched": 9,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.096,
+  "completeness_after": 0.163,
+  "improvement": 0.067,
+  "overall_quality": {
+    "mean": 0.163,
+    "min": 0.067,
+    "max": 0.2,
+    "count": 9
+  },
+  "fields_completed": {
+    "admissionRequirements": 8,
+    "min_aps": 1
+  },
+  "fields_still_missing": {
+    "nqf_level": 9,
+    "duration": 9,
+    "credits": 9,
+    "min_aps": 4,
+    "faculty_name": 9,
+    "career_outcomes": 9,
+    "study_mode": 9,
+    "department": 9,
+    "programme_code": 9,
+    "saqa_code": 9,
+    "campus": 9,
+    "modules": 9,
+    "qualification_code": 9,
+    "admissionRequirements": 1
+  },
+  "pdf_source_audit": {
+    "total_mapped": 0,
+    "useful_files": {},
+    "unused_files": [],
+    "verdict": "unmapped"
+  },
+  "per_programme": [
+    {
+      "name": "N2 certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "N4 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "N5 Certificate",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC (V) L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) L2",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) L3",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) L4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) Level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NCV Level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

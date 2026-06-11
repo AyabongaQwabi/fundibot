@@ -1,0 +1,28 @@
+{
+  "institution_id": "351",
+  "institution_name": "Port Elizabeth TVET College",
+  "sources_used": [
+    "port-elizabeth-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/port-elizabeth-tvet-college.pdf",
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/Port-Elizabeth-TVET-College-PDF-NCV-INSIDE.pdf",
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/Port-Elizabeth-TVET-College-PDF-Report-191-INSIDE.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "port-elizabeth-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 1
+  },
+  "confidence_mean": 0.111
+}

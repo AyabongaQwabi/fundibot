@@ -1,0 +1,2356 @@
+{
+  "institution_id": "370",
+  "institution_name": "University of the Free State",
+  "programme_count": 288,
+  "programmes_enriched": 288,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.218,
+  "completeness_after": 0.286,
+  "improvement": 0.068,
+  "overall_quality": {
+    "mean": 0.286,
+    "min": 0.067,
+    "max": 0.467,
+    "count": 288
+  },
+  "fields_completed": {
+    "admissionRequirements": 239,
+    "campus": 8,
+    "duration": 2,
+    "min_aps": 46
+  },
+  "fields_still_missing": {
+    "nqf_level": 288,
+    "duration": 260,
+    "credits": 288,
+    "career_outcomes": 288,
+    "study_mode": 288,
+    "department": 288,
+    "saqa_code": 288,
+    "modules": 288,
+    "qualification_code": 288,
+    "campus": 237,
+    "admissionRequirements": 49,
+    "faculty_name": 93,
+    "programme_code": 93,
+    "min_aps": 47
+  },
+  "pdf_source_audit": {
+    "total_mapped": 0,
+    "useful_files": {
+      "prospectuses/university-of-the-free-state.pdf": [
+        "campus",
+        "duration"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
+  },
+  "per_programme": [
+    {
+      "name": "BCom",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom with specialisation in Economics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom with specialisation in Finance",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom with specialisation in Business Analytics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom with specialisation in Marketing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom with specialisation in Business Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom with specialisation in Human Resource Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BCom (Law)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BAdmin",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BAcc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BCom (Accounting)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BCom with specialisation in Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Administration",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Afrikaans Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Studies",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — EMS and Accounting",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (isiZulu HL and History)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — English and History",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "in Radiation Science (BMedSc)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MB ChB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Optometry (BOptom)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "(Physiotherapy)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science in Dietetics* BSc (Dietetics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Sport Coaching (B SportCoach)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Laws (LLB) – four years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Behavioural Genetics Dr Gerda Marx",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Biochemistry and Botany Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Jansen van Rensburg",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Biochemistry and Genetics Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Biochemistry and Microbiology Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Biochemistry and Physiology Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Biochemistry and Statistics Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Botany and Genetics Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Botany and Microbiology Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Botany and Plant Breeding Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Botany and Plant Pathology Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Botany and Zoology Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Genetics and Microbiology Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Genetics and Physiology Dr Gerda Marx)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Microbiology and Statistics Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Plant Health Ecology Dr Angeline Jacoby",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Plant Health Management Dr Angeline Jacoby",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Forensic Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Mathematics and Applied Mathematics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Mathematics and Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Mathematics and Mathematical Statistics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Mathematics and Physics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Actuarial Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Climate Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Econometrics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Mathematical Statistics and Psychometrics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Statistics and Economics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Statistics and Psychology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Chemistry and Biochemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Chemistry and Botany)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Chemistry and Microbiology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Chemistry and Physics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Physics and Agrometeorology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Physics and Astrophysics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Physics and Engineering Subjects)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Agricultural and Biosystems Engineering)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Geography and Environmental Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Geography Specialisation",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Environmental Soil Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Geology and Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Environmental Geology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Geochemistry",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Geology",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Geology and Physics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Agricultural Economics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Computer Science and Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Computer Science and Mathematical Statistics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Computer Science and Mathematics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Computer Science and Physics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Data Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Computer Science and Business Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Computer Information Systems (CompInfoSys)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Sustainable Food Systems",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Agricultural Extension",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Animal Production Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Crop Production",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Mixed Farming Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Irrigation Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Agricultural Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Animal Science Dr Adri O’Neill",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Agrometeorology Prof Elmarie Kotze",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Agronomy Dr Elmarie van der Watt",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Plant Breeding Dr Angeline Jacoby",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Plant Pathology Dr Angeline Jacoby",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Soil Science Prof Elmarie Kotze",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Architecture (BArch)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Construction Economics and Management (full-time))",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Construction Management (Compact Learning)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Quantity Surveying (Compact Learning)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Botany and Life Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Life Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Zoology and Life Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Geography and Environmental Geography",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Geography",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Science (Computer Science and Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "HCert (Music Performance) – Subject to selection",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Dip (Music) – Subject to selection",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BA (Language Practice) – Subject to selection",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BA (Governance and Political Transformation)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BA (Integrated Organisational Communication)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BA (Journalism)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BA (Fine Arts) – Subject to selection",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BA General (see the majors offered below)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BA specialising in Languages",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "Bachelor of Music – Subject to selection",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BA (Music) – Subject to selection",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BSocSci",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Social Work – Subject to selection",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BA General",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Community Development (BCommDev) – Subject to selection",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Divinity* (BDiv)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase — Specialisation in Afrikaans Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase — Specialisation in Sesotho Home Language LC735103",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Intermediate Phase — Mathematics, Natural Sciences, Technology, and Afrikaans Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Intermediate Phase — Mathematics, Natural Sciences and Technology, and English Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Intermediate Phase — Life Skills, Social Sciences, and English Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Mathematics, Natural Sciences and Technology, and Sesotho Home Language BC735792",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Life Skills and Social Sciences, and isiZulu Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Life Skills, Social Sciences, and Sesotho Home Language BC735782",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Mathematics, Natural Sciences and Technology, and isiZulu Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Technology and Engineering Graphics and Design",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Technology and Life Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — isiZulu HL and English FAL",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "Bachelor of Education in Senior and FET Phase — Afrikaans HL and English",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Foundation Phase — Specialisation in Afrikaans Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Foundation Phase — Specialisation in Sesotho Home Language LC735103",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Intermediate Phase — Life Skills, Social Sciences, and English Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Intermediate Phase — Mathematics, Natural Sciences and Technology, and English Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Intermediate Phase — Mathematics, Natural Sciences, Technology, and Afrikaans Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Afrikaans HL and English",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Afrikaans Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — EMS and Accounting",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BEd in Senior and FET Phase — English and History",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Geography",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Geography and Environmental Geography",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Geography and Environmental Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Geography Specialisation",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BEd in Senior and FET Phase — isiZulu HL and English FAL",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Life Skills and Social Sciences, and isiZulu Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Life Skills, Social Sciences, and Sesotho Home Language BC735782",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Mathematics, Natural Sciences and Technology, and isiZulu Home Language",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Mathematics, Natural Sciences and Technology, and Sesotho Home Language BC735792",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Technology and Engineering Graphics and Design",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BEd in Senior and FET Phase — Technology and Life Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.4,
+      "completeness_after": 0.467
+    },
+    {
+      "name": "BNurs",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BSc (Agricultural and Biosystems Engineering)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Biochemistry and Botany Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Biochemistry and Genetics Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Biochemistry and Microbiology Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Biochemistry and Physiology Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Biochemistry and Statistics Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Botany and Genetics Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Botany and Life Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Botany and Microbiology Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Botany and Plant Breeding Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Botany and Plant Pathology Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Botany and Zoology Dr Angeline Jacoby)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Chemistry and Biochemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Chemistry and Botany)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Chemistry and Microbiology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Chemistry and Physics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Computer Science and Business Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Computer Science and Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Computer Science and Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Computer Science and Mathematical Statistics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Computer Science and Mathematics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Computer Science and Physics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Construction Economics and Management (full-time))",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Genetics and Microbiology Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Genetics and Physiology Dr Gerda Marx)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Geology and Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Geology and Physics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (isiZulu HL and History)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.333,
+      "completeness_after": 0.4
+    },
+    {
+      "name": "BSc (Mathematical Statistics and Psychometrics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Mathematics and Applied Mathematics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Mathematics and Chemistry)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Mathematics and Mathematical Statistics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Mathematics and Physics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Microbiology and Statistics Dr Frans O’Neill)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Physics and Agrometeorology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Physics and Astrophysics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Physics and Engineering Subjects)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Statistics and Economics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Statistics and Psychology)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc (Zoology and Life Sciences)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "BSc in Dietetics* BSc (Dietetics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "LLB (LLB) – four years",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.333
+    },
+    {
+      "name": "MBChB (MB ChB)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.267,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BA",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (BA)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (Drama and Theatre Arts)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BA (Fine Arts)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (Language Practice)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (Music)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF ACCOUNTING (BAcc) AND BCom (ACCOUNTING)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF ADMINISTRATION (BAdmin)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Administration QC634040 28 4 (50%) 2 (30%) QC",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Agriculture",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Agriculture). Majors will be selected in the second",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Agriculture. Students will have the opportunity to select",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Architecture",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Architecture (BArch):",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Architecture).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Architecture. The programme that will be available for",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Biokinetics * (BBiok) BC844000",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BACHELOR OF COMMUNITY DEVELOPMENT (BCommDev)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Community Development (BCommDev) – Subject to selection* QC140400 30 5 (60%) QC",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Computer Information Systems is a three-year qualification. The degree code is 43610 and the qualification is",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Computer Information Systems).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Computer Information Systems. The programme that will be",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Divinity is a qualification in Theology that focuses on professional ministry.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Education degree (offered in Foundation, Intermediate, or Senior and",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF EDUCATION IN FOUNDATION PHASE",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF EDUCATION IN INTERMEDIATE PHASE",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BACHELOR OF EDUCATION IN SENIOR AND FET PHASE",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Laws (LLB) – four years BC340000 33 6 (70%) 4 (50%) 6 (70%)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Medical Science with specialisation",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Music – Subject to selection* BC140544 30 4 (50%) BC",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Bachelor of Social Sciences degree (BSocSci) makes provision for majoring in any two of the following subject fields:",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BACHELOR OF SOCIAL SCIENCES: (BSocSci)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Social Work – Subject to selection* BC140250 35 5 (60%) BC",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Sport Coaching (B SportCoach) BC834000 30 4 (50%) Yes",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Sustainable Food Systems BC430223 30 4 (50%) 2 (30%) N/A N/A",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "Bachelor of Sustainable Food Systems is a three-year programme. The degree code is 43710 and the qualification is presented",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BCom), or a BSc degree (Baccalaureus Scientiae/",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BEd",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BENG",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSC (AGRICULTURE)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc (BSc) in Quantity Surveying, Construction Management, and Construction Economics and Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Construction Economics and Management)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (Dietetics)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc (IT)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc (Physiotherapy)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc degree is a three-year programme.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc degree is a three-year programme. The closing date for applications is 30 September 2026.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc degree is a three-year programme. The degree code is 43001 and the qualification is presented full time,",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc degrees. Furthermore, the faculty offers programmes",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc in Agricultural",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Agricultural Economics",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc IN AGRICULTURE",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc in Construction",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc in Construction Economics and Management).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Construction Economics and Management, designed to cater",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Construction Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc in Information",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc in Information Technology is a three-year qualification. The degree code is 43601 and the qualification is",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc in Information Technology. Students will have the",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc in Physiotherapy BSc",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc specialising in Biological Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc specialising in Biological Sciences).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc specialising in Biological Sciences. Students will have",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Building Science. Students will have",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Building Sciences).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc specialising in Chemical and Physical Sciences",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Chemical Sciences). Majors will be selected in the second year of study.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Chemical Sciences. Students will have",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Geography",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc specialising in Geography and the Bachelor of",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Geography) and B4341 (BSc specialising in Environmental Soil",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Geology).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc specialising in Geology. The programme that will be",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Physical Science with Engineering",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Physical Sciences).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc specialising in Physical Sciences. Students will have",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc specialising in Physics and Engineering Subjects).",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BSc(IT)",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Music or relevant NQF6 BC",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Music**",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Teaching Dr Zukiswa Nhase +27 51 401 9180 bedfp@ufs.ac.za",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Diploma in Vocational Skills with a minimum pass rate of Level 4 in English is required. Admission is subject to",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "doctorate (generally two years or longer). Some degrees",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "honours degree (generally one or two",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Honours, constitutes the ‘CA programme’ offered by the UFS. SAICA has awarded the CA programme offered by t",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "honours, master’s, and doctoral programmes and focused research",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "Honours.",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "BSc degree is a three-year programme. The degree code is 43001 and the qualification is presented full time",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

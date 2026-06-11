@@ -1,0 +1,180 @@
+{
+  "institution_id": "309",
+  "institution_name": "Ikhala TVET College",
+  "programme_count": 15,
+  "programmes_enriched": 15,
+  "synthetic_injected": [],
+  "pdf_discovered": [],
+  "completeness_before": 0.111,
+  "completeness_after": 0.147,
+  "improvement": 0.036,
+  "overall_quality": {
+    "mean": 0.147,
+    "min": 0.067,
+    "max": 0.2,
+    "count": 15
+  },
+  "fields_completed": {
+    "nqf_level": 8,
+    "campuses_offering": 9
+  },
+  "fields_still_missing": {
+    "nqf_level": 7,
+    "duration": 15,
+    "credits": 15,
+    "min_aps": 15,
+    "faculty_name": 15,
+    "career_outcomes": 15,
+    "study_mode": 15,
+    "department": 15,
+    "programme_code": 15,
+    "saqa_code": 15,
+    "admissionRequirements": 15,
+    "campus": 5,
+    "modules": 15,
+    "qualification_code": 15
+  },
+  "pdf_source_audit": {
+    "total_mapped": 5,
+    "useful_files": {
+      "National Certificate Courses - Ikhala TVET College.pdf": [
+        "campuses_offering",
+        "nqf_level"
+      ],
+      "National Diploma (Report 191) - Ikhala TVET College.pdf": [
+        "campuses_offering",
+        "nqf_level"
+      ],
+      "National Diploma (Report 191) - Ikhala TVET College3.pdf": [
+        "nqf_level"
+      ]
+    },
+    "unused_files": [
+      "ikhala-tvet-college-web.txt",
+      "National Diploma (Report 191) - Ikhala TVET College2.pdf"
+    ],
+    "verdict": "partial"
+  },
+  "per_programme": [
+    {
+      "name": "Report 191",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "National Diploma",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "name": "NCV Level 4",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V) Civil Engineering and Building Construction",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "Business Management N4-N6",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V) Civil Engineering & Building Construction",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NATED Business Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V) Electrical Infrastructure Construction",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NATED Farming Management & Mechanization",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V) Finance, Economics & Accounting",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NATED Human Resource Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NC(V) Information Technology & Computer Science",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NATED Tourism",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "NC(V) Hospitality",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "NATED Public Management",
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    }
+  ]
+}
