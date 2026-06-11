@@ -1,0 +1,75 @@
+{
+  "institution_id": "337",
+  "institution_name": "Goldfields TVET College",
+  "sources_used": [
+    "prospectuses/goldfields-tvet-college.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/goldfields-tvet-prospectus.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "English\n40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.461,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/goldfields-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.54"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "English\n40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.461,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/goldfields-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.54"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "English\n40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/goldfields-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 1,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 2,
+    "mean": 0.591
+  }
+}

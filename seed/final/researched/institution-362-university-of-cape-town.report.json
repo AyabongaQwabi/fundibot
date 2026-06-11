@@ -1,0 +1,931 @@
+{
+  "institution_id": "362",
+  "institution_name": "University of Cape Town",
+  "programme_count": 149,
+  "completeness_before": 0.115,
+  "completeness_after": 0.188,
+  "improvement": 0.073,
+  "overall_quality_score": {
+    "mean": 0.188,
+    "min": 0.067,
+    "max": 0.267,
+    "count": 149
+  },
+  "fields_completed_counts": {
+    "admissionRequirements": 114,
+    "min_aps": 23,
+    "faculty_name": 26
+  },
+  "fields_still_missing": {
+    "nqf_level": 149,
+    "duration": 149,
+    "credits": 149,
+    "career_outcomes": 149,
+    "study_mode": 149,
+    "department": 149,
+    "programme_code": 149,
+    "saqa_code": 149,
+    "campus": 149,
+    "modules": 149,
+    "qualification_code": 149,
+    "min_aps": 120,
+    "admissionRequirements": 35,
+    "faculty_name": 20
+  },
+  "per_programme": [
+    {
+      "id": "prog:03e3253170bc",
+      "name": "Advanced Diploma",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:2a52b30bdd3b",
+      "name": "Advanced Diploma IN ACCOUNTING",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:e18c6ca890fa",
+      "name": "Advanced Diploma in ACET). UCT",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:16ec0c6261ee",
+      "name": "Advanced Diploma IN ACTUARIAL SCIENCE",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:2fe94a10ea23",
+      "name": "Advanced Diploma in Adult and Community",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:9337d3c4cd06",
+      "name": "Advanced Diploma IN ADULT AND COMMUNITY EDUCATION AND TRAINING",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:e622afd4574f",
+      "name": "Advanced Diploma in Cosmetic Formulation",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:b006d88d8394",
+      "name": "Advanced Diploma in Cosmetic Formulation Science",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:8f77e2674e7b",
+      "name": "Advanced Diploma in Cosmetic Formulation Science are also offered.",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:e4e943e5eb44",
+      "name": "Advanced Diploma in Cosmetic Formulation Science need not write the NBTs.",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:fca4c19a82ae",
+      "name": "Advanced Diploma in Cosmetic Formulation Science: 10",
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:e5e951fdb52b",
+      "name": "Advanced Diploma in School Leadership & Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:2f3ab0ef83f7",
+      "name": "BA",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:49646cb4bdd1",
+      "name": "BA (BA) AND BSocSci",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:5ff91e8e3bdc",
+      "name": "BA (BA) and BSocSci (BSocSc) degrees offer a flexible",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:eabe30690811",
+      "name": "BA (Fine Art)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:1d9c93cd8978",
+      "name": "BA (Fine Art) R84 200",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:eeea385b3dad",
+      "name": "BA (Theatre & Performance)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:d6fd4b9bfefe",
+      "name": "BA (Theatre and Performance) R81 600",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:a99f1dcac6e0",
+      "name": "BA and Bachelor of Social",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:f9be4de0e782",
+      "name": "BA degree may",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:6921dd561783",
+      "name": "BA degree or a BSocSci degree: a",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:fc24cdb18989",
+      "name": "BA degree. Selection criteria are explained during the first",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:11cd8ef6f6a1",
+      "name": "BA in Fine Art",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:4a640588936a",
+      "name": "BA in Fine Art (BA FA) *",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:7cc8de4d73e3",
+      "name": "BA in Fine Art (BA FA) – 4 years",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:0a0a7e56a5b2",
+      "name": "BA in Fine Art (BA(FA))",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:395604703843",
+      "name": "BA in Theatre & Performance",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:250c05d918e4",
+      "name": "BA in Theatre & Performance (BA T&P)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:70f1faeafc93",
+      "name": "BA in Theatre & Performance (BA T&P) – 4",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:ae0f802a4d78",
+      "name": "BA in Theatre & Performance (BA T&P)*",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:288796d971b5",
+      "name": "BA or BSocSci",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:c7ef434050b6",
+      "name": "BA SPECIALISING IN FILM",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:956afbef063e",
+      "name": "BA specialising in Film and Media",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:efc824d386c3",
+      "name": "BA(FA)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:f870221de0e0",
+      "name": "BA(T&P)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:ae7817ee0df7",
+      "name": "Bachelor of Architectural",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:629c444bef91",
+      "name": "BACHELOR OF ARCHITECTURAL STUDIES",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:c74f06afb29f",
+      "name": "Bachelor of Architectural Studies (BAS) focuses on the design of the",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:3875512b1ed9",
+      "name": "Bachelor of Architectural Studies R86 660",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:51bf6f153b4a",
+      "name": "Bachelor of Business Science",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:8bcaa803ccfd",
+      "name": "BACHELOR OF BUSINESS SCIENCE (BBUSSC) &",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:d4f74c48421e",
+      "name": "Bachelor of Business Science Actuarial",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:0abe2f0f7fb0",
+      "name": "BACHELOR OF BUSINESS SCIENCE AND BCom",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:facf3b80827c",
+      "name": "Bachelor of Business Science.",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:a0b077a3c36d",
+      "name": "BACHELOR OF MEDICINE",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:e08ab78f1be6",
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB): 240",
+      "completeness_before": 0.2,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:2a7156163cb2",
+      "name": "Bachelor of Music",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:37758d7a115a",
+      "name": "BACHELOR OF MUSIC (BMUS)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:10d9751f6a50",
+      "name": "Bachelor of Music (BMus) *",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:b556d536f9d7",
+      "name": "Bachelor of Music (BMus) - 4 years",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:f5c41b405c37",
+      "name": "Bachelor of Music but excludes some of the academic",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:856c01fd39e9",
+      "name": "Bachelor of Music R71 700 - R74 900",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:259f24230222",
+      "name": "Bachelor of Music specialisations are listed with the",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:efd351f12022",
+      "name": "BACHELOR OF MUSIC STREAMS",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:e2ca196592cd",
+      "name": "Bachelor of Music, students can pursue the",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:51b738d7f491",
+      "name": "BACHELOR OF SOCIAL",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:5deabf2316d9",
+      "name": "Bachelor of Social Work",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:d518ca2bf5e1",
+      "name": "Bachelor of Social Work (BSW)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:4c25d70aed72",
+      "name": "BACHELOR OF SOCIAL WORK+",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:f393f6417327",
+      "name": "BACHELOR OF SURGERY",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:a9f2e875d41a",
+      "name": "BCom",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:8a23b3f1f099",
+      "name": "BCom (BCOM)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:293274828da0",
+      "name": "BCom and Bachelor of Business Science",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:eabf60f54291",
+      "name": "BCom and the four year",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:377bfdb9551c",
+      "name": "BCom in Information Systems and Computer Science provide",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:4aea0dc7d45d",
+      "name": "BCom specialising in:",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:4492eb96eb8d",
+      "name": "BSc",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:f62d75a8d802",
+      "name": "BSc (Audiology) R91 770",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:cc82a74491a2",
+      "name": "BSc (BSc) degree. The courses offered within the degree structure are",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:d628bd3ca772",
+      "name": "BSc (BSc). Below are the possible majors",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:bdbcc0919a29",
+      "name": "BSc (Construction Studies) R89 350",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:f392a839c6b0",
+      "name": "BSc (Eng)",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:d7a3614c27d9",
+      "name": "BSc (Eng) in Mechanical Engineering allows graduate",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:8581a43542f6",
+      "name": "BSc (Engineering) R79 460 - R89 350",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:0171c6798a48",
+      "name": "BSc (Geomatics) R71 120",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:a5c0063be2c3",
+      "name": "BSc (Occupational",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:316f332d0921",
+      "name": "BSc (Occupational Therapy)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:dd9f424ebeac",
+      "name": "BSc (Physiotherapy)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:06077d8c4e2e",
+      "name": "BSc (Physiotherapy) R80 240",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:f6a38ef0d5f6",
+      "name": "BSc (Property Studies) R87 220",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:27f2d3a683d7",
+      "name": "BSc (Speech-Language",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:218a444303d9",
+      "name": "BSc IN AUDIOLOGY",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:2b6f1d26ffc7",
+      "name": "BSc in Audiology: 37",
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:98f1f57643ef",
+      "name": "BSc in Construc",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:0c33e7561600",
+      "name": "BSc IN CONSTRUCTION",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:ad9e7c6a5a06",
+      "name": "BSc in Construction Studies and BSc in Property Studies",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:fd60c517f2d1",
+      "name": "BSc in Construction Studies and the BSc Honours in Quantity Surveying and in Construction Management are",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": "prog:3d90f10e148a",
+      "name": "BSc in Construction Studies will enable you to prepare",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:cf4d9d0244bb",
+      "name": "BSc IN ENGINEERING IN CHEMICAL ENGINEERING",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:ce9c1cc63a3c",
+      "name": "BSc IN ENGINEERING IN ELECTRICAL, ELECTRICAL AND COMPUTER",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:d1ff1e912cbb",
+      "name": "BSc IN ENGINEERING IN MECHANICAL, AND MECHANICAL &",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:07cee0058ade",
+      "name": "BSc IN GEOMATICS",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:40cce30c1977",
+      "name": "BSc in Geomatics is accredited by the South African",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:0931cde9f241",
+      "name": "BSc in Geomatics which is recognised by the",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:1bb8c884554f",
+      "name": "BSc IN OCCUPATIONAL THERAPY",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:76ecc611b35d",
+      "name": "BSc in Occupational Therapy: 70",
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:e9b2055b6002",
+      "name": "BSc IN PHYSIOTHERAPY",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:4b5aeabc6e55",
+      "name": "BSc in Physiotherapy: 70",
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:0f2c1d8a5be5",
+      "name": "BSc IN PROPERTY STUDIES",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:afe93c142372",
+      "name": "BSc in Property Studies will give you a head start in a challenging",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:149ba4ac5c90",
+      "name": "BSc IN SPEECH-LANGUAGE",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:f28bd2114a2a",
+      "name": "BSc IN SPEECH-LANGUAGE PATHOLOGY",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:93b458d696b0",
+      "name": "BSc in Speech-Language Pathology: 40",
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:d46ee0da7120",
+      "name": "BSc R83 000",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:9a4e59da429f",
+      "name": "BSc(Eng) in Civil Engineering includes",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:37c90ed9aa42",
+      "name": "BSocSci",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:326faf759c7f",
+      "name": "BSocSci (BSocSc) degrees offer a flexible",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:699d9b258df4",
+      "name": "BSocSci IN PHILOSOPHY",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:ae5b1b11ff8f",
+      "name": "BSocSci IN PHILOSOPHY, POLITICS",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:1aacdf45bb15",
+      "name": "BSocSci in Philosophy, Politics and Economics",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:c0ff60dba1a0",
+      "name": "BSocSci in Philosophy, Politics and Economics (BSocSc PPE)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:2da13b6684bd",
+      "name": "Diploma in Accounting (PGDA), followed by a three-year training",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:8fe45c005648",
+      "name": "Diploma in ACET",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:1f127a819246",
+      "name": "Diploma in Adult",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:a6d133ccd39f",
+      "name": "Diploma in Education (including a National Professional Diploma",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:85a1472f6ae6",
+      "name": "Diploma in Music",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:8863f0ff9e63",
+      "name": "Diploma in Music Performance",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:4b010ce01d15",
+      "name": "DIPLOMA IN MUSIC PERFORMANCE (DMP)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:f061a99e3c5d",
+      "name": "Diploma in Music Performance (DMP) - 3 years",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:beec952dcacf",
+      "name": "Diploma in Music Performance is available in the",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:931da8ef9b5c",
+      "name": "DIPLOMA IN MUSIC PERFORMANCE STREAMS",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:aff1fed38c3d",
+      "name": "Diploma in Music Performance: Satisfactory performance in a music theory test and interview",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:05707fe7ba8d",
+      "name": "Diploma in Theatre",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:f33dd039cb73",
+      "name": "DIPLOMA IN THEATRE & PERFORMANCE (DTP)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:466a8d70f254",
+      "name": "Diploma in Theatre & Performance (DTP) – 3 years",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:d22189e9800f",
+      "name": "Diploma in Theatre & Performance 6",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:71ece31aeab6",
+      "name": "Diploma in Theatre and Performance",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:31d39a46f017",
+      "name": "Honours",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": "prog:85c65d248e88",
+      "name": "Honours and the Master of Architecture (professional). All applicants for",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:7442524c739c",
+      "name": "Honours degrees in any of the three",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:b4c9544500f1",
+      "name": "Honours degrees in Property Studies, Quantity Surveying",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:2f8f55944534",
+      "name": "Honours degrees: Quantity Surveying",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:bbfe37e1d486",
+      "name": "Honours in Computer Science at UCT, become",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:a84d3656b65a",
+      "name": "Honours in Construction",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:594fde86e36d",
+      "name": "Honours in Construction Management.",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:cfb0653c3a53",
+      "name": "Honours in Property Studies is accredited by the",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:672d68db3010",
+      "name": "Honours that articulates into the Master of Architecture",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:6db4ca66f4ea",
+      "name": "LLB (LLB) OR must have passed all the courses from their",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:352fd2a253eb",
+      "name": "LLB (LLB) R76 810",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:5b210ff2c7b1",
+      "name": "LLB) degree. An LLB is the universal general qualification",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:8ba7ec219dfc",
+      "name": "Master of Architecture (professional). All applicants for",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:f9ad81d6b55a",
+      "name": "Master of Laws and Postgraduate Diploma programmes",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:6640c791be3d",
+      "name": "MBA at our award-winning Graduate School",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": "prog:cc37086db523",
+      "name": "MBA by ons bekroonde “Graduate School of Business” .",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": "prog:7aad76acf4ae",
+      "name": "MBA kwiSikolo sezoShishino esiphumelele amabhaso.",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": "prog:684dc800c8a9",
+      "name": "MBChB (MBChB) R108 800",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:3c2b251865f3",
+      "name": "MBChB – MBCHB",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:7f5eefa26c10",
+      "name": "PhD level. UCT is ideally placed to offer such a",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    }
+  ]
+}

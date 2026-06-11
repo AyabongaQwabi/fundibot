@@ -1,0 +1,459 @@
+{
+  "institution_id": "349",
+  "institution_name": "North-West University",
+  "programme_count": 70,
+  "completeness_before": 0.128,
+  "completeness_after": 0.313,
+  "improvement": 0.185,
+  "overall_quality_score": {
+    "mean": 0.313,
+    "min": 0.2,
+    "max": 0.467,
+    "count": 70
+  },
+  "fields_completed_counts": {
+    "admissionRequirements": 64,
+    "min_aps": 14,
+    "duration": 56,
+    "modules": 35,
+    "study_mode": 25
+  },
+  "fields_still_missing": {
+    "nqf_level": 70,
+    "duration": 14,
+    "credits": 70,
+    "min_aps": 53,
+    "career_outcomes": 70,
+    "study_mode": 45,
+    "department": 70,
+    "programme_code": 70,
+    "saqa_code": 70,
+    "campus": 70,
+    "modules": 35,
+    "qualification_code": 70,
+    "admissionRequirements": 6,
+    "faculty_name": 8
+  },
+  "per_programme": [
+    {
+      "id": "prog:92ce63c77989",
+      "name": "BA",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:4dde9069e3fd",
+      "name": "BA (BA)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:4c9f7eb4f431",
+      "name": "BA (BA) with Industrial and Organisational Psychology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:22826b04d6f1",
+      "name": "BA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:2b1df6daa7f5",
+      "name": "BA in Behavioural",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:7b22586d397f",
+      "name": "BA in Law (BA in Law)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:60637fb1c9bf",
+      "name": "BA in Law)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:878904a7408b",
+      "name": "BA in Pastoral Psychology as first",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:abefe6b56d16",
+      "name": "BA with Tourism Management • DURATION: 3 years 22 Mahikeng",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:8befec19e1bb",
+      "name": "Bachelor of Administration",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:2bd56e0deed4",
+      "name": "Bachelor of Administration in Development and",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:556d6da8d052",
+      "name": "Bachelor of Administration Industrial and Organisational Psychology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:60d207d44778",
+      "name": "Bachelor of Consumer",
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "id": "prog:b23a8d2d6df0",
+      "name": "Bachelor of Divinity (BDiv)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:856ffb0aeaba",
+      "name": "Bachelor of Health Sciences",
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "id": "prog:9e9ca70100e1",
+      "name": "Bachelor of Health Sciences in Occupational Hygiene",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:24dbcc1f08eb",
+      "name": "Bachelor of Human Resource",
+      "completeness_before": 0.2,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:f1a84c3ee458",
+      "name": "Bachelor of Philosophy (BPhil)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:cbc76918ebb6",
+      "name": "Bachelor of Social",
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "id": "prog:361a8389bf58",
+      "name": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:545c24d6f300",
+      "name": "BCom (BCom)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:6940ba533bd2",
+      "name": "BCom (BCom) Human Resource",
+      "completeness_before": 0.2,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:b28fbfa0e750",
+      "name": "BCom (BCom) in Accounting • Mathematics level 3 (40-49%)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:113f23a8d1d3",
+      "name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:68b1ebb6c651",
+      "name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:ee45bf4df725",
+      "name": "BCom (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:57a25b253750",
+      "name": "BCom (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:450b35f6f8ae",
+      "name": "BCom (BCom) in Industrial and Organisational Psychology",
+      "completeness_before": 0.2,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:767a7bb7d024",
+      "name": "BCom (BCom) in Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:f4132d72c974",
+      "name": "BCom (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:1ede6884e936",
+      "name": "BCom in Law",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:aec1a74c0ba3",
+      "name": "BCom in Law)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:c590342b6c3d",
+      "name": "BEd",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:a1163c9eadc8",
+      "name": "BEd (BEd)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:9ce1b755ea90",
+      "name": "BEd in Early",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:74500751e533",
+      "name": "BEng",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:b8af001d534b",
+      "name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:4127cc118e79",
+      "name": "BPharm",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:42d46025d0d9",
+      "name": "BSc in Actuarial",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:d5b27a6855a1",
+      "name": "BSc in Agricultural Sciences",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:48099dacba48",
+      "name": "BSc in Biological",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:3b0e2ed9c2e6",
+      "name": "BSc in Business",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:a9b6828a975e",
+      "name": "BSc in Business Analytics",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:a05092a305c0",
+      "name": "BSc in Dietetics",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:dd94dbf34563",
+      "name": "BSc in Environmental Sciences",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:09061c868d25",
+      "name": "BSc in Financial",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:bb379fe73a23",
+      "name": "BSc in Financial Mathematics",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:364587a1825c",
+      "name": "BSc in Indigenous Knowledge Systems",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:d0b49c3cdd28",
+      "name": "BSc in Information Technology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:74a779c5bd6b",
+      "name": "BSc in Mathematical Sciences",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:374f623ab9ff",
+      "name": "BSc in Quantitative Risk Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:68aab1b26f8d",
+      "name": "BSc in Urban and Regional Planning",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:98c6ec657d38",
+      "name": "BSc with Applied Mathematics and Chemistry",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:d9d3a98e40fa",
+      "name": "BSc with Chemistry and Physics",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:fd79f3c6dd87",
+      "name": "BSocSci with Psychology • Level 4 (50-59%) for language of tuition",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:d0ac36efe56a",
+      "name": "Diploma in Animal",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:1722b4180c66",
+      "name": "Diploma in Animal Health • English level 3",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:40b25d5cb217",
+      "name": "Diploma in Coaching",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:f519bf865de2",
+      "name": "Diploma in Music",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:8997fd6618b0",
+      "name": "Diploma in Plant Science • English level 3",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:8104d3a51bdc",
+      "name": "LLB",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:99b9171302c2",
+      "name": "LLB (LLB)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:349:Degree|12fe17ce28a9|bachelor of education",
+      "name": "Bachelor of Education",
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:349:Degree|fc353263d323|bachelor of education (bed)",
+      "name": "Bachelor of Education (BEd)",
+      "completeness_before": 0.067,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:349:Degree|a4c7cf6732db|bachelor of engineering",
+      "name": "Bachelor of Engineering",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:349:Degree|db15e57d0768|bachelor of laws",
+      "name": "Bachelor of Laws",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:349:Degree|c7c6263d2d82|bachelor of laws (llb)",
+      "name": "Bachelor of Laws (LLB)",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:349:Degree|693203046fb0|bachelor of nursing nursing • physical sciences or mathematics or life sciences ",
+      "name": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:349:Degree|e5d244cd2013|bachelor of pharmacy",
+      "name": "Bachelor of Pharmacy",
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:349:Degree|9ef7056ea3c2|bachelor of social science with psychology • level 4 (50-59%) for language of tu",
+      "name": "Bachelor of Social Science with Psychology • Level 4 (50-59%) for language of tuition",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    }
+  ]
+}

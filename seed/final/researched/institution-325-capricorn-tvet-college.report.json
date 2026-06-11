@@ -1,0 +1,125 @@
+{
+  "institution_id": "325",
+  "institution_name": "Capricorn TVET College",
+  "programme_count": 15,
+  "completeness_before": 0.067,
+  "completeness_after": 0.124,
+  "improvement": 0.057,
+  "overall_quality_score": {
+    "mean": 0.124,
+    "min": 0.067,
+    "max": 0.133,
+    "count": 15
+  },
+  "fields_completed_counts": {
+    "admissionRequirements": 13
+  },
+  "fields_still_missing": {
+    "nqf_level": 15,
+    "duration": 15,
+    "credits": 15,
+    "min_aps": 15,
+    "faculty_name": 15,
+    "career_outcomes": 15,
+    "study_mode": 15,
+    "department": 15,
+    "programme_code": 15,
+    "saqa_code": 15,
+    "admissionRequirements": 2,
+    "campus": 15,
+    "modules": 15,
+    "qualification_code": 15
+  },
+  "per_programme": [
+    {
+      "id": "prog:c8a9dd7db70e",
+      "name": "N6 certificate",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": "prog:8435f1b9d37e",
+      "name": "National Diploma",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:f482f2579e5b",
+      "name": "National Diploma in Business Management (M + 3).",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:b778d0ff4cfb",
+      "name": "National Diploma in Early Childhood Development (M + 3).",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:4e87ef33c5e7",
+      "name": "National Diploma in Financial Management (M + 3)",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:5f10f94ea3bd",
+      "name": "National Diploma in Hospitality and Catering (M + 3).",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:bab6ca9407a7",
+      "name": "National Diploma in Human Resource Management (M + 3)",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:b08cec18ce28",
+      "name": "National Diploma in Management Assistant. (M + 3)",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:7bd92eb79b28",
+      "name": "National Diploma in Marketing Management (M + 3)",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:badf62b41a7f",
+      "name": "National Diploma in Public Management (M + 3)",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:5d28cda6b392",
+      "name": "National Diploma in Tourism (M + 3).",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:e963edbb7534",
+      "name": "NC (V) L4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:93fe4123b603",
+      "name": "NC(V) L4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:0b16a32c96db",
+      "name": "NC(V) Level 2",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:325:NATED|3787633babc5|report 191",
+      "name": "report 191",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

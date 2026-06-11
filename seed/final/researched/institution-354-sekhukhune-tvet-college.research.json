@@ -1,0 +1,120 @@
+{
+  "institution_id": "354",
+  "institution_name": "Sekhukhune TVET College",
+  "sources_used": [
+    "prospectuses/sekhukhune-tvet-college-web.txt",
+    "sekhukhune-tvet-college-web.txt"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/sekhukhune-tvet-college-web.txt"
+  ],
+  "evidence": [
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.306,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.242,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.328,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.407,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.309,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.247,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Gr 11 with Maths"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.393,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.46"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Gr 11 with Maths"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.433,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.51"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 0,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 9,
+    "mean": 0.322
+  }
+}

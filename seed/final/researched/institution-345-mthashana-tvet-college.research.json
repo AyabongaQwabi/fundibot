@@ -1,0 +1,66 @@
+{
+  "institution_id": "345",
+  "institution_name": "Mthashana TVET College",
+  "sources_used": [
+    "prospectuses/Mthashana-College-2026booklet_design-3.pdf"
+  ],
+  "prospectus_files": [],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/Mthashana-College-2026booklet_design-3.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.41,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/Mthashana-College-2026booklet_design-3.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.48"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 1,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 1,
+    "mean": 0.63
+  }
+}

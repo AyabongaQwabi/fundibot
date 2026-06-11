@@ -1,0 +1,22 @@
+{
+  "institution_id": "329",
+  "institution_name": "Durban University of Technology",
+  "sources_used": [],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-pretoria.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-venda.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-johannesburg.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-mpumalanga.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-limpopo.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-zululand.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-kwazulu-natal.pdf",
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/university-of-fort-hare.pdf"
+  ],
+  "evidence": [],
+  "confidence_distribution": {
+    "high_0_8_plus": 0,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 0,
+    "mean": 0
+  }
+}

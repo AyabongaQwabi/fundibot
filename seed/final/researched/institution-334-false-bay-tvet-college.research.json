@@ -1,0 +1,50 @@
+{
+  "institution_id": "334",
+  "institution_name": "False Bay TVET College",
+  "sources_used": [
+    "false-bay-student-brochure.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/false-bay-tvet-admission-reqs.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/false-bay-student-brochure.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Vocational",
+        "year foundational course to prepare students for",
+        "leavers"
+      ],
+      "confidence": 0.113,
+      "source": "prospectus",
+      "sourceFile": "false-bay-student-brochure.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "duration",
+      "value": "18 months",
+      "confidence": 0.185,
+      "source": "prospectus",
+      "sourceFile": "false-bay-student-brochure.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "false-bay-student-brochure.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.1"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 0,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 3,
+    "mean": 0.14
+  }
+}

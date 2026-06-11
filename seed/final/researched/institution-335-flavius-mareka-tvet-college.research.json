@@ -1,0 +1,337 @@
+{
+  "institution_id": "335",
+  "institution_name": "Flavius Mareka TVET College",
+  "sources_used": [
+    "prospectuses/flavius-mareka-tvet-college.pdf"
+  ],
+  "prospectus_files": [],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.522,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.61"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.519,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.61"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.706,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.83"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N4"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.486,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N4"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N4"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.486,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N4"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting N5"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.366,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.43"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting N5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.519,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.61"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 4,
+    "medium_0_5_to_0_8": 4,
+    "low_below_0_5": 3,
+    "mean": 0.637
+  }
+}

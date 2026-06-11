@@ -1,0 +1,15 @@
+{
+  "institution_id": "338",
+  "institution_name": "Ingwe TVET College",
+  "sources_used": [],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/Our Programmes _ Ingwe TVET College.pdf"
+  ],
+  "evidence": [],
+  "confidence_distribution": {
+    "high_0_8_plus": 0,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 0,
+    "mean": 0
+  }
+}

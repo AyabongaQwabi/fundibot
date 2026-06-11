@@ -1,0 +1,51 @@
+{
+  "institution_id": "363",
+  "institution_name": "University of Fort Hare",
+  "sources_used": [
+    "university-of-fort-hare.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/university-of-fort-hare.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.168,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 4
+  },
+  "confidence_mean": 0.157
+}

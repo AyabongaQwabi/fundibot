@@ -1,0 +1,75 @@
+{
+  "institution_id": "314",
+  "institution_name": "Mnambithi TVET College",
+  "programme_count": 6,
+  "completeness_before": 0.067,
+  "completeness_after": 0.278,
+  "improvement": 0.211,
+  "overall_quality_score": {
+    "mean": 0.278,
+    "min": 0.067,
+    "max": 0.333,
+    "count": 6
+  },
+  "fields_completed_counts": {
+    "duration": 5,
+    "modules": 4,
+    "nqf_level": 5,
+    "admissionRequirements": 4,
+    "study_mode": 1
+  },
+  "fields_still_missing": {
+    "credits": 6,
+    "min_aps": 6,
+    "faculty_name": 6,
+    "career_outcomes": 6,
+    "study_mode": 5,
+    "department": 6,
+    "programme_code": 6,
+    "saqa_code": 6,
+    "admissionRequirements": 2,
+    "campus": 6,
+    "qualification_code": 6,
+    "nqf_level": 1,
+    "duration": 1,
+    "modules": 2
+  },
+  "per_programme": [
+    {
+      "id": "prog:1176b53d5e21",
+      "name": "Nated N4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:a5f63dccf03a",
+      "name": "National Diploma",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": "prog:f8d5eabb0354",
+      "name": "NC(V) Level 4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:b0392e4d23a8",
+      "name": "NCV Level 2",
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:d1b313e04205",
+      "name": "NCV Level 3",
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:1b930cbe39a3",
+      "name": "NCV Level 4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.333
+    }
+  ]
+}

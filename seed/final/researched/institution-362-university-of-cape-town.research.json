@@ -1,0 +1,3290 @@
+{
+  "institution_id": "362",
+  "institution_name": "University of Cape Town",
+  "sources_used": [
+    "prospectuses/university-of-capetown-ug-prospectus-2026.pdf"
+  ],
+  "prospectus_files": [],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.352,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.377,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.502,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.59"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.354,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.46,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.54"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.485,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.54"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.46,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.54"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.343,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.38"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.36,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.676,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.75"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.449,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.53"
+    },
+    {
+      "field": "faculty_name",
+      "value": "HEALTH",
+      "confidence": 0.755,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.89"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.799,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.89"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.388,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.46"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.604,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.67"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.557,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.62"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.356,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Accounting I ACC202"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.379,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.45"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.322,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.38"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.555,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.65"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Science section in this prospectus for specific",
+      "confidence": 0.555,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.65"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.573,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.67"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Science section in this prospectus for specific",
+      "confidence": 0.573,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.67"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Humanities attracts students and academics",
+      "confidence": 0.625,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.73"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.533,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.63"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.482,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.421,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.50"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Humanities attracts students and academics",
+      "confidence": 0.85,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.482,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.56,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.66"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.553,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.65"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.546,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.64"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.553,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.65"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Humanities attracts students and academics",
+      "confidence": 0.423,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.50"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.633,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.74"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.445,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.52"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.445,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.52"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.392,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.46"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English HL 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "English HL 50%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.675,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.79"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English HL 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "English HL 50%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.599,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.70"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.671,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.79"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English HL 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "English HL 50%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.587,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.69"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English HL 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "English HL 50%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English HL 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "English HL 50%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.675,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.79"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.422,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.47"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.37,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.44"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.636,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.75"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.341,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.40"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Humanities attracts students and academics",
+      "confidence": 0.401,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.47"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.342,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.40"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.53,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.62"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.376,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.44"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.625,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.73"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.51,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.60"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.439,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.52"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.51,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.60"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.414,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.46"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.36,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English HL 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 70%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "English HL 50%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English HL 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 70%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "English HL 50%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.719,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.85"
+    },
+    {
+      "field": "faculty_name",
+      "value": "COMMERCE",
+      "confidence": 0.767,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.90"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English HL 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "English HL 50%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.767,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.90"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "English HL 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 70%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "English HL 50%"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "English FAL 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.368,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.43"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.368,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.43"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.362,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.43"
+    },
+    {
+      "field": "faculty_name",
+      "value": "HEALTH",
+      "confidence": 0.494,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.58"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.486,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.54"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "faculty_name",
+      "value": "HEALTH",
+      "confidence": 0.347,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.41"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.318,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.37"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.421,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.49"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 70%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 75%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 75%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 75%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.446,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.53"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "faculty_name",
+      "value": "HEALTH",
+      "confidence": 0.612,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.72"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.52,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.58"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.725,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.81"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.612,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.72"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.666,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.74"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.53,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.62"
+    },
+    {
+      "field": "faculty_name",
+      "value": "HEALTH",
+      "confidence": 0.53,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.62"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.501,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.56"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "faculty_name",
+      "value": "HEALTH",
+      "confidence": 0.825,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.97"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.577,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.64"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.689,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.77"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.494,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.58"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.459,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.54"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 55,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 55%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 55,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 55%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.47,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.55"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.324,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.36"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.47,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.55"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 55,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 55%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 55,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 55%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.583,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.69"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.376,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.44"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.368,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.43"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 70%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 70%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 70%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.307,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.36"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 70%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 75%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 75%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 75%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.435,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.51"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.348,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.41"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 70%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 75%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 75%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 75%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Commerce for the year of application",
+      "confidence": 0.389,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.46"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 75,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 75%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 70%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 60%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 75,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 75%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 70%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 60%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.308,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.36"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 75,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 75%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 70%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 60%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 60,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 60%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.354,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.746,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.83"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.593,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.70"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.492,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.58"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.695,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.77"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.512,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.60"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.473,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.56"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.344,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.40"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.825,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.97"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.602,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.67"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation. Sub-minimum APS of 340"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy at 70%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics at 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "min_aps",
+      "value": 1,
+      "confidence": 0.776,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.86"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation. Sub-minimum APS of 340"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy at 70%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics at 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.733,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.86"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 70%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 70%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 70%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.377,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.44"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.299,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.35"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.62,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.73"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.658,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.77"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.495,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.58"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.438,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.52"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.43,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.51"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.398,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.47"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.586,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.69"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.71,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.84"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.45,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.53"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.541,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.64"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.327,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.38"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.49,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.58"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) - 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Music Performance (DMP) - 3"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.501,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.59"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.585,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.69"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Music 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.575,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.68"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Humanities attracts students and academics",
+      "confidence": 0.334,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.39"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.331,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "faculty_name",
+      "value": "Humanities attracts students and academics",
+      "confidence": 0.387,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.46"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 55,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 55%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 55,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 55%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.445,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.52"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 60%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 55,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 55%"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 55,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics & ≥ 55%"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.346,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.41"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics & ≥ 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.347,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.41"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "faculty_name",
+      "value": "HEALTH",
+      "confidence": 0.411,
+      "source": "json",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "json-jaccard:0.48"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 71,
+            "minimum_nsc_level": null,
+            "notes": "Music R71"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Life Orientation. Sub-minimum APS of 450"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences at 70%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 37,
+    "medium_0_5_to_0_8": 56,
+    "low_below_0_5": 70,
+    "mean": 0.575
+  }
+}

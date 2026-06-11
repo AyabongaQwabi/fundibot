@@ -1,0 +1,13 @@
+{
+  "institution_id": "209",
+  "institution_name": "Construction Education and Training Authority (CETA)",
+  "sources_used": [],
+  "prospectus_files": [],
+  "evidence": [],
+  "confidence_distribution": {
+    "high_0_8_plus": 0,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 0,
+    "mean": 0
+  }
+}

@@ -1,0 +1,730 @@
+{
+  "institution_id": "324",
+  "institution_name": "Cape Peninsula University of Technology",
+  "programme_count": 115,
+  "completeness_before": 0.133,
+  "completeness_after": 0.276,
+  "improvement": 0.143,
+  "overall_quality_score": {
+    "mean": 0.276,
+    "min": 0.133,
+    "max": 0.533,
+    "count": 115
+  },
+  "fields_completed_counts": {
+    "study_mode": 43,
+    "nqf_level": 15,
+    "credits": 7,
+    "duration": 33,
+    "modules": 21,
+    "admissionRequirements": 103,
+    "career_outcomes": 24
+  },
+  "fields_still_missing": {
+    "duration": 82,
+    "credits": 108,
+    "min_aps": 115,
+    "career_outcomes": 91,
+    "department": 115,
+    "programme_code": 115,
+    "saqa_code": 115,
+    "admissionRequirements": 12,
+    "campus": 115,
+    "modules": 94,
+    "qualification_code": 115,
+    "study_mode": 72,
+    "nqf_level": 100
+  },
+  "per_programme": [
+    {
+      "id": "prog:77b18ec4757e",
+      "name": "Advanced Diploma in Adult and Community Education and Training Teaching",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:04ef61f05531",
+      "name": "Advanced Diploma in Somatology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:3049f5afab8f",
+      "name": "Advanced Diploma in Teaching and Vocational Teaching",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:1e34014e35e3",
+      "name": "Advanced Diploma in Technical and Vocational Teaching",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:94c087bde1be",
+      "name": "Bachelor in Environmental Health",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:99c5b386d423",
+      "name": "Bachelor of Business Informatics",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:b4cf7161f67c",
+      "name": "Bachelor of Emergency Medical Care",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:6c910c2ce2ec",
+      "name": "Bachelor of Emergency Medical Care (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:8ef8d314a8e9",
+      "name": "Bachelor of Food Science & Technology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:02a2e51e0d84",
+      "name": "Bachelor of Geomatics",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:97f6d7bf3bec",
+      "name": "Bachelor of Marine Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:20ec17fafc42",
+      "name": "Bachelor of Marine Engineering (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:18f869d98d9e",
+      "name": "Bachelor of Nautical Science",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:8200e2c1dc36",
+      "name": "Bachelor of Nautical Science (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:9c9745520b2e",
+      "name": "Bachelor of Paralegal Studies",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:c6b8709d50f6",
+      "name": "BEd Honours in Educational Management & Leadership",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:959e5113ad67",
+      "name": "BEd Honours in Teaching & Learning",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:a0ceb908c26e",
+      "name": "BEd: Foundation Phase Teaching",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:a860f6a03626",
+      "name": "BEd: Intermediate Phase Teaching",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:f5de6303ecc5",
+      "name": "BEd: Senior Phase and FET Teaching",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:b303190a14ff",
+      "name": "BEng Technology in Chemical Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:d58b269071ed",
+      "name": "BEng Technology in Civil Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:5bc89dde8d52",
+      "name": "BEng Technology in Computer Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:6fa597ee8d34",
+      "name": "BEng Technology in Electrical Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:e16623eae5be",
+      "name": "BHSc in Dental Technology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:e2380a283ba3",
+      "name": "BHSc in Dental Technology (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:33e3961a9828",
+      "name": "BHSc in Medical Laboratory Sciences",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:03a2b2486fb6",
+      "name": "BHSc in Medical Laboratory Sciences (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:d8bc3e3a1560",
+      "name": "BHSc in Opticianry",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:0c0abce2777b",
+      "name": "BNurs",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:dd0a237ce993",
+      "name": "BNurs (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:8f7e0e86cc5c",
+      "name": "BSc in Diagnostic Radiography",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:718369826bef",
+      "name": "BSc in Diagnostic Ultrasound",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:a8927b5f78ee",
+      "name": "BSc in Nuclear Medicine Technology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:3b7de930d953",
+      "name": "BSc in Radiation Therapy",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:89a52bb28b1b",
+      "name": "Diploma in Accountancy",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:9551793cae1c",
+      "name": "Diploma in Accountancy (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:47430d9bbba9",
+      "name": "Diploma in Agricultural Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:3d25d201b71d",
+      "name": "Diploma in Agriculture",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:65513a79a620",
+      "name": "Diploma in Analytical Chemistry",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:820bac826e9c",
+      "name": "Diploma in Applications Development",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:717f653c8ec3",
+      "name": "Diploma in Architectural Technology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:d6399c3b4e07",
+      "name": "Diploma in Architectural Technology (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:a534e8c560cb",
+      "name": "Diploma in Banking",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:274264cad953",
+      "name": "Diploma in Biotechnology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:1302941e7da4",
+      "name": "Diploma in Business & Information Administration",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:ee459cd527e7",
+      "name": "Diploma in Business & Information Administration (Foundation)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:a3c04e5a149a",
+      "name": "Diploma in Chemical Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:a75669cc5171",
+      "name": "Diploma in Civil Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:c411db36811f",
+      "name": "Diploma in Clothing & Textile Technology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.533
+    },
+    {
+      "id": "prog:f0d49deca540",
+      "name": "Diploma in Communication Networks",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:bddfa62e0376",
+      "name": "Diploma in Construction",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:a8c5357588eb",
+      "name": "Diploma in Consumer Science: Food & Nutrition",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:34005eba724f",
+      "name": "Diploma in Early Childhood Development Care and Education",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:e6b20e0eda5e",
+      "name": "Diploma in Emergency Care",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:b5f57f531ada",
+      "name": "Diploma in Engineering Technology in Computer Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:cc8522d436e0",
+      "name": "Diploma in Engineering Technology in Electrical Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:8f4f2d4fe3f8",
+      "name": "Diploma in Engineering: Industrial",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:0a3f3d3d1763",
+      "name": "Diploma in Entrepreneurship",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:4cb29a532e9f",
+      "name": "Diploma in Entrepreneurship (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:4eeb58cad09f",
+      "name": "Diploma in Environmental Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:6fe8383b492f",
+      "name": "Diploma in Events Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:31030edd3fc5",
+      "name": "Diploma in Events Management (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:f764a06b2571",
+      "name": "Diploma in Fashion",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:8779535b94e6",
+      "name": "Diploma in Fashion (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:f47b6115d5c2",
+      "name": "Diploma in Film Production",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:fa0aadca1a92",
+      "name": "Diploma in Geomatics",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:b480163ce25d",
+      "name": "Diploma in Grade R Teaching",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:41aef498a4cd",
+      "name": "Diploma in Horticulture",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:dcf15ee37256",
+      "name": "Diploma in Hospitality and Food & Beverage Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:8ad56d938301",
+      "name": "Diploma in Hospitality and Hotel Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:0ce4897cc80b",
+      "name": "Diploma in Hospitality Management and Professional Cookery",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:5eeaf13e97a3",
+      "name": "Diploma in Human Resources Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "id": "prog:ac040aaa046e",
+      "name": "Diploma in Human Resources Management (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.467
+    },
+    {
+      "id": "prog:0903562c80ca",
+      "name": "Diploma in Interior Design",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:abd5996215cb",
+      "name": "Diploma in Interior Design (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:e9ddf057732d",
+      "name": "Diploma in Jewellery Design & Manufacture",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:847b6927c8da",
+      "name": "Diploma in Jewellery Design & Manufacture (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:5af725e22f68",
+      "name": "Diploma in Journalism",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:0011d5fc9187",
+      "name": "Diploma in Landscape Architecture",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:7865078b4e17",
+      "name": "Diploma in Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:e3a9ea952304",
+      "name": "Diploma in Management (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:0793bb130d2b",
+      "name": "Diploma in Marine Science",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:4bb60731f1ef",
+      "name": "Diploma in Marketing",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:50a77adbfa2d",
+      "name": "Diploma in Marketing (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:6da0a1e066d8",
+      "name": "Diploma in Mathematical Sciences",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:4db7ca4f90c4",
+      "name": "Diploma in Mechanical Engineering",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:da9e75706b26",
+      "name": "Diploma in Mechanical Engineering (Mechatronics)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:30280f456f14",
+      "name": "Diploma in Multimedia Applications",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:1de4ec86b9b1",
+      "name": "Diploma in Nature Conservation",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:cb3712ad0203",
+      "name": "Diploma in Operations Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:a8db75507c8b",
+      "name": "Diploma in Photography",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:1035c0e61429",
+      "name": "Diploma in Product Design",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:af398629dcfc",
+      "name": "Diploma in Product Design (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:f72b8cd9e486",
+      "name": "Diploma in Public Administration",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:3041dc520daf",
+      "name": "Diploma in Public Administration (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:f012d3b41985",
+      "name": "Diploma in Public Relations & Communication",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:347aadf1d29e",
+      "name": "Diploma in Real Estate",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:f4cb2ef8270b",
+      "name": "Diploma in Retail Business Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:80d2e185f9b5",
+      "name": "Diploma in Somatology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:69b095159ec2",
+      "name": "Diploma in Sport and Leisure Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:05395252a8fe",
+      "name": "Diploma in Sport and Leisure Management (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:92af94b569cc",
+      "name": "Diploma in Tourism Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:30700b71a54d",
+      "name": "Diploma in Tourism Management (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.4
+    },
+    {
+      "id": "prog:6121508afab5",
+      "name": "Diploma in Urban & Regional Planning",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:4a7e06871493",
+      "name": "Diploma in Visual Communication Design",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:26b1c3ccf0e1",
+      "name": "Diploma in Visual Communication Design (Extended Curriculum Programme)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:89af195cdc83",
+      "name": "Doctor Educationis (DEd)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:6d408a30a7e1",
+      "name": "Higher Certificate in Dental Assisting",
+      "completeness_before": 0.133,
+      "completeness_after": 0.333
+    },
+    {
+      "id": "prog:c441f3447b2f",
+      "name": "Higher Certificate in Emergency Medical Care",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:ec94a3af15c8",
+      "name": "Higher Certificate in Information & Communication Technology",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:5f5b3fccd457",
+      "name": "Magister Educationis (MEd)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:fa3eefb4c40c",
+      "name": "Postgraduate Certificate in Education",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:eb920b20d9cc",
+      "name": "Postgraduate Certificate in Education (FET)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "id": "prog:a999b1eb7fb1",
+      "name": "Postgraduate Certificate in Education (Senior Phase and FET)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    }
+  ]
+}

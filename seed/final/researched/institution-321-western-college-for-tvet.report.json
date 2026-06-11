@@ -1,0 +1,90 @@
+{
+  "institution_id": "321",
+  "institution_name": "Western College for TVET",
+  "programme_count": 9,
+  "completeness_before": 0.096,
+  "completeness_after": 0.163,
+  "improvement": 0.067,
+  "overall_quality_score": {
+    "mean": 0.163,
+    "min": 0.067,
+    "max": 0.2,
+    "count": 9
+  },
+  "fields_completed_counts": {
+    "admissionRequirements": 8,
+    "min_aps": 1
+  },
+  "fields_still_missing": {
+    "nqf_level": 9,
+    "duration": 9,
+    "credits": 9,
+    "min_aps": 4,
+    "faculty_name": 9,
+    "career_outcomes": 9,
+    "study_mode": 9,
+    "department": 9,
+    "programme_code": 9,
+    "saqa_code": 9,
+    "campus": 9,
+    "modules": 9,
+    "qualification_code": 9,
+    "admissionRequirements": 1
+  },
+  "per_programme": [
+    {
+      "id": "prog:270f67e2d6f6",
+      "name": "N2 certificate",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:8546c3bbb535",
+      "name": "N4 Certificate",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:1d7c65c74cd0",
+      "name": "N5 Certificate",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": "prog:76f712121b01",
+      "name": "NC (V) L4",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:e4a260b5bd55",
+      "name": "NC(V) L2",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:8c880f016986",
+      "name": "NC(V) L3",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:bf7555e6434a",
+      "name": "NC(V) L4",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:05a0dcee40d9",
+      "name": "NC(V) Level 4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.2
+    },
+    {
+      "id": "prog:ca386d1c76b3",
+      "name": "NCV Level 4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

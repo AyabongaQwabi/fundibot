@@ -1,0 +1,91 @@
+{
+  "institution_id": "364",
+  "institution_name": "University of Johannesburg",
+  "sources_used": [
+    "university-of-johannesburg.pdf",
+    "prospectuses/university-of-johannesburg.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-johannesburg.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "matchingMethod": "adm-sim:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.233,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:11.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.36,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "matchingMethod": "adm-sim:0.42"
+    },
+    {
+      "field": "min_aps",
+      "value": 24,
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "education and training, art gallery and museum",
+        "curating and management, art consulting, arts",
+        "writing, art criticism, research and journalism,"
+      ],
+      "confidence": 0.223,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.23,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    }
+  ],
+  "confidence_distribution": {
+    "high≥0.8": 1,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 5
+  },
+  "confidence_mean": 0.339
+}

@@ -1,0 +1,63 @@
+{
+  "institution_id": "364",
+  "institution_name": "University of Johannesburg",
+  "programme_count": 76,
+  "programmes_enriched": 5,
+  "completeness_before": 0.146,
+  "completeness_after": 0.227,
+  "improvement": 0.08,
+  "overall_quality": {
+    "mean": 0.227,
+    "min": 0.133,
+    "max": 0.267,
+    "count": 5
+  },
+  "fields_completed": {
+    "admissionRequirements": 2,
+    "duration": 2,
+    "min_aps": 1,
+    "career_outcomes": 1
+  },
+  "fields_still_missing": {
+    "nqf_level": 5,
+    "credits": 5,
+    "min_aps": 4,
+    "career_outcomes": 4,
+    "study_mode": 5,
+    "department": 5,
+    "programme_code": 5,
+    "saqa_code": 5,
+    "campus": 5,
+    "modules": 5,
+    "qualification_code": 5,
+    "admissionRequirements": 3,
+    "duration": 2
+  },
+  "per_programme": [
+    {
+      "name": "BA",
+      "completeness_before": 0.2,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BA (COMMUNICATION DESIGN)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "name": "BA (DIGITAL MEDIA DESIGN)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "name": "BA (Extended)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    },
+    {
+      "name": "BA (FASHION DESIGN)",
+      "completeness_before": 0.133,
+      "completeness_after": 0.267
+    }
+  ]
+}

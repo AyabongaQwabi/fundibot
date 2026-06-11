@@ -1,0 +1,13 @@
+{
+  "institution_id": "340",
+  "institution_name": "Lephalale TVET College",
+  "sources_used": [],
+  "prospectus_files": [],
+  "evidence": [],
+  "confidence_distribution": {
+    "high_0_8_plus": 0,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 0,
+    "mean": 0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "institution_id": "226",
+  "institution_name": "Finance and Accounting Services Sector Education and Training Authority (FASSET)",
+  "sources_used": [],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/manufacturing-engineering-and-related-services-sector-education-and-training-aut.pdf"
+  ],
+  "evidence": [],
+  "confidence_distribution": {
+    "high_0_8_plus": 0,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 0,
+    "mean": 0
+  }
+}

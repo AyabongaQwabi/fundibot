@@ -1,0 +1,4549 @@
+{
+  "institution_id": "324",
+  "institution_name": "Cape Peninsula University of Technology",
+  "sources_used": [
+    "mangosuthu-university-of-technology.pdf",
+    "centra-university-of-technology-prospectus.pdf",
+    "cape-peninsula-university-of-technology.pdf",
+    "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+    "tshwane-university-of-technology.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/tshwane-university-of-technology.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/mangosuthu-university-of-technology.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-the-western-cape.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/durban-university-of-technology.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/vaal-university-of-technology.pdf",
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/centra-university-of-technology-prospectus.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.561,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:23.4"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.341,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 10,
+      "confidence": 0.232,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "4 All students accepted for the Somatology",
+        "In addition to the application form you will",
+        "OPHTHALMIC",
+        "In addition to"
+      ],
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.295,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.26,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.22,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.295,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.3"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.314,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.22,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.161,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time students must provide a letter of full",
+        "time employment, preferably in a banking",
+        "69% in three of the following fundamental subjects, including the Language of"
+      ],
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "As part of the selection for all EMS",
+        "49% for any one"
+      ],
+      "confidence": 0.315,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.264,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.264,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "solving skills.",
+        "allied industries; environmental"
+      ],
+      "confidence": 0.153,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "duration",
+      "value": "5-1 years",
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.133,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.264,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.35,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.292,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.226,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.514,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.61"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.4,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.7"
+    },
+    {
+      "field": "duration",
+      "value": "5-1 years",
+      "confidence": 0.26,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "29%) | 2(30",
+        "39%) | 3 (40",
+        "59%) | 5 (60",
+        "69%) | 6 (70",
+        "79%) | 7 (80",
+        "100%)",
+        "points",
+        "studio",
+        "practice",
+        "media",
+        "studies"
+      ],
+      "confidence": 0.165,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.519,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.61"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.411,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.1"
+    },
+    {
+      "field": "duration",
+      "value": "5-1 years",
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.559,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.66"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.537,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.4"
+    },
+    {
+      "field": "duration",
+      "value": "5-1 years",
+      "confidence": 0.227,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.579,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.68"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "These professionals are trained to convert",
+        "raw materials"
+      ],
+      "confidence": 0.195,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.575,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.68"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "solving skills."
+      ],
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.579,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.68"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "in various sectors of the electrica"
+      ],
+      "confidence": 0.205,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "duration",
+      "value": "0-2 years",
+      "confidence": 0.172,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.582,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.68"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "in various sectors of the electrica"
+      ],
+      "confidence": 0.224,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "As part of the selection for all EMS",
+        "49% for any one"
+      ],
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "As part of the selection for all EMS",
+        "49% for any one"
+      ],
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "4 All students accepted for the Somatology",
+        "In addition to the application form you will",
+        "OPHTHALMIC",
+        "In addition to"
+      ],
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.538,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.63"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Accounting",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.123,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Accounting",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.198,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 10,
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.158,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time students must provide a letter of full",
+        "time employment, preferably in a banking",
+        "69% in three of the following fundamental subjects, including the Language of"
+      ],
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.238,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.3,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "duration",
+      "value": "1013 years",
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Friday, 27 March 2026",
+        "Friday, 19 June 2026",
+        "Friday, 18 September 2026",
+        "Tuesday, 15 December 2026"
+      ],
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "These professionals are trained to convert",
+        "raw materials"
+      ],
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.2,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "solving skills."
+      ],
+      "confidence": 0.179,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.252,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "solving skills."
+      ],
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 10,
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "credits",
+      "value": 120,
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.158,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "0-2 years",
+      "confidence": 0.155,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.137,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.353,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.41"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.454,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:18.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.415,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:18.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "requisites and co",
+        "requisites modules must be met at all levels"
+      ],
+      "confidence": 0.168,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "As part of the selection for all EMS",
+        "49% for any one"
+      ],
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "in various sectors of the electrica"
+      ],
+      "confidence": 0.216,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "duration",
+      "value": "0-2 years",
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "in various sectors of the electrica"
+      ],
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "in various sectors of the electrical and computer",
+        "engineering industry.",
+        "Who would like this",
+        "Individuals who enjoy electronics and who have",
+        "strong mathematical skills."
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.237,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "hospitality environment.",
+        "Who would like this",
+        "Individuals who enjoy preparing food, learning new",
+        "recipes, and experiencing new tastes.",
+        "Future career"
+      ],
+      "confidence": 0.14,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "26 (ML) 1 4 2 4",
+        "Diploma in Events Management 28 (M)",
+        "30 (ML) 1 4 2 4 Including one of the following: TOUR, ECO, HS, BUS, ACC, CAT, IT (no rating required).",
+        "Applicants must submit a motivation letter detailing their reasons for applying and indicating",
+        "their understanding"
+      ],
+      "confidence": 0.16,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.373,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.44"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.349,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "hospitality environment.",
+        "Who would like this",
+        "Individuals who enjoy preparing food, learning new",
+        "recipes, and experiencing new tastes.",
+        "Future career"
+      ],
+      "confidence": 0.288,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "hospitality environment.",
+        "Who would like this",
+        "Individuals who enjoy preparing food, learning new",
+        "recipes, and experiencing new tastes.",
+        "Future career"
+      ],
+      "confidence": 0.331,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.266,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "management a"
+      ],
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "credits",
+      "value": 20,
+      "confidence": 0.213,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.312,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "management a"
+      ],
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "nqf_level",
+      "value": 4,
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "credits",
+      "value": 20,
+      "confidence": 0.213,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "based or community",
+        "based experiential learning in a way that is",
+        "Integrated Learning may take many forms, for an example,",
+        "Workplace",
+        "based Learning: This is placement in an organization for the full duration of th",
+        "service Training or In",
+        "Serv.",
+        "Project",
+        "based Learning: This is a form where students embark on a real",
+        "world and industry",
+        "based project.",
+        "Integrated Learning is preceded by a Work Readiness Program",
+        "Integrated"
+      ],
+      "confidence": 0.245,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "solvi"
+      ],
+      "confidence": 0.213,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "based or community",
+        "based experiential learning in a way that is",
+        "Integrated Learning may take many forms, for an example,",
+        "Workplace",
+        "based Learning: This is placement in an organization for the full duration of th",
+        "service Training or In",
+        "Serv.",
+        "Project",
+        "based Learning: This is a form where students embark on a real",
+        "world and industry",
+        "based project.",
+        "Integrated Learning is preceded by a Work Readiness Program",
+        "Integrated"
+      ],
+      "confidence": 0.245,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.169,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "manufacturing race cars to building satellites.",
+        "Who would like this",
+        "Individuals who have strong analytical skills and",
+        "who are interested in engineering.",
+        "Future career"
+      ],
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "manufacturing race cars to building satellites.",
+        "Who would like this",
+        "Individuals who have strong analytical skills and",
+        "who are interested in engineering.",
+        "Future career"
+      ],
+      "confidence": 0.298,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "motivated and",
+        "production, etc."
+      ],
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "based or community",
+        "based experiential learning in a way that is",
+        "Integrated Learning may take many forms, for an example,",
+        "Workplace",
+        "based Learning: This is placement in an organization for the full duration of th",
+        "service Training or In",
+        "Serv.",
+        "Project",
+        "based Learning: This is a form where students embark on a real",
+        "world and industry",
+        "based project.",
+        "Integrated Learning is preceded by a Work Readiness Program",
+        "Integrated"
+      ],
+      "confidence": 0.245,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "produced products, produce conceptual",
+        "models to"
+      ],
+      "confidence": 0.225,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "hospitality environment.",
+        "Who would like this",
+        "Individuals who enjoy preparing food, learning new",
+        "recipes, and experiencing new tastes.",
+        "Future career"
+      ],
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "based or community",
+        "based experiential learning in a way that is",
+        "Integrated Learning may take many forms, for an example,",
+        "Workplace",
+        "based Learning: This is placement in an organization for the full duration of th",
+        "service Training or In",
+        "Serv.",
+        "Project",
+        "based Learning: This is a form where students embark on a real",
+        "world and industry",
+        "based project.",
+        "Integrated Learning is preceded by a Work Readiness Program",
+        "Integrated"
+      ],
+      "confidence": 0.136,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.189,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "4 All students accepted for the Somatology",
+        "In addition to the application form you will",
+        "OPHTHALMIC",
+        "In addition to"
+      ],
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Academic Review Component"
+      ],
+      "confidence": 0.264,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Academic Review Component"
+      ],
+      "confidence": 0.308,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "26 (ML) 1 4 2 4",
+        "Diploma in Events Management 28 (M)",
+        "30 (ML) 1 4 2 4 Including one of the following: TOUR, ECO, HS, BUS, ACC, CAT, IT (no rating required).",
+        "Applicants must submit a motivation letter detailing their reasons for applying and indicating",
+        "their understanding"
+      ],
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.139,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "26 (ML) 1 4 2 4",
+        "Diploma in Events Management 28 (M)",
+        "30 (ML) 1 4 2 4 Including one of the following: TOUR, ECO, HS, BUS, ACC, CAT, IT (no rating required).",
+        "Applicants must submit a motivation letter detailing their reasons for applying and indicating",
+        "their understanding"
+      ],
+      "confidence": 0.189,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.183,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "0-2 years",
+      "confidence": 0.159,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.14,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "based or community",
+        "based experiential learning in a way that is",
+        "Integrated Learning may take many forms, for an example,",
+        "Workplace",
+        "based Learning: This is placement in an organization for the full duration of th",
+        "service Training or In",
+        "Serv.",
+        "Project",
+        "based Learning: This is a form where students embark on a real",
+        "world and industry",
+        "based project.",
+        "Integrated Learning is preceded by a Work Readiness Program",
+        "Integrated"
+      ],
+      "confidence": 0.245,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 2,
+            "minimum_percentage": 30,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.23,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "duration",
+      "value": "5-1 years",
+      "confidence": 0.194,
+      "source": "prospectus",
+      "sourceFile": "centra-university-of-technology-prospectus.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "As part of the selection for all EMS",
+        "49% for any one"
+      ],
+      "confidence": 0.279,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_nsc_level": 4,
+            "minimum_percentage": 50,
+            "notes": null
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_nsc_level": 3,
+            "minimum_percentage": 40,
+            "notes": null
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_nsc_level": 5,
+            "minimum_percentage": 60,
+            "notes": null
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.27,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Distance Learning",
+      "confidence": 0.16,
+      "source": "prospectus",
+      "sourceFile": "tshwane-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.351,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.263,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.46,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:19.2"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.49,
+      "source": "prospectus",
+      "sourceFile": "cape-peninsula-university-of-technology.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:18.1"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 93,
+    "medium_0_5_to_0_8": 10,
+    "low_below_0_5": 143,
+    "mean": 0.472
+  }
+}

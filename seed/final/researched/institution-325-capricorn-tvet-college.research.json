@@ -1,0 +1,263 @@
+{
+  "institution_id": "325",
+  "institution_name": "Capricorn TVET College",
+  "sources_used": [
+    "prospectuses/capricorn-tvet-college.pdf"
+  ],
+  "prospectus_files": [],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Tourism (M + 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.571,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.67"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11,
+            "minimum_nsc_level": null,
+            "notes": "Accounting at least up to grade 11"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.543,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.64"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Tourism (M + 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.394,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.46"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11,
+            "minimum_nsc_level": null,
+            "notes": "Accounting at least up to grade 11"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.533,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.63"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Tourism N4"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11,
+            "minimum_nsc_level": null,
+            "notes": "Accounting at least up to grade 11"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11,
+            "minimum_nsc_level": null,
+            "notes": "Accounting at least up to grade 11"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.504,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.59"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11,
+            "minimum_nsc_level": null,
+            "notes": "Accounting at least up to grade 11"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.54,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.64"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11,
+            "minimum_nsc_level": null,
+            "notes": "Accounting at least up to grade 11"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.535,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.63"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Tourism (M + 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11,
+            "minimum_nsc_level": null,
+            "notes": "accounting at least up to grade 11"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11,
+            "minimum_nsc_level": null,
+            "notes": "accounting at least up to grade 11"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 1"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 6,
+    "medium_0_5_to_0_8": 6,
+    "low_below_0_5": 1,
+    "mean": 0.671
+  }
+}

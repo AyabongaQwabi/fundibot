@@ -1,0 +1,51 @@
+{
+  "institution_id": "336",
+  "institution_name": "Gert Sibande TVET College",
+  "programme_count": 3,
+  "completeness_before": 0.067,
+  "completeness_after": 0.067,
+  "improvement": 0.0,
+  "overall_quality_score": {
+    "mean": 0.067,
+    "min": 0.067,
+    "max": 0.067,
+    "count": 3
+  },
+  "fields_completed_counts": {},
+  "fields_still_missing": {
+    "nqf_level": 3,
+    "duration": 3,
+    "credits": 3,
+    "min_aps": 3,
+    "faculty_name": 3,
+    "career_outcomes": 3,
+    "study_mode": 3,
+    "department": 3,
+    "programme_code": 3,
+    "saqa_code": 3,
+    "admissionRequirements": 3,
+    "campus": 3,
+    "modules": 3,
+    "qualification_code": 3
+  },
+  "per_programme": [
+    {
+      "id": "prog:ab7c4551f26a",
+      "name": "NC(V) L4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": "prog:d510cc98b3d0",
+      "name": "NC(V) Level 4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "name": "Report 191",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    }
+  ]
+}

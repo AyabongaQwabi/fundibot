@@ -1,0 +1,6711 @@
+{
+  "institution_id": "347",
+  "institution_name": "Nelson Mandela Metropolitan University",
+  "sources_used": [
+    "prospectuses/nelson-mandela-metropolitan-university.pdf",
+    "nelson-mandela-metropolitan-university.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/nelson-mandela-metropolitan-university.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.316,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South",
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.138,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.332,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.375,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.0"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.391,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.358,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Pharmacology and Applied",
+        "Pharmaceutical Chemistry,",
+        "Pharmaceutics, and",
+        "Pharmacy Practice.",
+        "time 4 years 410 – –",
+        "Minimum NSC statutory requirements",
+        "NSC achievement rating of a least 50%",
+        "Mathematics – 60%.",
+        "Physical Sciences – 60%.",
+        "Places are limited, and admission is",
+        "Candidates shall be selected"
+      ],
+      "confidence": 0.334,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.536,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.3"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "ray images"
+      ],
+      "confidence": 0.372,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus"
+      ],
+      "confidence": 0.414,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Senior",
+        "LEVEL AS A",
+        "LEVEL IB HL IB SL KCSE NC(V)4",
+        "Fundamental",
+        ", A 7",
+        "75 C A 3 A A C E 3 5 B+ 5 (90",
+        "100%)",
+        "5 (80",
+        "C C E 1 3 C+ 4 (70"
+      ],
+      "confidence": 0.364,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.34,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.1"
+    },
+    {
+      "field": "credits",
+      "value": 96,
+      "confidence": 0.426,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Faculty of Business and Economic Science – 75%",
+        "Faculty of EBET – 70%",
+        "Faculty of Education – 75%",
+        "Faculty of Health Sciences – 70%",
+        "Faculty of Humanities – 75%",
+        "Faculty of"
+      ],
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.233,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 29,
+            "minimum_nsc_level": null,
+            "notes": "Accounting) ............29"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.453,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.53"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Business and",
+        "Economic Sciences",
+        "School of Accounting",
+        "Department of Accounting Sciences"
+      ],
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus"
+      ],
+      "confidence": 0.414,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.7"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.413,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.378,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 3 years",
+        "time 5 years",
+        "Minimum NSC statutory requirements",
+        "Mathematics – 60%."
+      ],
+      "confidence": 0.352,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 29,
+            "minimum_nsc_level": null,
+            "notes": "Accounting) ............29"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.33,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus"
+      ],
+      "confidence": 0.298,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.234,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "commerce, web technology and",
+        "time 3 years 390 – –",
+        "Minimum NSC statutory requirements",
+        "Mathematics – 60%.",
+        "depth study of economics with"
+      ],
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 55%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.322,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.38"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.599,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:24.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.548,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:24.3"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 3 years 390 – –",
+        "Minimum NSC statutory requirements",
+        "Mathematics – 50%."
+      ],
+      "confidence": 0.511,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:24.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus"
+      ],
+      "confidence": 0.36,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.4"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.365,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.334,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "roles in the application and",
+        "management of computer",
+        "systems in business. They",
+        "are also equipped to pursue",
+        "a wide range of careers in"
+      ],
+      "confidence": 0.321,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.634,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.75"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "world Logistics, Transport and"
+      ],
+      "confidence": 0.414,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:19.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "world Logistics, Transport and"
+      ],
+      "confidence": 0.403,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:19.2"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.391,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.358,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.9"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.385,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.352,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "time 3 years 390 – –",
+        "Minimum statutory"
+      ],
+      "confidence": 0.338,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.313,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 65%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 45,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 45%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.328,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.498,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:20.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.456,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:20.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "time 3 years 390 – –",
+        "Minimum statutory NSC requirements",
+        "Mathematics – 50%."
+      ],
+      "confidence": 0.438,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:20.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.474,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:20.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.354,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 55%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.409,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.48"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "on practical skills in"
+      ],
+      "confidence": 0.277,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "on practical skills in"
+      ],
+      "confidence": 0.269,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.187,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.171,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Faculty of Humanities",
+        "(continued)",
+        "Any other discipline may be taken as",
+        "a core module, in consultation with"
+      ],
+      "confidence": 0.153,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year postgraduate certificate"
+      ],
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.368,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.43"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "on classroom competenci"
+      ],
+      "confidence": 0.257,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "on classroom competenci"
+      ],
+      "confidence": 0.25,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.9"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.261,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.238,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.217,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.226,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "on classroom competenci"
+      ],
+      "confidence": 0.272,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "on classroom competenci"
+      ],
+      "confidence": 0.265,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.3,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.275,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BEd: Intermediate",
+        "Phase (Grades 4-6)",
+        "(continued)",
+        "Students will be exposed to various"
+      ],
+      "confidence": 0.355,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.4"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.385,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.4"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.34,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.311,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 4 years 370 385 385",
+        "Minimum NSC requirements for",
+        "NSC achievement rating of at least",
+        "Mathematics – 45%, or Techni"
+      ],
+      "confidence": 0.291,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.559,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:23.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BEd: Senior Phase",
+        "and Further",
+        "Education &Training",
+        "(SP: Grades 7-9)"
+      ],
+      "confidence": 0.492,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        ", Mathematics or"
+      ],
+      "confidence": 0.478,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Geography – 55%"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "History – 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.756,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.89"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.447,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "English, Afrikaans, isiXhosa (Home",
+        "History – 55%,",
+        "Geography – 55%."
+      ],
+      "confidence": 0.348,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.6"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Business Studies: Marketing Management) ......27"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Management) .........27"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 29,
+            "minimum_nsc_level": null,
+            "notes": "Accounting) ............29"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.35,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.41"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.327,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Bachelor of Commerce (General:",
+        "Bachelor of Commerce (General:",
+        "Bachelor of Commerce",
+        "time 3 years 390 – –",
+        "Minimum NSC statutory requirements",
+        "Mathematics – 50%."
+      ],
+      "confidence": 0.287,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 29,
+            "minimum_nsc_level": null,
+            "notes": "Accounting) ............29"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.297,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.35"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.319,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.318,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.291,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.302,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.276,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 29,
+            "minimum_nsc_level": null,
+            "notes": "Accounting) ............29"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.302,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.36"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.322,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.294,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.306,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.358,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.273,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.231,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.212,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "(Mechatronics)",
+        "(continued)",
+        "The programme provides students",
+        "with a thorough grounding in"
+      ],
+      "confidence": 0.177,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year",
+        "year BAS (Honours) degree and a",
+        "year MArch (Prof) degree in"
+      ],
+      "confidence": 0.369,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.1"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year",
+        "year BAS (Honours) degree and a",
+        "year MArch (Prof) degree in"
+      ],
+      "confidence": 0.359,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year",
+        "year BAS (Honours) degree and a",
+        "year MArch (Prof) degree in"
+      ],
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year",
+        "year BAS (Honours) degree and a",
+        "year MArch (Prof) degree in"
+      ],
+      "confidence": 0.291,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 65%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 45,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 45%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.411,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.48"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.831,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.98"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.353,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.323,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.4"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.336,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.5,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.59"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Construction",
+        "(continued)",
+        "Take note: After completing the",
+        "BSc (Construction Studies) degree"
+      ],
+      "confidence": 0.294,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.318,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 65%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 45,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 45%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.37,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.44"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "exist in materials manufacture",
+        "and marketing, property",
+        "management, property",
+        "development, facilities",
+        "management, subcontracting,"
+      ],
+      "confidence": 0.518,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:24.0"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.363,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.332,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 1 year – – –",
+        "Minimum statutory NSC requirements",
+        "Applicants must be employed at"
+      ],
+      "confidence": 0.31,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.511,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.60"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.418,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.382,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.516,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.61"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.218,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.538,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.63"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Bachelor of Environmental Health",
+        "Bachelor of",
+        "Environmental",
+        "Environmental Health Practitioners"
+      ],
+      "confidence": 0.282,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.288,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus"
+      ],
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.234,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "on practical skills in"
+      ],
+      "confidence": 0.196,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "on practical skills in"
+      ],
+      "confidence": 0.191,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "growing professions."
+      ],
+      "confidence": 0.293,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "growing professions."
+      ],
+      "confidence": 0.285,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.317,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "SCHOOL OF CLINICAL CARE AND MEDICINAL SCIENCES",
+        "Qualification Programme Overview",
+        "Delivery mode",
+        "& duration of"
+      ],
+      "confidence": 0.359,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.345,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.41"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "SCHOOL OF CLINICAL CARE AND MEDICINAL SCIENCES",
+        "Qualification Programme Overview",
+        "Delivery mode",
+        "& duration of"
+      ],
+      "confidence": 0.275,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "Music (Curriculum 1"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Music (Curriculum 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.404,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.48"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.525,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "Music (Curriculum 1"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Music (Curriculum 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Diploma in Music (DipMus)",
+        "Diploma in Music",
+        "(Curriculum 1)",
+        "This programme is focused on the"
+      ],
+      "confidence": 0.341,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "Music (Curriculum 1"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Music (Curriculum 2"
+            }
+          ],
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Music – BMus: Stream 1"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Diploma in Music (DipMus)",
+        "Diploma in Music",
+        "(Curriculum 1)",
+        "This programme is focused on the"
+      ],
+      "confidence": 0.334,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 92,
+            "minimum_nsc_level": null,
+            "notes": "Music – BMus: Stream 1 / Music ......................... 92"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 94,
+              "minimum_nsc_level": null,
+              "notes": "Music Technology .................94"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year programme"
+      ],
+      "confidence": 0.493,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year programme",
+        "traditional,"
+      ],
+      "confidence": 0.479,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.487,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:21.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 92,
+            "minimum_nsc_level": null,
+            "notes": "Music – BMus: Stream 1 / Music ......................... 92"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 94,
+              "minimum_nsc_level": null,
+              "notes": "Music Technology .................94"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Faculty of Humanities",
+        "Bachelor of Music (BMus)",
+        "(School Music)",
+        "The overall purpose of the"
+      ],
+      "confidence": 0.441,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:20.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.314,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.37"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 55%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.388,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.46"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "solving skills that will"
+      ],
+      "confidence": 0.486,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:23.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.451,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:18.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.319,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.38"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.389,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.356,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.37,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Faculty of Humanities",
+        "1. Applicant Score (AS) for Mathematics: Overall score calculated for applicants who have taken Mathematics;",
+        "2. Applicant Score (AS) for Technical Mathematics: Overall score calculated for applicants who have taken Technical Mathematics;",
+        "3. Applicant Score (AS) for Mathematical Literacy: Overall score calculated for applicants who have taken Mathematical Literacy."
+      ],
+      "confidence": 0.338,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.403,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.47"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 55%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.33,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.231,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year LLB thereafter."
+      ],
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year LLB thereafter.",
+        "time 3 years"
+      ],
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.482,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "made for students who are"
+      ],
+      "confidence": 0.171,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.37,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.339,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "the fields of marine biology,",
+        "conservation biology,",
+        "ecology, environmental",
+        "management, and coastal",
+        "zone management."
+      ],
+      "confidence": 0.325,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.142,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.129,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "the fields of marine biology,",
+        "conservation biology,",
+        "ecology, environmental",
+        "management, and coastal",
+        "zone management."
+      ],
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.738,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:35.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.675,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:35.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "industry (chemical, food, and",
+        "biotechnological), teaching,",
+        "research (medical, agriculture,",
+        "chemistry, sport, and",
+        "nutrition)."
+      ],
+      "confidence": 0.648,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:35.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 3 years 410 – –",
+        "Minimum NSC statutory requirements",
+        "Mathematics – 60%."
+      ],
+      "confidence": 0.63,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:35.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.341,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.40"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.337,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.4"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.308,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.282,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "exist in mining, water affairs,",
+        "environmental affairs, as well",
+        "as in consulting and civil",
+        "engineering.",
+        "BSc (Environmental"
+      ],
+      "confidence": 0.271,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.306,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.318,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.29,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "time 3 years 410 – –",
+        "Minimum NSC statutory requirem"
+      ],
+      "confidence": 0.279,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 3 years 410 – –",
+        "Minimum NSC statutory requirements",
+        "Mathematics – 65%.",
+        "solving skills and",
+        "time 3 years 410 – –",
+        "Minimum NSC statutory requirem"
+      ],
+      "confidence": 0.271,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.32,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Physical",
+        "Mathematics)",
+        "This BSc degree is based on the",
+        "three cornerstone subjects in Science"
+      ],
+      "confidence": 0.25,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.279,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.4"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.234,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 1 year 290 290 305",
+        "Minimum statutory NSC requirements",
+        "Mathematics or Technical",
+        "(also offered on the",
+        "time 1 year 290 290 305",
+        "Minimum NSC st"
+      ],
+      "confidence": 0.2,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.707,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.83"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.331,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.7"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.291,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 1 year 290 290 305",
+        "Minimum statutory NSC requirements",
+        "Mathematics or Technical",
+        "(also offered on the",
+        "time 1 year 290 290 305",
+        "Minimum NSC st"
+      ],
+      "confidence": 0.248,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.277,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.502,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.59"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.164,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "time 1 year – – – A 360",
+        "credit Diploma in Economics"
+      ],
+      "confidence": 0.144,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "(also offered on the",
+        "(only offered full",
+        "time)"
+      ],
+      "confidence": 0.14,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.156,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.172,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time study;",
+        "year",
+        "(also offered in",
+        "Management Practice; or",
+        "Marketing Management; or",
+        "Tourism Mana"
+      ],
+      "confidence": 0.16,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.185,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 55%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.262,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year",
+        "time 3 years",
+        "time 4 years",
+        "Minimum NSC statutory requirements",
+        "Mathematics or Technical"
+      ],
+      "confidence": 0.223,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.482,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.326,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "material specialist,"
+      ],
+      "confidence": 0.305,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.301,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.286,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.482,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.183,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "related"
+      ],
+      "confidence": 0.16,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "material specialist,"
+      ],
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.482,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time study;",
+        "year",
+        "(also offered in",
+        "Management Practice; or",
+        "Marketing Management; or",
+        "Tourism Mana"
+      ],
+      "confidence": 0.241,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.376,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.44"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.523,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.62"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.152,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.496,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.58"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Business Studies: Marketing Management) ......27"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Management) .........27"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.351,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.41"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.558,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.51,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "time 1 year – – – A 360",
+        "credit Diploma in Economics"
+      ],
+      "confidence": 0.49,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "(also offered on the",
+        "(only offered full",
+        "time)"
+      ],
+      "confidence": 0.476,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.531,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Business Studies: Marketing Management) ......27"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Management) .........27"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.587,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.69"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.787,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.93"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.391,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.46"
+    },
+    {
+      "field": "duration",
+      "value": "2 years",
+      "confidence": 0.433,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.396,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "appropriate"
+      ],
+      "confidence": 0.38,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "appropriate"
+      ],
+      "confidence": 0.369,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.371,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.341,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.312,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "work as financial accountants,",
+        "management accountants,",
+        "internal auditors and tax",
+        "consultants.",
+        "Bachelor of Commerce (BCom)"
+      ],
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "appropriate"
+      ],
+      "confidence": 0.245,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.378,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.2"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.318,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.291,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Construction",
+        "(continued)",
+        "Take note: After completing the",
+        "BSc (Construction Studies) degree"
+      ],
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.165,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "qualification_code",
+      "value": "40406",
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "work as financial accountants,"
+      ],
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.132,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "world Logistics, Transport and"
+      ],
+      "confidence": 0.354,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "world Logistics, Transport and"
+      ],
+      "confidence": 0.344,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.4"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.348,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.318,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.215,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.205,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.7"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "time 3 years 390 – –",
+        "Minimum statutory NSC requirements",
+        "Mathematics – 50%."
+      ],
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 65%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.201,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "time 3 years 390 – –",
+        "Minimum statutory NSC requirements",
+        "Mathematics – 50%."
+      ],
+      "confidence": 0.184,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Accounting – 60%"
+          },
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Business Studies – 60%"
+          },
+          {
+            "subject": "Economics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Economics – 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "on classroom competenci"
+      ],
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "on classroom competenci"
+      ],
+      "confidence": 0.113,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.121,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.433,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.51"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "on classroom competenci"
+      ],
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "on classroom competenci"
+      ],
+      "confidence": 0.137,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Geography – 55%"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "History – 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 7,
+      "confidence": 0.447,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "English, Afrikaans, isiXhosa (Home",
+        "History – 55%,",
+        "Geography – 55%."
+      ],
+      "confidence": 0.348,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.6"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.249,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.227,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "time 1 year"
+      ],
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 1 year"
+      ],
+      "confidence": 0.194,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.216,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "credits",
+      "value": 96,
+      "confidence": 0.2,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.354,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.242,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.22,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.201,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "time 1 year"
+      ],
+      "confidence": 0.193,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 1 year"
+      ],
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.21,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.142,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.419,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.49"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Business Studies: Marketing Management) ......27"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Management) .........27"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.385,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.45"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "1. Applicant Score (AS) for Mathematics: Overall score calculated for applicants who have taken Mathematics;",
+        "2. Applicant Score (AS) for Technical Mathematics: Overall score calculated for applicants who have taken Technical Mathematics;",
+        "3. Applicant Score (AS) for Mathematical Literacy: Overall score calculated for applicants who have taken Mathematical Literacy.",
+        "AdvDip (Operations"
+      ],
+      "confidence": 0.268,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.4"
+    },
+    {
+      "field": "duration",
+      "value": "2 years",
+      "confidence": 0.278,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.254,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Construction",
+        "(continued)",
+        "Take note: After completing the",
+        "BSc (Construction Studies) degree"
+      ],
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year",
+        "year BAS (Honours) degree and a",
+        "year MArch (Prof) degree in"
+      ],
+      "confidence": 0.123,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.354,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Advanced Diploma",
+        "(Architectural",
+        "Technology)",
+        "This qualification aims to produce"
+      ],
+      "confidence": 0.22,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.238,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Construction",
+        "(continued)",
+        "Take note: After completing the",
+        "BSc (Construction Studies) degree"
+      ],
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year",
+        "year BAS (Honours) degree and a",
+        "year MArch (Prof) degree in"
+      ],
+      "confidence": 0.138,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.301,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.35"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Advanced Diploma",
+        "(Architectural",
+        "Technology)",
+        "This qualification aims to produce"
+      ],
+      "confidence": 0.253,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.274,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.288,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.263,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 1 year – – – Applicants who hold a Dip (Architectural",
+        "An average of 60% for Architectural"
+      ],
+      "confidence": 0.246,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.476,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.56"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Information Technology",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Information\nTechnology of 360"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.329,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.357,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.326,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "mentioned"
+      ],
+      "confidence": 0.304,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "employed consultants.",
+        "focused course is"
+      ],
+      "confidence": 0.27,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Construction",
+        "(continued)",
+        "Take note: After completing the",
+        "BSc (Construction Studies) degree"
+      ],
+      "confidence": 0.187,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.202,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year",
+        "year BAS (Honours) degree and a",
+        "year MArch (Prof) degree in"
+      ],
+      "confidence": 0.139,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.248,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year",
+        "year BAS (Honours) degree and a",
+        "year MArch (Prof) degree in"
+      ],
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year",
+        "year BAS (Honours) degree and a",
+        "year MArch (Prof) degree in"
+      ],
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.12,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.582,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.68"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Construction",
+        "(continued)",
+        "Take note: After completing the",
+        "BSc (Construction Studies) degree"
+      ],
+      "confidence": 0.252,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.273,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.274,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.251,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.345,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.315,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.0"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.328,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:14.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.603,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:24.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.551,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:24.5"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.573,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:24.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "exist mostly with construction",
+        "companies, quantity surveying",
+        "firms, financial institutions,",
+        "local authorities, and state",
+        "departments."
+      ],
+      "confidence": 0.287,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 1 year.",
+        "Diploma: Building (360 NQF credits),"
+      ],
+      "confidence": 0.261,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 55%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.334,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Construction",
+        "(continued)",
+        "Take note: After completing the",
+        "BSc (Construction Studies) degree"
+      ],
+      "confidence": 0.268,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.4"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.29,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.4"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.228,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Construction",
+        "(continued)",
+        "Take note: After completing the",
+        "BSc (Construction Studies) degree"
+      ],
+      "confidence": 0.136,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "BSc (Construction",
+        "(continued)",
+        "Take note: After completing the",
+        "BSc (Construction Studies) degree"
+      ],
+      "confidence": 0.213,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.23,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "nqf_level",
+      "value": 8,
+      "confidence": 0.245,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.223,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.204,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 1 year",
+        "time 2 years",
+        "An approved bachelor’s degree at"
+      ],
+      "confidence": 0.191,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.387,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.7"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.354,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.144,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Information Technology",
+            "minimum_percentage": null,
+            "minimum_nsc_level": null,
+            "notes": "Information\nTechnology of 360"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "nqf_level",
+      "value": 6,
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.131,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.638,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.75"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Bachelor of Environmental Health",
+        "Bachelor of",
+        "Environmental",
+        "Environmental Health Practitioners"
+      ],
+      "confidence": 0.282,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Bachelor of Environmental Health",
+        "Bachelor of",
+        "Environmental",
+        "Environmental Health Practitioners"
+      ],
+      "confidence": 0.189,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.333,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.39"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "oriented careers"
+      ],
+      "confidence": 0.255,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Department of Psychology",
+        "Bachelor of Arts in Psychology",
+        "(Psychology)",
+        "This programme provides training"
+      ],
+      "confidence": 0.226,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.306,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.36"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Bachelor of Social Work (BSW)",
+        "BSW (Social Work) Social work is aimed at facilitating",
+        "a change process with individuals,",
+        "families, and communities by"
+      ],
+      "confidence": 0.408,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:18.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 65%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 45,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 45%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.579,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:23.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.529,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:23.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "include teaching, school",
+        "and professional sport",
+        "coaching, exercise and",
+        "fitness instr"
+      ],
+      "confidence": 0.508,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:23.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 3 years 350 365 365",
+        "Minimum NSC statutory requirements",
+        "Mathematics – 45%, or Technical",
+        "Candidates must pass a medical"
+      ],
+      "confidence": 0.494,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:23.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences – 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 60%"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences – 5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.454,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.53"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.402,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.47"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.228,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.237,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.217,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "care services.",
+        "time 4 years 370 385 385",
+        "Minimum NSC statutory requirements",
+        "Mathematics – 50%, or Technical",
+        "Life Sciences – 60%.",
+        "Physical Sciences – 50%.",
+        "Students must be registered as",
+        "Students must submit a satisfactory"
+      ],
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences – 60%"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 65%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.561,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.66"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.377,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.1"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.39,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.357,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "care services.",
+        "time 4 years 370 385 385",
+        "Minimum NSC statutory requirements",
+        "Mathematics – 50%, or Technical",
+        "Life Sciences – 60%.",
+        "Physical Sciences – 50%.",
+        "Students must be registered as",
+        "Students must submit a satisfactory"
+      ],
+      "confidence": 0.343,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.9"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "solving abilities. This"
+      ],
+      "confidence": 0.28,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "ray images"
+      ],
+      "confidence": 0.534,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:25.4"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus"
+      ],
+      "confidence": 0.595,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:25.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences – 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 60%"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences – 5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.312,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.37"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Bachelor of Emergency Medical Care (BEMC)",
+        "Bachelor of",
+        "Emergency Medical",
+        "Care (BEMC)"
+      ],
+      "confidence": 0.632,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:29.2"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.684,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:29.2"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.384,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.351,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.354,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Bachelor of Emergency Medical Care (BEMC)",
+        "Bachelor of",
+        "Emergency Medical",
+        "Care (BEMC)"
+      ],
+      "confidence": 0.336,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.5"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.364,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.5"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.252,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.23,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences – 50%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 60%"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences – 5"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.515,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:20.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.471,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:20.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "involved in private and public",
+        "medical research.",
+        "Medical Research Council,",
+        "National Institute for",
+        "Communicable Diseases and"
+      ],
+      "confidence": 0.374,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.405,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:17.3"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.525,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.4"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.526,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:21.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.481,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:21.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.3,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.35"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.382,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.3"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.376,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.344,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:15.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.386,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.45"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "South"
+      ],
+      "confidence": 0.219,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "duration",
+      "value": "6 years",
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.21,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 92,
+            "minimum_nsc_level": null,
+            "notes": "Music – BMus: Stream 1 / Music ......................... 92"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 94,
+              "minimum_nsc_level": null,
+              "notes": "Music Technology .................94"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.645,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.76"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year programme"
+      ],
+      "confidence": 0.493,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year programme",
+        "traditional,"
+      ],
+      "confidence": 0.479,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:22.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.375,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:16.7"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.423,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.50"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year programme"
+      ],
+      "confidence": 0.223,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year programme",
+        "traditional,"
+      ],
+      "confidence": 0.217,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 92,
+            "minimum_nsc_level": null,
+            "notes": "Music – BMus: Stream 1 / Music ......................... 92"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 94,
+              "minimum_nsc_level": null,
+              "notes": "Music Technology .................94"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.391,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.46"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year programme"
+      ],
+      "confidence": 0.406,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:18.8"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year programme",
+        "traditional,"
+      ],
+      "confidence": 0.395,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:18.8"
+    },
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.284,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "Music (Curriculum 1"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Music (Curriculum 2"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.439,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.52"
+    },
+    {
+      "field": "credits",
+      "value": 240,
+      "confidence": 0.317,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.325,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.297,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 3 years 290 305 305",
+        "Minimum statutory NSC requirements",
+        "No prior formal music training is",
+        "Admission is subj"
+      ],
+      "confidence": 0.278,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Diploma in Music (DipMus)",
+        "Diploma in Music",
+        "(Curriculum 1)",
+        "This programme is focused on the"
+      ],
+      "confidence": 0.258,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.513,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.60"
+    },
+    {
+      "field": "credits",
+      "value": 240,
+      "confidence": 0.202,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.207,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.189,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 3 years 290 305 305",
+        "Minimum statutory NSC requirements",
+        "No prior formal music training is",
+        "Admission is subj"
+      ],
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 92,
+            "minimum_nsc_level": null,
+            "notes": "Music – BMus: Stream 1 / Music ......................... 92"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Music",
+              "minimum_percentage": 94,
+              "minimum_nsc_level": null,
+              "notes": "Music Technology .................94"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.472,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.56"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Faculty of Humanities",
+        "Bachelor of Music (BMus)",
+        "(School Music)",
+        "The overall purpose of the"
+      ],
+      "confidence": 0.285,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "credits",
+      "value": 240,
+      "confidence": 0.255,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.261,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "time 3 years 290 305 305",
+        "Minimum statutory NSC requirements",
+        "No prior formal music training is",
+        "Admission is subj"
+      ],
+      "confidence": 0.223,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Business Studies: Marketing Management) ......27"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Management) .........27"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.599,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.70"
+    },
+    {
+      "field": "duration",
+      "value": "4 years",
+      "confidence": 0.244,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.223,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "economic and socio",
+        "political realm",
+        "time 1 year – – –",
+        "Diploma (Public Management) or"
+      ],
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 55%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.36,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.42"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "solving skills that will"
+      ],
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 55%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.377,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.44"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "solving skills that will"
+      ],
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Literacy Subject Requirements",
+        "Faculty of Humanities",
+        "(continued)",
+        "Any other discipline may be taken as",
+        "a core module, in consultation with"
+      ],
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 55,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 55%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "solving skills that will"
+      ],
+      "confidence": 0.252,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.0"
+    },
+    {
+      "field": "study_mode",
+      "value": "Online",
+      "confidence": 0.248,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.37,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.44"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Public Administration is common",
+        "to all four streams and learners",
+        "choose an additional specialisation",
+        "in Industrial Psychology, Sociology,",
+        "Business Management or Political"
+      ],
+      "confidence": 0.401,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:18.6"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.448,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.53"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "Public Administration is common",
+        "to all four streams and learners",
+        "choose an additional specialisation",
+        "in Industrial Psychology, Sociology,",
+        "Business Management or Political"
+      ],
+      "confidence": 0.202,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 50%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.338,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.40"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year undergraduate LLB",
+        "focused programme"
+      ],
+      "confidence": 0.263,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "duration",
+      "value": "3 years",
+      "confidence": 0.285,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.261,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "(also offered on the",
+        "time 3 years",
+        "service",
+        "Minimum NSC statutory requirements",
+        "Mathematics or Technical",
+        "Physical Sciences or Technical Science"
+      ],
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Campus",
+        "George"
+      ],
+      "confidence": 0.271,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "(also offered on the",
+        "depth knowledge and",
+        "time 1 year",
+        "credit Diploma in"
+      ],
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 60%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.225,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "study and applied",
+        "depth knowledge"
+      ],
+      "confidence": 0.187,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.282,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "study_mode",
+      "value": "Part-time",
+      "confidence": 0.258,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy – 60%"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics – 40%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.489,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "study_mode",
+      "value": "Full-time",
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "year"
+      ],
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "career_outcomes",
+      "value": [
+        "year level of study,",
+        "time Advanced"
+      ],
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "duration",
+      "value": "1 year",
+      "confidence": 0.202,
+      "source": "prospectus",
+      "sourceFile": "nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Business Studies",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Business Studies: Marketing Management) ......27"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Management) .........27"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.345,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.41"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 37,
+    "medium_0_5_to_0_8": 65,
+    "low_below_0_5": 601,
+    "mean": 0.337
+  }
+}

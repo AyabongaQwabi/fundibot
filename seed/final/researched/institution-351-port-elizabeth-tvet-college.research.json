@@ -1,0 +1,39 @@
+{
+  "institution_id": "351",
+  "institution_name": "Port Elizabeth TVET College",
+  "sources_used": [
+    "Port-Elizabeth-TVET-College-PDF-NCV-INSIDE.pdf"
+  ],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/Port-Elizabeth-TVET-College-PDF-NCV-INSIDE.pdf",
+    "/Users/nonwork/dev/fundibot/seed/workik/batch1/Port-Elizabeth-TVET-College-PDF-Report-191-INSIDE.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "study_mode",
+      "value": "Contact",
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "Port-Elizabeth-TVET-College-PDF-NCV-INSIDE.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "campuses_offering",
+      "value": [
+        "Russell Road"
+      ],
+      "confidence": 0.155,
+      "source": "prospectus",
+      "sourceFile": "Port-Elizabeth-TVET-College-PDF-NCV-INSIDE.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "pdf-bm25:6.6"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 0,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 2,
+    "mean": 0.152
+  }
+}

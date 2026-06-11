@@ -1,0 +1,126 @@
+{
+  "institution_id": "309",
+  "institution_name": "Ikhala TVET College",
+  "programme_count": 15,
+  "completeness_before": 0.111,
+  "completeness_after": 0.133,
+  "improvement": 0.022,
+  "overall_quality_score": {
+    "mean": 0.133,
+    "min": 0.067,
+    "max": 0.2,
+    "count": 15
+  },
+  "fields_completed_counts": {
+    "nqf_level": 5,
+    "campuses_offering": 5
+  },
+  "fields_still_missing": {
+    "nqf_level": 10,
+    "duration": 15,
+    "credits": 15,
+    "min_aps": 15,
+    "faculty_name": 15,
+    "career_outcomes": 15,
+    "study_mode": 15,
+    "department": 15,
+    "programme_code": 15,
+    "saqa_code": 15,
+    "admissionRequirements": 15,
+    "campus": 5,
+    "modules": 15,
+    "qualification_code": 15
+  },
+  "per_programme": [
+    {
+      "id": null,
+      "name": "Report 191",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": null,
+      "name": "National Diploma",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": null,
+      "name": "NCV Level 4",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": null,
+      "name": "NC(V) Civil Engineering and Building Construction",
+      "completeness_before": 0.067,
+      "completeness_after": 0.133
+    },
+    {
+      "id": null,
+      "name": "Business Management N4-N6",
+      "completeness_before": 0.067,
+      "completeness_after": 0.067
+    },
+    {
+      "id": null,
+      "name": "NC(V) Civil Engineering & Building Construction",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": null,
+      "name": "NATED Business Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": null,
+      "name": "NC(V) Electrical Infrastructure Construction",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": null,
+      "name": "NATED Farming Management & Mechanization",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": null,
+      "name": "NC(V) Finance, Economics & Accounting",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": null,
+      "name": "NATED Human Resource Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": null,
+      "name": "NC(V) Information Technology & Computer Science",
+      "completeness_before": 0.133,
+      "completeness_after": 0.2
+    },
+    {
+      "id": null,
+      "name": "NATED Tourism",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": null,
+      "name": "NC(V) Hospitality",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    },
+    {
+      "id": null,
+      "name": "NATED Public Management",
+      "completeness_before": 0.133,
+      "completeness_after": 0.133
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "institution_id": "343",
+  "institution_name": "Mopani South TVET College",
+  "sources_used": [
+    "prospectuses/mopani-south-tvet-college.pdf"
+  ],
+  "prospectus_files": [],
+  "evidence": [
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting, Level 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Accounting, Level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Accounting Sciences, Level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Accounting, Level 6"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting, Level 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Accounting Sciences, Level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Accounting, Level 6"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Accounting, Level 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Accounting Sciences, Level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Accounting, Level 6"
+            }
+          ]
+        ]
+      },
+      "confidence": 0.348,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.41"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics-35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics-35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics-35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.486,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics-35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.486,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:0.57"
+    },
+    {
+      "field": "admissionRequirements",
+      "value": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics-35%"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "confidence": 0.85,
+      "source": "json-admission",
+      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
+      "sourcePage": 0,
+      "matchingMethod": "adm-match:1.00"
+    }
+  ],
+  "confidence_distribution": {
+    "high_0_8_plus": 5,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 3,
+    "mean": 0.696
+  }
+}

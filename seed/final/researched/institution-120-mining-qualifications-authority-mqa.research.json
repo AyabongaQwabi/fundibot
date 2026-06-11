@@ -1,0 +1,15 @@
+{
+  "institution_id": "120",
+  "institution_name": "Mining Qualifications Authority (MQA)",
+  "sources_used": [],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/prospectuses/mining-qualifications-authority-mqa.pdf"
+  ],
+  "evidence": [],
+  "confidence_distribution": {
+    "high_0_8_plus": 0,
+    "medium_0_5_to_0_8": 0,
+    "low_below_0_5": 0,
+    "mean": 0
+  }
+}
