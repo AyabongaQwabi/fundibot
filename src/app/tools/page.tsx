@@ -1,7 +1,6 @@
 import Link from 'next/link';
-import { GraduationCap, Search, Sparkles } from 'lucide-react';
+import { GraduationCap, Search, Sparkles, ArrowRight, Home } from 'lucide-react';
 import { ToolCard } from './components/ToolCard';
-import { ToolsBreadcrumb } from './components/ToolsBreadcrumb';
 
 const tools = [
   {
@@ -32,42 +31,58 @@ const tools = [
 
 export default function ToolsHubPage() {
   return (
-    <div className='font-sans'>
-      <div className='bg-slate-100 py-12 md:py-16'>
-        <div className='mx-auto max-w-5xl px-4'>
-          <ToolsBreadcrumb />
-          <p className='text-xs font-semibold uppercase tracking-widest text-slate-700'>
+    <div className='min-h-screen bg-slate-50'>
+      {/* Header */}
+      <div className='bg-navy-900 pb-16 pt-28'>
+        <div className='mx-auto max-w-5xl px-4 sm:px-6'>
+          {/* Breadcrumb */}
+          <nav className='mb-6 flex items-center gap-2 text-sm text-white/50'>
+            <Link href='/' className='flex items-center gap-1.5 transition-colors hover:text-white'>
+              <Home className='h-3.5 w-3.5' />
+              Home
+            </Link>
+            <span>/</span>
+            <span className='text-white/80'>Tools</span>
+          </nav>
+
+          <p className='text-xs font-semibold uppercase tracking-widest text-brand-blue-light'>
             Free tools · Fundibot
           </p>
-          <h1 className='font-display mt-3 text-3xl text-slate-900 md:text-4xl lg:text-5xl'>
-            Free tools for South African students
+          <h1 className='mt-3 text-3xl font-extrabold tracking-tight text-white md:text-4xl lg:text-5xl'>
+            Free Tools for South African Students
           </h1>
-          <p className='mt-4 max-w-2xl text-lg text-slate-600'>
+          <p className='mt-4 max-w-2xl text-lg text-white/60'>
             Check university admission requirements, find courses by province, and discover career paths — no account or email required.
           </p>
         </div>
       </div>
 
-      <div className='mx-auto max-w-5xl px-4 py-12 md:py-16'>
-        <div className='grid gap-6 md:grid-cols-2'>
+      {/* Cards */}
+      <div className='mx-auto max-w-5xl px-4 py-12 sm:px-6 md:py-16'>
+        <div className='grid gap-5 md:grid-cols-2 lg:grid-cols-3'>
           {tools.map((tool) => (
             <ToolCard key={tool.href} {...tool} />
           ))}
         </div>
 
-        <div className='mt-12 rounded-2xl border border-slate-200 bg-slate-50 px-6 py-8 text-center'>
-          <p className='font-display text-xl text-slate-900'>
-            Struggling with Maths or Science?
-          </p>
-          <p className='mt-2 text-slate-600'>
-            Our tutors work in small groups of 3 — personalised support for Grades 6–12.
-          </p>
-          <Link
-            href='/contact'
-            className='mt-4 inline-flex rounded-full bg-slate-900 px-8 py-3 text-white hover:bg-slate-800'
-          >
-            Explore packages
-          </Link>
+        {/* Tutoring CTA */}
+        <div className='mt-12 overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-card'>
+          <div className='bg-blue-gradient px-6 py-1' />
+          <div className='px-6 py-8 text-center sm:py-10'>
+            <p className='text-xl font-bold text-slate-900'>
+              Struggling with Maths or Science?
+            </p>
+            <p className='mt-2 text-slate-500'>
+              Our tutors work in small groups of 3 — personalised support for Grades 6–12.
+            </p>
+            <Link
+              href='/contact'
+              className='mt-6 inline-flex items-center gap-2 rounded-full bg-navy-900 px-8 py-3 text-sm font-semibold text-white transition-all hover:bg-navy-800'
+            >
+              Explore packages
+              <ArrowRight className='h-4 w-4' />
+            </Link>
+          </div>
         </div>
       </div>
     </div>

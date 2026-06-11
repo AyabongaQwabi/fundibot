@@ -100,14 +100,19 @@ export function CareerRecommenderClient({ institutions, programmes }: Props) {
       : 0;
 
   return (
-    <div className='mx-auto max-w-5xl px-4 py-16'>
-      <ToolsBreadcrumb currentPage='Career & Course Recommender' />
-      <h1 className='text-3xl font-semibold text-slate-900'>Career & Course Recommender</h1>
-      <p className='mt-4 text-slate-600'>
-        Tell us your subjects and approximate marks — we'll recommend career paths and matching programmes.
-      </p>
+    <div className='min-h-screen bg-slate-50'>
+      <div className='bg-navy-900 pb-12 pt-28'>
+        <div className='mx-auto max-w-5xl px-4 sm:px-6'>
+          <ToolsBreadcrumb currentPage='Career & Course Recommender' />
+          <h1 className='mt-2 text-3xl font-extrabold tracking-tight text-white md:text-4xl'>Career & Course Recommender</h1>
+          <p className='mt-3 max-w-2xl text-lg text-white/60'>
+            Tell us your subjects and approximate marks — we&apos;ll recommend career paths and matching programmes.
+          </p>
+        </div>
+      </div>
 
-      <div className='mt-8 space-y-8 rounded-3xl border border-slate-200 bg-white p-8'>
+      <div className='mx-auto max-w-5xl px-4 py-10 sm:px-6'>
+      <div className='space-y-8 rounded-3xl border border-slate-200 bg-white p-6 shadow-card sm:p-8'>
         {/* Subject Input */}
         <div>
           <h2 className='text-lg font-semibold text-slate-900'>Your subjects</h2>
@@ -226,6 +231,7 @@ export function CareerRecommenderClient({ institutions, programmes }: Props) {
             <p className='text-sm'>Select at least one subject to get career and course recommendations.</p>
           </div>
         )}
+      </div>
       </div>
     </div>
   );

@@ -68,14 +68,19 @@ export function CourseFinderClient({ institutions, programmes }: Props) {
   }, []);
 
   return (
-    <div className='mx-auto max-w-5xl px-4 py-16'>
-      <ToolsBreadcrumb currentPage='Course & Institution Finder' />
-      <h1 className='text-3xl font-semibold text-slate-900'>Course & Institution Finder</h1>
-      <p className='mt-4 text-slate-600'>
-        Search for a course and filter by province to find universities and colleges offering that qualification.
-      </p>
+    <div className='min-h-screen bg-slate-50'>
+      <div className='bg-navy-900 pb-12 pt-28'>
+        <div className='mx-auto max-w-5xl px-4 sm:px-6'>
+          <ToolsBreadcrumb currentPage='Course & Institution Finder' />
+          <h1 className='mt-2 text-3xl font-extrabold tracking-tight text-white md:text-4xl'>Course & Institution Finder</h1>
+          <p className='mt-3 max-w-2xl text-lg text-white/60'>
+            Search for a course and filter by province to find universities and colleges offering that qualification.
+          </p>
+        </div>
+      </div>
 
-      <div className='mt-8 space-y-6 rounded-3xl border border-slate-200 bg-white p-8'>
+      <div className='mx-auto max-w-5xl px-4 py-10 sm:px-6'>
+      <div className='space-y-6 rounded-3xl border border-slate-200 bg-white p-6 shadow-card sm:p-8'>
         {/* Search and Filters */}
         <div className='space-y-4'>
           <div className='relative'>
@@ -195,6 +200,7 @@ export function CourseFinderClient({ institutions, programmes }: Props) {
             <p className='text-sm'>Enter a course name to search for institutions.</p>
           </div>
         )}
+      </div>
       </div>
     </div>
   );

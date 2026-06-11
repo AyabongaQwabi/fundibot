@@ -98,14 +98,20 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
   }, []);
 
   return (
-    <div className='mx-auto max-w-5xl px-4 py-16'>
-      <ToolsBreadcrumb currentPage='University Qualification Checker' />
-      <h1 className='text-3xl font-semibold text-slate-900'>University Qualification Checker</h1>
-      <p className='mt-4 text-slate-600'>
-        Enter your Grade 12 marks to calculate your APS score and see which institutions you qualify for.
-      </p>
+    <div className='min-h-screen bg-slate-50'>
+      {/* Dark header */}
+      <div className='bg-navy-900 pb-12 pt-28'>
+        <div className='mx-auto max-w-5xl px-4 sm:px-6'>
+          <ToolsBreadcrumb currentPage='University Qualification Checker' />
+          <h1 className='mt-2 text-3xl font-extrabold tracking-tight text-white md:text-4xl'>University Qualification Checker</h1>
+          <p className='mt-3 max-w-2xl text-lg text-white/60'>
+            Enter your Grade 12 marks to calculate your APS score and see which institutions you qualify for.
+          </p>
+        </div>
+      </div>
 
-      <div className='mt-8 space-y-8 rounded-3xl border border-slate-200 bg-white p-8'>
+      <div className='mx-auto max-w-5xl px-4 py-10 sm:px-6'>
+      <div className='space-y-8 rounded-3xl border border-slate-200 bg-white p-6 shadow-card sm:p-8'>
         {/* Subject Input Section */}
         <div>
           <h2 className='text-lg font-semibold text-slate-900'>Your Subjects & Marks</h2>
@@ -241,6 +247,7 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
             </p>
           </div>
         )}
+      </div>
       </div>
     </div>
   );
