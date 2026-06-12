@@ -253,7 +253,7 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
                   return (
                     <div key={inst.id} className="rounded-2xl border border-slate-200 p-4">
                       <div className="flex items-center gap-3">
-                        <InstitutionLogo logo={inst.logo} name={inst.name} size={44} />
+                        <InstitutionLogo logo={inst.logo} name={inst.name} />
                         <div>
                           <h4 className="font-semibold text-slate-900">
                             {inst.short_name && (

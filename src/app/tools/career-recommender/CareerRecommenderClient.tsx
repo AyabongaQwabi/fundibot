@@ -252,7 +252,7 @@ export function CareerRecommenderClient({ institutions, programmes }: Props) {
                   >
                     <div className="flex items-start justify-between gap-2">
                       <div className="flex items-center gap-3">
-                        <InstitutionLogo logo={institution.logo} name={institution.name} size={44} />
+                        <InstitutionLogo logo={institution.logo} name={institution.name} />
                         <div>
                           <h4 className="font-semibold text-slate-900">
                             {institution.short_name && (

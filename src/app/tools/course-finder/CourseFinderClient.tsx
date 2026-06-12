@@ -286,7 +286,7 @@ export function CourseFinderClient({ institutions, programmes }: Props) {
                       {/* Header */}
                       <div className="flex items-start justify-between gap-3">
                         <div className="flex items-center gap-3">
-                          <InstitutionLogo logo={institution.logo} name={institution.name} size={44} />
+                          <InstitutionLogo logo={institution.logo} name={institution.name} />
                           <div>
                             <h3 className="font-bold text-slate-900 leading-snug">
                               {institution.short_name && institution.short_name.trim() !== '' && (

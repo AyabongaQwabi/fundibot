@@ -21,7 +21,7 @@
       "campuses_count": 6,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-347-nelson-mandela-metropolitan-university.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-347-nelson-mandela-metropolitan-university.json"
     },
     {
       "institution_id": "352",
@@ -36,7 +36,7 @@
       "campuses_count": 1,
       "aps_rules_count": 1,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-352-rhodes-university.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-352-rhodes-university.json"
     },
     {
       "institution_id": "363",
@@ -51,7 +51,7 @@
       "campuses_count": 65,
       "aps_rules_count": 1,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-363-university-of-fort-hare.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-363-university-of-fort-hare.json"
     },
     {
       "institution_id": "370",
@@ -66,7 +66,7 @@
       "campuses_count": 3,
       "aps_rules_count": 1,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-370-university-of-the-free-state.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-370-university-of-the-free-state.json"
     },
     {
       "institution_id": "413",
@@ -81,7 +81,7 @@
       "campuses_count": 1,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-413-sefako-makgatho-health-sciences-university.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-413-sefako-makgatho-health-sciences-university.json"
     },
     {
       "institution_id": "364",
@@ -96,7 +96,7 @@
       "campuses_count": 4,
       "aps_rules_count": 1,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-364-university-of-johannesburg.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-364-university-of-johannesburg.json"
     },
     {
       "institution_id": "372",
@@ -111,7 +111,7 @@
       "campuses_count": 6,
       "aps_rules_count": 4,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-372-university-of-the-witwatersrand.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-372-university-of-the-witwatersrand.json"
     },
     {
       "institution_id": "365",
@@ -126,7 +126,7 @@
       "campuses_count": 5,
       "aps_rules_count": 7,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-365-university-of-kwazulu-natal.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-365-university-of-kwazulu-natal.json"
     },
     {
       "institution_id": "366",
@@ -141,7 +141,7 @@
       "campuses_count": 1,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-366-university-of-limpopo.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-366-university-of-limpopo.json"
     },
     {
       "institution_id": "373",
@@ -156,7 +156,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-373-university-of-venda.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-373-university-of-venda.json"
     },
     {
       "institution_id": "412",
@@ -171,7 +171,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-412-university-of-mpumalanga.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-412-university-of-mpumalanga.json"
     },
     {
       "institution_id": "349",
@@ -186,7 +186,7 @@
       "campuses_count": 3,
       "aps_rules_count": 1,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-349-north-west-university.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-349-north-west-university.json"
     },
     {
       "institution_id": "411",
@@ -201,7 +201,7 @@
       "campuses_count": 0,
       "aps_rules_count": 1,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-411-sol-plaatje-university.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-411-sol-plaatje-university.json"
     },
     {
       "institution_id": "369",
@@ -216,7 +216,7 @@
       "campuses_count": 5,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-369-stellenbosch-university.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-369-stellenbosch-university.json"
     },
     {
       "institution_id": "362",
@@ -231,7 +231,7 @@
       "campuses_count": 6,
       "aps_rules_count": 12,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-362-university-of-cape-town.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-362-university-of-cape-town.json"
     },
     {
       "institution_id": "371",
@@ -246,7 +246,7 @@
       "campuses_count": 2,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-371-university-of-the-western-cape.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-371-university-of-the-western-cape.json"
     },
     {
       "institution_id": "367",
@@ -261,7 +261,7 @@
       "campuses_count": 7,
       "aps_rules_count": 3,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-367-university-of-pretoria.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-367-university-of-pretoria.json"
     },
     {
       "institution_id": "368",
@@ -276,7 +276,7 @@
       "campuses_count": 3,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-368-university-of-south-africa-unisa.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-368-university-of-south-africa-unisa.json"
     },
     {
       "institution_id": "374",
@@ -291,7 +291,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-374-university-of-zululand.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-374-university-of-zululand.json"
     },
     {
       "institution_id": "378",
@@ -306,7 +306,7 @@
       "campuses_count": 8,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-378-walter-sisulu-university-of-technology-and-science.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-378-walter-sisulu-university-of-technology-and-science.json"
     },
     {
       "institution_id": "326",
@@ -321,7 +321,7 @@
       "campuses_count": 0,
       "aps_rules_count": 4,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-326-central-university-of-technology-free-state.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-326-central-university-of-technology-free-state.json"
     },
     {
       "institution_id": "359",
@@ -336,7 +336,7 @@
       "campuses_count": 4,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-359-tshwane-university-of-technology.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-359-tshwane-university-of-technology.json"
     },
     {
       "institution_id": "375",
@@ -351,7 +351,7 @@
       "campuses_count": 2,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-375-vaal-university-of-technology.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-375-vaal-university-of-technology.json"
     },
     {
       "institution_id": "329",
@@ -366,7 +366,7 @@
       "campuses_count": 7,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-329-durban-university-of-technology.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-329-durban-university-of-technology.json"
     },
     {
       "institution_id": "342",
@@ -381,7 +381,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-342-mangosuthu-university-of-technology.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-342-mangosuthu-university-of-technology.json"
     },
     {
       "institution_id": "324",
@@ -396,7 +396,7 @@
       "campuses_count": 0,
       "aps_rules_count": 1,
       "has_profile": true,
-      "rich_file": "final/claude/merged/institutions/institution-324-cape-peninsula-university-of-technology.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-324-cape-peninsula-university-of-technology.json"
     },
     {
       "institution_id": "323",
@@ -411,7 +411,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-323-buffalo-city-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-323-buffalo-city-tvet-college.json"
     },
     {
       "institution_id": "307",
@@ -426,7 +426,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-307-eastcape-midlands-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-307-eastcape-midlands-tvet-college.json"
     },
     {
       "institution_id": "309",
@@ -441,7 +441,7 @@
       "campuses_count": 5,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-309-ikhala-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-309-ikhala-tvet-college.json"
     },
     {
       "institution_id": "310",
@@ -456,7 +456,7 @@
       "campuses_count": 5,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-310-king-hintsa-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-310-king-hintsa-tvet-college.json"
     },
     {
       "institution_id": "339",
@@ -471,7 +471,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-339-king-sabata-dalindyebo-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-339-king-sabata-dalindyebo-tvet-college.json"
     },
     {
       "institution_id": "351",
@@ -486,7 +486,7 @@
       "campuses_count": 3,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-351-port-elizabeth-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-351-port-elizabeth-tvet-college.json"
     },
     {
       "institution_id": "335",
@@ -501,7 +501,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-335-flavius-mareka-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-335-flavius-mareka-tvet-college.json"
     },
     {
       "institution_id": "337",
@@ -516,7 +516,7 @@
       "campuses_count": 0,
       "aps_rules_count": 6,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-337-goldfields-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-337-goldfields-tvet-college.json"
     },
     {
       "institution_id": "344",
@@ -531,7 +531,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-344-motheo-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-344-motheo-tvet-college.json"
     },
     {
       "institution_id": "306",
@@ -546,7 +546,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-306-central-johannesburg-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-306-central-johannesburg-tvet-college.json"
     },
     {
       "institution_id": "332",
@@ -561,7 +561,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-332-ekurhuleni-west-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-332-ekurhuleni-west-tvet-college.json"
     },
     {
       "institution_id": "319",
@@ -576,7 +576,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-319-south-west-gauteng-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-319-south-west-gauteng-tvet-college.json"
     },
     {
       "institution_id": "320",
@@ -591,7 +591,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-320-tshwane-south-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-320-tshwane-south-tvet-college.json"
     },
     {
       "institution_id": "327",
@@ -606,7 +606,7 @@
       "campuses_count": 62,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-327-coastal-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-327-coastal-tvet-college.json"
     },
     {
       "institution_id": "333",
@@ -621,7 +621,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-333-elangeni-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-333-elangeni-tvet-college.json"
     },
     {
       "institution_id": "345",
@@ -636,7 +636,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-345-mthashana-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-345-mthashana-tvet-college.json"
     },
     {
       "institution_id": "357",
@@ -651,7 +651,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-357-thekwini-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-357-thekwini-tvet-college.json"
     },
     {
       "institution_id": "360",
@@ -666,7 +666,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-360-umfolozi-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-360-umfolozi-tvet-college.json"
     },
     {
       "institution_id": "361",
@@ -681,7 +681,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-361-umgungundlovu-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-361-umgungundlovu-tvet-college.json"
     },
     {
       "institution_id": "325",
@@ -696,7 +696,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-325-capricorn-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-325-capricorn-tvet-college.json"
     },
     {
       "institution_id": "311",
@@ -711,7 +711,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-311-letaba-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-311-letaba-tvet-college.json"
     },
     {
       "institution_id": "376",
@@ -726,7 +726,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-376-vhembe-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-376-vhembe-tvet-college.json"
     },
     {
       "institution_id": "330",
@@ -741,7 +741,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-330-ehlanzeni-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-330-ehlanzeni-tvet-college.json"
     },
     {
       "institution_id": "348",
@@ -756,7 +756,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-348-nkangala-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-348-nkangala-tvet-college.json"
     },
     {
       "institution_id": "318",
@@ -771,7 +771,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-318-orbit-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-318-orbit-tvet-college.json"
     },
     {
       "institution_id": "356",
@@ -786,7 +786,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-356-taletso-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-356-taletso-tvet-college.json"
     },
     {
       "institution_id": "377",
@@ -801,7 +801,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-377-vuselela-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-377-vuselela-tvet-college.json"
     },
     {
       "institution_id": "350",
@@ -816,7 +816,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-350-northern-cape-rural-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-350-northern-cape-rural-tvet-college.json"
     },
     {
       "institution_id": "316",
@@ -831,7 +831,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-316-northern-cape-urban-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-316-northern-cape-urban-tvet-college.json"
     },
     {
       "institution_id": "322",
@@ -846,7 +846,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-322-boland-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-322-boland-tvet-college.json"
     },
     {
       "institution_id": "328",
@@ -861,7 +861,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-328-college-of-cape-town-for-tvet.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-328-college-of-cape-town-for-tvet.json"
     },
     {
       "institution_id": "317",
@@ -876,7 +876,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-317-northlink-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-317-northlink-tvet-college.json"
     },
     {
       "institution_id": "355",
@@ -891,7 +891,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-355-south-cape-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-355-south-cape-tvet-college.json"
     },
     {
       "institution_id": "331",
@@ -906,7 +906,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-331-ekurhuleni-east-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-331-ekurhuleni-east-tvet-college.json"
     },
     {
       "institution_id": "308",
@@ -921,7 +921,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-308-esayidi-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-308-esayidi-tvet-college.json"
     },
     {
       "institution_id": "334",
@@ -936,7 +936,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-334-false-bay-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-334-false-bay-tvet-college.json"
     },
     {
       "institution_id": "336",
@@ -951,7 +951,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-336-gert-sibande-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-336-gert-sibande-tvet-college.json"
     },
     {
       "institution_id": "338",
@@ -966,7 +966,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-338-ingwe-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-338-ingwe-tvet-college.json"
     },
     {
       "institution_id": "340",
@@ -981,7 +981,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-340-lephalale-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-340-lephalale-tvet-college.json"
     },
     {
       "institution_id": "312",
@@ -996,7 +996,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-312-lovedale-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-312-lovedale-tvet-college.json"
     },
     {
       "institution_id": "341",
@@ -1011,7 +1011,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-341-majuba-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-341-majuba-tvet-college.json"
     },
     {
       "institution_id": "313",
@@ -1026,7 +1026,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-313-maluti-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-313-maluti-tvet-college.json"
     },
     {
       "institution_id": "314",
@@ -1041,7 +1041,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-314-mnambithi-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-314-mnambithi-tvet-college.json"
     },
     {
       "institution_id": "343",
@@ -1056,7 +1056,7 @@
       "campuses_count": 0,
       "aps_rules_count": 2,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-343-mopani-south-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-343-mopani-south-tvet-college.json"
     },
     {
       "institution_id": "353",
@@ -1071,7 +1071,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-353-sedibeng-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-353-sedibeng-tvet-college.json"
     },
     {
       "institution_id": "354",
@@ -1086,7 +1086,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-354-sekhukhune-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-354-sekhukhune-tvet-college.json"
     },
     {
       "institution_id": "379",
@@ -1101,7 +1101,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-379-waterberg-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-379-waterberg-tvet-college.json"
     },
     {
       "institution_id": "380",
@@ -1116,7 +1116,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-380-west-coast-tvet-college.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-380-west-coast-tvet-college.json"
     },
     {
       "institution_id": "321",
@@ -1131,7 +1131,7 @@
       "campuses_count": 0,
       "aps_rules_count": 9,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-321-western-college-for-tvet.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-321-western-college-for-tvet.json"
     },
     {
       "institution_id": "199",
@@ -1146,7 +1146,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-199-agricultural-sector-education-and-training-authority-agriseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-199-agricultural-sector-education-and-training-authority-agriseta.json"
     },
     {
       "institution_id": "201",
@@ -1161,7 +1161,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-201-banking-sector-education-and-training-authority-bankseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-201-banking-sector-education-and-training-authority-bankseta.json"
     },
     {
       "institution_id": "206",
@@ -1176,7 +1176,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-206-chemical-industries-education-and-training-authority-chieta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-206-chemical-industries-education-and-training-authority-chieta.json"
     },
     {
       "institution_id": "209",
@@ -1191,7 +1191,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-209-construction-education-and-training-authority-ceta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-209-construction-education-and-training-authority-ceta.json"
     },
     {
       "institution_id": "215",
@@ -1206,7 +1206,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-215-culture-arts-tourism-hospitality-and-sport-sector-education-and-training-authority-cathsseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-215-culture-arts-tourism-hospitality-and-sport-sector-education-and-training-authority-cathsseta.json"
     },
     {
       "institution_id": "221",
@@ -1221,7 +1221,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-221-education-training-and-development-practices-sector-education-and-training-authority-etdp-seta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-221-education-training-and-development-practices-sector-education-and-training-authority-etdp-seta.json"
     },
     {
       "institution_id": "222",
@@ -1236,7 +1236,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-222-energy-and-water-sector-education-and-training-authority-ewseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-222-energy-and-water-sector-education-and-training-authority-ewseta.json"
     },
     {
       "institution_id": "224",
@@ -1251,7 +1251,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-224-fibre-processing-and-manufacturing-sector-education-and-training-authority-fp-m-seta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-224-fibre-processing-and-manufacturing-sector-education-and-training-authority-fp-m-seta.json"
     },
     {
       "institution_id": "226",
@@ -1266,7 +1266,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-226-finance-and-accounting-services-sector-education-and-training-authority-fasset.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-226-finance-and-accounting-services-sector-education-and-training-authority-fasset.json"
     },
     {
       "institution_id": "105",
@@ -1281,7 +1281,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-105-health-and-welfare-sector-education-and-training-authority-hwseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-105-health-and-welfare-sector-education-and-training-authority-hwseta.json"
     },
     {
       "institution_id": "233",
@@ -1296,7 +1296,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-233-insurance-sector-education-and-training-authority-inseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-233-insurance-sector-education-and-training-authority-inseta.json"
     },
     {
       "institution_id": "243",
@@ -1311,7 +1311,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-243-manufacturing-engineering-and-related-services-sector-education-and-training-authority-merseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-243-manufacturing-engineering-and-related-services-sector-education-and-training-authority-merseta.json"
     },
     {
       "institution_id": "246",
@@ -1326,7 +1326,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-246-media-information-and-communication-technologies-sector-education-and-training-authority-mict-seta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-246-media-information-and-communication-technologies-sector-education-and-training-authority-mict-seta.json"
     },
     {
       "institution_id": "271",
@@ -1341,7 +1341,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-271-public-service-sector-education-and-training-authority-pseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-271-public-service-sector-education-and-training-authority-pseta.json"
     },
     {
       "institution_id": "156",
@@ -1356,7 +1356,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-156-safety-and-security-sector-education-and-training-authority-sasseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-156-safety-and-security-sector-education-and-training-authority-sasseta.json"
     },
     {
       "institution_id": "277",
@@ -1371,7 +1371,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-277-services-sector-education-and-training-authority-sseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-277-services-sector-education-and-training-authority-sseta.json"
     },
     {
       "institution_id": "291",
@@ -1386,7 +1386,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-291-transport-education-training-authority-teta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-291-transport-education-training-authority-teta.json"
     },
     {
       "institution_id": "299",
@@ -1401,7 +1401,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-299-wholesale-and-retail-sector-education-and-training-authority-w-rseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-299-wholesale-and-retail-sector-education-and-training-authority-w-rseta.json"
     },
     {
       "institution_id": "228",
@@ -1416,7 +1416,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-228-food-and-beverage-manufacturing-industry-sector-education-and-training-authority-foodbev-seta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-228-food-and-beverage-manufacturing-industry-sector-education-and-training-authority-foodbev-seta.json"
     },
     {
       "institution_id": "240",
@@ -1431,7 +1431,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-240-local-government-sector-education-and-training-authority-lgseta.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-240-local-government-sector-education-and-training-authority-lgseta.json"
     },
     {
       "institution_id": "120",
@@ -1446,7 +1446,7 @@
       "campuses_count": 0,
       "aps_rules_count": 0,
       "has_profile": false,
-      "rich_file": "final/claude/merged/institutions/institution-120-mining-qualifications-authority-mqa.rich.json"
+      "rich_file": "final/claude/merged/institutions/institution-120-mining-qualifications-authority-mqa.json"
     }
   ]
 }
