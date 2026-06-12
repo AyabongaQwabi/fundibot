@@ -47,6 +47,8 @@ export type ToolInstitution = {
   official_website: string;
   logo: string | null;
   short_name: string | null;
+  colors: string[] | null;
+  motto: string | null;
 };
 
 export type ToolProgramme = {
@@ -72,6 +74,8 @@ export type RichInstitution = {
   profile?: {
     short_name?: string;
     logo?: string;
+    colors?: string[],
+    motto?: string,
   };
   programmes?: Array<{
     name: string;

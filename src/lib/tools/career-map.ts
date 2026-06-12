@@ -1,35 +1,38 @@
+// Maps NSC subject keywords → career clusters. Keys are lowercase substrings to match against subject names.
 export const SUBJECT_CAREER_CLUSTERS: Record<string, string[]> = {
-  mathematics: ['Engineering', 'Data Science & IT', 'Finance & Accounting', 'Architecture'],
-  'physical sciences': ['Engineering', 'Medicine & Health Sciences', 'Environmental Science'],
-  'life sciences': [
-    'Medicine & Health Sciences',
-    'Veterinary Science',
-    'Biotechnology',
-    'Agriculture',
-  ],
-  'agricultural sciences': ['Agriculture', 'Environmental Science', 'Food Science'],
+  mathematics: ['Engineering', 'Data Science & IT', 'Finance & Accounting', 'Architecture', 'Actuarial Science'],
+  'mathematical literacy': ['Business & Management', 'Finance & Accounting', 'Hospitality & Tourism'],
+  'physical sciences': ['Engineering', 'Medicine & Health Sciences', 'Environmental Science', 'Geology'],
+  'life sciences': ['Medicine & Health Sciences', 'Veterinary Science', 'Biotechnology', 'Agriculture', 'Environmental Science'],
+  'agricultural sciences': ['Agriculture', 'Environmental Science', 'Food Science', 'Veterinary Science'],
   accounting: ['Finance & Accounting', 'Business & Management', 'Auditing'],
   'business studies': ['Business & Management', 'Entrepreneurship', 'Marketing'],
-  economics: ['Economics', 'Finance & Accounting', 'Business & Management'],
-  history: ['Law', 'Politics & Governance', 'Social Sciences', 'Journalism'],
-  geography: ['Environmental Science', 'Urban Planning', 'Geology', 'GIS'],
+  economics: ['Economics', 'Finance & Accounting', 'Business & Management', 'Actuarial Science'],
+  history: ['Law', 'Politics & Governance', 'Social Sciences', 'Journalism', 'Education'],
+  geography: ['Environmental Science', 'Urban Planning', 'Geology', 'GIS', 'Agriculture'],
   'information technology': ['Data Science & IT', 'Software Development', 'Cybersecurity'],
   'computer applications': ['Data Science & IT', 'Digital Media', 'Business Systems'],
-  english: ['Journalism', 'Education', 'Law', 'Communications'],
+  coding: ['Software Development', 'Data Science & IT'],
+  english: ['Journalism', 'Education', 'Law', 'Communications', 'Social Sciences'],
+  afrikaans: ['Education', 'Journalism', 'Communications'],
   'visual arts': ['Design & Creative Arts', 'Architecture', 'Media'],
   music: ['Performing Arts', 'Music Production', 'Education'],
   'dramatic arts': ['Performing Arts', 'Film & Media', 'Communications'],
+  'dance studies': ['Performing Arts', 'Education'],
   tourism: ['Hospitality & Tourism', 'Business & Management'],
   hospitality: ['Hospitality & Tourism', 'Culinary Arts'],
   'civil technology': ['Civil Engineering', 'Construction', 'Architecture'],
   'electrical technology': ['Electrical Engineering', 'Electronics', 'Renewable Energy'],
   'mechanical technology': ['Mechanical Engineering', 'Manufacturing', 'Automotive'],
+  'engineering graphic': ['Engineering', 'Architecture', 'Design & Creative Arts'],
+  'religion studies': ['Social Sciences', 'Education'],
 };
 
 export const CAREER_TITLES: Record<string, string[]> = {
   Engineering: ['Civil Engineer', 'Mechanical Engineer', 'Electrical Engineer', 'Mining Engineer'],
   'Data Science & IT': ['Software Developer', 'Data Analyst', 'Systems Analyst', 'DevOps Engineer'],
   'Finance & Accounting': ['Chartered Accountant', 'Financial Analyst', 'Auditor', 'Tax Consultant'],
+  'Actuarial Science': ['Actuary', 'Risk Analyst', 'Quantitative Analyst'],
   Architecture: ['Architect', 'Urban Designer', 'Interior Designer', 'Landscape Architect'],
   'Medicine & Health Sciences': ['Doctor', 'Nurse', 'Physiotherapist', 'Pharmacist', 'Dentist'],
   'Environmental Science': ['Environmental Scientist', 'Ecologist', 'Conservation Officer'],
@@ -72,38 +75,68 @@ export const CAREER_TITLES: Record<string, string[]> = {
   Automotive: ['Automotive Engineer', 'Mechanic Supervisor'],
 };
 
-/** Match career clusters from a subject name via partial keyword match. */
-export function matchClusters(subject: string): string[] {
-  const lower = subject.toLowerCase();
-  const clusters = new Set<string>();
+// Programme name keywords to search per cluster.
+export const CLUSTER_PROGRAMME_KEYWORDS: Record<string, string[]> = {
+  Engineering: ['engineering'],
+  'Data Science & IT': ['computer science', 'information technology', 'data science', 'information systems'],
+  'Finance & Accounting': ['accounting', 'finance', 'financial management'],
+  'Actuarial Science': ['actuarial', 'statistics', 'mathematical science'],
+  Architecture: ['architecture'],
+  'Medicine & Health Sciences': ['medicine', 'health sciences', 'medical', 'clinical'],
+  'Environmental Science': ['environmental', 'ecology', 'conservation'],
+  'Veterinary Science': ['veterinary', 'animal science'],
+  Biotechnology: ['biotechnology', 'biochemistry'],
+  Agriculture: ['agriculture', 'agriscience', 'agronomy', 'horticulture'],
+  'Food Science': ['food science', 'food technology', 'nutrition', 'dietetics'],
+  'Business & Management': ['business administration', 'management', 'bcom', 'commerce'],
+  Marketing: ['marketing'],
+  Economics: ['economics', 'econometrics'],
+  Auditing: ['auditing', 'forensic'],
+  Law: ['law', 'llb'],
+  'Social Sciences': ['social work', 'sociology', 'social science', 'community development'],
+  Journalism: ['journalism', 'media studies', 'communication'],
+  'Urban Planning': ['town planning', 'urban planning'],
+  Geology: ['geology', 'geoscience', 'earth science'],
+  'Software Development': ['software engineering', 'computer science'],
+  Cybersecurity: ['cybersecurity', 'information security'],
+  'Design & Creative Arts': ['design', 'fine arts', 'visual arts'],
+  Education: ['education', 'teaching', 'bed '],
+  'Hospitality & Tourism': ['tourism', 'hospitality', 'hotel management'],
+  'Civil Engineering': ['civil engineering'],
+  'Electrical Engineering': ['electrical engineering', 'electronics'],
+  'Mechanical Engineering': ['mechanical engineering'],
+  Pharmacy: ['pharmacy', 'pharmaceutical'],
+  Psychology: ['psychology', 'counselling'],
+};
 
-  for (const [keyword, clusterList] of Object.entries(SUBJECT_CAREER_CLUSTERS)) {
-    if (lower.includes(keyword)) {
-      clusterList.forEach((c) => clusters.add(c));
+export type SubjectInput = { subject: string; percentage: number };
+
+/** Returns clusters scored by how strongly the subject set points toward them.
+ *  Score = sum of percentages for each subject that maps to that cluster, so a
+ *  student strong in both Maths (85%) and Physical Sciences (80%) scores
+ *  Engineering 165, much higher than a student who only has one of them. */
+export function scoreClusters(subjects: SubjectInput[]): Array<{ cluster: string; score: number }> {
+  const scores = new Map<string, number>();
+
+  for (const { subject, percentage } of subjects) {
+    if (!subject.trim() || percentage <= 0) continue;
+    const lower = subject.toLowerCase();
+
+    for (const [keyword, clusters] of Object.entries(SUBJECT_CAREER_CLUSTERS)) {
+      if (lower.includes(keyword)) {
+        for (const cluster of clusters) {
+          scores.set(cluster, (scores.get(cluster) ?? 0) + percentage);
+        }
+      }
     }
   }
 
-  return Array.from(clusters);
+  return Array.from(scores.entries())
+    .map(([cluster, score]) => ({ cluster, score }))
+    .sort((a, b) => b.score - a.score);
 }
 
-/** Collect unique clusters from multiple subjects. */
-export function matchClustersFromSubjects(subjects: string[]): string[] {
-  const clusters = new Set<string>();
-  for (const subject of subjects) {
-    matchClusters(subject).forEach((c) => clusters.add(c));
-  }
-  return Array.from(clusters);
-}
-
-/** Keyword to pre-fill course finder search from a cluster name. */
-export function clusterSearchKeyword(cluster: string): string {
-  const map: Record<string, string> = {
-    Engineering: 'engineering',
-    'Medicine & Health Sciences': 'medicine',
-    'Data Science & IT': 'computer science',
-    'Finance & Accounting': 'accounting',
-    Law: 'law',
-    Nursing: 'nursing',
-  };
-  return map[cluster] ?? cluster.split(' ')[0].toLowerCase();
+/** Top N clusters by weighted score. */
+export function topClusters(subjects: SubjectInput[], n = 6): string[] {
+  return scoreClusters(subjects).slice(0, n).map((e) => e.cluster);
 }

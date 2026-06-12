@@ -11,6 +11,20 @@ import type {
 
 // Point to the seed data in the fundibot folder (outside src/)
 const SEED_DIR = path.join(process.cwd(), 'seed', 'final', 'claude', 'merged');
+const LOGOS_DIR = path.join(process.cwd(), 'public', 'logos');
+
+/** Build a map of institution_id → local public path for downloaded logos. */
+function buildLogoMap(): Map<string, string> {
+  const map = new Map<string, string>();
+  if (!fs.existsSync(LOGOS_DIR)) return map;
+  for (const file of fs.readdirSync(LOGOS_DIR)) {
+    const id = path.basename(file, path.extname(file));
+    map.set(id, `/logos/${file}`);
+  }
+  return map;
+}
+
+const logoMap = buildLogoMap();
 
 function readJson<T>(filePath: string): T {
   return JSON.parse(fs.readFileSync(filePath, 'utf8')) as T;
@@ -20,24 +34,32 @@ function isSeta(type: string): boolean {
   return type === 'seta';
 }
 
-function loadProfileFromRich(richFile: string): { logo: string | null; short_name: string | null } {
+function loadProfileFromRich(richFile: string): { logo: string | null; short_name: string | null, colors: string[] | null; motto: string | null; } {
   try {
     const fullPath = path.join(process.cwd(), 'seed', richFile);
-    if (!fs.existsSync(fullPath)) return { logo: null, short_name: null };
+    if (!fs.existsSync(fullPath)) return { logo: null, short_name: null, motto: null, colors: null };
     const rich = readJson<RichInstitution>(fullPath);
     return {
       logo: rich.profile?.logo ?? null,
       short_name: rich.profile?.short_name ?? null,
+      colors:rich.profile?.colors ?? null,
+      motto: rich.profile?.motto ?? null,
     };
   } catch {
-    return { logo: null, short_name: null };
+    return { logo: null, short_name: null, motto: null, colors: null };
   }
 }
+
 
 let cachedData: ToolsData | null = null;
 
 function loadToolsData(): ToolsData {
-  if (cachedData) return cachedData;
+//   if (cachedData) {
+//     console.log("returning cached data", cachedData)
+//     return cachedData;
+
+//   }
+
 
   const indexPath = path.join(SEED_DIR, 'index.json');
   const programmesIndexPath = path.join(SEED_DIR, 'index.programmes.json');
@@ -58,7 +80,7 @@ function loadToolsData(): ToolsData {
   const institutions: ToolInstitution[] = nonSetaInstitutions.map((inst) => {
     const profile = inst.has_profile
       ? loadProfileFromRich(inst.rich_file)
-      : { logo: null, short_name: null };
+      : { logo: null, short_name: null, colors: [], motto: null };
 
     return {
       id: inst.institution_id,
@@ -68,10 +90,13 @@ function loadToolsData(): ToolsData {
       province: inst.province,
       city: inst.city,
       official_website: inst.official_website,
-      logo: profile.logo,
+      logo: logoMap.get(inst.institution_id) ?? null,
       short_name: profile.short_name,
+      colors: profile.colors,
+      motto: profile.motto,
     };
   });
+
 
   const programmes: ToolProgramme[] = programmesIndex.programmes
     .filter((p) => nonSetaIds.has(p.institution_id))
