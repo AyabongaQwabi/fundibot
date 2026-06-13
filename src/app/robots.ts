@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const BASE_URL = 'https://fundibot.co.za';
+const BASE_URL = 'https://fundibot.qwabi.co.za';
 
 export default function robots(): MetadataRoute.Robots {
   return {

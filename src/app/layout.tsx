@@ -18,7 +18,7 @@ const baloo = Baloo_2({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://fundibot.co.za'),
+  metadataBase: new URL('https://fundibot.qwabi.co.za'),
   title: {
     default: 'Fundibot — College in Your Pocket | Free Course Finder for SA Matrics',
     template: '%s | Fundibot',
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     title: 'Fundibot — College in Your Pocket',
     description:
       'Find your course before your parents choose for you. Free course, institution and bursary finder for every South African matriculant.',
-    url: 'https://fundibot.co.za',
+    url: 'https://fundibot.qwabi.co.za',
     siteName: 'Fundibot',
     type: 'website',
     locale: 'en_ZA',

@@ -1,4 +1,4 @@
-const BASE_URL = 'https://fundibot.co.za';
+const BASE_URL = 'https://fundibot.qwabi.co.za';
 
 /**
  * Site-wide structured data: Organization + WebSite.

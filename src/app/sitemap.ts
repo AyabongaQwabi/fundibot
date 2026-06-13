@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { getAllInstitutionIds } from '@/lib/tools/data';
 
-const BASE_URL = 'https://fundibot.co.za';
+const BASE_URL = 'https://fundibot.qwabi.co.za';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
