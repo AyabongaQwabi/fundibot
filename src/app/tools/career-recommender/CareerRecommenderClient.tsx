@@ -106,7 +106,7 @@ export function CareerRecommenderClient({ institutions, programmes }: Props) {
 
   return (
     <div className="min-h-screen bg-slate-50">
-      <div className="bg-navy-900 pb-12 pt-28">
+      <div className="bg-sky-700 pb-12 pt-28">
         <div className="mx-auto max-w-5xl px-4 sm:px-6">
           <ToolsBreadcrumb currentPage="Career & Course Recommender" />
           <h1 className="mt-2 text-3xl font-extrabold tracking-tight text-white md:text-4xl">

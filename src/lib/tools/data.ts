@@ -109,6 +109,7 @@ function loadToolsData(): ToolsData {
       faculty_name: p.faculty_name,
       min_aps: p.min_aps,
       career_outcomes: p.career_outcomes ?? [],
+      points_system: (p as Record<string, unknown>)._points_system as ToolProgramme['points_system'] ?? null,
     }));
 
   cachedData = { institutions, programmes };
@@ -152,6 +153,7 @@ export function getInstitutionProfile(id: string): InstitutionProfile | null {
     student_count: null,
     accreditation: null,
     qualification_types: [],
+    points_system: 'aps_points',
     contact: null,
     campuses: [],
     faculties: [],
@@ -169,6 +171,11 @@ export function getInstitutionProfile(id: string): InstitutionProfile | null {
 
   try {
     const rich = readJson<RichInstitution>(richPath);
+    // Derive points system from first programme that has it tagged
+    const pointsSystem = (rich.programmes ?? [])
+      .map((p) => p._points_system)
+      .find(Boolean) ?? 'aps_points';
+
     return {
       ...base,
       application_url: rich.meta.application_url ?? null,
@@ -177,6 +184,7 @@ export function getInstitutionProfile(id: string): InstitutionProfile | null {
       distance_learning: rich.meta.distance_learning ?? null,
       accreditation: rich.meta.accreditation ?? null,
       qualification_types: rich.meta.qualification_types ?? [],
+      points_system: pointsSystem,
       student_count: rich.profile?.student_count != null
         ? String(rich.profile.student_count)
         : null,

@@ -59,6 +59,34 @@ export type ToolProgramme = {
   faculty_name: string | null;
   min_aps: number | null;
   career_outcomes: string[];
+  points_system: PointsSystem | null;
+};
+
+export type PointsSystem = 'aps_points' | 'uwc_points' | 'uct_fps' | 'up_points' | 'tvet_none';
+
+export type UwcSubjectRequirement = {
+  subject: string;
+  uwc_code: number;
+  operator?: 'OR' | 'AND';
+  alternative?: { subject: string; uwc_code: number };
+};
+
+export type UctAdmissionBand = {
+  band: 'A' | 'B' | 'C';
+  label: 'guaranteed_admission' | 'probable_admission' | 'possible_admission';
+  eligible: 'all_applicants' | 'sa_redress_only';
+  score_type: 'fps' | 'wps' | null;
+  minimum_score: number | null;
+  subject_requirements: string[];
+  nbt_required: boolean;
+};
+
+export type Pricing = {
+  amount_min: number;
+  amount_max?: number;
+  currency: 'ZAR';
+  label?: string;
+  granularity: 'programme' | 'faculty' | 'institutional';
 };
 
 export type RichInstitution = {
@@ -111,14 +139,25 @@ export type RichInstitution = {
   }>;
   programmes?: Array<{
     name: string;
-    qualification_type?: string;
-    faculty_name?: string;
+    qualification_type?: string | null;
+    faculty_name?: string | null;
     min_aps?: number | null;
-    subjects_compulsory?: string[];
+    subjects_compulsory?: Array<{ subject: string; minimum_level?: number; minimum_percentage?: number | null; minimum_nsc_level?: number | null; notes?: string }> | string[];
+    subject_or_groups?: unknown[];
     career_outcomes?: string[];
     duration?: string | null;
     study_mode?: string | null;
     nqf_level?: number | null;
+    fees_per_year?: number | null;
+    pricing?: Pricing | null;
+    admission_requirements_raw?: string[];
+    uwc_requirements?: UwcSubjectRequirement[];
+    admission_bands?: UctAdmissionBand[];
+    uct_fps_minimum?: number | null;
+    uct_wps_minimum?: number | null;
+    _points_system?: PointsSystem | null;
+    _qual_type_inferred?: boolean;
+    _admission_is_default?: boolean;
   }>;
   admission?: {
     aps_name?: string | null;
@@ -157,6 +196,7 @@ export type InstitutionProfile = {
   student_count: string | null;
   accreditation: Record<string, string> | null;
   qualification_types: string[];
+  points_system: PointsSystem;
   contact: RichInstitution['contact'] | null;
   campuses: NonNullable<RichInstitution['campuses']>;
   faculties: NonNullable<RichInstitution['faculties']>;

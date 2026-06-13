@@ -173,15 +173,17 @@ export function CourseFinderClient({ institutions, programmes }: Props) {
 
   return (
     <div className="min-h-screen bg-slate-50">
-      <div className="bg-navy-900 pb-12 pt-28">
+      <div className="bg-sky-700 pb-12 pt-28">
         <div className="mx-auto max-w-5xl px-4 sm:px-6">
           <ToolsBreadcrumb currentPage="Course & Institution Finder" />
-          <h1 className="mt-2 text-3xl font-extrabold tracking-tight text-white md:text-4xl">
-            Course & Institution Finder
+          <div className="mt-2 inline-flex items-center gap-2 rounded-full border border-brand-gold/40 bg-brand-gold/15 px-3 py-1 text-xs font-bold uppercase tracking-widest text-brand-gold-light">
+            ⭐ Start here
+          </div>
+          <h1 className="mt-3 text-3xl font-extrabold tracking-tight text-white md:text-4xl">
+            Find every institution offering your course.
           </h1>
           <p className="mt-3 max-w-2xl text-lg text-white/60">
-            Search for a course and filter by province to find universities and colleges offering
-            that qualification.
+            Type the course you want. Pick your province. We'll show you every university, UoT, and TVET college in SA that offers it — with APS requirements and links.
           </p>
         </div>
       </div>

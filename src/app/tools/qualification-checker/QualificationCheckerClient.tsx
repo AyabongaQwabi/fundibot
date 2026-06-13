@@ -11,6 +11,67 @@ import type { ToolInstitution, ToolProgramme } from '@/lib/tools/types';
 
 type SubjectMark = { subject: string; percentage: number };
 
+// ── UWC Points calculation ────────────────────────────────────────────────────
+// Returns total UWC points for a subject list (best 6 subjects, LO capped).
+// UWC uses percentage ranges mapped to weighted points per subject category.
+function calcUwcPoints(subjects: SubjectMark[]): number {
+  const pctToCode = (pct: number): number => {
+    if (pct >= 90) return 8;
+    if (pct >= 80) return 7;
+    if (pct >= 70) return 6;
+    if (pct >= 60) return 5;
+    if (pct >= 50) return 4;
+    if (pct >= 40) return 3;
+    if (pct >= 30) return 2;
+    if (pct >= 20) return 1;
+    return 0;
+  };
+  const codeToPoints = (code: number, category: 'english' | 'maths' | 'lo' | 'other'): number => {
+    const tables: Record<typeof category, number[]> = {
+      english: [0, 1, 3, 5, 7, 9, 11, 13, 15],
+      maths:   [0, 1, 3, 5, 7, 9, 11, 13, 15],
+      lo:      [0, 1, 1, 1, 2, 2, 2, 3, 3],
+      other:   [0, 1, 2, 3, 4, 5, 6, 7, 8],
+    };
+    return tables[category][code] ?? 0;
+  };
+  const getCategory = (subj: string): 'english' | 'maths' | 'lo' | 'other' => {
+    const s = subj.toLowerCase();
+    if (s.includes('english')) return 'english';
+    if (s.includes('mathematics') || s.includes('maths')) return 'maths';
+    if (s.includes('life orientation')) return 'lo';
+    return 'other';
+  };
+  const valid = subjects.filter((s) => s.subject.trim() && s.percentage > 0);
+  const scored = valid.map((s) => {
+    const cat = getCategory(s.subject);
+    const code = pctToCode(s.percentage);
+    return { ...s, points: codeToPoints(code, cat), cat };
+  });
+  // Sort descending, cap LO, take best 6
+  scored.sort((a, b) => b.points - a.points);
+  let total = 0;
+  let count = 0;
+  for (const s of scored) {
+    if (count >= 6) break;
+    total += s.points;
+    count++;
+  }
+  return total;
+}
+
+// ── UCT FPS calculation (simplified — Commerce/Eng/Hum/Law faculties) ─────────
+// Returns FPS out of 600 (LO excluded). Science/Health require manual NBT input.
+function calcUctFps(subjects: SubjectMark[]): number {
+  const valid = subjects.filter((s) => {
+    const sl = s.subject.toLowerCase();
+    return s.subject.trim() && s.percentage > 0 && !sl.includes('life orientation');
+  });
+  // Sort descending by percentage, take best 6
+  const best6 = [...valid].sort((a, b) => b.percentage - a.percentage).slice(0, 6);
+  return best6.reduce((sum, s) => sum + s.percentage, 0);
+}
+
 type Props = {
   institutions: ToolInstitution[];
   programmes: ToolProgramme[];
@@ -71,6 +132,9 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
     ).slice(0, 12);
   }, [courseQuery, fuse]);
 
+  const uwcPoints = useMemo(() => calcUwcPoints(marks), [marks]);
+  const uctFps    = useMemo(() => calcUctFps(marks), [marks]);
+
   // Programmes matching the selected course that the student qualifies for
   const matchedProgrammes = useMemo(() => {
     if (!selectedCourse) return [];
@@ -78,20 +142,29 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
     return programmes.filter((p) => {
       const name = (p.normalized_name ?? p.name).toLowerCase();
       const nameMatch = name === lower || name.includes(lower);
-      const passesAps = !p.min_aps || p.min_aps <= 1 || apsScore >= p.min_aps;
-      return nameMatch && passesAps;
+      if (!nameMatch) return false;
+      // Points-system-aware qualification check
+      if (!p.min_aps || p.min_aps <= 1) return true;
+      if (p.points_system === 'uwc_points') return uwcPoints >= p.min_aps;
+      if (p.points_system === 'uct_fps')   return uctFps >= p.min_aps;
+      if (p.points_system === 'tvet_none') return true; // TVET doesn't use APS
+      return apsScore >= p.min_aps;
     });
-  }, [selectedCourse, programmes, apsScore]);
+  }, [selectedCourse, programmes, apsScore, uwcPoints, uctFps]);
 
-  // Programmes matching the course but requiring a higher APS (so we can show "close" results)
+  // Programmes matching the course but requiring a higher score (near-miss)
   const nearMissProgrammes = useMemo(() => {
     if (!selectedCourse || matchedProgrammes.length > 0) return [];
     const lower = selectedCourse.toLowerCase();
     return programmes.filter((p) => {
       const name = (p.normalized_name ?? p.name).toLowerCase();
-      return (name === lower || name.includes(lower)) && p.min_aps && apsScore < p.min_aps;
+      if (!(name === lower || name.includes(lower))) return false;
+      if (!p.min_aps || p.min_aps <= 1) return false;
+      if (p.points_system === 'uwc_points') return uwcPoints < p.min_aps;
+      if (p.points_system === 'uct_fps')   return uctFps < p.min_aps;
+      return apsScore < p.min_aps;
     });
-  }, [selectedCourse, programmes, apsScore, matchedProgrammes.length]);
+  }, [selectedCourse, programmes, apsScore, uwcPoints, uctFps, matchedProgrammes.length]);
 
   const qualifyingInstitutions = useMemo(() => {
     const ids = new Set(matchedProgrammes.map((p) => p.institution_id));
@@ -112,7 +185,7 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
 
   return (
     <div className="min-h-screen bg-slate-50">
-      <div className="bg-navy-900 pb-12 pt-28">
+      <div className="bg-sky-700 pb-12 pt-28">
         <div className="mx-auto max-w-5xl px-4 sm:px-6">
           <ToolsBreadcrumb currentPage="University Qualification Checker" />
           <h1 className="mt-2 text-3xl font-extrabold tracking-tight text-white md:text-4xl">
@@ -178,22 +251,44 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
             </button>
           </div>
 
-          {/* APS Score */}
-          <div className="flex items-center gap-6 rounded-2xl bg-slate-50 p-4">
-            <div>
-              <p className="text-xs text-slate-500">Your APS score</p>
-              <p className="mt-1 text-4xl font-bold text-slate-900">
-                {apsScore}
-                <span className="text-base font-normal text-slate-400">/42</span>
+          {/* Score Summary */}
+          <div className="rounded-2xl bg-slate-50 p-4 space-y-3">
+            <div className="flex items-center gap-6">
+              <div>
+                <p className="text-xs text-slate-500">APS score</p>
+                <p className="mt-1 text-4xl font-bold text-slate-900">
+                  {apsScore}
+                  <span className="text-base font-normal text-slate-400">/42</span>
+                </p>
+              </div>
+              {uwcPoints > 0 && (
+                <div>
+                  <p className="text-xs text-slate-500">UWC Points</p>
+                  <p className="mt-1 text-4xl font-bold text-slate-900">{uwcPoints}</p>
+                </div>
+              )}
+              {uctFps > 0 && (
+                <div>
+                  <p className="text-xs text-slate-500">UCT FPS</p>
+                  <p className="mt-1 text-4xl font-bold text-slate-900">
+                    {uctFps}
+                    <span className="text-base font-normal text-slate-400">/600</span>
+                  </p>
+                </div>
+              )}
+              <div className="flex-1 text-sm text-slate-500 leading-relaxed">
+                {apsScore === 0 && 'Enter your marks above to calculate your scores.'}
+                {apsScore > 0 && apsScore < 20 && 'Your APS qualifies for TVET colleges and some diploma programmes.'}
+                {apsScore >= 20 && apsScore < 28 && 'Your APS qualifies for diploma programmes and some degree programmes.'}
+                {apsScore >= 28 && apsScore < 35 && 'Your APS qualifies for most degree programmes.'}
+                {apsScore >= 35 && 'Your APS qualifies for competitive programmes including medicine and law.'}
+              </div>
+            </div>
+            {(uwcPoints > 0 || uctFps > 0) && (
+              <p className="text-xs text-slate-400">
+                UWC Points and UCT FPS are shown automatically when relevant programmes are found. These use different scales to standard APS.
               </p>
-            </div>
-            <div className="flex-1 text-sm text-slate-500 leading-relaxed">
-              {apsScore === 0 && 'Enter your marks above to calculate your APS score.'}
-              {apsScore > 0 && apsScore < 20 && 'Your APS qualifies for TVET colleges and some diploma programmes.'}
-              {apsScore >= 20 && apsScore < 28 && 'Your APS qualifies for diploma programmes and some degree programmes.'}
-              {apsScore >= 28 && apsScore < 35 && 'Your APS qualifies for most degree programmes.'}
-              {apsScore >= 35 && 'Your APS qualifies for competitive programmes including medicine and law.'}
-            </div>
+            )}
           </div>
 
           {/* Course Search */}
@@ -277,7 +372,7 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
                             <span>{prog.name}</span>
                             {prog.min_aps && prog.min_aps > 1 && (
                               <span className="text-xs text-slate-400">
-                                requires APS {prog.min_aps}+
+                                requires {prog.points_system === 'uwc_points' ? 'UWC Points' : prog.points_system === 'uct_fps' ? 'FPS' : 'APS'} {prog.min_aps}+
                               </span>
                             )}
                             {prog.qualification_type && (
@@ -313,26 +408,31 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
             </div>
           )}
 
-          {/* Near-miss — found the course but APS too low */}
+          {/* Near-miss — found the course but score too low */}
           {selectedCourse && qualifyingInstitutions.length === 0 && nearMissProgrammes.length > 0 && (
             <div className="rounded-2xl bg-amber-50 p-5">
               <p className="font-semibold text-amber-900">
-                Your APS of {apsScore} is below the requirement at {nearMissProgrammes.length} institution
+                Your score is below the requirement at {nearMissProgrammes.length} institution
                 {nearMissProgrammes.length !== 1 ? 's' : ''}
               </p>
-              <p className="mt-1 text-sm text-amber-800">
-                Here&apos;s what you&apos;d need to qualify:
-              </p>
+              <p className="mt-1 text-sm text-amber-800">Here&apos;s what you&apos;d need to qualify:</p>
               <ul className="mt-3 space-y-1">
                 {nearMissProgrammes.slice(0, 5).map((prog, idx) => {
                   const inst = institutions.find((i) => i.id === prog.institution_id);
+                  const scoreLabel = prog.points_system === 'uwc_points' ? 'UWC Points'
+                    : prog.points_system === 'uct_fps' ? 'FPS'
+                    : 'APS';
+                  const yourScore = prog.points_system === 'uwc_points' ? uwcPoints
+                    : prog.points_system === 'uct_fps' ? uctFps
+                    : apsScore;
+                  const gap = (prog.min_aps ?? 0) - yourScore;
                   return (
                     <li key={idx} className="text-sm text-amber-900">
                       <span className="font-medium">{inst?.short_name ?? inst?.name ?? 'Unknown'}</span>
-                      {' — '}requires APS {prog.min_aps}+
-                      {prog.min_aps && (
+                      {' — '}requires {scoreLabel} {prog.min_aps}+
+                      {gap > 0 && (
                         <span className="ml-1 text-amber-700">
-                          (you need {prog.min_aps - apsScore} more point{prog.min_aps - apsScore !== 1 ? 's' : ''})
+                          (you need {gap} more point{gap !== 1 ? 's' : ''})
                         </span>
                       )}
                     </li>

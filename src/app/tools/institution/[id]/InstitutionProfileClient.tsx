@@ -51,7 +51,7 @@ export function InstitutionProfileClient({ profile }: Props) {
   return (
     <div className="min-h-screen bg-slate-50">
       {/* Header */}
-      <div className="bg-navy-900 pb-10 pt-28">
+      <div className="bg-sky-700 pb-10 pt-28">
         <div className="mx-auto max-w-5xl px-4 sm:px-6">
           <ToolsBreadcrumb
             currentPage={profile.short_name ?? profile.name}
@@ -275,10 +275,10 @@ export function InstitutionProfileClient({ profile }: Props) {
                         <span className="text-sm text-slate-800">{p.name}</span>
                         {p.qualification_type && (
                           <span className="rounded bg-slate-100 px-1.5 py-0.5 text-xs text-slate-500">
-                            {p.qualification_type}
+                            {formatQualType(p.qualification_type, p.name)}
                           </span>
                         )}
-                        {p.min_aps && p.min_aps > 1 && (
+                        {p.min_aps && p.min_aps > 1 && profile.points_system === 'aps_points' && (
                           <span className="text-xs text-slate-400">APS {p.min_aps}+</span>
                         )}
                         {p.duration && (
@@ -355,14 +355,57 @@ export function InstitutionProfileClient({ profile }: Props) {
         {/* ── ADMISSION ── */}
         {activeTab === 'Admission' && profile.admission && (
           <div className="space-y-5">
-            {/* APS summary */}
-            {(profile.admission.minimum_aps_for_bachelors || profile.admission.minimum_aps_for_diplomas || profile.admission.aps_calculation_notes) && (
+
+            {/* Points system notice for special institutions */}
+            {profile.points_system === 'uwc_points' && (
+              <div className="rounded-2xl border border-amber-200 bg-amber-50 p-4">
+                <p className="text-sm font-semibold text-amber-900">UWC Points System</p>
+                <p className="mt-1 text-sm text-amber-800">
+                  UWC does not use the standard NSC APS. Admission is based on UWC Points — a weighted score
+                  where percentages map to codes (Code 4 = 50–59%, Code 5 = 60–69%, etc.). Language subjects
+                  require at least English Code 4 and another language Code 3 across all faculties.
+                </p>
+              </div>
+            )}
+            {profile.points_system === 'uct_fps' && (
+              <div className="rounded-2xl border border-blue-200 bg-blue-50 p-4 space-y-2">
+                <p className="text-sm font-semibold text-blue-900">UCT Faculty Points System (FPS / WPS)</p>
+                <p className="text-sm text-blue-800">
+                  UCT uses a three-band system. Band A (Guaranteed) uses your Faculty Points Score (FPS);
+                  Band B (Probable) uses a Weighted Points Score (WPS) that adds a disadvantage factor for SA
+                  applicants; Band C (Possible) is for SA redress applicants only.
+                </p>
+                <p className="text-sm text-blue-800">
+                  Technical Mathematics and Technical Science cannot substitute for Mathematics or Physical
+                  Sciences. Health Sciences and Science faculties require NBT results.
+                </p>
+              </div>
+            )}
+            {profile.points_system === 'up_points' && (
+              <div className="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+                <p className="text-sm text-slate-600">
+                  UP uses its own points calculation system. Verify requirements directly with the university.
+                </p>
+              </div>
+            )}
+            {profile.points_system === 'tvet_none' && (
+              <div className="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+                <p className="text-sm text-slate-600">
+                  TVET colleges do not use APS scores. Entry is based on the NCV level or NATED programme
+                  applied for. NCV Level 2 requires Grade 9; NATED N4–N6 requires Grade 12.
+                </p>
+              </div>
+            )}
+
+            {/* Standard APS summary */}
+            {profile.points_system === 'aps_points' &&
+              (profile.admission.minimum_aps_for_bachelors || profile.admission.minimum_aps_for_diplomas || profile.admission.aps_calculation_notes) && (
               <div className="rounded-2xl border border-slate-200 bg-white p-6 space-y-4">
                 <h2 className="font-semibold text-slate-900">APS Requirements</h2>
                 <div className="grid gap-4 sm:grid-cols-2">
                   {profile.admission.minimum_aps_for_bachelors && (
                     <div className="rounded-xl bg-slate-50 p-4">
-                      <p className="text-xs text-slate-500">Minimum APS for Bachelor's</p>
+                      <p className="text-xs text-slate-500">Minimum APS for Bachelor&apos;s</p>
                       <p className="mt-1 text-3xl font-bold text-slate-900">{profile.admission.minimum_aps_for_bachelors}</p>
                     </div>
                   )}
@@ -403,7 +446,7 @@ export function InstitutionProfileClient({ profile }: Props) {
                             <p className="mt-0.5 text-xs text-slate-400 capitalize">{rule.scope}-level requirement</p>
                           )}
                         </div>
-                        {rule.min_aps && (
+                        {rule.min_aps && profile.points_system === 'aps_points' && (
                           <span className="shrink-0 rounded-full bg-slate-100 px-3 py-1 text-sm font-semibold text-slate-700">
                             APS {rule.min_aps}+
                           </span>
@@ -516,4 +559,22 @@ function ContactCard({ title, children }: { title: string; children: React.React
 
 function isValidEmail(email: string): boolean {
   return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) && !email.includes(' ');
+}
+// Render TVET qual types with level detail; pass through university types unchanged
+function formatQualType(qualType: string, progName: string): string {
+  const qt = qualType.toLowerCase();
+  const name = progName.toLowerCase();
+  if (qt.includes('ncv') || qt.includes('national certificate vocational') || qt === 'nc(v)') {
+    if (name.includes('level 2') || name.includes('ncv 2')) return 'NCV Certificate — Level 2';
+    if (name.includes('level 3') || name.includes('ncv 3')) return 'NCV Certificate — Level 3';
+    if (name.includes('level 4') || name.includes('ncv 4')) return 'NCV Certificate — Level 4';
+    return 'NCV Certificate';
+  }
+  // N-certificate granularity
+  for (const n of [2, 3, 4, 5, 6]) {
+    if (qt === `n${n} certificate` || name.includes(`national certificate: n${n}`) || name.includes(` n${n}`) ) {
+      return `N${n} Certificate`;
+    }
+  }
+  return qualType;
 }
