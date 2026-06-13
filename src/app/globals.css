@@ -23,7 +23,7 @@ body {
 
 @layer utilities {
   .text-gradient-blue {
-    background: linear-gradient(135deg, #60A5FA 0%, #2563EB 50%, #A78BFA 100%);
+    background: linear-gradient(135deg, #38BDF8 0%, #0EA5E9 50%, #F59E0B 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -76,7 +76,7 @@ body {
   }
 
   .section-tag {
-    @apply inline-flex items-center gap-2 rounded-full border border-brand-blue/20 bg-brand-blue/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-brand-blue;
+    @apply inline-flex items-center gap-2 rounded-full border border-sky-400/30 bg-sky-500/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-sky-600;
   }
 
   .card-surface {
