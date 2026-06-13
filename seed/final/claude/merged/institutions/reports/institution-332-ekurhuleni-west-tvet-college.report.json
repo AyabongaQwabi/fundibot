@@ -1,26 +1,26 @@
 {
   "institution_id": "332",
   "institution_name": "Ekurhuleni West TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 15,
   "programmes_enriched": 15,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.067,
-  "completeness_after": 0.138,
-  "improvement": 0.071,
+  "qual_type_inferred": [],
+  "completeness_before": 0.122,
+  "completeness_after": 0.157,
+  "improvement": 0.035,
   "overall_quality": {
-    "mean": 0.138,
-    "min": 0.067,
-    "max": 0.4,
+    "mean": 0.157,
+    "min": 0.059,
+    "max": 0.412,
     "count": 15
   },
   "fields_completed": {
-    "duration": 6,
-    "credits": 4,
-    "saqa_code": 2,
-    "career_outcomes": 2,
-    "nqf_level": 1,
-    "modules": 1
+    "admission_requirements_raw": 7,
+    "pricing": 2,
+    "min_grade": 4
   },
   "fields_still_missing": {
     "nqf_level": 14,
@@ -36,18 +36,16 @@
     "campus": 15,
     "modules": 14,
     "qualification_code": 15,
-    "duration": 9
+    "pricing": 13,
+    "duration": 9,
+    "admission_requirements_raw": 8
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "ekurhuleni-west-tvet-college.pdf": [
-        "duration",
-        "credits",
-        "saqa_code",
-        "career_outcomes",
-        "nqf_level",
-        "modules"
+        "admission_requirements_raw",
+        "pricing"
       ]
     },
     "unused_files": [],
@@ -56,123 +54,213 @@
   "per_programme": [
     {
       "name": "Diploma in business students in the workplace, this includes the challenges that an evaluator experience. This will",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "Diploma in Business Studies.",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Diploma in Engineering studies once the required",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "Diploma in Engineering Studies.",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "Diploma in HRM",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "Diploma in Human",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "Diploma in Marketing Management will give you a broad knowledge of marketing and an understanding of the",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Diploma in Human Resources Management",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "National Diploma in Public Relations consists of the",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "NCV Level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "Report 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     }
   ]
 }

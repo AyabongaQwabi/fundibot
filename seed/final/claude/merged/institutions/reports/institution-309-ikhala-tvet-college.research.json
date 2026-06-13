@@ -1,189 +1,178 @@
 {
   "institution_id": "309",
   "institution_name": "Ikhala TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
-    "National Diploma (Report 191) - Ikhala TVET College3.pdf",
     "National Certificate Courses - Ikhala TVET College.pdf",
+    "National Diploma (Report 191) - Ikhala TVET College3.pdf",
     "National Diploma (Report 191) - Ikhala TVET College.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/ikhala-tvet-college-web.txt",
-    "/Users/nonwork/dev/fundibot/seed/workik/batch1/National Diploma (Report 191) - Ikhala TVET College2.pdf",
-    "/Users/nonwork/dev/fundibot/seed/workik/batch1/National Diploma (Report 191) - Ikhala TVET College3.pdf",
-    "/Users/nonwork/dev/fundibot/seed/workik/batch1/National Diploma (Report 191) - Ikhala TVET College.pdf",
-    "/Users/nonwork/dev/fundibot/seed/workik/batch1/National Certificate Courses - Ikhala TVET College.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/ikhala-tvet-college-web.txt",
+    "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/National Diploma (Report 191) - Ikhala TVET College2.pdf",
+    "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/National Diploma (Report 191) - Ikhala TVET College3.pdf",
+    "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/National Diploma (Report 191) - Ikhala TVET College.pdf",
+    "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/National Certificate Courses - Ikhala TVET College.pdf"
   ],
   "evidence": [
     {
-      "field": "nqf_level",
-      "value": 6,
-      "confidence": 0.116,
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Entry Requirements 40%",
+        "Class Attendance of at least 80%",
+        "Passmark Requirement Core subjects 50%"
+      ],
+      "confidence": 0.1,
       "source": "prospectus",
       "sourceFile": "National Diploma (Report 191) - Ikhala TVET College3.pdf",
       "matchingMethod": "pdf-bm25:5.2"
     },
     {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Aliwal North",
-        "Ezibeleni"
+        "courses/ 1",
+        "Civil Engineering and Building Construction Adm ission Requirem ents Grade 9",
+        "CONSTRUCTION/) Electrical Infrastructure Construction Adm ission Requirem ents Grade 9"
       ],
-      "confidence": 0.226,
+      "confidence": 0.218,
       "source": "prospectus",
       "sourceFile": "National Certificate Courses - Ikhala TVET College.pdf",
       "matchingMethod": "pdf-bm25:11.3"
     },
     {
-      "field": "nqf_level",
-      "value": 3,
-      "confidence": 0.222,
-      "source": "prospectus",
-      "sourceFile": "National Diploma (Report 191) - Ikhala TVET College3.pdf",
-      "matchingMethod": "pdf-bm25:9.9"
-    },
-    {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Aliwal North",
-        "Queen Nonesi"
+        "courses/ 1",
+        "or NCV Level 4",
+        "with Agriculture and Mathematics / Mathematical Literacy or NCV Level 4"
       ],
-      "confidence": 0.149,
+      "confidence": 0.143,
       "source": "prospectus",
       "sourceFile": "National Diploma (Report 191) - Ikhala TVET College.pdf",
       "matchingMethod": "pdf-bm25:7.4"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.146,
-      "source": "prospectus",
-      "sourceFile": "National Diploma (Report 191) - Ikhala TVET College.pdf",
-      "matchingMethod": "pdf-bm25:6.5"
-    },
-    {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Aliwal North",
-        "Ezibeleni"
+        "courses/ 1",
+        "Civil Engineering and Building Construction Adm ission Requirem ents Grade 9",
+        "CONSTRUCTION/) Electrical Infrastructure Construction Adm ission Requirem ents Grade 9"
       ],
-      "confidence": 0.204,
+      "confidence": 0.196,
       "source": "prospectus",
       "sourceFile": "National Certificate Courses - Ikhala TVET College.pdf",
       "matchingMethod": "pdf-bm25:10.1"
     },
     {
-      "field": "nqf_level",
-      "value": 3,
-      "confidence": 0.202,
-      "source": "prospectus",
-      "sourceFile": "National Diploma (Report 191) - Ikhala TVET College3.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Aliwal North",
-        "Ezibeleni"
+        "courses/ 1",
+        "Civil Engineering and Building Construction Adm ission Requirem ents Grade 9",
+        "CONSTRUCTION/) Electrical Infrastructure Construction Adm ission Requirem ents Grade 9"
       ],
-      "confidence": 0.185,
+      "confidence": 0.178,
       "source": "prospectus",
       "sourceFile": "National Certificate Courses - Ikhala TVET College.pdf",
       "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Aliwal North",
-        "Queen Nonesi"
+        "courses/ 1",
+        "or NCV Level 4",
+        "with Agriculture and Mathematics / Mathematical Literacy or NCV Level 4"
       ],
-      "confidence": 0.128,
+      "confidence": 0.123,
       "source": "prospectus",
       "sourceFile": "National Diploma (Report 191) - Ikhala TVET College.pdf",
       "matchingMethod": "pdf-bm25:6.4"
     },
     {
-      "field": "nqf_level",
-      "value": 1,
-      "confidence": 0.216,
+      "field": "admission_requirements_raw",
+      "value": [
+        "ng and Related Design Adm ission Requirem ents Grade 9",
+        "courses/ 3",
+        "or NQF Level 1"
+      ],
+      "confidence": 0.186,
       "source": "prospectus",
       "sourceFile": "National Certificate Courses - Ikhala TVET College.pdf",
       "matchingMethod": "pdf-bm25:9.7"
     },
     {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Aliwal North",
-        "Ezibeleni"
+        "courses/ 3",
+        "or a Relevant NC(V) NQF Level 4",
+        "courses/ 4"
       ],
-      "confidence": 0.194,
-      "source": "prospectus",
-      "sourceFile": "National Certificate Courses - Ikhala TVET College.pdf",
-      "matchingMethod": "pdf-bm25:9.7"
-    },
-    {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.108,
+      "confidence": 0.093,
       "source": "prospectus",
       "sourceFile": "National Diploma (Report 191) - Ikhala TVET College.pdf",
       "matchingMethod": "pdf-bm25:4.8"
     },
     {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Aliwal North",
-        "Queen Nonesi",
-        "Sterkspruit"
+        "courses/ 4",
+        "or NQF Level 1",
+        "courses/ 5"
       ],
-      "confidence": 0.096,
-      "source": "prospectus",
-      "sourceFile": "National Diploma (Report 191) - Ikhala TVET College.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 1,
-      "confidence": 0.275,
+      "confidence": 0.237,
       "source": "prospectus",
       "sourceFile": "National Certificate Courses - Ikhala TVET College.pdf",
       "matchingMethod": "pdf-bm25:12.3"
     },
     {
-      "field": "campuses_offering",
-      "value": [
-        "Aliwal North",
-        "Ezibeleni",
-        "Queen Nonesi"
-      ],
-      "confidence": 0.246,
-      "source": "prospectus",
-      "sourceFile": "National Certificate Courses - Ikhala TVET College.pdf",
-      "matchingMethod": "pdf-bm25:12.3"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.14,
+      "field": "admission_requirements_raw",
+      "value": [
+        "d Mathematics / Mathematical Literacy or NCV Level 4",
+        "courses/ 2",
+        "with Consumer Studies or NCV Level 4"
+      ],
+      "confidence": 0.12,
       "source": "prospectus",
       "sourceFile": "National Diploma (Report 191) - Ikhala TVET College.pdf",
       "matchingMethod": "pdf-bm25:6.2"
     },
     {
-      "field": "campuses_offering",
-      "value": [
-        "Aliwal North",
-        "Queen Nonesi"
-      ],
-      "confidence": 0.125,
-      "source": "prospectus",
-      "sourceFile": "National Diploma (Report 191) - Ikhala TVET College.pdf",
-      "matchingMethod": "pdf-bm25:6.2"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 17
+    "mid 0.5-0.8": 4,
+    "low<0.5": 10
   },
-  "confidence_mean": 0.175
+  "confidence_mean": 0.271,
+  "qual_type_inferred_programmes": []
 }

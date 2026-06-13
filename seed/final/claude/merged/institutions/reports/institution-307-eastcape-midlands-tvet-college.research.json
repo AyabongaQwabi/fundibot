@@ -1,189 +1,155 @@
 {
   "institution_id": "307",
   "institution_name": "Eastcape Midlands TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
     "eastcape-midlands-tvet-college.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/eastcape-midlands-tvet-college.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/eastcape-midlands-tvet-college.pdf"
   ],
   "evidence": [
     {
       "field": "modules",
       "value": [
-        "Life Skills & Computer Literacy"
+        "Life Skills & Computer Literacy",
+        "Optional subjects can",
+        "SCHOOL OF BUSINESS"
       ],
-      "confidence": 0.0,
+      "confidence": 0.111,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:12.6"
+      "matchingMethod": "pdf-bm25:6.0"
     },
     {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.109,
+      "field": "campuses_offering",
+      "value": [
+        "High Street Campus",
+        "Grahamstown Campus"
+      ],
+      "confidence": 0.12,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.4"
+      "matchingMethod": "pdf-bm25:6.0"
     },
     {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.154,
+      "field": "admission_requirements_raw",
+      "value": [
+        "SOCIAL SCIENCES LEVEL 2",
+        "LEVEL 2 Tourism",
+        "English) • Life Skills & Computer Literacy • Mathematics or Mathematical Literacy WHICH ARE THE VOCATIONAL SUBJECTS? Subjects are listed as per certificate"
+      ],
+      "confidence": 0.116,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
+      "matchingMethod": "pdf-bm25:6.0"
     },
     {
       "field": "modules",
       "value": [
-        "Life Skills & Computer Literacy"
+        "Life Skills & Computer Literacy",
+        "Optional subjects can",
+        "SCHOOL OF BUSINESS"
       ],
-      "confidence": 0.0,
+      "confidence": 0.133,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:6.6"
+      "matchingMethod": "pdf-bm25:7.2"
     },
     {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.11,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
-    },
-    {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.35,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:15.6"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "campuses_offering",
       "value": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
+        "High Street Campus",
+        "Grahamstown Campus"
       ],
-      "confidence": 0.29,
+      "confidence": 0.144,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:15.6"
+      "matchingMethod": "pdf-bm25:7.2"
     },
     {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.178,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:8.9"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Communication",
-        "Introduction to Computer Practice",
-        "Introduction to Information"
+        "SOCIAL SCIENCES LEVEL 2",
+        "LEVEL 2 Tourism",
+        "English) • Life Skills & Computer Literacy • Mathematics or Mathematical Literacy WHICH ARE THE VOCATIONAL SUBJECTS? Subjects are listed as per certificate"
       ],
-      "confidence": 0.101,
+      "confidence": 0.139,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.4"
+      "matchingMethod": "pdf-bm25:7.2"
     },
     {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.262,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:11.7"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "career_outcomes",
-      "value": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
-      ],
-      "confidence": 0.217,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:11.7"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.206,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:10.3"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.125,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.112,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.235,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:10.5"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.211,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:10.5"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.258,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:12.9"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.163,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
-      ],
-      "confidence": 0.118,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.284,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:14.2"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
       "field": "modules",
@@ -192,37 +158,34 @@
         "Introduction to Computer Practice",
         "Introduction to Information"
       ],
-      "confidence": 0.201,
+      "confidence": 0.088,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
+      "matchingMethod": "pdf-bm25:4.7"
     },
     {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.202,
+      "field": "pricing",
+      "value": {
+        "amount_min": 12027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.055,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
+      "matchingMethod": "pdf-bm25:4.7"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
+        "evel 5",
+        "The final date for returning student enrolment is Semester 1",
+        "National Certificate (NATED/TVET) Level 6"
       ],
-      "confidence": 0.167,
+      "confidence": 0.091,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.289,
-      "source": "prospectus",
-      "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:14.4"
+      "matchingMethod": "pdf-bm25:4.7"
     },
     {
       "field": "modules",
@@ -231,35 +194,141 @@
         "Introduction to Computer Practice",
         "Introduction to Information"
       ],
-      "confidence": 0.199,
+      "confidence": 0.088,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
+      "matchingMethod": "pdf-bm25:4.7"
     },
     {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.211,
+      "field": "pricing",
+      "value": {
+        "amount_min": 12027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.055,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:9.4"
+      "matchingMethod": "pdf-bm25:4.7"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
+        "evel 5",
+        "The final date for returning student enrolment is Semester 1",
+        "National Certificate (NATED/TVET) Level 6"
       ],
-      "confidence": 0.175,
+      "confidence": 0.091,
       "source": "prospectus",
       "sourceFile": "eastcape-midlands-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:9.4"
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "modules",
+      "value": [
+        "Communication",
+        "Introduction to Computer Practice",
+        "Introduction to Information"
+      ],
+      "confidence": 0.088,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 12027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.055,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "evel 5",
+        "The final date for returning student enrolment is Semester 1",
+        "National Certificate (NATED/TVET) Level 6"
+      ],
+      "confidence": 0.091,
+      "source": "prospectus",
+      "sourceFile": "eastcape-midlands-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Completion of NCV Level 3",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 27
+    "mid 0.5-0.8": 17,
+    "low<0.5": 15
   },
-  "confidence_mean": 0.182
+  "confidence_mean": 0.338,
+  "qual_type_inferred_programmes": []
 }

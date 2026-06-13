@@ -1,302 +1,249 @@
 {
   "institution_id": "330",
   "institution_name": "Ehlanzeni TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
     "ehlanzeni-college-prospectus.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/ehlanzeni-college-prospectus.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/ehlanzeni-college-prospectus.pdf"
   ],
   "evidence": [
     {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.126,
+      "field": "admission_requirements_raw",
+      "value": [
+        "AMME NQF Level 2",
+        "4 SERVICES",
+        "ce Administration Tourism 8"
+      ],
+      "confidence": 0.109,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:5.6"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "NC(V) level 2",
+        "3 and Report"
       ],
-      "confidence": 0.09,
+      "confidence": 0.101,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
+      "matchingMethod": "pdf-bm25:5.2"
     },
     {
-      "field": "career_outcomes",
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "TABLE OF CONTENTS 1",
+        "About Us 2",
+        "Admission 3"
       ],
-      "confidence": 0.21,
+      "confidence": 0.219,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:11.3"
     },
     {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.23,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:10.3"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "TABLE OF CONTENTS 1",
+        "About Us 2",
+        "Admission 3"
       ],
-      "confidence": 0.225,
+      "confidence": 0.234,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:12.1"
     },
     {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.181,
+      "field": "admission_requirements_raw",
+      "value": [
+        "TABLE OF CONTENTS 1",
+        "About Us 2",
+        "Admission 3"
+      ],
+      "confidence": 0.156,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:8.1"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "Students should not be allowed to register for the next trimester/semester/year if their average class attendance for the previous trimester/semester/year is less than 80%"
       ],
-      "confidence": 0.149,
+      "confidence": 0.381,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
+      "matchingMethod": "pdf-bm25:19.7"
     },
     {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.161,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:7.2"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.132,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:5.9"
-    },
-    {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.302,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:13.8"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "NC(V) level 2",
+        "3 and Report"
       ],
-      "confidence": 0.125,
+      "confidence": 0.307,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:6.7"
+      "matchingMethod": "pdf-bm25:15.9"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "NC(V) level 2",
+        "3 and Report"
       ],
-      "confidence": 0.206,
+      "confidence": 0.38,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:11.1"
+      "matchingMethod": "pdf-bm25:19.7"
     },
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.203,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:9.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.18,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:8.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.206,
+      "field": "admission_requirements_raw",
+      "value": [
+        "AMME NQF Level 2",
+        "4 SERVICES",
+        "ce Administration Tourism 8"
+      ],
+      "confidence": 0.178,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "AMME NQF Level 2",
+        "4 SERVICES",
+        "ce Administration Tourism 8"
       ],
-      "confidence": 0.15,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.252,
+      "confidence": 0.217,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:11.3"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "AMME NQF Level 2",
+        "4 SERVICES",
+        "ce Administration Tourism 8"
       ],
-      "confidence": 0.197,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:10.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.32,
+      "confidence": 0.276,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:14.3"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "AMME NQF Level 2",
+        "4 SERVICES",
+        "ce Administration Tourism 8"
       ],
-      "confidence": 0.234,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:12.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.411,
+      "confidence": 0.355,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:18.4"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "AMME NQF Level 2",
+        "4 SERVICES",
+        "ce Administration Tourism 8"
       ],
-      "confidence": 0.093,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:5.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.265,
+      "confidence": 0.229,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:11.9"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
+        "2 WHICH NC(V) PROGRAMMES ARE OFFERED BY EHL",
+        "3 CURRICULUM Each NC(V) Quali",
+        "cation has a total of 7"
       ],
-      "confidence": 0.192,
+      "confidence": 0.334,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:10.4"
+      "matchingMethod": "pdf-bm25:17.3"
     },
     {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.196,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:8.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.308,
+      "field": "admission_requirements_raw",
+      "value": [
+        "CAREER PATHING NQF Level 2",
+        "NQF Level 3",
+        "NQF Level 4"
+      ],
+      "confidence": 0.265,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:13.7"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "employed",
-        "RELATED AND ITC",
-        "RELATED FIELD"
+        "TABLE OF CONTENTS 1",
+        "About Us 2",
+        "Admission 3"
       ],
-      "confidence": 0.255,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:13.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Related Programmes",
-        "Related Programmes",
-        "Related Programmes"
-      ],
-      "confidence": 0.15,
+      "confidence": 0.156,
       "source": "prospectus",
       "sourceFile": "ehlanzeni-college-prospectus.pdf",
       "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.162,
-      "source": "prospectus",
-      "sourceFile": "ehlanzeni-college-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:7.2"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 29
+    "mid 0.5-0.8": 5,
+    "low<0.5": 16
   },
-  "confidence_mean": 0.204
+  "confidence_mean": 0.317,
+  "qual_type_inferred_programmes": [
+    "The dates where evidence e.g. a doctor's note or a copy of a"
+  ]
 }

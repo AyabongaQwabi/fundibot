@@ -1,6 +1,8 @@
 {
   "institution_id": "317",
   "institution_name": "Northlink TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 26,
   "programmes_enriched": 26,
   "synthetic_injected": [
@@ -93,17 +95,20 @@
       "qual_type": "Occupational Certificate"
     }
   ],
-  "completeness_before": 0.067,
-  "completeness_after": 0.08,
-  "improvement": 0.013,
+  "qual_type_inferred": [],
+  "completeness_before": 0.07,
+  "completeness_after": 0.174,
+  "improvement": 0.103,
   "overall_quality": {
-    "mean": 0.08,
-    "min": 0.067,
-    "max": 0.133,
+    "mean": 0.174,
+    "min": 0.059,
+    "max": 0.235,
     "count": 26
   },
   "fields_completed": {
-    "nqf_level": 5
+    "pricing": 23,
+    "admission_requirements_raw": 23,
+    "min_grade": 2
   },
   "fields_still_missing": {
     "duration": 26,
@@ -119,13 +124,16 @@
     "campus": 26,
     "modules": 26,
     "qualification_code": 26,
-    "nqf_level": 21
+    "nqf_level": 21,
+    "pricing": 3,
+    "admission_requirements_raw": 3
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "northlink-tvet-college.pdf": [
-        "nqf_level"
+        "pricing",
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [],
@@ -134,211 +142,367 @@
   "per_programme": [
     {
       "name": "National Vocational Certificate - Level 1",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     },
     {
       "name": "National Vocational Certificate - Level 2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     },
     {
       "name": "National Vocational Certificate - Level 3",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     },
     {
       "name": "National Vocational Certificate - Level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     },
     {
       "name": "NC(V)",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "Nated (Report 191)",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N2",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "National Certificate: N3",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N4",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "National Certificate: N5",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "National Certificate: N6",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Engineering Studies N4 (Electrical)",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Engineering Studies N5 (Electrical)",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Engineering Studies N6 (Electrical)",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Engineering Studies N4 (Building and Civil)",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Engineering Studies N5 (Building and Civil)",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Engineering Studies N6 (Building and Civil)",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Occupational Certificate: Panel Beater Year",
+      "qualification_type": "Occupational Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     },
     {
       "name": "Engineering Studies N4",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Engineering Studies N5",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Engineering Studies N6",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Occupational Certificate: Beauty Therapist Year",
+      "qualification_type": "Occupational Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Occupational Certificate: Computer Technician year",
+      "qualification_type": "Occupational Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Occupational Certificate: Cybersecurity Analyst Year",
+      "qualification_type": "Occupational Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Occupational Certificate: Fitness Instructor Year",
+      "qualification_type": "Occupational Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Occupational Certificate: Internet of things Year",
+      "qualification_type": "Occupational Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "northlink-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     }
   ]
 }

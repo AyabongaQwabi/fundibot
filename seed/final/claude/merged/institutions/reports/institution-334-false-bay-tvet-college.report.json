@@ -1,21 +1,25 @@
 {
   "institution_id": "334",
   "institution_name": "False Bay TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 6,
   "programmes_enriched": 6,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.067,
-  "completeness_after": 0.078,
-  "improvement": 0.011,
+  "qual_type_inferred": [],
+  "completeness_before": 0.069,
+  "completeness_after": 0.098,
+  "improvement": 0.029,
   "overall_quality": {
-    "mean": 0.078,
-    "min": 0.067,
-    "max": 0.133,
+    "mean": 0.098,
+    "min": 0.059,
+    "max": 0.176,
     "count": 6
   },
   "fields_completed": {
-    "duration": 1
+    "min_grade": 2,
+    "admission_requirements_raw": 3
   },
   "fields_still_missing": {
     "nqf_level": 6,
@@ -31,13 +35,15 @@
     "admissionRequirements": 6,
     "campus": 6,
     "modules": 6,
-    "qualification_code": 6
+    "qualification_code": 6,
+    "pricing": 6,
+    "admission_requirements_raw": 3
   },
   "pdf_source_audit": {
     "total_mapped": 3,
     "useful_files": {
       "false-bay-student-brochure.pdf": [
-        "duration"
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [
@@ -49,51 +55,87 @@
   "per_programme": [
     {
       "name": "N2 certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "Nated N4",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "NC(V) Level 2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.118
     },
     {
       "name": "Report 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     }
   ]
 }

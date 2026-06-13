@@ -1,6 +1,8 @@
 {
   "institution_id": "329",
   "institution_name": "Durban University of Technology",
+  "institution_type": "university-of-technology",
+  "points_system": "aps_points",
   "programme_count": 3,
   "programmes_enriched": 3,
   "synthetic_injected": [],
@@ -21,17 +23,23 @@
       "qual_type": "Unknown"
     }
   ],
-  "completeness_before": 0.067,
-  "completeness_after": 0.089,
-  "improvement": 0.022,
+  "qual_type_inferred": [
+    "A National Certificate (Vocational) Level",
+    "A National Certificate (Vocational) Level four",
+    "subjects, chosen from the National Certificate"
+  ],
+  "completeness_before": 0.079,
+  "completeness_after": 0.157,
+  "improvement": 0.078,
   "overall_quality": {
-    "mean": 0.089,
-    "min": 0.067,
-    "max": 0.133,
+    "mean": 0.157,
+    "min": 0.118,
+    "max": 0.235,
     "count": 3
   },
   "fields_completed": {
-    "modules": 1
+    "admission_requirements_raw": 3,
+    "pricing": 1
   },
   "fields_still_missing": {
     "nqf_level": 3,
@@ -47,13 +55,15 @@
     "admissionRequirements": 3,
     "campus": 3,
     "modules": 2,
-    "qualification_code": 3
+    "qualification_code": 3,
+    "pricing": 2
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "durban-university-of-technology.pdf": [
-        "modules"
+        "admission_requirements_raw",
+        "pricing"
       ]
     },
     "unused_files": [],
@@ -62,27 +72,45 @@
   "per_programme": [
     {
       "name": "A National Certificate (Vocational) Level",
+      "qualification_type": "Unknown",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "durban-university-of-technology.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.118
     },
     {
       "name": "A National Certificate (Vocational) Level four",
+      "qualification_type": "Unknown",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "durban-university-of-technology.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     },
     {
       "name": "subjects, chosen from the National Certificate",
+      "qualification_type": "Unknown",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "durban-university-of-technology.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.118
     }
   ]
 }

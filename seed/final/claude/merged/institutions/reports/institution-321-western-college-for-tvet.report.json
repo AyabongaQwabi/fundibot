@@ -1,22 +1,24 @@
 {
   "institution_id": "321",
   "institution_name": "Western College for TVET",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 9,
   "programmes_enriched": 9,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.096,
-  "completeness_after": 0.163,
-  "improvement": 0.067,
+  "qual_type_inferred": [],
+  "completeness_before": 0.144,
+  "completeness_after": 0.144,
+  "improvement": 0.0,
   "overall_quality": {
-    "mean": 0.163,
-    "min": 0.067,
-    "max": 0.2,
+    "mean": 0.144,
+    "min": 0.059,
+    "max": 0.176,
     "count": 9
   },
   "fields_completed": {
-    "admissionRequirements": 8,
-    "min_aps": 1
+    "min_grade": 5
   },
   "fields_still_missing": {
     "nqf_level": 9,
@@ -32,6 +34,8 @@
     "campus": 9,
     "modules": 9,
     "qualification_code": 9,
+    "pricing": 9,
+    "admission_requirements_raw": 9,
     "admissionRequirements": 1
   },
   "pdf_source_audit": {
@@ -43,75 +47,129 @@
   "per_programme": [
     {
       "name": "N2 certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC (V) L4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "NC(V) L3",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "NCV Level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     }
   ]
 }

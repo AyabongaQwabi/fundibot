@@ -1,15 +1,340 @@
 {
   "institution_id": "380",
   "institution_name": "West Coast TVET College",
-  "sources_used": [],
-  "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/west-coast-tvet-college.pdf"
+  "points_system": "tvet_none",
+  "sources_used": [
+    "west-coast-tvet-college.pdf"
   ],
-  "evidence": [],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/west-coast-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "min_grade",
+      "value": "Grade 9",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Completion of NCV Level 2",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Completion of NCV Level 3",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 fundamental subjects"
+      ],
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 fundamental subjects"
+      ],
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 fundamental subjects",
+        "3 core vocational subjects",
+        "1 optional vocational subject"
+      ],
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:15.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.16,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 fundamental subjects",
+        "3 core vocational subjects",
+        "1 optional vocational subject"
+      ],
+      "confidence": 0.201,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2015,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.084,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 fundamental subjects",
+        "3 core vocational subjects",
+        "1 optional vocational subject"
+      ],
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.056,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "subject(s) failed on Level 2",
+        "must be repeated on Level 2",
+        "Mathematics Level 2"
+      ],
+      "confidence": 0.381,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:19.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.059,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "subject(s) failed on Level 2",
+        "must be repeated on Level 2",
+        "Mathematics Level 2"
+      ],
+      "confidence": 0.26,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:13.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "subject(s) failed on Level 2",
+        "must be repeated on Level 2",
+        "Mathematics Level 2"
+      ],
+      "confidence": 0.227,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2015,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.225,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:19.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "minimums for entry to supplementary examinations must be repeated on Level 2",
+        "The above requirement will be phased in for all candidates on Level 2",
+        "Level 3"
+      ],
+      "confidence": 0.375,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:19.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "rule will be implemented across NC (V) Levels 2",
+        "3 and",
+        "4 in the examination registration"
+      ],
+      "confidence": 0.241,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2015,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.142,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "uirement will be phased in for all candidates on Level 2",
+        "Level 3",
+        "and Level 4"
+      ],
+      "confidence": 0.33,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:17.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "uirement will be phased in for all candidates on Level 2",
+        "Level 3",
+        "and Level 4"
+      ],
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.4"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2015,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.066,
+      "source": "prospectus",
+      "sourceFile": "west-coast-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    }
+  ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 0
+    "mid 0.5-0.8": 9,
+    "low<0.5": 21
   },
-  "confidence_mean": 0
+  "confidence_mean": 0.305,
+  "qual_type_inferred_programmes": []
 }

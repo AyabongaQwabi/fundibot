@@ -1,19 +1,64 @@
 {
   "institution_id": "334",
   "institution_name": "False Bay TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
     "false-bay-student-brochure.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/false-bay-tvet-admission-reqs.pdf",
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/false-bay-student-brochure.pdf",
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/false-bay-tvet-college.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/false-bay-tvet-admission-reqs.pdf",
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/false-bay-student-brochure.pdf",
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/false-bay-tvet-college.pdf"
   ],
   "evidence": [
     {
-      "field": "duration",
-      "value": "1-4 years",
-      "confidence": 0.171,
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "leavers with Grade 9",
+        "who did not meet entry criteria for a specific course in NC(V) Level 2",
+        "by offering specialised training on NQF Levels 2"
+      ],
+      "confidence": 0.099,
+      "source": "prospectus",
+      "sourceFile": "false-bay-student-brochure.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "leavers with Grade 9",
+        "who did not meet entry criteria for a specific course in NC(V) Level 2",
+        "by offering specialised training on NQF Levels 2"
+      ],
+      "confidence": 0.099,
+      "source": "prospectus",
+      "sourceFile": "false-bay-student-brochure.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "aining on NQF Levels 2",
+        "After successfully completing NC(V) Level 4",
+        "bearing certificates that range from 1"
+      ],
+      "confidence": 0.151,
       "source": "prospectus",
       "sourceFile": "false-bay-student-brochure.pdf",
       "matchingMethod": "pdf-bm25:7.8"
@@ -21,8 +66,9 @@
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 1
+    "mid 0.5-0.8": 2,
+    "low<0.5": 3
   },
-  "confidence_mean": 0.171
+  "confidence_mean": 0.29,
+  "qual_type_inferred_programmes": []
 }

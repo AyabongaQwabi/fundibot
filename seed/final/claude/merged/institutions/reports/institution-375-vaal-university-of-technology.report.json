@@ -1,17 +1,20 @@
 {
   "institution_id": "375",
   "institution_name": "Vaal University of Technology",
+  "institution_type": "university-of-technology",
+  "points_system": "aps_points",
   "programme_count": 3,
   "programmes_enriched": 3,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.067,
-  "completeness_after": 0.067,
+  "qual_type_inferred": [],
+  "completeness_before": 0.059,
+  "completeness_after": 0.059,
   "improvement": 0.0,
   "overall_quality": {
-    "mean": 0.067,
-    "min": 0.067,
-    "max": 0.067,
+    "mean": 0.059,
+    "min": 0.059,
+    "max": 0.059,
     "count": 3
   },
   "fields_completed": {},
@@ -29,7 +32,9 @@
     "admissionRequirements": 3,
     "campus": 3,
     "modules": 3,
-    "qualification_code": 3
+    "qualification_code": 3,
+    "pricing": 3,
+    "admission_requirements_raw": 3
   },
   "pdf_source_audit": {
     "total_mapped": 1,
@@ -42,27 +47,45 @@
   "per_programme": [
     {
       "name": "Advanced Diploma",
+      "qualification_type": "Advanced Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "BTech",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     }
   ]
 }

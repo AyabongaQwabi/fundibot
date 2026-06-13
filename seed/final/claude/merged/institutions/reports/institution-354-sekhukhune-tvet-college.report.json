@@ -1,22 +1,26 @@
 {
   "institution_id": "354",
   "institution_name": "Sekhukhune TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 18,
   "programmes_enriched": 18,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.115,
-  "completeness_after": 0.148,
-  "improvement": 0.033,
+  "qual_type_inferred": [],
+  "completeness_before": 0.131,
+  "completeness_after": 0.193,
+  "improvement": 0.062,
   "overall_quality": {
-    "mean": 0.148,
-    "min": 0.067,
-    "max": 0.2,
+    "mean": 0.193,
+    "min": 0.059,
+    "max": 0.294,
     "count": 18
   },
   "fields_completed": {
-    "study_mode": 7,
-    "admissionRequirements": 2
+    "pricing": 7,
+    "admission_requirements_raw": 12,
+    "min_grade": 1
   },
   "fields_still_missing": {
     "nqf_level": 18,
@@ -32,13 +36,16 @@
     "modules": 18,
     "qualification_code": 18,
     "faculty_name": 5,
-    "study_mode": 11
+    "study_mode": 11,
+    "pricing": 11,
+    "admission_requirements_raw": 6
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "sekhukhune-tvet-college-web.txt": [
-        "study_mode"
+        "pricing",
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [],
@@ -47,147 +54,255 @@
   "per_programme": [
     {
       "name": "Assistant Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "Civil Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "Electrical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "Financial Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "Human Resource Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "Marketing Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "Mechanical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "MSc Degrees",
+      "qualification_type": "Masters",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "NCV Electrical Infrastructure",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "NCV Engineering & Related Design",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "NCV IT & Computer Science",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "NCV Management",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NCV Marketing",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NCV Office Administration",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "BSc",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     }
   ]
 }

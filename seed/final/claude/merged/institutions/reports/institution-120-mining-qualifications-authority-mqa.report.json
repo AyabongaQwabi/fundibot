@@ -1,6 +1,8 @@
 {
   "institution_id": "120",
   "institution_name": "Mining Qualifications Authority (MQA)",
+  "institution_type": "seta",
+  "points_system": "aps_points",
   "programme_count": 1,
   "programmes_enriched": 1,
   "synthetic_injected": [],
@@ -11,16 +13,22 @@
       "qual_type": "Unknown"
     }
   ],
-  "completeness_before": 0.067,
-  "completeness_after": 0.067,
-  "improvement": 0.0,
+  "qual_type_inferred": [
+    "clinic, the money must be supplied when students present a doctor’s invoice for primary"
+  ],
+  "completeness_before": 0.059,
+  "completeness_after": 0.176,
+  "improvement": 0.117,
   "overall_quality": {
-    "mean": 0.067,
-    "min": 0.067,
-    "max": 0.067,
+    "mean": 0.176,
+    "min": 0.176,
+    "max": 0.176,
     "count": 1
   },
-  "fields_completed": {},
+  "fields_completed": {
+    "pricing": 1,
+    "admission_requirements_raw": 1
+  },
   "fields_still_missing": {
     "nqf_level": 1,
     "duration": 1,
@@ -39,20 +47,29 @@
   },
   "pdf_source_audit": {
     "total_mapped": 1,
-    "useful_files": {},
-    "unused_files": [
-      "mining-qualifications-authority-mqa.pdf"
-    ],
-    "verdict": "none"
+    "useful_files": {
+      "mining-qualifications-authority-mqa.pdf": [
+        "pricing",
+        "admission_requirements_raw"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
   },
   "per_programme": [
     {
       "name": "clinic, the money must be supplied when students present a doctor’s invoice for primary",
+      "qualification_type": "Unknown",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "mining-qualifications-authority-mqa.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     }
   ]
 }

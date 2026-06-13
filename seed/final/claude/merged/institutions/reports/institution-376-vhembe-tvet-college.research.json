@@ -1,463 +1,436 @@
 {
   "institution_id": "376",
   "institution_name": "Vhembe TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
     "vhembe-tvet-prospectus.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/vhembe-tvet-prospectus.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/vhembe-tvet-prospectus.pdf"
   ],
   "evidence": [
     {
-      "field": "nqf_level",
-      "value": 1,
-      "confidence": 0.128,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:5.7"
-    },
-    {
-      "field": "duration",
-      "value": "1 year",
-      "confidence": 0.121,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:5.7"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "are not limited to:",
-        "Process Controller, Process Specialist, Supervisor",
-        "Operator, Plant Operator and Packaging Plant"
+        "Offered at Makwarela and Mavhoi Campuses Level 2",
+        "Contact Centre Operations Level 3",
+        "Contact Centre Operations Level 4"
       ],
-      "confidence": 0.097,
+      "confidence": 0.103,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:5.2"
+      "matchingMethod": "pdf-bm25:5.4"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "are not limited to:",
-        "Process Controller, Process Specialist, Supervisor",
-        "Operator, Plant Operator and Packaging Plant"
+        "Offered at Makwarela and Mavhoi Campuses Level 2",
+        "Contact Centre Operations Level 3",
+        "Contact Centre Operations Level 4"
       ],
-      "confidence": 0.121,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:6.6"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Offered at Mashamba Campus",
-        "business",
-        "business"
-      ],
-      "confidence": 0.128,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:6.9"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Offered at Mashamba Campus",
-        "business",
-        "business"
-      ],
-      "confidence": 0.127,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Offered"
-      ],
-      "confidence": 0.117,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:6.3"
-    },
-    {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.246,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:11.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Offered at Makwarela, Mavhoi, Musina,",
-        "Technics",
-        "Technics"
-      ],
-      "confidence": 0.166,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.522,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:23.9"
-    },
-    {
-      "field": "nqf_level",
-      "value": 1,
-      "confidence": 0.231,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:10.3"
-    },
-    {
-      "field": "duration",
-      "value": "1 year",
-      "confidence": 0.218,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:10.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 1,
-      "confidence": 0.268,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:12.0"
-    },
-    {
-      "field": "duration",
-      "value": "1 year",
-      "confidence": 0.253,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:12.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.243,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:11.1"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "but are not limited to:",
-        "Computer Programming, Information Technology",
-        "Management, Data Processing and Computer"
-      ],
-      "confidence": 0.175,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:9.5"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "but are not limited to:",
-        "Electrical Engineering, Industrial Engineering, Sound",
-        "Technology, Theatre Technology, Process Level"
-      ],
-      "confidence": 0.134,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:7.2"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "are not limited to:",
-        "Process Controller, Process Specialist, Supervisor",
-        "Operator, Plant Operator and Packaging Plant"
-      ],
-      "confidence": 0.21,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:11.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "are not limited to:",
-        "Process Controller, Process Specialist, Supervisor",
-        "Operator, Plant Operator and Packaging Plant"
-      ],
-      "confidence": 0.156,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Offered at Makwarela Campus"
-      ],
-      "confidence": 0.107,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:5.8"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Offered at Makwarela, Shingwedzi and"
-      ],
-      "confidence": 0.119,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Line",
-        "Offered at Makwarela and"
-      ],
-      "confidence": 0.156,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Offered at Mashamba Campus",
-        "business",
-        "business"
-      ],
-      "confidence": 0.125,
+      "confidence": 0.129,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:6.7"
     },
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.131,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Level 3",
+        "New Venture Creation Level 4",
+        "Offered at Mashamba Campus Level 2"
+      ],
+      "confidence": 0.134,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
+      "matchingMethod": "pdf-bm25:6.9"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela Campus"
+        "Level 3",
+        "New Venture Creation Level 4",
+        "Offered at Mashamba Campus Level 2"
       ],
-      "confidence": 0.106,
+      "confidence": 0.132,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematics ■ Industrial Electronics ■ Industrial Instrument Some of the career opportunities available include but are not limited to: Telecommunications Technician, Radio & TV Technician, Electronic Engin"
+      ],
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Level."
+      ],
+      "confidence": 0.109,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:5.7"
     },
     {
-      "field": "career_outcomes",
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela, Mavhoi, Musina",
-        "Technics",
-        "Technics"
+        "Design Level 6",
+        "Level 6 subjects",
+        "Mathematics ■ Mechanical Drafting N5 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Drawing & Design Level 6 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Dra"
       ],
-      "confidence": 0.166,
+      "confidence": 0.173,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:9.0"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela, Mavhoi, and"
+        "Level."
       ],
-      "confidence": 0.195,
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ns Level 4",
+        "Offered at Makwarela and Mavhoi campuses Level 2",
+        "Construction or Physical Science Level 3"
+      ],
+      "confidence": 0.183,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Construction or Physical Science Level 4",
+        "Offered at Makwarela campus Level 2",
+        "Maintenance or Engineering Fabrication or Welding Level 3"
+      ],
+      "confidence": 0.139,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:7.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Offered at Makwarela Campus Level 2",
+        "Papermaking Technology of Process Chemistry Level 3",
+        "Papermaking Technology of Process Chemistry Level 4"
+      ],
+      "confidence": 0.219,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Offered at Makwarela Campus Level 2",
+        "Papermaking Technology of Process Chemistry Level 3",
+        "Papermaking Technology of Process Chemistry Level 4"
+      ],
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Project Management Level 4",
+        "Offered at Makwarela Campus Level 2",
+        "Consumer Behaviour or Call Centre Operations Level 3"
+      ],
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Project Management Level 4",
+        "Offered at Makwarela Campus Level 2",
+        "Consumer Behaviour or Call Centre Operations Level 3"
+      ],
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "nd Language Level 4",
+        "Offered at Makwarela and Tshisimani Campuses Level 2",
+        "Level 3"
+      ],
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Level 3",
+        "New Venture Creation Level 4",
+        "Offered at Mashamba Campus Level 2"
+      ],
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Level 3",
+        "business Level 4",
+        "Offered at Makwarela Campus Level 2"
+      ],
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Hospitality Services Level 4",
+        "Level 4 Vocational subjects",
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N5 subjects: ■ Electro-Technics ■ Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N6 subjects: ■ Electro-Technics"
+      ],
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "vhembe-tvet-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device Some of the career opportunities available include but are not limited to: Electrical Engineer, Electrical & PLC Automation Engineer, Co",
+        "Mathematics ■ Industrial Electronics ■ Industrial Instrument N5 subjects: ■ Digital Electronics ■ Communication Electronics ■ Mathematics ■ Industrial Electronics ■ Industrial Instrument N6 subjects: ■ Di",
+        "Mathematics ■ Industrial Electronics ■ Industrial Instrument Some of the c"
+      ],
+      "confidence": 0.204,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:10.6"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela, Mavhoi, Musina,",
-        "Technics",
-        "Technics"
+        "Design Level 6",
+        "Level 6 subjects",
+        "Mathematics ■ Mechanical Drafting N5 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Drawing & Design Level 6 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Dra"
       ],
-      "confidence": 0.104,
+      "confidence": 0.108,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:5.6"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at",
-        "Technics",
-        "Technics"
+        "Mathematics ■ Strength of Material & Structure ■ Power Mechanics Some of the career opportunities available include but are not limited to: Fitter & Turner, Mechanical Fitter/Turner, Fitters Assistant and F",
+        "Mathematics ■ Mechanical Draughting N5 subjects: ■ Engineering Physics ■ Mechano-Technics ■ Mechanical Drawing & Design ■ Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics",
+        "Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics Some of the career opportunities available include but are not"
       ],
-      "confidence": 0.119,
+      "confidence": 0.124,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:6.4"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela, Mavhoi, Musina and"
+        "Design Level 6",
+        "Level 6 subjects",
+        "Mathematics ■ Mechanical Drawing & Design Level 6 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Drawing & Design Some of the career opportunities available include but are not limited"
       ],
-      "confidence": 0.17,
+      "confidence": 0.177,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela, Mavhoi, Musina and",
-        "Technics",
-        "Technics"
+        "Mathematics ■ Engineering Physics Some of the career opportunities available include but are not limited to: Analytical Chemist",
+        "Mathematics N5 subjects: ■ Fluid Mechanics ■ Mechano-Technics ■ Strength of Material & Structure ■ Mechanical Drawing & Design ■ Mathematics ■ Power Mechanics ■ Engineering Physics N6 subjects: ■ Fluid M",
+        "Mathematics ■ Power Mechanics ■ Engineering Physics Some of the career opportunities available include but are not l"
       ],
-      "confidence": 0.173,
+      "confidence": 0.18,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:9.3"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela Campu"
+        "Maintenance or Engineering Fabrication or Welding Level 3",
+        "Maintenance or Engineering Fabrication or Welding Level 4",
+        "Level 3 Vocational subjects"
       ],
-      "confidence": 0.188,
+      "confidence": 0.196,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:10.2"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at",
-        "Technics",
-        "Technics"
+        "Mathematics ■ Strength of Material & Structure ■ Power Mechanics Some of the career opportunities available include but are not limited to: Fitter & Turner, Mechanical Fitter/Turner, Fitters Assistant and F",
+        "Mathematics ■ Mechanical Draughting N5 subjects: ■ Engineering Physics ■ Mechano-Technics ■ Mechanical Drawing & Design ■ Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics",
+        "Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics Some of the career opportunities available include but are not"
       ],
-      "confidence": 0.168,
+      "confidence": 0.175,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:9.1"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Tshisimani Campus"
+        "Select 1"
       ],
-      "confidence": 0.104,
+      "confidence": 0.108,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:5.6"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela, Shingwedzi and"
+        "Select 1"
       ],
-      "confidence": 0.131,
+      "confidence": 0.137,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
       "matchingMethod": "pdf-bm25:7.1"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered"
+        "Hospitality Services Level 4",
+        "Level 4 Vocational subjects",
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N5 subjects: ■ Electro-Technics ■ Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N6 subjects: ■ Electro-Technics"
       ],
-      "confidence": 0.165,
+      "confidence": 0.112,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:8.9"
+      "matchingMethod": "pdf-bm25:5.8"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered"
+        "Level 3",
+        "New Venture Creation Level 4",
+        "Offered at Mashamba Campus Level 2"
       ],
-      "confidence": 0.19,
+      "confidence": 0.102,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:10.3"
+      "matchingMethod": "pdf-bm25:5.3"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela Campus"
+        "Hospitality Services Level 4",
+        "Level 4 Vocational subjects",
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N5 subjects: ■ Electro-Technics ■ Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N6 subjects: ■ Electro-Technics"
       ],
-      "confidence": 0.196,
+      "confidence": 0.095,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:10.6"
+      "matchingMethod": "pdf-bm25:4.9"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Offered at Makwarela and Tshisimani Campuses"
-      ],
-      "confidence": 0.202,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:10.9"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Offered at Makwarela, Shingwedzi and"
-      ],
-      "confidence": 0.153,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:8.2"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Offered at Makwarela, Shingwedzi and"
-      ],
-      "confidence": 0.14,
-      "source": "prospectus",
-      "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:7.6"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "are not limited to:",
-        "Personal Assistant, Executive Assistant, Administration",
-        "Assistant, Assistant Store Manager, Sales Assistant"
+        "Project Management Level 4",
+        "Offered at Makwarela Campus Level 2",
+        "Consumer Behaviour or Call Centre Operations Level 3"
       ],
       "confidence": 0.127,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:6.9"
+      "matchingMethod": "pdf-bm25:6.6"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "are not limited to:",
-        "Personal Assistant, Executive Assistant, Administration",
-        "Assistant, Assistant Store Manager, Sales Assistant"
+        "Select 1",
+        "Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics Some of the career opportunities available include but are not limited to: Artisan Boilermaker, Dragline Boilermaker, Maint"
       ],
-      "confidence": 0.127,
+      "confidence": 0.116,
       "source": "prospectus",
       "sourceFile": "vhembe-tvet-prospectus.pdf",
-      "matchingMethod": "pdf-bm25:6.9"
+      "matchingMethod": "pdf-bm25:6.0"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 1,
-    "low<0.5": 42
+    "mid 0.5-0.8": 4,
+    "low<0.5": 32
   },
-  "confidence_mean": 0.168
+  "confidence_mean": 0.186,
+  "qual_type_inferred_programmes": [
+    "National Certificate: Electrical Infrastructure &",
+    "National Certificate: Engineering & Related",
+    "National Certificate: Process Plant Operations",
+    "National Certificate: Civil Engineering & Building",
+    "National Certificate: Management",
+    "National Certificate: Marketing",
+    "National Certificate: Office Administration -",
+    "National Certificate: Finance, Economic",
+    "National Certificate: Primary Agriculture",
+    "National Certificate: Hospitality"
+  ]
 }

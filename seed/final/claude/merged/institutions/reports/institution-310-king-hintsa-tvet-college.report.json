@@ -1,21 +1,25 @@
 {
   "institution_id": "310",
   "institution_name": "King Hintsa TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 9,
   "programmes_enriched": 9,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.126,
-  "completeness_after": 0.126,
-  "improvement": 0.0,
+  "qual_type_inferred": [],
+  "completeness_before": 0.111,
+  "completeness_after": 0.131,
+  "improvement": 0.019,
   "overall_quality": {
-    "mean": 0.126,
-    "min": 0.067,
-    "max": 0.133,
+    "mean": 0.131,
+    "min": 0.118,
+    "max": 0.176,
     "count": 9
   },
   "fields_completed": {
-    "campuses_offering": 2
+    "admission_requirements_raw": 3,
+    "min_grade": 1
   },
   "fields_still_missing": {
     "nqf_level": 9,
@@ -31,13 +35,15 @@
     "admissionRequirements": 9,
     "campus": 1,
     "modules": 9,
-    "qualification_code": 9
+    "qualification_code": 9,
+    "pricing": 9,
+    "admission_requirements_raw": 6
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "king-hintsa-tvet-college.pdf": [
-        "campuses_offering"
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [],
@@ -46,75 +52,129 @@
   "per_programme": [
     {
       "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Primary Agriculture",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NATED Electrical Engineering",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Marketing",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Information Technology",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Tourism",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Transport and Logistics",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "NC(V) Hospitality",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Engineering and Related Design",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     }
   ]
 }

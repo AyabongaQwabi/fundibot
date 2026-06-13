@@ -1,1883 +1,873 @@
 {
   "institution_id": "364",
   "institution_name": "University of Johannesburg",
+  "points_system": "aps_points",
   "sources_used": [
-    "prospectuses/university-of-johannesburg.pdf",
     "university-of-johannesburg.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-johannesburg.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-johannesburg.pdf"
   ],
   "evidence": [
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.233,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) B ARCHITECTURE B",
+        "3 years) BA (COMMUNICATION DESIGN) B",
+        "with Mathematical Literacy 5"
+      ],
+      "confidence": 0.213,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:11.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.36,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.42"
-    },
-    {
-      "field": "min_aps",
-      "value": 24,
-      "confidence": 0.135,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:6.1"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "education and training, art gallery and museum",
-        "curating and management, art consulting, arts",
-        "writing, art criticism, research and journalism,"
+        "with Tech Maths 5",
+        "4 Not accepted",
+        "5 Diploma in Fashion Production (D"
       ],
-      "confidence": 0.223,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:12.1"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.23,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:10.9"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.425,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.50"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.182,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:8.6"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "education and training, art gallery and museum",
-        "curating and management, art consulting, arts",
-        "writing, art criticism, research and journalism,"
-      ],
-      "confidence": 0.26,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:14.1"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.196,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:9.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.379,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.45"
-    },
-    {
-      "field": "min_aps",
-      "value": 24,
-      "confidence": 0.115,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "education and training, art gallery and museum",
-        "curating and management, art consulting, arts",
-        "writing, art criticism, research and journalism,"
-      ],
-      "confidence": 0.269,
+      "confidence": 0.279,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:14.5"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.204,
+      "field": "admission_requirements_raw",
+      "value": [
+        "s minimum admission requirements including the Admission Points Score (APS) and the achievement ratings of the 6",
+        "an achievement rating of 5",
+        "For all other fundamental and vocational categories an achievement rating of 4"
+      ],
+      "confidence": 0.119,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:9.7"
+      "matchingMethod": "pdf-bm25:6.2"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.539,
+      "field": "admission_requirements_raw",
+      "value": [
+        "with Mathematical Literacy 5",
+        "Mathematics Mathematical Literacy Technical Mathematics ** CAREER CAMPUS English * BA (INTERIOR DESIGN) B8BA6Q 25 with Mathematics OR 26 with Mathematical Literacy 5 (60%+) 4 (50%+) 5 (60%+) Not accepted Inter",
+        "Mathematics OR 26 with Mathematical Literacy 5 (60%+) 4 (50%+) 5 (60%+) Not accepted A degree in fashion design prepares graduates for various career possibilities in the fast- paced fashion industry"
+      ],
+      "confidence": 0.274,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:14.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with Tech Maths 5",
+        "4 Not accepted",
+        "5 Diploma in Fashion Production (D"
+      ],
+      "confidence": 0.201,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with Mathematical Literacy 5",
+        "Mathematics Mathematical Literacy Technical Mathematics ** CAREER CAMPUS English * BA (INTERIOR DESIGN) B8BA6Q 25 with Mathematics OR 26 with Mathematical Literacy 5 (60%+) 4 (50%+) 5 (60%+) Not accepted Inter",
+        "Mathematics OR 26 with Mathematical Literacy 5 (60%+) 4 (50%+) 5 (60%+) Not accepted A degree in fashion design prepares graduates for various career possibilities in the fast- paced fashion industry"
+      ],
+      "confidence": 0.265,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:13.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "After completing a 3",
+        "year BCom (Law) or BA (Law) degree students can register for an LLB degree and will be able to complete this degree within a further 2",
+        "thus obtaining two qualifications within 5"
+      ],
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with Mathematical Literacy 5",
+        "Maths / Tech Maths OR 26 with Mathematical Literacy 5 (60%+) 3 (40%+) 4 (50%+) 3 (40%+) Visual Art graduates find work in diverse fields of the visual arts industries",
+        "maths or maths literacy as a matric subject for international admission into the BA in Visu"
+      ],
+      "confidence": 0.271,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:14.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Minimum APS Compulsory 1",
+        "Language and Maths/Maths Literacy Mathematics/ Mathematical Literacy Subject 1",
+        "Subject 2"
+      ],
+      "confidence": 0.099,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with Mathematical Literacy 5",
+        "Maths / Tech Maths OR 26 with Mathematical Literacy 5 (60%+) 3 (40%+) 4 (50%+) 3 (40%+) Visual Art graduates find work in diverse fields of the visual arts industries",
+        "maths or maths literacy as a matric subject for international admission into the BA in Visu"
+      ],
+      "confidence": 0.281,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) ARCHITECTURE D",
+        "with Tech Maths 5",
+        "Not accepted 5"
+      ],
+      "confidence": 0.493,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:25.6"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "in the business, manufacturing, retail and",
-        "quality assurance aspects of the clothing",
-        "industry."
+        "4 years) BIOKINETICS B",
+        "with Mathematical Literacy 5",
+        "4 years) DIAGNOSTIC RADIOGRAPHY B"
       ],
-      "confidence": 0.473,
+      "confidence": 0.194,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:25.6"
+      "matchingMethod": "pdf-bm25:10.1"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.349,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.41"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.3,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.35"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.306,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.36"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "optometrists providing primary eye",
-        "care, specialising in eyes examination",
-        "to identify and address a spectrum"
+        "4 years) ENVIRONMENTAL HEAL TH B",
+        "Not accepted 4",
+        "English Mathematics Mathematics Literacy Physical Sciences Life Sciences CAREER CAMPUS Bachelor of Environmental Health (4 years) ENVIRONMENTAL HEAL TH B9ENV1 24 4 (50%+) 4 (50%+) Not accepted 4 (50%+) 4 (5"
       ],
-      "confidence": 0.155,
+      "confidence": 0.215,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
+      "matchingMethod": "pdf-bm25:11.1"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "optometrists providing primary eye",
-        "care, specialising in eyes examination",
-        "to identify and address a spectrum"
+        "English Mathematics Mathematics Literacy Physical Sciences Life Sciences Technical Mathematics Technical Science CAREER CAMPUS PROGRAMME Qualification Code Minimum APS English Mathematics Mathematical Liter"
       ],
-      "confidence": 0.155,
+      "confidence": 0.182,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
+      "matchingMethod": "pdf-bm25:9.4"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.31,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.36"
+      "field": "admission_requirements_raw",
+      "value": [
+        "English Mathematics Mathematics Literacy Physical Sciences Life Sciences Technical Mathematics Technical Science CAREER CAMPUS PROGRAMME Qualification Code Minimum APS English Mathematics Mathematical Liter"
+      ],
+      "confidence": 0.219,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.252,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) Hospitality Management B",
+        "of the 7",
+        "3 Y ears) Business Management B"
+      ],
+      "confidence": 0.23,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:11.9"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Practitioners with the South African",
-        "Board of People Practices (SABPP) to"
+        "3 years) MINE SURVEYING B",
+        "3 years) CONSTRUCTION B",
+        "3 years) URBAN AND REGIONAL PLANNING B"
       ],
-      "confidence": 0.21,
+      "confidence": 0.348,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:11.3"
+      "matchingMethod": "pdf-bm25:18.0"
     },
     {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.202,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:9.6"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.359,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.42"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "optometrists providing primary eye",
-        "care, specialising in eyes examination",
-        "to identify and address a spectrum"
+        "4 years) ENVIRONMENTAL HEAL TH B",
+        "Not accepted 4",
+        "English Mathematics Mathematics Literacy Physical Sciences Life Sciences CAREER CAMPUS Bachelor of Environmental Health (4 years) ENVIRONMENTAL HEAL TH B9ENV1 24 4 (50%+) 4 (50%+) Not accepted 4 (50%+) 4 (5"
       ],
-      "confidence": 0.135,
+      "confidence": 0.167,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
+      "matchingMethod": "pdf-bm25:8.7"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "min_aps",
-      "value": 27,
-      "confidence": 0.175,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) SOCIAL WORK B",
+        "3 years) BA B",
+        "English CAREER CAMPUS DEGREE PROGRAMMES Bachelor of Social Work (4 years) SOCIAL WORK B7025Q 31 5 (60%+) Social Worker in Private Sector, Welfare Organisations and Government or Non-Governmental Organis"
+      ],
+      "confidence": 0.212,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.8"
+      "matchingMethod": "pdf-bm25:11.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Maths 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) MINE SURVEYING B",
+        "3 years) CONSTRUCTION B",
+        "3 years) URBAN AND REGIONAL PLANNING B"
+      ],
+      "confidence": 0.442,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:22.9"
     },
     {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.193,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%"
+      ],
+      "confidence": 0.178,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "min_aps",
-      "value": 20,
-      "confidence": 0.164,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Accounting) B34"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Maths = 3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.174,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) ACCOUNTANCY",
+        "D3A15Q"
+      ],
+      "confidence": 0.159,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:8.2"
     },
     {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.161,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.6"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Accounting) B34"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Maths = 3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.347,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.41"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.197,
+      "field": "admission_requirements_raw",
+      "value": [
+        "After completing a 3",
+        "year BCom (Law) or BA (Law) degree students can register for an LLB degree and will be able to complete this degree within a further 2",
+        "thus obtaining two qualifications within 5"
+      ],
+      "confidence": 0.181,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:9.4"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Accounting) B34"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Maths = 3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.327,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.38"
-    },
-    {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.136,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%"
+      ],
+      "confidence": 0.125,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
+      "matchingMethod": "pdf-bm25:6.5"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.248,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) Hospitality Management B",
+        "of the 7",
+        "3 Y ears) Business Management B"
+      ],
+      "confidence": 0.227,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:11.8"
     },
     {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.169,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%"
+      ],
+      "confidence": 0.177,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:8.0"
+      "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "min_aps",
-      "value": 24,
-      "confidence": 0.168,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%"
+      ],
+      "confidence": 0.183,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.5"
+      "matchingMethod": "pdf-bm25:9.5"
     },
     {
-      "field": "min_aps",
-      "value": 20,
-      "confidence": 0.155,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:6.9"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Maths 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.821,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.97"
-    },
-    {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.198,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:9.4"
-    },
-    {
-      "field": "min_aps",
-      "value": 20,
-      "confidence": 0.164,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Accounting) B34"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Maths = 3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.283,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Maths = 3  English = 3  Applicants younger than 23 will be handled on an Ad-hoc basis",
+        "will be considered if the",
+        "hoc basis."
+      ],
+      "confidence": 0.259,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:13.4"
     },
     {
-      "field": "min_aps",
-      "value": 20,
-      "confidence": 0.164,
+      "field": "admission_requirements_raw",
+      "value": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ],
+      "confidence": 0.166,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
+      "matchingMethod": "pdf-bm25:8.6"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.118,
+      "field": "admission_requirements_raw",
+      "value": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ],
+      "confidence": 0.611,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:31.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ],
+      "confidence": 0.57,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:29.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ],
+      "confidence": 0.659,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:34.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) CIVIL ENGINEERING B",
+        "English Mathematics / Technical Mathematics Physical Sciences OR Technical Science CAREER CAMPUS DEGREE PROGRAMMES Bachelor of Engineering (BEng) Degree (4 years) CIVIL ENGINEERING B6CISQ 32 5 (60%+) 5 (6"
+      ],
+      "confidence": 0.108,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:5.6"
     },
     {
-      "field": "min_aps",
-      "value": 28,
-      "confidence": 0.109,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.601,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:28.5"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.547,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:25.9"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ],
-      "confidence": 0.143,
+      "confidence": 0.216,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
+      "matchingMethod": "pdf-bm25:11.2"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.274,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:13.0"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ],
-      "confidence": 0.166,
+      "confidence": 0.249,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
+      "matchingMethod": "pdf-bm25:12.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Information Technology",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Information Technology (3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ],
-      "confidence": 0.221,
+      "confidence": 0.273,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:14.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science"
+      ],
+      "confidence": 0.231,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:12.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Information Technology",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Information Technology (3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.677,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.80"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.252,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science"
+      ],
+      "confidence": 0.231,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:12.0"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science"
       ],
-      "confidence": 0.221,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:12.0"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science if Chemistry 1"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Physical Sciences",
-              "minimum_percentage": 3,
-              "minimum_nsc_level": null,
-              "notes": "Physical Sciences (3"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.412,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.49"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
-      ],
-      "confidence": 0.247,
+      "confidence": 0.258,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:13.4"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science if Chemistry 1"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Physical Sciences",
-              "minimum_percentage": 3,
-              "minimum_nsc_level": null,
-              "notes": "Physical Sciences (3"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.352,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.41"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.282,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science"
+      ],
+      "confidence": 0.258,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:13.4"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ],
-      "confidence": 0.247,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science if Chemistry 1"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Physical Sciences",
-              "minimum_percentage": 3,
-              "minimum_nsc_level": null,
-              "notes": "Physical Sciences (3"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.53,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.62"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
-      ],
-      "confidence": 0.142,
+      "confidence": 0.148,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:7.7"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science if Chemistry 1"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Physical Sciences",
-              "minimum_percentage": 3,
-              "minimum_nsc_level": null,
-              "notes": "Physical Sciences (3"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.438,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.52"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.162,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ],
-      "confidence": 0.142,
+      "confidence": 0.21,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
+      "matchingMethod": "pdf-bm25:10.9"
     },
     {
-      "field": "min_aps",
-      "value": 20,
-      "confidence": 0.133,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science if Chemistry 1"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Physical Sciences",
-              "minimum_percentage": 3,
-              "minimum_nsc_level": null,
-              "notes": "Physical Sciences (3"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science"
       ],
-      "confidence": 0.175,
+      "confidence": 0.182,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:9.5"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science if Chemistry 1"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Physical Sciences",
-              "minimum_percentage": 3,
-              "minimum_nsc_level": null,
-              "notes": "Physical Sciences (3"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.669,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.79"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.199,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:9.5"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ],
-      "confidence": 0.175,
+      "confidence": 0.215,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:9.5"
+      "matchingMethod": "pdf-bm25:11.1"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Maths 5 / Maths Lit 5"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.337,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.40"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.225,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) ACCOUNTANCY",
+        "D3A15Q"
+      ],
+      "confidence": 0.206,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:10.7"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Accounting degree programme (B34"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.658,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) ACCOUNTANCY",
+        "D3A15Q"
+      ],
+      "confidence": 0.602,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:31.2"
     },
     {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.262,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:12.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Maths 5 / Maths Lit 5"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "min_aps",
-      "value": 5,
-      "confidence": 0.316,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.35"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.124,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:5.9"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "in the business, manufacturing, retail and",
-        "quality assurance aspects of the clothing",
-        "industry."
+        "with Tech Maths 5",
+        "4 Not accepted",
+        "5 Diploma in Fashion Production (D"
       ],
-      "confidence": 0.109,
+      "confidence": 0.141,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:5.9"
+      "matchingMethod": "pdf-bm25:7.3"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Information Technology",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Information Technology: an achievement of at least 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics or 70%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 80,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics and 80%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.541,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:25.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English 60%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Maths 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English 60%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Maths 60%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 70,
-              "minimum_nsc_level": null,
-              "notes": "Maths Lit 70%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "It is recommended that applicants to the"
+        "A NCV (level 4",
+        "for 5",
+        "of the 7"
       ],
-      "confidence": 0.0,
+      "confidence": 0.613,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:7.6"
+      "matchingMethod": "pdf-bm25:31.8"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Maths 5 / Maths Lit 5"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%"
+      ],
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:11.0"
     },
     {
-      "field": "min_aps",
-      "value": 5,
-      "confidence": 0.326,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.36"
+      "field": "admission_requirements_raw",
+      "value": [
+        "and 2"
+      ],
+      "confidence": 0.248,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:12.8"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.257,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) ARCHITECTURE D",
+        "with Tech Maths 5",
+        "Not accepted 5"
+      ],
+      "confidence": 0.235,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:12.2"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "in the business, manufacturing, retail and",
-        "quality assurance aspects of the clothing",
-        "industry."
-      ],
-      "confidence": 0.226,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:12.2"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Maths 5 / Maths Lit 5"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
+        "Mathematics Mathematical Literacy Technical Mathematics ** CAREER CAMPUS English * Image: Black Chronicles IV (Curated by Renée Mussai of Autograph ABP , London), FADA Gallery, 2018, Photo by UJ Photographic Se",
         "CAREER",
         "Image: Black Chronicles IV (Curated by Renée Mussai of Autograph ABP ,"
       ],
-      "confidence": 0.283,
+      "confidence": 0.295,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:15.3"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "English 1"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics for Marketers 1"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "min_aps",
-      "value": 5,
-      "confidence": 0.36,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.40"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
         "It is recommended that applicants to the"
       ],
-      "confidence": 0.0,
+      "confidence": 0.547,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:28.4"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.296,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:14.1"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "in the business, manufacturing, retail and",
-        "quality assurance aspects of the clothing",
-        "industry."
+        "3 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "4 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "English, determines the range of the overall APS score"
       ],
-      "confidence": 0.26,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:14.1"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.391,
+      "confidence": 0.358,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:18.5"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.407,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:18.2"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.407,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:18.2"
-    },
-    {
-      "field": "min_aps",
-      "value": 24,
-      "confidence": 0.759,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.84"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.458,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "4 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "English, determines the range of the overall APS score"
+      ],
+      "confidence": 0.419,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:21.7"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.466,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:20.8"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.466,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:20.8"
-    },
-    {
-      "field": "min_aps",
-      "value": 24,
-      "confidence": 0.829,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.92"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.391,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "4 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "English, determines the range of the overall APS score"
+      ],
+      "confidence": 0.358,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:18.5"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.407,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:18.2"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.407,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:18.2"
-    },
-    {
-      "field": "min_aps",
-      "value": 24,
-      "confidence": 0.649,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.72"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.458,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "4 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "English, determines the range of the overall APS score"
+      ],
+      "confidence": 0.419,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:21.7"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.466,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:20.8"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.466,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:20.8"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "English 1"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics for Marketers 1"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.464,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.55"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
         "It is recommended that applicants to the"
       ],
-      "confidence": 0.0,
+      "confidence": 0.289,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:15.0"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.213,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:10.1"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "in the business, manufacturing, retail and",
-        "quality assurance aspects of the clothing",
-        "industry."
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science"
       ],
-      "confidence": 0.187,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:10.1"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.568,
+      "confidence": 0.519,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:26.9"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "Not accepted Not accepted 4"
       ],
-      "confidence": 0.498,
+      "confidence": 0.4,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:26.9"
+      "matchingMethod": "pdf-bm25:20.7"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "EMERGENCY",
-        "MEDICAL CARE",
-        "Not accepted"
+        "Not accepted Not accepted 4"
       ],
-      "confidence": 0.271,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:14.6"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.238,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:11.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "EMERGENCY",
-        "MEDICAL CARE",
-        "Not accepted"
-      ],
-      "confidence": 0.476,
+      "confidence": 0.496,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:25.7"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.118,
+      "field": "admission_requirements_raw",
+      "value": [
+        "s minimum admission requirements including the Admission Points Score (APS) and the achievement ratings of the 6",
+        "an achievement rating of 5",
+        "For all other fundamental and vocational categories an achievement rating of 4"
+      ],
+      "confidence": 0.102,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:5.3"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.118,
+      "field": "admission_requirements_raw",
+      "value": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ],
+      "confidence": 0.158,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
+      "matchingMethod": "pdf-bm25:8.2"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.103,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.311,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.37"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.144,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "min_aps",
-      "value": 20,
-      "confidence": 0.148,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:6.6"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.285,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) CIVIL ENGINEERING B",
+        "English Mathematics / Technical Mathematics Physical Sciences OR Technical Science CAREER CAMPUS DEGREE PROGRAMMES Bachelor of Engineering (BEng) Degree (4 years) CIVIL ENGINEERING B6CISQ 32 5 (60%+) 5 (6"
+      ],
+      "confidence": 0.261,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:13.5"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.329,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:15.6"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.338,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.40"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.185,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:8.8"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "optometrists providing primary eye",
-        "care, specialising in eyes examination",
-        "to identify and address a spectrum"
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ],
-      "confidence": 0.162,
+      "confidence": 0.354,
+      "source": "prospectus",
+      "sourceFile": "university-of-johannesburg.pdf",
+      "matchingMethod": "pdf-bm25:18.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) NURSING B",
+        "4 years) B OPTOM B",
+        "English Mathematics Physical Sciences Life Sciences CAREER CAMPUS Bachelor of Nursing (4 years) NURSING B9N02Q 30 5 (60%+) 4 (50%+) 4 (50%+) 4 (50%+) The student will qualify as a professional nurse and m"
+      ],
+      "confidence": 0.169,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:8.8"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Accounting) B34"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Maths = 3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.398,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.47"
-    },
-    {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.102,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.118,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "min_aps",
-      "value": 28,
-      "confidence": 0.109,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%"
+      ],
+      "confidence": 0.094,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:4.9"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.119,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) FOUNDATION PHASE TEACHING GRADE",
+        "Home language 5",
+        "OR Additional Language 6"
+      ],
+      "confidence": 0.107,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:5.6"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science"
       ],
-      "confidence": 0.104,
+      "confidence": 0.109,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:5.6"
     },
     {
-      "field": "min_aps",
-      "value": 24,
-      "confidence": 0.699,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.78"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Maths 5 / Maths Lit 5"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.306,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
-      "matchingMethod": "adm-sim:0.36"
-    },
-    {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.299,
+      "field": "admission_requirements_raw",
+      "value": [
+        "credits on NQF level 4",
+        "obtaining and achievement rating of at least 70%",
+        "level 4 obtaining and achievement rating of at le"
+      ],
+      "confidence": 0.258,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:13.4"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.299,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.282,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.568,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science"
+      ],
+      "confidence": 0.519,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:26.9"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Physical Science",
-        "Life Science",
-        "4 (50%+)/"
+        "Not accepted Not accepted 4"
       ],
-      "confidence": 0.498,
+      "confidence": 0.4,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:26.9"
+      "matchingMethod": "pdf-bm25:20.7"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "EMERGENCY",
-        "MEDICAL CARE",
-        "Not accepted"
+        "Not accepted Not accepted 4"
       ],
-      "confidence": 0.271,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:14.6"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.238,
-      "source": "prospectus",
-      "sourceFile": "university-of-johannesburg.pdf",
-      "matchingMethod": "pdf-bm25:11.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "EMERGENCY",
-        "MEDICAL CARE",
-        "Not accepted"
-      ],
-      "confidence": 0.476,
+      "confidence": 0.496,
       "source": "prospectus",
       "sourceFile": "university-of-johannesburg.pdf",
       "matchingMethod": "pdf-bm25:25.7"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 17,
-    "mid 0.5-0.8": 13,
-    "low<0.5": 123
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 8,
+    "low<0.5": 65
   },
-  "confidence_mean": 0.351
+  "confidence_mean": 0.278,
+  "qual_type_inferred_programmes": []
 }

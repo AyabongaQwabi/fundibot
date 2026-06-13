@@ -1,6 +1,8 @@
 {
   "institution_id": "380",
   "institution_name": "West Coast TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 23,
   "programmes_enriched": 23,
   "synthetic_injected": [
@@ -78,16 +80,21 @@
       "qual_type": "NCV"
     }
   ],
-  "completeness_before": 0.067,
-  "completeness_after": 0.067,
-  "improvement": 0.0,
+  "qual_type_inferred": [],
+  "completeness_before": 0.059,
+  "completeness_after": 0.112,
+  "improvement": 0.053,
   "overall_quality": {
-    "mean": 0.067,
-    "min": 0.067,
-    "max": 0.067,
+    "mean": 0.112,
+    "min": 0.059,
+    "max": 0.176,
     "count": 23
   },
-  "fields_completed": {},
+  "fields_completed": {
+    "min_grade": 9,
+    "pricing": 9,
+    "admission_requirements_raw": 12
+  },
   "fields_still_missing": {
     "nqf_level": 23,
     "duration": 23,
@@ -102,200 +109,343 @@
     "admissionRequirements": 23,
     "campus": 23,
     "modules": 23,
-    "qualification_code": 23
+    "qualification_code": 23,
+    "pricing": 14,
+    "admission_requirements_raw": 11
   },
   "pdf_source_audit": {
     "total_mapped": 1,
-    "useful_files": {},
-    "unused_files": [
-      "west-coast-tvet-college.pdf"
-    ],
-    "verdict": "none"
+    "useful_files": {
+      "west-coast-tvet-college.pdf": [
+        "pricing",
+        "admission_requirements_raw"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
   },
   "per_programme": [
     {
       "name": "National Vocational Certificate - Level 1",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Vocational Certificate - Level 2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Vocational Certificate - Level 3",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Vocational Certificate - Level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "NC(V)",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "Nated (Report 191)",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N2",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N3",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N4",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N5",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N6",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "The following admission and progression requirements for NC (V) qualifications are to be implemented with",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "proceed to the next NC (V) level in a vocational or a fundamental subject unless the candidate has passed the",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": " A candidate can only ever be registered to offer a maximum of seven NC (V) subjects in an academic year,",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "the next NC (V) level in that subject in the following academic year, e.g. only subject(s) passed on Level 2 in",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "proceed to the next NC (V) level in that subject and must repeat the subject on the particular level in the",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": " A candidate is not allowed to offer an NC (V) subject on two levels simultaneously, e.g. Mathematics Level",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Levels 3 and 4, but not on Levels 2 and 4 OR all three NC (V) levels simultaneously.",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.118
     },
     {
       "name": " The same optional vocational subject is to be offered across NC (V) Levels 2, 3 and 4.",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.118
     },
     {
       "name": "As per the NC (V) policy , candidates are required to achieve at least 50% in the internal (ICASS) and the external",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "vocational NC (V) subjects. This 50% rule will be implemented across NC (V) Levels 2, 3 and 4 in the examination",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "Kindly ensure that all college officials and NC (V) candidates are informed of the above admission and promotion",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.118
     },
     {
       "name": "phased in over a 3-year period (2015 - 2017) across NC (V) Levels 2 to 4.",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "west-coast-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     }
   ]
 }

@@ -1,1278 +1,2213 @@
 {
   "institution_id": "363",
   "institution_name": "University of Fort Hare",
+  "points_system": "aps_points",
   "sources_used": [
-    "university-of-fort-hare.pdf",
-    "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf"
+    "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+    "university-of-fort-hare.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/workik/batch1/University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-    "/Users/nonwork/dev/fundibot/seed/workik/batch1/university-of-fort-hare.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+    "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/university-of-fort-hare.pdf"
   ],
   "evidence": [
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.168,
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.145,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:7.5"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.173,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.173,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.118,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.118,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.104,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.118,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specializatio"
+        "Life Orientation 4",
+        "First additional language 4",
+        "Mathematics 4"
       ],
-      "confidence": 0.0,
+      "confidence": 0.162,
       "source": "prospectus",
       "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
       "matchingMethod": "pdf-bm25:8.4"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.118,
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 3",
+        "6 Faculties may prescribe higher minimum re",
+        "7 The minimum requirements for admission to"
+      ],
+      "confidence": 0.392,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:20.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "Mathematics OR Mathematical Literacy (ML) OR Technical Mathematics (TM) 3",
+        "Life Orientation 4"
+      ],
+      "confidence": 0.102,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 Procedure",
+        "1 During the hearing",
+        "2 Disciplinary hearings shall be held in ca"
+      ],
+      "confidence": 0.12,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.098,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.102,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:5.3"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.135,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Masters Coursework) SEMESTER 1"
+      ],
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
+      ],
+      "confidence": 0.112,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.098,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.137,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "National Certificate (Vocational) Level 4",
+        "At least 60%",
+        "At least 70%"
+      ],
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 3",
+        "6 Faculties may prescribe higher minimum re",
+        "7 The minimum requirements for admission to"
+      ],
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 3",
+        "6 Faculties may prescribe higher minimum re",
+        "7 The minimum requirements for admission to"
+      ],
+      "confidence": 0.392,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:20.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 mm wide outside",
+        "BA (Fine Arts) White 4"
+      ],
+      "confidence": 0.123,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:6.4"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.098,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:5.1"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
+      "field": "admission_requirements_raw",
+      "value": [
+        "7 FORT HARE INSTITUTE OF TECHNOLOGY (FHIT)"
+      ],
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Local Economic Development and 8"
+      ],
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.098,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:5.1"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
+      "field": "pricing",
+      "value": {
+        "amount_min": 3000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.057,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "rt Hare 1",
+        "means all the libraries of the University of Fort Hare 1"
+      ],
+      "confidence": 0.112,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.098,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:5.1"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.185,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.188,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "mm wide (M Cur 7",
+        "5 mm wide white band on the inner side of t",
+        "faced inside 1"
+      ],
+      "confidence": 0.153,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.098,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:5.1"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 Whenever the punishment imposed on a stud"
+      ],
+      "confidence": 0.116,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
+      "matchingMethod": "pdf-bm25:6.0"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.101,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
+      "matchingMethod": "pdf-bm25:5.2"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.179,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Masters Coursework) SEMESTER 1",
+        "Cancellation of Modules cycle 2",
+        "Feb Lecture week 3"
+      ],
+      "confidence": 0.332,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 A postgraduate diploma must include condu",
+        "2 The postgraduate diploma is generally mul",
+        "3 The postgraduate diploma shall comprise n"
+      ],
+      "confidence": 0.154,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:8.0"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.179,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.148,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:8.0"
+      "matchingMethod": "pdf-bm25:7.7"
     },
     {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.143,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.3,
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 The above requirements should be read in",
+        "2 HONOURS DEGREES To qualify for admission",
+        "1 Successfully completed an appropriate Bac"
+      ],
+      "confidence": 0.259,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:13.4"
     },
     {
-      "field": "duration",
-      "value": "8 years",
-      "confidence": 0.208,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:9.9"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.43,
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.371,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:19.2"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:10.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.411,
+      "confidence": 0.354,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:18.4"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "5 The above requirements should be read in",
+        "2 HONOURS DEGREES To qualify for admission",
+        "1 Successfully completed an appropriate Bac"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:5.5"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.42,
+      "confidence": 0.362,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:18.8"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "5 The above requirements should be read in",
+        "2 HONOURS DEGREES To qualify for admission",
+        "1 Successfully completed an appropriate Bac"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.166,
+      "confidence": 0.143,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:7.4"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.3,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "9 A postgraduate diploma qualification shal",
+        "1 A description of the various components (",
+        "University of Fort Hare 3"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:7.2"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.336,
+      "confidence": 0.297,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:15.0"
+      "matchingMethod": "pdf-bm25:15.4"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:6.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.38,
+      "confidence": 0.498,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:17.0"
+      "matchingMethod": "pdf-bm25:25.8"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.38,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.472,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:17.0"
+      "matchingMethod": "pdf-bm25:24.5"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.328,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.594,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:14.6"
+      "matchingMethod": "pdf-bm25:30.8"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.328,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:14.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.783,
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 3",
+        "3 An honours degree shall comprise not less",
+        "credits at NQF level 8"
+      ],
+      "confidence": 0.675,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:35.6"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.783,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:35.6"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.595,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:30.9"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "4 An honours degree shall extend over not l",
+        "5 Where a programme is accredited and appro",
+        "6 Where these maximum periods are exceeded"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:7.6"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
       "confidence": 0.646,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:33.5"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.693,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:31.0"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.693,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:31.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.176,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:7.9"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.209,
+      "confidence": 0.156,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:9.3"
+      "matchingMethod": "pdf-bm25:8.1"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
+      "field": "admission_requirements_raw",
+      "value": [
+        "7 To promote the attainment of appropriate",
+        "8 A candidate transferring from another ins",
+        "9 An honours qualification shall include"
+      ],
+      "confidence": 0.2,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.246,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 MASTER",
+        "S DEGREES Curriculum 3",
+        "1 The University offers two types of master"
+      ],
+      "confidence": 0.26,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:13.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 The assessment of the research report",
+        "2 HONOURS DEGREES",
+        "1 Candidates in a programme that consists o"
+      ],
+      "confidence": 0.327,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
       "confidence": 0.235,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:12.2"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.241,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.241,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.306,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:13.7"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "2 Completed the qualification within the pr",
+        "5 A candidate shall normally retain credit",
+        "6 The assessment of the research report"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:9.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.273,
+      "confidence": 0.144,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:12.2"
+      "matchingMethod": "pdf-bm25:7.5"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.148,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 Completed the qualification within the pr",
+        "5 A candidate shall normally retain credit",
+        "6 The assessment of the research report"
+      ],
+      "confidence": 0.316,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.6"
+      "matchingMethod": "pdf-bm25:16.4"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.148,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.271,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:12.1"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.271,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:12.1"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.738,
+      "field": "admission_requirements_raw",
+      "value": [
+        "ALL 4"
+      ],
+      "confidence": 0.675,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:54.7"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.613,
+      "field": "admission_requirements_raw",
+      "value": [
+        "ALL 4"
+      ],
+      "confidence": 0.56,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:29.0"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.249,
+      "field": "admission_requirements_raw",
+      "value": [
+        "B Agric Apple green 3",
+        "year degree B HS in HMS Bottle green 3",
+        "3 year degree B Th Violet ("
+      ],
+      "confidence": 0.228,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:11.8"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.242,
+      "field": "admission_requirements_raw",
+      "value": [
+        "B Agric Apple green 3",
+        "year degree B HS in HMS Bottle green 3",
+        "3 year degree B Th Violet ("
+      ],
+      "confidence": 0.221,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:11.5"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.188,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:8.9"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.136,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.368,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:17.5"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.135,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.208,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:9.3"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.255,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:12.1"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.204,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:9.7"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.216,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:9.7"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.167,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:7.9"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.255,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:11.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 6,
-      "confidence": 0.124,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "mm wide (M Cur 7",
+        "5 mm wide white band on the inner side of t",
+        "faced inside 1"
       ],
-      "confidence": 0.0,
+      "confidence": 0.287,
       "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:14.9"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four compulsory modules.",
-        "The Selection Committee convenes to process all applications.",
-        "For all degrees, Li"
+        "mm wide (M Cur 7",
+        "5 mm wide white band on the inner side of t",
+        "faced inside 1"
       ],
-      "confidence": 0.098,
+      "confidence": 0.327,
       "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:16.9"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four compulsory modules.",
-        "The Selection Committee convenes to process all applications.",
-        "For all degrees, Li"
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
       ],
-      "confidence": 0.088,
+      "confidence": 0.24,
       "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.4"
     },
     {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Alice Campus"
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
       ],
-      "confidence": 0.16,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:8.0"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.143,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "qualification_type",
-      "value": "Bachelor Degree",
-      "confidence": 0.72,
-      "source": "derived",
-      "sourceFile": "",
-      "matchingMethod": "name-pattern"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.143,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "qualification_type",
-      "value": "Bachelor Degree",
-      "confidence": 0.72,
-      "source": "derived",
-      "sourceFile": "",
-      "matchingMethod": "name-pattern"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.214,
+      "confidence": 0.197,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:10.2"
     },
     {
-      "field": "qualification_type",
-      "value": "Bachelor Degree",
-      "confidence": 0.72,
-      "source": "derived",
-      "sourceFile": "",
-      "matchingMethod": "name-pattern"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
+      "field": "admission_requirements_raw",
+      "value": [
+        "polyester cashmere with silver grey ribbon 5"
+      ],
+      "confidence": 0.2,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
+      "matchingMethod": "pdf-bm25:10.4"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.104,
+      "field": "admission_requirements_raw",
+      "value": [
+        "polyester cashmere with silver grey ribbon 5"
+      ],
+      "confidence": 0.161,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.0"
+      "matchingMethod": "pdf-bm25:8.4"
     },
     {
-      "field": "qualification_type",
-      "value": "Bachelor Degree",
-      "confidence": 0.72,
-      "source": "derived",
-      "sourceFile": "",
-      "matchingMethod": "name-pattern"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.133,
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 mm wide outside",
+        "BA (Fine Arts) White 4"
+      ],
+      "confidence": 0.124,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.9"
+      "matchingMethod": "pdf-bm25:6.4"
     },
     {
-      "field": "qualification_type",
-      "value": "Bachelor Degree",
-      "confidence": 0.72,
-      "source": "derived",
-      "sourceFile": "",
-      "matchingMethod": "name-pattern"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 mm wide outside",
+        "BA (Fine Arts) White 4"
+      ],
+      "confidence": 0.337,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
+      "matchingMethod": "pdf-bm25:17.5"
     },
     {
-      "field": "qualification_type",
-      "value": "Bachelor Degree",
-      "confidence": 0.72,
-      "source": "derived",
-      "sourceFile": "",
-      "matchingMethod": "name-pattern"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.154,
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 mm wide outside and with a white band",
+        "5 mm wide inside the",
+        "Polyester Cashmere hood edged 1"
+      ],
+      "confidence": 0.227,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
+      "matchingMethod": "pdf-bm25:11.8"
     },
     {
-      "field": "qualification_type",
-      "value": "Bachelor Degree",
-      "confidence": 0.72,
-      "source": "derived",
-      "sourceFile": "",
-      "matchingMethod": "name-pattern"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.114,
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 mm wide outside and with a white band",
+        "5 mm wide inside the",
+        "Polyester Cashmere hood edged 1"
+      ],
+      "confidence": 0.226,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
+      "matchingMethod": "pdf-bm25:11.7"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.208,
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.301,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:15.6"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 6500,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.129,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Fees x 2",
+        "1 st December d) Interim Collection Pe"
+      ],
+      "confidence": 0.215,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.22,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
+      ],
+      "confidence": 0.179,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:9.3"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.43,
+      "field": "admission_requirements_raw",
+      "value": [
+        "mm wide (M Cur 7",
+        "5 mm wide white band on the inner side of t",
+        "faced inside 1"
+      ],
+      "confidence": 0.173,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:19.2"
+      "matchingMethod": "pdf-bm25:9.0"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "University of Fort Hare 4"
       ],
-      "confidence": 0.0,
+      "confidence": 0.217,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 mm wide outside",
+        "BA (Fine Arts) White 4"
+      ],
+      "confidence": 0.123,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.299,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:15.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
+      ],
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
       "source": "prospectus",
       "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:10.6"
+      "matchingMethod": "pdf-bm25:5.7"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.273,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:12.2"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.306,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:13.7"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
       ],
-      "confidence": 0.0,
+      "confidence": 0.109,
       "source": "prospectus",
       "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:9.4"
+      "matchingMethod": "pdf-bm25:5.7"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.738,
+      "field": "admission_requirements_raw",
+      "value": [
+        "polyester cashmere with silver grey ribbon 5"
+      ],
+      "confidence": 0.23,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:54.7"
+      "matchingMethod": "pdf-bm25:11.9"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.176,
+      "field": "admission_requirements_raw",
+      "value": [
+        "B Agric Apple green 3",
+        "year degree B HS in HMS Bottle green 3",
+        "3 year degree B Th Violet ("
+      ],
+      "confidence": 0.233,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.164,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.407,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:21.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.333,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:17.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.323,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:16.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "B Agric Apple green 3",
+        "year degree B HS in HMS Bottle green 3",
+        "3 year degree B Th Violet ("
+      ],
+      "confidence": 0.187,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.396,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:20.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 POSTGRADUATE DIPLOMAS To qualify for adm",
+        "1 Successfully completed an appropriate Bac",
+        "s degree or Advanced Diploma (NQF Level 7"
+      ],
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "B Agric Apple green 3",
+        "year degree B HS in HMS Bottle green 3",
+        "3 year degree B Th Violet ("
+      ],
+      "confidence": 0.153,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:7.9"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "polyester cashmere with silver grey ribbon 5"
       ],
-      "confidence": 0.0,
+      "confidence": 0.142,
       "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:7.3"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.336,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.168,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:15.0"
+      "matchingMethod": "pdf-bm25:8.7"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
       ],
-      "confidence": 0.0,
+      "confidence": 0.128,
       "source": "prospectus",
       "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
       "matchingMethod": "pdf-bm25:6.6"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.328,
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.11,
       "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:14.6"
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.328,
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
       "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:14.6"
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.38,
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 POSTGRADUATE DIPLOMAS To qualify for adm",
+        "1 Successfully completed an appropriate Bac",
+        "s degree or Advanced Diploma (NQF Level 7"
+      ],
+      "confidence": 0.219,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "mm wide (M Cur 7",
+        "5 mm wide white band on the inner side of t",
+        "faced inside 1"
+      ],
+      "confidence": 0.238,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "National Certificate (Vocational) Level 4",
+        "At least 60%",
+        "At least 70%"
+      ],
+      "confidence": 0.102,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.327,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:17.0"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.38,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:17.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.3,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "National Certificate (Vocational) Level 4",
+        "At least 60%",
+        "At least 70%"
       ],
-      "confidence": 0.0,
+      "confidence": 0.092,
       "source": "prospectus",
       "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:7.2"
+      "matchingMethod": "pdf-bm25:4.8"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.411,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.171,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:18.4"
+      "matchingMethod": "pdf-bm25:8.9"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
       ],
-      "confidence": 0.0,
+      "confidence": 0.172,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.15,
       "source": "prospectus",
       "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:5.5"
+      "matchingMethod": "pdf-bm25:7.8"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.783,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:35.6"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.783,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:35.6"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.595,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:30.9"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "ALL 4"
       ],
-      "confidence": 0.0,
+      "confidence": 0.131,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ALL 4"
+      ],
+      "confidence": 0.131,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Certificate",
+      "confidence": 0.65,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "with ML) Mathematics OR Mathematics Literacy 4",
+        "Agricultural Science 4"
+      ],
+      "confidence": 0.142,
       "source": "prospectus",
       "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Degree",
+      "confidence": 0.65,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.133,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "mm wide (M Cur 7",
+        "5 mm wide white band on the inner side of t",
+        "faced inside 1"
+      ],
+      "confidence": 0.153,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Degree",
+      "confidence": 0.65,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "B Agric Apple green 3",
+        "year degree B HS in HMS Bottle green 3",
+        "3 year degree B Th Violet ("
+      ],
+      "confidence": 0.196,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Masters Coursework) SEMESTER 1"
+      ],
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:7.6"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.646,
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.119,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:33.5"
+      "matchingMethod": "pdf-bm25:6.2"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.693,
+      "field": "qualification_type",
+      "value": "Certificate",
+      "confidence": 0.65,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
+      ],
+      "confidence": 0.174,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:31.0"
+      "matchingMethod": "pdf-bm25:9.0"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.693,
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 Where these maximum periods are exceeded",
+        "7 To promote the attainment of appropriate",
+        "8 A candidate transferring from another ins"
+      ],
+      "confidence": 0.163,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:31.0"
+      "matchingMethod": "pdf-bm25:8.5"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
+      "field": "qualification_type",
+      "value": "Degree",
+      "confidence": 0.65,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.136,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Certificate",
+      "confidence": 0.65,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "with ML) Mathematics OR Mathematics Literacy 4",
+        "Agricultural Science 4"
+      ],
+      "confidence": 0.216,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Local Economic Development and 8"
+      ],
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "qualification_type",
+      "value": "Degree",
+      "confidence": 0.65,
+      "source": "derived",
+      "sourceFile": "",
+      "matchingMethod": "name-pattern"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematics, Statistics, Computer Science, Micr obiology and the Faculty of Law"
+      ],
+      "confidence": 0.171,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.098,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.371,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:19.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
       "confidence": 0.235,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:12.2"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.241,
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 The assessment of the research report",
+        "2 HONOURS DEGREES",
+        "1 Candidates in a programme that consists o"
+      ],
+      "confidence": 0.327,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
+      "matchingMethod": "pdf-bm25:17.0"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.241,
+      "field": "admission_requirements_raw",
+      "value": [
+        "ALL 4"
+      ],
+      "confidence": 0.675,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
+      "matchingMethod": "pdf-bm25:54.7"
     },
     {
-      "field": "nqf_level",
-      "value": 7,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "polyester cashmere with silver grey ribbon 5"
+      ],
+      "confidence": 0.161,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.156,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.498,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:25.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.594,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:30.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 MASTER",
+        "S DEGREES Curriculum 3",
+        "1 The University offers two types of master"
+      ],
+      "confidence": 0.26,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:13.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.472,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:24.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "9 A postgraduate diploma qualification shal",
+        "1 A description of the various components (",
+        "University of Fort Hare 3"
+      ],
+      "confidence": 0.297,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:15.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 1",
+        "1 Successfully completed a four",
+        "s degree (NQF Level 8"
+      ],
+      "confidence": 0.354,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:18.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 3",
+        "3 An honours degree shall comprise not less",
+        "credits at NQF level 8"
+      ],
+      "confidence": 0.675,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:35.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 An honours degree shall extend over not l",
+        "5 Where a programme is accredited and appro",
+        "6 Where these maximum periods are exceeded"
+      ],
+      "confidence": 0.646,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:33.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.246,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.217,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.396,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:20.6"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 6500,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.129,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Fees x 2",
+        "1 st December d) Interim Collection Pe"
+      ],
+      "confidence": 0.215,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 Completed the qualification within the pr",
+        "5 A candidate shall normally retain credit",
+        "6 The assessment of the research report"
+      ],
+      "confidence": 0.316,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:16.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 Completed the qualification within the pr",
+        "5 A candidate shall normally retain credit",
+        "6 The assessment of the research report"
+      ],
+      "confidence": 0.144,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 The above requirements should be read in",
+        "2 HONOURS DEGREES To qualify for admission",
+        "1 Successfully completed an appropriate Bac"
+      ],
       "confidence": 0.143,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.271,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:12.1"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.271,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:12.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.148,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.6"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.148,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:6.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.166,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:7.4"
     },
     {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.42,
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 The above requirements should be read in",
+        "2 HONOURS DEGREES To qualify for admission",
+        "1 Successfully completed an appropriate Bac"
+      ],
+      "confidence": 0.362,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:18.8"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "7 To promote the attainment of appropriate",
+        "8 A candidate transferring from another ins",
+        "9 An honours qualification shall include"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.209,
+      "confidence": 0.2,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:9.3"
+      "matchingMethod": "pdf-bm25:10.4"
     },
     {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.3,
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 The above requirements should be read in",
+        "2 HONOURS DEGREES To qualify for admission",
+        "1 Successfully completed an appropriate Bac"
+      ],
+      "confidence": 0.259,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:13.4"
     },
     {
-      "field": "duration",
-      "value": "8 years",
-      "confidence": 0.208,
-      "source": "prospectus",
-      "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:9.9"
-    },
-    {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Alice Campus"
+        "Masters Coursework) SEMESTER 1",
+        "Cancellation of Modules cycle 2",
+        "Feb Lecture week 3"
       ],
-      "confidence": 0.16,
+      "confidence": 0.332,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:8.0"
+      "matchingMethod": "pdf-bm25:17.2"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.188,
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.323,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:8.9"
+      "matchingMethod": "pdf-bm25:16.8"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.242,
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "polyester cashmere with silver grey ribbon 5"
+      ],
+      "confidence": 0.23,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "University of Fort Hare 4"
+      ],
+      "confidence": 0.407,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:21.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
+      ],
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
+      ],
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "faced inside 1",
+        "5 Rust Brown Polyester Cashmere",
+        "5 Saffron polyester cashmere"
+      ],
+      "confidence": 0.24,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "mm wide (M Cur 7",
+        "5 mm wide white band on the inner side of t",
+        "faced inside 1"
+      ],
+      "confidence": 0.287,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:14.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.11,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "mm wide (M Cur 7",
+        "5 mm wide white band on the inner side of t",
+        "faced inside 1"
+      ],
+      "confidence": 0.327,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:16.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.15,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:7.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "polyester cashmere with silver grey ribbon 5"
+      ],
+      "confidence": 0.2,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "First additional language 4",
+        "English - Home language OR English - First additional language 4 (50-59%) 28 (29 with ML) Mathematics O",
+        "Home language OR"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+      "matchingMethod": "pdf-bm25:5.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.22,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:11.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "B Agric Apple green 3",
+        "year degree B HS in HMS Bottle green 3",
+        "3 year degree B Th Violet ("
+      ],
+      "confidence": 0.221,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:11.5"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.613,
+      "field": "admission_requirements_raw",
+      "value": [
+        "ALL 4"
+      ],
+      "confidence": 0.56,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:29.0"
     },
     {
-      "field": "nqf_level",
-      "value": 6,
-      "confidence": 0.124,
-      "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four relevant compulsory modules (with specialization in the tea"
+        "mm wide (M Cur 7",
+        "5 mm wide white band on the inner side of t",
+        "faced inside 1"
       ],
-      "confidence": 0.0,
+      "confidence": 0.238,
       "source": "prospectus",
-      "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:12.3"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.249,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.164,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "B Agric Apple green 3",
+        "year degree B HS in HMS Bottle green 3",
+        "3 year degree B Th Violet ("
+      ],
+      "confidence": 0.228,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:11.8"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four compulsory modules.",
-        "The Selection Committee convenes to process all applications.",
-        "For all degrees, Li"
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
       ],
-      "confidence": 0.098,
+      "confidence": 0.168,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "National Certificate (Vocational) Level 4",
+        "At least 60%",
+        "At least 70%"
+      ],
+      "confidence": 0.102,
       "source": "prospectus",
       "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
       "matchingMethod": "pdf-bm25:5.3"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "At least 70% in four compulsory modules.",
-        "The Selection Committee convenes to process all applications.",
-        "For all degrees, Li"
+        "National Certificate (Vocational) Level 4",
+        "At least 60%",
+        "At least 70%"
       ],
-      "confidence": 0.088,
+      "confidence": 0.092,
       "source": "prospectus",
       "sourceFile": "University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
       "matchingMethod": "pdf-bm25:4.8"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.38,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.171,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.172,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.327,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
       "matchingMethod": "pdf-bm25:17.0"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.38,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 HONOURS DEGREES An honours degree is a p",
+        "1 An honours degree must include conducting",
+        "2 An honours degree is generally multi"
+      ],
+      "confidence": 0.472,
       "source": "prospectus",
       "sourceFile": "university-of-fort-hare.pdf",
-      "matchingMethod": "pdf-bm25:17.0"
+      "matchingMethod": "pdf-bm25:24.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Climate Justice 2",
+        "Just Transition 3",
+        "Environmental Justice 4"
+      ],
+      "confidence": 0.168,
+      "source": "prospectus",
+      "sourceFile": "university-of-fort-hare.pdf",
+      "matchingMethod": "pdf-bm25:8.7"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 23,
-    "low<0.5": 127
+    "mid 0.5-0.8": 17,
+    "low<0.5": 174
   },
-  "confidence_mean": 0.26
+  "confidence_mean": 0.242,
+  "qual_type_inferred_programmes": [
+    "BEd Senior & FET (Science)",
+    "BCom Accounting",
+    "BSc in Agriculture (Agric Economics)",
+    "BAdmin in Public Administration",
+    "BCom in Accounting",
+    "BEd Senior & FET (Science specialisation)",
+    "BSc in Computer Science"
+  ]
 }

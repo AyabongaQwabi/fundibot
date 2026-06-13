@@ -1,24 +1,24 @@
 {
   "institution_id": "352",
   "institution_name": "Rhodes University",
+  "institution_type": "university",
+  "points_system": "aps_points",
   "programme_count": 22,
   "programmes_enriched": 22,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.07,
-  "completeness_after": 0.194,
-  "improvement": 0.124,
+  "qual_type_inferred": [],
+  "completeness_before": 0.171,
+  "completeness_after": 0.214,
+  "improvement": 0.043,
   "overall_quality": {
-    "mean": 0.194,
-    "min": 0.067,
-    "max": 0.267,
+    "mean": 0.214,
+    "min": 0.059,
+    "max": 0.294,
     "count": 22
   },
   "fields_completed": {
-    "admissionRequirements": 20,
-    "duration": 16,
-    "career_outcomes": 4,
-    "faculty_name": 1
+    "admission_requirements_raw": 16
   },
   "fields_still_missing": {
     "nqf_level": 22,
@@ -33,18 +33,16 @@
     "campus": 22,
     "modules": 22,
     "qualification_code": 22,
+    "pricing": 22,
     "duration": 6,
+    "admission_requirements_raw": 6,
     "admissionRequirements": 2
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "rhodes-university.pdf": [
-        "duration",
-        "career_outcomes"
-      ],
-      "lib/seed/prospectuses/rhodes-university.pdf": [
-        "faculty_name"
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [],
@@ -53,179 +51,311 @@
   "per_programme": [
     {
       "name": "BA (BA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "Bachelor of Economics (BEco)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "Bachelor of Information Systems",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "Bachelor of Law (LLB)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "BCom (BCom)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BEd (BEDFP)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BEd (Foundation Phase",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "BPharm (BPharm) 40-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "BSc (BSc)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BSc degree (BSc) is its flexibility. Within the confines",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "BSocSci (BSS) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "BA",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "Bachelor of Education (BEDFP)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "Bachelor of Pharmacy (BPharm) 40-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "Bachelor of Social Science (BSS) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "BCom",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "bed",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     }
   ]
 }

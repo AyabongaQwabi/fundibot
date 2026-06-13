@@ -1,480 +1,149 @@
 {
   "institution_id": "325",
   "institution_name": "Capricorn TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
-    "capricorn-tvet-college.pdf",
-    "prospectuses/capricorn-tvet-college.pdf"
+    "capricorn-tvet-college.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/capricorn-tvet-college.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/capricorn-tvet-college.pdf"
   ],
   "evidence": [
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Tourism",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Tourism (M + 3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.571,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.67"
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 11,
-            "minimum_nsc_level": null,
-            "notes": "Accounting at least up to grade 11"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.543,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.64"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.138,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:6.9"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "This qualiﬁcation enables students to work in private, government or business"
+        "ered at Senwabarwana Campus from 7"
       ],
-      "confidence": 0.127,
+      "confidence": 0.133,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:6.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Tourism",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Tourism (M + 3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.394,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.46"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.301,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:15.0"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
         "Manager of an Early Childhood Development site",
         "Play group practitioner",
         "Au pair"
       ],
-      "confidence": 0.278,
+      "confidence": 0.289,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:15.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 11,
-            "minimum_nsc_level": null,
-            "notes": "Accounting at least up to grade 11"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.533,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.63"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.159,
+      "field": "admission_requirements_raw",
+      "value": [
+        "ered at Senwabarwana Campus from 7"
+      ],
+      "confidence": 0.153,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:7.9"
     },
     {
-      "field": "career_outcomes",
-      "value": [
-        "This qualiﬁcation enables students to work in private, government or business"
-      ],
-      "confidence": 0.124,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:6.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Tourism",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Tourism N4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.192,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:9.6"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
         "Manager of a guesthouse",
         "Deal with client services in an accommodation facility",
-        "Work as an Assistant Cook/Chef preparing food in a restaurant, hotel or guest ho"
+        "Work as an Assistant Cook/Chef preparing food in a restaurant, hotel or guest house"
       ],
-      "confidence": 0.155,
+      "confidence": 0.161,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:8.4"
     },
     {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.142,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 11,
-            "minimum_nsc_level": null,
-            "notes": "Accounting at least up to grade 11"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.224,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:11.2"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "This qualiﬁcation enables students to work in private, government or business"
+        "Admin oﬃcer",
+        "Human resource clerk",
+        "Personnel oﬃcer"
       ],
-      "confidence": 0.207,
+      "confidence": 0.182,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:11.2"
+      "matchingMethod": "pdf-bm25:9.4"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 11,
-            "minimum_nsc_level": null,
-            "notes": "Accounting at least up to grade 11"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.504,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.59"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.175,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:8.7"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "This quali"
+        "26 _Capricorn TVET Prospectus_48 Pages Final.pdf 11 3/11/2025 12:38:00 PM",
+        "Recepti"
       ],
-      "confidence": 0.162,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:8.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 11,
-            "minimum_nsc_level": null,
-            "notes": "Accounting at least up to grade 11"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.54,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.64"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.155,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Sales representative",
-        "Marketing assistant",
-        "Advertising clerk"
-      ],
-      "confidence": 0.143,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 11,
-            "minimum_nsc_level": null,
-            "notes": "Accounting at least up to grade 11"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.535,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.63"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.152,
+      "confidence": 0.146,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:7.6"
     },
     {
-      "field": "credits",
-      "value": 130,
-      "confidence": 0.143,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Financial Clerk",
-        "Administrative Oﬃcer",
-        "Municipal administrator/oﬃcer"
+        "ered at Senwabarwana Campus from 7"
       ],
-      "confidence": 0.119,
+      "confidence": 0.142,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
+      "matchingMethod": "pdf-bm25:7.3"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Tourism",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Tourism (M + 3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "18 months",
-      "confidence": 0.145,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.2"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Accommodation Managers",
-        "Conference and Event Planners",
-        "Restaurant and Food Services managers"
+        "ered at Senwabarwana Campus from 7"
       ],
-      "confidence": 0.134,
+      "confidence": 0.146,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.2"
+      "matchingMethod": "pdf-bm25:7.6"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Mathematical Literacy",
-        "Life Orientation",
-        "Science in Tourism"
+        "Manager of an Early Childhood Development site",
+        "Play group practitioner",
+        "Au pair"
       ],
-      "confidence": 0.102,
+      "confidence": 0.13,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.5"
+      "matchingMethod": "pdf-bm25:6.7"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 11,
-            "minimum_nsc_level": null,
-            "notes": "accounting at least up to grade 11"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 11,
-            "minimum_nsc_level": null,
-            "notes": "accounting at least up to grade 11"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 1"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/capricorn-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.1,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.2"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.113,
-      "source": "prospectus",
-      "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Access workplace opportunities in a work environment or sector relevant to",
-        "Access the workplace with the occupational specialisation he/she might have"
+        "vocational"
       ],
-      "confidence": 0.091,
+      "confidence": 0.093,
       "source": "prospectus",
       "sourceFile": "capricorn-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "NSFAS 7",
+        "Campuses And Management 7",
+        "Programmes And Management 7"
+      ],
+      "confidence": 0.112,
+      "source": "prospectus",
+      "sourceFile": "capricorn-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 6,
-    "mid 0.5-0.8": 6,
-    "low<0.5": 25
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 1,
+    "low<0.5": 11
   },
-  "confidence_mean": 0.338
+  "confidence_mean": 0.186,
+  "qual_type_inferred_programmes": []
 }

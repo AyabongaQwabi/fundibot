@@ -1,15 +1,46 @@
 {
   "institution_id": "120",
   "institution_name": "Mining Qualifications Authority (MQA)",
-  "sources_used": [],
-  "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/mining-qualifications-authority-mqa.pdf"
+  "points_system": "aps_points",
+  "sources_used": [
+    "mining-qualifications-authority-mqa.pdf"
   ],
-  "evidence": [],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/mining-qualifications-authority-mqa.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 500,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.078,
+      "source": "prospectus",
+      "sourceFile": "mining-qualifications-authority-mqa.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "academic requirements 7",
+        "The selection criteria 2",
+        "1 Beneficiary selection criteria Applicants"
+      ],
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "mining-qualifications-authority-mqa.pdf",
+      "matchingMethod": "pdf-bm25:6.7"
+    }
+  ],
   "confidence_distribution": {
     "high≥0.8": 0,
     "mid 0.5-0.8": 0,
-    "low<0.5": 0
+    "low<0.5": 2
   },
-  "confidence_mean": 0
+  "confidence_mean": 0.104,
+  "qual_type_inferred_programmes": [
+    "clinic, the money must be supplied when students present a doctor’s invoice for primary"
+  ]
 }

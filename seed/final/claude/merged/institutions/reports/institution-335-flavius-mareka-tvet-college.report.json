@@ -1,26 +1,25 @@
 {
   "institution_id": "335",
   "institution_name": "Flavius Mareka TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 13,
   "programmes_enriched": 13,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.067,
-  "completeness_after": 0.231,
-  "improvement": 0.164,
+  "qual_type_inferred": [],
+  "completeness_before": 0.203,
+  "completeness_after": 0.249,
+  "improvement": 0.045,
   "overall_quality": {
-    "mean": 0.231,
-    "min": 0.067,
-    "max": 0.333,
+    "mean": 0.249,
+    "min": 0.059,
+    "max": 0.353,
     "count": 13
   },
   "fields_completed": {
-    "admissionRequirements": 11,
-    "career_outcomes": 7,
-    "modules": 8,
-    "study_mode": 2,
-    "duration": 2,
-    "nqf_level": 2
+    "admission_requirements_raw": 10,
+    "min_grade": 3
   },
   "fields_still_missing": {
     "nqf_level": 11,
@@ -34,19 +33,17 @@
     "saqa_code": 13,
     "campus": 13,
     "qualification_code": 13,
+    "pricing": 13,
     "career_outcomes": 6,
     "modules": 5,
+    "admission_requirements_raw": 3,
     "admissionRequirements": 2
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "flavius-mareka-tvet-college.pdf": [
-        "career_outcomes",
-        "modules",
-        "study_mode",
-        "duration",
-        "nqf_level"
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [],
@@ -55,107 +52,185 @@
   "per_programme": [
     {
       "name": "Diploma in Business Management, a candidate must pass atleast one of the",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "Diploma in Human Resource Management, a candidate must pass at least one of the following",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "Diploma in Management Assistant, a candidate must pass",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "Diploma in Marketing Management, a candidate must pass atleast one of the",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.333
+      "completeness_before": 0.294,
+      "completeness_after": 0.353
     },
     {
       "name": "N6 certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "N6 National Certificate",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "NC(V) L 2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "Diploma in Management Assistant, a candidate must pass;",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "Report 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     }
   ]
 }

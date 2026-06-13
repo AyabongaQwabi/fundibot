@@ -1,28 +1,72 @@
 {
   "institution_id": "329",
   "institution_name": "Durban University of Technology",
+  "points_system": "aps_points",
   "sources_used": [
     "durban-university-of-technology.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/durban-university-of-technology.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/durban-university-of-technology.pdf"
   ],
   "evidence": [
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "INSTRUCTIONS BELOW:"
+        "4 Go to www",
+        "At least 50%",
+        "and At least 60%"
       ],
-      "confidence": 0.0,
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "durban-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 Go to www",
+        "At least 50%",
+        "and At least 60%"
+      ],
+      "confidence": 0.163,
+      "source": "prospectus",
+      "sourceFile": "durban-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.06,
       "source": "prospectus",
       "sourceFile": "durban-university-of-technology.pdf",
       "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 Go to www",
+        "At least 50%",
+        "and At least 60%"
+      ],
+      "confidence": 0.106,
+      "source": "prospectus",
+      "sourceFile": "durban-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
     "mid 0.5-0.8": 0,
-    "low<0.5": 1
+    "low<0.5": 4
   },
-  "confidence_mean": 0.0
+  "confidence_mean": 0.114,
+  "qual_type_inferred_programmes": [
+    "A National Certificate (Vocational) Level",
+    "A National Certificate (Vocational) Level four",
+    "subjects, chosen from the National Certificate"
+  ]
 }

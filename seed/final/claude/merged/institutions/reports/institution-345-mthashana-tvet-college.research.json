@@ -1,107 +1,148 @@
 {
   "institution_id": "345",
   "institution_name": "Mthashana TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
-    "prospectuses/Mthashana-College-2026booklet_design-3.pdf",
     "Mthashana-College-2026booklet_design-3.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/Mthashana-College-2026booklet_design-3.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/Mthashana-College-2026booklet_design-3.pdf"
   ],
   "evidence": [
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.261,
+      "field": "admission_requirements_raw",
+      "value": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3"
+      ],
+      "confidence": 0.275,
       "source": "prospectus",
       "sourceFile": "Mthashana-College-2026booklet_design-3.pdf",
-      "matchingMethod": "pdf-bm25:13.5"
+      "matchingMethod": "pdf-bm25:14.3"
     },
     {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.105,
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3"
+      ],
+      "confidence": 0.116,
       "source": "prospectus",
       "sourceFile": "Mthashana-College-2026booklet_design-3.pdf",
-      "matchingMethod": "pdf-bm25:4.7"
+      "matchingMethod": "pdf-bm25:6.0"
     },
     {
-      "field": "duration",
-      "value": "3 years",
+      "field": "admission_requirements_raw",
+      "value": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3"
+      ],
       "confidence": 0.099,
       "source": "prospectus",
       "sourceFile": "Mthashana-College-2026booklet_design-3.pdf",
-      "matchingMethod": "pdf-bm25:4.7"
+      "matchingMethod": "pdf-bm25:5.1"
     },
     {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.105,
+      "field": "admission_requirements_raw",
+      "value": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3"
+      ],
+      "confidence": 0.095,
       "source": "prospectus",
       "sourceFile": "Mthashana-College-2026booklet_design-3.pdf",
-      "matchingMethod": "pdf-bm25:4.7"
+      "matchingMethod": "pdf-bm25:4.9"
     },
     {
-      "field": "duration",
-      "value": "3 years",
+      "field": "admission_requirements_raw",
+      "value": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3"
+      ],
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "Mthashana-College-2026booklet_design-3.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3"
+      ],
       "confidence": 0.099,
       "source": "prospectus",
       "sourceFile": "Mthashana-College-2026booklet_design-3.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3"
+      ],
+      "confidence": 0.095,
+      "source": "prospectus",
+      "sourceFile": "Mthashana-College-2026booklet_design-3.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Management Assistant 6",
+        "Management Assistant Nquthu PUBLIC MANAGEMENT 4",
+        "5 Public Administration N"
+      ],
+      "confidence": 0.09,
+      "source": "prospectus",
+      "sourceFile": "Mthashana-College-2026booklet_design-3.pdf",
       "matchingMethod": "pdf-bm25:4.7"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Accounting N5"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "English 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/Mthashana-College-2026booklet_design-3.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Accounting N5"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "English 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.41,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/Mthashana-College-2026booklet_design-3.pdf",
-      "matchingMethod": "adm-sim:0.48"
+      "field": "min_grade",
+      "value": "Completion of NCV Level 3",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 1,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 6
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 4,
+    "low<0.5": 8
   },
-  "confidence_mean": 0.276
+  "confidence_mean": 0.265,
+  "qual_type_inferred_programmes": []
 }

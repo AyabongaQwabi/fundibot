@@ -1,6 +1,8 @@
 {
   "institution_id": "333",
   "institution_name": "Elangeni TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 11,
   "programmes_enriched": 11,
   "synthetic_injected": [
@@ -17,19 +19,19 @@
     "National Certificate: N6"
   ],
   "pdf_discovered": [],
-  "completeness_before": 0.067,
-  "completeness_after": 0.14,
-  "improvement": 0.073,
+  "qual_type_inferred": [],
+  "completeness_before": 0.123,
+  "completeness_after": 0.144,
+  "improvement": 0.021,
   "overall_quality": {
-    "mean": 0.14,
-    "min": 0.067,
-    "max": 0.267,
+    "mean": 0.144,
+    "min": 0.059,
+    "max": 0.294,
     "count": 11
   },
   "fields_completed": {
-    "nqf_level": 4,
-    "duration": 4,
-    "study_mode": 4
+    "admission_requirements_raw": 4,
+    "min_grade": 6
   },
   "fields_still_missing": {
     "credits": 11,
@@ -43,17 +45,17 @@
     "campus": 11,
     "modules": 11,
     "qualification_code": 11,
+    "pricing": 11,
     "nqf_level": 7,
     "duration": 7,
-    "study_mode": 7
+    "study_mode": 7,
+    "admission_requirements_raw": 7
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "elangeni-tvet-college.pdf": [
-        "nqf_level",
-        "duration",
-        "study_mode"
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [],
@@ -62,91 +64,157 @@
   "per_programme": [
     {
       "name": "National Vocational Certificate - Level 1",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "National Vocational Certificate - Level 2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "National Vocational Certificate - Level 3",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "National Vocational Certificate - Level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "NC(V)",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "Nated (Report 191)",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N2",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N3",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N4",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N5",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Certificate: N6",
+      "qualification_type": "Nated (Report 191)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     }
   ]
 }

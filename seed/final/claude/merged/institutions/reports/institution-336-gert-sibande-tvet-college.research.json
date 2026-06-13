@@ -1,70 +1,53 @@
 {
   "institution_id": "336",
   "institution_name": "Gert Sibande TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
     "gert-sibande-tvet-college.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/gert-sibande-tvet-college.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/gert-sibande-tvet-college.pdf"
   ],
   "evidence": [
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.157,
-      "source": "prospectus",
-      "sourceFile": "gert-sibande-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.4"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Construction planning",
-        "Plant & equipment",
-        "Materials"
+        "bursary recipients who complete NC(V) Level 4",
+        "Level 4 are eligible for financial assistance sh"
       ],
-      "confidence": 0.13,
+      "confidence": 0.211,
       "source": "prospectus",
       "sourceFile": "gert-sibande-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.0"
+      "matchingMethod": "pdf-bm25:10.9"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.244,
-      "source": "prospectus",
-      "sourceFile": "gert-sibande-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:11.5"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
+      "field": "admission_requirements_raw",
+      "value": [
+        "rs (Level 2",
+        "Level 4"
+      ],
       "confidence": 0.224,
       "source": "prospectus",
       "sourceFile": "gert-sibande-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:10.0"
+      "matchingMethod": "pdf-bm25:11.6"
     },
     {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.193,
+      "field": "admission_requirements_raw",
+      "value": [
+        "bursary recipients who complete NC(V) Level 4",
+        "Level 4 are eligible for financial assistance sh"
+      ],
+      "confidence": 0.115,
       "source": "prospectus",
       "sourceFile": "gert-sibande-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:10.0"
-    },
-    {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.119,
-      "source": "prospectus",
-      "sourceFile": "gert-sibande-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.9"
+      "matchingMethod": "pdf-bm25:6.0"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
     "mid 0.5-0.8": 0,
-    "low<0.5": 6
+    "low<0.5": 3
   },
-  "confidence_mean": 0.178
+  "confidence_mean": 0.183,
+  "qual_type_inferred_programmes": []
 }

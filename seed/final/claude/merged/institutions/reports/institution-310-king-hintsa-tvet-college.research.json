@@ -1,29 +1,54 @@
 {
   "institution_id": "310",
   "institution_name": "King Hintsa TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
     "king-hintsa-tvet-college.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/workik/batch1/king-hintsa-tvet-college.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/king-hintsa-tvet-college.pdf"
   ],
   "evidence": [
     {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Msobomvu"
+        "N A T I O N A L C E R T I F I C A T E V O C A T I O N A L N C V R E P O R T 1",
+        "1 N A T E D T h e N C V c o n s i s t s",
+        "o f t h r e e c o n s e c u t i v e Q u a l i f i c a t i o n s o n N Q F L e v e l s 2"
       ],
       "confidence": 0.099,
+      "source": "prospectus",
+      "sourceFile": "king-hintsa-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "c o m p l e m e n t i n g N 6",
+        "y o u n e e d a n a d d i t i o n a l 2",
+        "4 M o n t h s p r a c t i c a l e x p e r"
+      ],
+      "confidence": 0.095,
       "source": "prospectus",
       "sourceFile": "king-hintsa-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:4.9"
     },
     {
-      "field": "campuses_offering",
+      "field": "admission_requirements_raw",
       "value": [
-        "Msobomvu"
+        "c o m p l e m e n t i n g N 6",
+        "y o u n e e d a n a d d i t i o n a l 2",
+        "4 M o n t h s p r a c t i c a l e x p e r"
       ],
-      "confidence": 0.159,
+      "confidence": 0.152,
       "source": "prospectus",
       "sourceFile": "king-hintsa-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:7.9"
@@ -31,8 +56,9 @@
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 2
+    "mid 0.5-0.8": 1,
+    "low<0.5": 3
   },
-  "confidence_mean": 0.129
+  "confidence_mean": 0.224,
+  "qual_type_inferred_programmes": []
 }

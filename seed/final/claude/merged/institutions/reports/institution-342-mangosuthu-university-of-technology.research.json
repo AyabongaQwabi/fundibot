@@ -1,547 +1,1246 @@
 {
   "institution_id": "342",
   "institution_name": "Mangosuthu University of Technology",
+  "points_system": "aps_points",
   "sources_used": [
-    "mangosuthu-university-of-technology.pdf",
-    "prospectuses/mangosuthu-university-of-technology.pdf"
+    "mangosuthu-university-of-technology.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/mangosuthu-university-of-technology.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/mangosuthu-university-of-technology.pdf"
   ],
   "evidence": [
     {
-      "field": "nqf_level",
-      "value": 10,
-      "confidence": 0.191,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 Rules and Regulations",
+        "1 Bachelor of Technology and Advanced Diplo",
+        "2 Post Graduate Diploma"
+      ],
+      "confidence": 0.181,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:8.6"
+      "matchingMethod": "pdf-bm25:9.4"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.191,
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.142,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:8.6"
+      "matchingMethod": "pdf-bm25:7.4"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.18,
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 STUDENT AFFAIRS DEPARTMENT DEAN OF STUDE"
+      ],
+      "confidence": 0.12,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:8.6"
+      "matchingMethod": "pdf-bm25:6.2"
     },
     {
-      "field": "faculty_name",
-      "value": "MANAGEMENT SCIENCES",
-      "confidence": 0.729,
-      "source": "json",
-      "sourceFile": "prospectuses/mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "json-sim:0.83"
-    },
-    {
-      "field": "nqf_level",
-      "value": 10,
-      "confidence": 0.243,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ],
+      "confidence": 0.135,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.9"
+      "matchingMethod": "pdf-bm25:7.0"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.243,
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 OFFICE OF THE VICE"
+      ],
+      "confidence": 0.267,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.9"
+      "matchingMethod": "pdf-bm25:13.9"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.229,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.9"
-    },
-    {
-      "field": "nqf_level",
-      "value": 10,
-      "confidence": 0.243,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.9"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.243,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.9"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.229,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.9"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.197,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.2"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.253,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:13.1"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.177,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:9.2"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.479,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:24.8"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.187,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:9.7"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.116,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.116,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.192,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:9.9"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.309,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:16.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.215,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:11.2"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.198,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.199,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
       "matchingMethod": "pdf-bm25:10.3"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.146,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.208,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:7.6"
+      "matchingMethod": "pdf-bm25:10.8"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.222,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.446,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:11.5"
+      "matchingMethod": "pdf-bm25:23.1"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.222,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.123,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:11.5"
+      "matchingMethod": "pdf-bm25:6.4"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.399,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.194,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:20.7"
+      "matchingMethod": "pdf-bm25:10.1"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.192,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.172,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.0"
+      "matchingMethod": "pdf-bm25:8.9"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.31,
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 REGISTRAR"
+      ],
+      "confidence": 0.141,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:16.1"
+      "matchingMethod": "pdf-bm25:7.3"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.332,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 TEACHING AND LEARNING DEPUTY VICE"
+      ],
+      "confidence": 0.148,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:17.2"
+      "matchingMethod": "pdf-bm25:7.7"
     },
     {
-      "field": "nqf_level",
-      "value": 10,
-      "confidence": 0.188,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.153,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
+      "matchingMethod": "pdf-bm25:7.9"
     },
     {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.188,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 TEACHING AND LEARNING DEPUTY VICE"
+      ],
       "confidence": 0.178,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
+      "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.299,
+      "field": "admission_requirements_raw",
+      "value": [
+        "s Degree (NQF Level 9",
+        "credits) Post Graduate Diploma NQF Level 8",
+        "Credits) Advanced Diploma 4"
+      ],
+      "confidence": 0.209,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:15.5"
+      "matchingMethod": "pdf-bm25:10.9"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.336,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 Rules and Regulations",
+        "1 Bachelor of Technology and Advanced Diplo",
+        "2 Post Graduate Diploma"
+      ],
+      "confidence": 0.384,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:17.4"
+      "matchingMethod": "pdf-bm25:19.9"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 POST GRADUATE DIPLOMA a",
+        "A student shall pass a course with distinction if he obtained a final mark of 75%",
+        "A student shall be awarded a degree cum laude if his achievement in each subject assessed over his period of study is 75%"
+      ],
+      "confidence": 0.551,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:28.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 Post",
+        "7 Researcher A researcher is a person who",
+        "8 Academic Integrity Academic Integrity is"
+      ],
+      "confidence": 0.675,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:36.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.364,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:18.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.285,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:14.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.287,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:14.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.345,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:17.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
       "confidence": 0.15,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
       "matchingMethod": "pdf-bm25:7.8"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.303,
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.095,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:15.7"
+      "matchingMethod": "pdf-bm25:5.0"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.325,
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:16.9"
+      "matchingMethod": "pdf-bm25:9.0"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.112,
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:5.8"
+      "matchingMethod": "pdf-bm25:9.0"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.177,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 The HoD must consult the Teaching and Lea",
+        "admission of the student as indicated in 6",
+        "1 and"
+      ],
+      "confidence": 0.107,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:9.2"
+      "matchingMethod": "pdf-bm25:5.5"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.116,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ],
+      "confidence": 0.28,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
+      "matchingMethod": "pdf-bm25:14.5"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.479,
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 REGISTRAR"
+      ],
+      "confidence": 0.152,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:24.8"
+      "matchingMethod": "pdf-bm25:7.9"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.187,
+      "field": "admission_requirements_raw",
+      "value": [
+        "s Degree (NQF Level 9",
+        "credits) Post Graduate Diploma NQF Level 8",
+        "Credits) Advanced Diploma 4"
+      ],
+      "confidence": 0.162,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:9.7"
+      "matchingMethod": "pdf-bm25:8.4"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.116,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.098,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
+      "matchingMethod": "pdf-bm25:5.1"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.116,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.279,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
+      "matchingMethod": "pdf-bm25:14.5"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.192,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.525,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:9.9"
+      "matchingMethod": "pdf-bm25:27.2"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.309,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.532,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:16.0"
+      "matchingMethod": "pdf-bm25:27.6"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.215,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ],
+      "confidence": 0.328,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:11.2"
+      "matchingMethod": "pdf-bm25:17.0"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.146,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.277,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:14.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "A student who has passed a programme of study successfully and wishes to register for another programme of study may apply for recognition of up to 50%"
+      ],
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2008,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.082,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.204,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.274,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:14.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ],
+      "confidence": 0.413,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:21.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 OFFICE OF THE VICE"
+      ],
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.232,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 REGISTRAR"
+      ],
+      "confidence": 0.094,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.147,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
       "matchingMethod": "pdf-bm25:7.6"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.198,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.365,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.3"
+      "matchingMethod": "pdf-bm25:18.9"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.146,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.262,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:7.6"
+      "matchingMethod": "pdf-bm25:13.6"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.222,
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.142,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:11.5"
+      "matchingMethod": "pdf-bm25:7.4"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.222,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 Rules and Regulations",
+        "1 Bachelor of Technology and Advanced Diplo",
+        "2 Post Graduate Diploma"
+      ],
+      "confidence": 0.329,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:11.5"
+      "matchingMethod": "pdf-bm25:17.0"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.399,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 Rules and Regulations",
+        "1 Bachelor of Technology and Advanced Diplo",
+        "2 Post Graduate Diploma"
+      ],
+      "confidence": 0.524,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:20.7"
+      "matchingMethod": "pdf-bm25:27.2"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.192,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:10.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.31,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:16.1"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.332,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:17.2"
-    },
-    {
-      "field": "nqf_level",
-      "value": 10,
-      "confidence": 0.188,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
-    },
-    {
-      "field": "credits",
-      "value": 120,
-      "confidence": 0.188,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.178,
-      "source": "prospectus",
-      "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
-    },
-    {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.299,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 POST GRADUATE DIPLOMA a",
+        "A student shall pass a course with distinction if he obtained a final mark of 75%",
+        "A student shall be awarded a degree cum laude if his achievement in each subject assessed over his period of study is 75%"
+      ],
+      "confidence": 0.3,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
       "matchingMethod": "pdf-bm25:15.5"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.336,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 POST GRADUATE DIPLOMA a",
+        "A student shall pass a course with distinction if he obtained a final mark of 75%",
+        "A student shall be awarded a degree cum laude if his achievement in each subject assessed over his period of study is 75%"
+      ],
+      "confidence": 0.342,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:17.4"
+      "matchingMethod": "pdf-bm25:17.7"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 POST GRADUATE DIPLOMA a",
+        "A student shall pass a course with distinction if he obtained a final mark of 75%",
+        "A student shall be awarded a degree cum laude if his achievement in each subject assessed over his period of study is 75%"
+      ],
+      "confidence": 0.66,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:34.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ],
+      "confidence": 0.135,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.123,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.208,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 Post",
+        "7 Researcher A researcher is a person who",
+        "8 Academic Integrity Academic Integrity is"
+      ],
+      "confidence": 0.675,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:36.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.364,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:18.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.285,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:14.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.287,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:14.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.095,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.345,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:17.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.206,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
       "confidence": 0.15,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
       "matchingMethod": "pdf-bm25:7.8"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.303,
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.095,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:15.7"
+      "matchingMethod": "pdf-bm25:5.0"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.325,
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:16.9"
+      "matchingMethod": "pdf-bm25:9.0"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.112,
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.174,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:5.8"
+      "matchingMethod": "pdf-bm25:9.0"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.116,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 The HoD must consult the Teaching and Lea",
+        "admission of the student as indicated in 6",
+        "1 and"
+      ],
+      "confidence": 0.107,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
+      "matchingMethod": "pdf-bm25:5.5"
     },
     {
-      "field": "study_mode",
-      "value": "Part-time",
-      "confidence": 0.215,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ],
+      "confidence": 0.28,
       "source": "prospectus",
       "sourceFile": "mangosuthu-university-of-technology.pdf",
-      "matchingMethod": "pdf-bm25:11.2"
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 REGISTRAR"
+      ],
+      "confidence": 0.152,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s Degree (NQF Level 9",
+        "credits) Post Graduate Diploma NQF Level 8",
+        "Credits) Advanced Diploma 4"
+      ],
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.098,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.279,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.525,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:27.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.532,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:27.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ],
+      "confidence": 0.328,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:17.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.277,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:14.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.204,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.274,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:14.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ],
+      "confidence": 0.413,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:21.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 OFFICE OF THE VICE"
+      ],
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.232,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 REGISTRAR"
+      ],
+      "confidence": 0.094,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.365,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:18.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ],
+      "confidence": 0.262,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ],
+      "confidence": 0.364,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:18.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ],
+      "confidence": 0.532,
+      "source": "prospectus",
+      "sourceFile": "mangosuthu-university-of-technology.pdf",
+      "matchingMethod": "pdf-bm25:27.6"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 1,
-    "low<0.5": 65
+    "mid 0.5-0.8": 10,
+    "low<0.5": 104
   },
-  "confidence_mean": 0.236
+  "confidence_mean": 0.239,
+  "qual_type_inferred_programmes": []
 }

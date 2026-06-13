@@ -1,102 +1,160 @@
 {
   "institution_id": "312",
   "institution_name": "Lovedale TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
     "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf"
   ],
   "evidence": [
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "on training in diverse fields. Our institution combines theoretical",
-        "Programs, Fees & NSFAS Funding 2026",
-        "college/ 1/7"
+        "college/ 1",
+        "7 knowledge with practical skills developme"
       ],
-      "confidence": 0.14,
+      "confidence": 0.145,
       "source": "prospectus",
       "sourceFile": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
       "matchingMethod": "pdf-bm25:7.5"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "on training in diverse fields. Our institution combines theoretical",
-        "Programs, Fees & NSFAS Funding 2026",
-        "college/ 1/7"
+        "college/ 1",
+        "7 knowledge with practical skills developme"
       ],
-      "confidence": 0.103,
+      "confidence": 0.107,
       "source": "prospectus",
       "sourceFile": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
       "matchingMethod": "pdf-bm25:5.6"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "on training in diverse fields. Our institution combines theoretical",
-        "Programs, Fees & NSFAS Funding 2026",
-        "college/ 1/7"
+        "college/ 1",
+        "7 knowledge with practical skills developme"
       ],
-      "confidence": 0.103,
+      "confidence": 0.107,
       "source": "prospectus",
       "sourceFile": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
       "matchingMethod": "pdf-bm25:5.6"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "on training in diverse fields. Our institution combines theoretical",
-        "Programs, Fees & NSFAS Funding 2026",
-        "college/ 1/7"
+        "college/ 1",
+        "7 knowledge with practical skills developme"
       ],
-      "confidence": 0.103,
+      "confidence": 0.107,
       "source": "prospectus",
       "sourceFile": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
       "matchingMethod": "pdf-bm25:5.6"
     },
     {
-      "field": "career_outcomes",
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
       "value": [
-        "on training in diverse fields. Our institution combines theoretical",
-        "Programs, Fees & NSFAS Funding 2026",
-        "college/ 1/7"
+        "college/ 1",
+        "7 knowledge with practical skills developme"
       ],
-      "confidence": 0.204,
+      "confidence": 0.213,
       "source": "prospectus",
       "sourceFile": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
       "matchingMethod": "pdf-bm25:11.0"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "on training in diverse fields. Our institution combines theoretical",
-        "Programs, Fees & NSFAS Funding 2026",
-        "college/ 1/7"
+        "Students gain NCV qualifications at Levels 2",
+        "and 4"
       ],
-      "confidence": 0.107,
+      "confidence": 0.458,
       "source": "prospectus",
       "sourceFile": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
-      "matchingMethod": "pdf-bm25:5.8"
+      "matchingMethod": "pdf-bm25:23.7"
     },
     {
-      "field": "career_outcomes",
-      "value": [
-        "on training in diverse fields. Our institution combines theoretical",
-        "Programs, Fees & NSFAS Funding 2026",
-        "college/ 1/7"
-      ],
-      "confidence": 0.097,
+      "field": "pricing",
+      "value": {
+        "amount_min": 2000,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      },
+      "confidence": 0.105,
       "source": "prospectus",
       "sourceFile": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
-      "matchingMethod": "pdf-bm25:5.2"
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Students gain NCV qualifications at Levels 2",
+        "and 4"
+      ],
+      "confidence": 0.476,
+      "source": "prospectus",
+      "sourceFile": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
+      "matchingMethod": "pdf-bm25:24.7"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 7
+    "mid 0.5-0.8": 6,
+    "low<0.5": 8
   },
-  "confidence_mean": 0.122
+  "confidence_mean": 0.358,
+  "qual_type_inferred_programmes": [
+    "The college specializes in National Certificate (Vocational) qualifications and Report"
+  ]
 }

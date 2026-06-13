@@ -1,24 +1,24 @@
 {
   "institution_id": "336",
   "institution_name": "Gert Sibande TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 3,
   "programmes_enriched": 3,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.067,
-  "completeness_after": 0.2,
-  "improvement": 0.133,
+  "qual_type_inferred": [],
+  "completeness_before": 0.176,
+  "completeness_after": 0.235,
+  "improvement": 0.059,
   "overall_quality": {
-    "mean": 0.2,
-    "min": 0.133,
-    "max": 0.267,
+    "mean": 0.235,
+    "min": 0.176,
+    "max": 0.294,
     "count": 3
   },
   "fields_completed": {
-    "duration": 3,
-    "modules": 1,
-    "nqf_level": 1,
-    "study_mode": 1
+    "admission_requirements_raw": 3
   },
   "fields_still_missing": {
     "nqf_level": 2,
@@ -33,16 +33,14 @@
     "admissionRequirements": 3,
     "campus": 3,
     "qualification_code": 3,
+    "pricing": 3,
     "modules": 2
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "gert-sibande-tvet-college.pdf": [
-        "duration",
-        "modules",
-        "nqf_level",
-        "study_mode"
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [],
@@ -51,27 +49,45 @@
   "per_programme": [
     {
       "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.235,
+      "completeness_after": 0.294
     },
     {
       "name": "Report 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     }
   ]
 }

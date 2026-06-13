@@ -1,15 +1,207 @@
 {
   "institution_id": "344",
   "institution_name": "Motheo TVET College",
-  "sources_used": [],
-  "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/motheo-tvet-college-prospectus.pdf"
+  "points_system": "tvet_none",
+  "sources_used": [
+    "motheo-tvet-college-prospectus.pdf"
   ],
-  "evidence": [],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/motheo-tvet-college-prospectus.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "min_grade",
+      "value": "Grade 9",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "NCV Level 2",
+        "A minimum of Grade 9",
+        "college/ 2"
+      ],
+      "confidence": 0.393,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:20.4"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 3500,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      },
+      "confidence": 0.381,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:19.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "NCV Level 2",
+        "A minimum of Grade 9",
+        "college/ 2"
+      ],
+      "confidence": 0.394,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:20.4"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 3500,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      },
+      "confidence": 0.37,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:18.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "NCV Level 2",
+        "A minimum of Grade 9",
+        "college/ 2"
+      ],
+      "confidence": 0.432,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:22.4"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 3500,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      },
+      "confidence": 0.119,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "NQF Levels 2",
+        "4 NCV programmes run for three years and co"
+      ],
+      "confidence": 0.231,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:12.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "NQF Levels 2",
+        "4 NCV programmes run for three years and co"
+      ],
+      "confidence": 0.372,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:19.3"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.055,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:4.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "college/ 4",
+        "6 Engineering"
+      ],
+      "confidence": 0.176,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "college/ 4",
+        "6 Engineering"
+      ],
+      "confidence": 0.37,
+      "source": "prospectus",
+      "sourceFile": "motheo-tvet-college-prospectus.pdf",
+      "matchingMethod": "pdf-bm25:19.2"
+    }
+  ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 0
+    "mid 0.5-0.8": 7,
+    "low<0.5": 11
   },
-  "confidence_mean": 0
+  "confidence_mean": 0.397,
+  "qual_type_inferred_programmes": []
 }

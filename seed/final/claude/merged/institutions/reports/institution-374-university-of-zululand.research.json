@@ -1,318 +1,200 @@
 {
   "institution_id": "374",
   "institution_name": "University of Zululand",
+  "points_system": "aps_points",
   "sources_used": [
-    "prospectuses/university-of-zululand.pdf"
+    "university-of-zululand.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-zululand.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-zululand.pdf"
   ],
   "evidence": [
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Geography",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Geography/History) 4"
-          },
-          {
-            "subject": "History",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "History) 4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "Psychology) 3",
+        "NSC Deg with Engl 4",
+        "credit subjects BA in Psychology 3"
+      ],
+      "confidence": 0.362,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:18.8"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Geography",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Geography/History) 4"
-          },
-          {
-            "subject": "History",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "History) 4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "Studies 3",
+        "NSC Dip with Engl 4",
+        "credit subjects B A Correctional Studies 3"
+      ],
+      "confidence": 0.308,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:16.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Economics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Economics/Math Literacy 4"
-          },
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Math Literacy 4"
-          },
-          {
-            "subject": "Tourism",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Tourism Studies 3 / Tourism or Geog 4"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Tourism",
-              "minimum_percentage": 3,
-              "minimum_nsc_level": null,
-              "notes": "Tourism Management 3"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4"
+      ],
+      "confidence": 0.274,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:14.2"
     },
     {
-      "field": "admissionRequirements",
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "isiZulu",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "IsiZulu 4 / IsiZulu HL 4"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Maths 3 / Maths Lit 4"
-          }
-        ],
-        "subject_or_groups": []
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "confidence": 0.069,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "isiZulu",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "IsiZulu 4 / IsiZulu HL 4"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Maths 3 / Maths Lit 4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4"
+      ],
+      "confidence": 0.115,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
     },
     {
-      "field": "admissionRequirements",
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Geography",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Geography & History) 3 / Geography & Tourism) 3"
-          },
-          {
-            "subject": "History",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "History) 3 / History & IsiZulu) 3"
-          },
-          {
-            "subject": "isiZulu",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "IsiZulu) 3"
-          },
-          {
-            "subject": "Tourism",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Tourism) 3"
-          }
-        ],
-        "subject_or_groups": []
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "confidence": 0.088,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Economics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Economics/Math Literacy 4"
-          },
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Math Literacy 4"
-          },
-          {
-            "subject": "Tourism",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Tourism Studies 3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4"
+      ],
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Economics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Economics/Math Literacy 4"
-          },
-          {
-            "subject": "isiZulu",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "IsiZulu 4 / IsiZulu HL 4"
-          },
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Math Literacy 4"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Maths 3 / Maths Lit 4"
-          },
-          {
-            "subject": "Tourism",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Tourism Studies 3 / Tourism or Geog 4"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Tourism",
-              "minimum_percentage": 3,
-              "minimum_nsc_level": null,
-              "notes": "Tourism Management 3"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "ects B A in Intercultural Communication 3",
+        "NSC Deg with Engl 4",
+        "credit subjects Diploma in Media Studies 3"
+      ],
+      "confidence": 0.351,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:18.2"
     },
     {
-      "field": "admissionRequirements",
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "isiZulu",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "IsiZulu 4 / IsiZulu HL 4"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Maths 3 / Maths Lit 4"
-          }
-        ],
-        "subject_or_groups": []
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.448,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:0.53"
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:17.2"
     },
     {
-      "field": "admissionRequirements",
+      "field": "admission_requirements_raw",
+      "value": [
+        "Psychology) 3",
+        "NSC Deg with Engl 4",
+        "credit subjects BA in Psychology 3"
+      ],
+      "confidence": 0.369,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:19.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4"
+      ],
+      "confidence": 0.324,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:16.8"
+    },
+    {
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "isiZulu",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "IsiZulu 4 / IsiZulu HL 4"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Maths 3 / Maths Lit 4"
-          }
-        ],
-        "subject_or_groups": []
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.454,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-zululand.pdf",
-      "matchingMethod": "adm-sim:0.53"
+      "confidence": 0.152,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4"
+      ],
+      "confidence": 0.253,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.171,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:14.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4"
+      ],
+      "confidence": 0.285,
+      "source": "prospectus",
+      "sourceFile": "university-of-zululand.pdf",
+      "matchingMethod": "pdf-bm25:14.8"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 8,
+    "high≥0.8": 0,
     "mid 0.5-0.8": 0,
-    "low<0.5": 2
+    "low<0.5": 15
   },
-  "confidence_mean": 0.77
+  "confidence_mean": 0.231,
+  "qual_type_inferred_programmes": []
 }

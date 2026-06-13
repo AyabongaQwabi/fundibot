@@ -1,111 +1,242 @@
 {
   "institution_id": "354",
   "institution_name": "Sekhukhune TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
-    "sekhukhune-tvet-college-web.txt",
-    "prospectuses/sekhukhune-tvet-college-web.txt"
+    "sekhukhune-tvet-college-web.txt"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/sekhukhune-tvet-college-web.txt"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/sekhukhune-tvet-college-web.txt"
   ],
   "evidence": [
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.217,
+      "field": "pricing",
+      "value": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.115,
       "source": "prospectus",
       "sourceFile": "sekhukhune-tvet-college-web.txt",
       "matchingMethod": "pdf-bm25:9.9"
     },
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.137,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Business Studies"
+      ],
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Business Studies"
+      ],
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.073,
       "source": "prospectus",
       "sourceFile": "sekhukhune-tvet-college-web.txt",
       "matchingMethod": "pdf-bm25:6.3"
     },
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.137,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Business Studies"
+      ],
+      "confidence": 0.128,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:6.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.073,
       "source": "prospectus",
       "sourceFile": "sekhukhune-tvet-college-web.txt",
       "matchingMethod": "pdf-bm25:6.3"
     },
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.231,
+      "field": "pricing",
+      "value": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.122,
       "source": "prospectus",
       "sourceFile": "sekhukhune-tvet-college-web.txt",
       "matchingMethod": "pdf-bm25:10.6"
     },
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.279,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Business Studies"
+      ],
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.148,
       "source": "prospectus",
       "sourceFile": "sekhukhune-tvet-college-web.txt",
       "matchingMethod": "pdf-bm25:12.8"
     },
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.22,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Business Studies"
+      ],
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.116,
       "source": "prospectus",
       "sourceFile": "sekhukhune-tvet-college-web.txt",
       "matchingMethod": "pdf-bm25:10.1"
     },
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.137,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Business Studies"
+      ],
+      "confidence": 0.148,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Business Studies"
+      ],
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.073,
       "source": "prospectus",
       "sourceFile": "sekhukhune-tvet-college-web.txt",
       "matchingMethod": "pdf-bm25:6.3"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": null,
-            "minimum_nsc_level": null,
-            "notes": "Gr 11 with Maths"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.393,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
-      "matchingMethod": "adm-sim:0.46"
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2"
+      ],
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:6.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": null,
-            "minimum_nsc_level": null,
-            "notes": "Gr 11 with Maths"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.433,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
-      "matchingMethod": "adm-sim:0.51"
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2"
+      ],
+      "confidence": 0.116,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2"
+      ],
+      "confidence": 0.136,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:7.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2"
+      ],
+      "confidence": 0.093,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "sekhukhune-tvet-college-web.txt",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 9
+    "mid 0.5-0.8": 1,
+    "low<0.5": 19
   },
-  "confidence_mean": 0.243
+  "confidence_mean": 0.144,
+  "qual_type_inferred_programmes": []
 }

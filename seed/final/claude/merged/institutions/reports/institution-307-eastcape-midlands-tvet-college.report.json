@@ -1,100 +1,61 @@
 {
   "institution_id": "307",
   "institution_name": "Eastcape Midlands TVET College",
-  "programme_count": 12,
-  "programmes_enriched": 12,
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
+  "programme_count": 27,
+  "programmes_enriched": 27,
   "synthetic_injected": [],
   "pdf_discovered": [
-    {
-      "name": "In order to obtain a National Certificate (Vocational),",
-      "source": "eastcape-midlands-tvet-college.pdf",
-      "qual_type": "Unknown"
-    },
-    {
-      "name": "It is a specialised National Certificate for a chosen",
-      "source": "eastcape-midlands-tvet-college.pdf",
-      "qual_type": "Unknown"
-    },
     {
       "name": "NCV & REPORT",
       "source": "eastcape-midlands-tvet-college.pdf",
       "qual_type": "NCV"
-    },
-    {
-      "name": "Study further at a TVET college towards N4-6 National",
-      "source": "eastcape-midlands-tvet-college.pdf",
-      "qual_type": "Nated (Report 191)"
-    },
-    {
-      "name": "NQF level 5 Higher Certificate at Selective",
-      "source": "eastcape-midlands-tvet-college.pdf",
-      "qual_type": "Higher Certificate"
-    },
-    {
-      "name": "REPORT 191 PROGRAMMES (N4 - N6)",
-      "source": "eastcape-midlands-tvet-college.pdf",
-      "qual_type": "Nated (Report 191)"
-    },
-    {
-      "name": "(NATED) programmes are delivered under the auspices",
-      "source": "eastcape-midlands-tvet-college.pdf",
-      "qual_type": "Nated (Report 191)"
-    },
-    {
-      "name": "with a National Certificate in the specific field of study.",
-      "source": "eastcape-midlands-tvet-college.pdf",
-      "qual_type": "Certificate"
-    },
-    {
-      "name": "National Certificate (NATED/TVET) Level 5 course (N5): The",
-      "source": "eastcape-midlands-tvet-college.pdf",
-      "qual_type": "Nated (Report 191)"
-    },
-    {
-      "name": "National Certificate (NATED/TVET) Level 6 course (N6): The",
-      "source": "eastcape-midlands-tvet-college.pdf",
-      "qual_type": "Nated (Report 191)"
     }
   ],
-  "completeness_before": 0.073,
-  "completeness_after": 0.222,
-  "improvement": 0.15,
+  "qual_type_inferred": [],
+  "completeness_before": 0.114,
+  "completeness_after": 0.142,
+  "improvement": 0.028,
   "overall_quality": {
-    "mean": 0.222,
-    "min": 0.067,
-    "max": 0.333,
-    "count": 12
+    "mean": 0.142,
+    "min": 0.059,
+    "max": 0.294,
+    "count": 27
   },
   "fields_completed": {
     "modules": 5,
-    "duration": 9,
-    "nqf_level": 8,
-    "career_outcomes": 5
+    "campuses_offering": 2,
+    "admission_requirements_raw": 5,
+    "min_grade": 17,
+    "pricing": 3
   },
   "fields_still_missing": {
-    "nqf_level": 4,
-    "duration": 3,
-    "credits": 12,
-    "min_aps": 12,
-    "career_outcomes": 7,
-    "study_mode": 12,
-    "department": 12,
-    "programme_code": 12,
-    "saqa_code": 12,
-    "admissionRequirements": 12,
-    "campus": 12,
-    "modules": 7,
-    "qualification_code": 12,
-    "faculty_name": 11
+    "nqf_level": 27,
+    "duration": 27,
+    "credits": 27,
+    "min_aps": 27,
+    "career_outcomes": 27,
+    "study_mode": 27,
+    "department": 27,
+    "programme_code": 27,
+    "saqa_code": 27,
+    "admissionRequirements": 27,
+    "campus": 27,
+    "modules": 22,
+    "qualification_code": 27,
+    "pricing": 24,
+    "admission_requirements_raw": 22,
+    "faculty_name": 2
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "eastcape-midlands-tvet-college.pdf": [
         "modules",
-        "duration",
-        "nqf_level",
-        "career_outcomes"
+        "campuses_offering",
+        "admission_requirements_raw",
+        "pricing"
       ]
     },
     "unused_files": [],
@@ -102,100 +63,382 @@
   },
   "per_programme": [
     {
-      "name": "NCV LEVEL 4",
+      "name": "Tourism",
+      "qualification_type": "NCV Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Safety in Society",
+      "qualification_type": "Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
+    },
+    {
+      "name": "Hospitality",
+      "qualification_type": "NCV Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Marketing",
+      "qualification_type": "NCV Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Office Administration",
+      "qualification_type": "NCV Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Finance, Economics & Accounting",
+      "qualification_type": "NCV Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
+    },
+    {
+      "name": "Management Assistant",
+      "qualification_type": "N4 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Management Assistant",
+      "qualification_type": "N5 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Management Assistant",
+      "qualification_type": "N6 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Financial Management",
+      "qualification_type": "N4 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Financial Management",
+      "qualification_type": "N5 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Financial Management",
+      "qualification_type": "N6 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Business Management",
+      "qualification_type": "N4 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Business Management",
+      "qualification_type": "N5 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Business Management",
+      "qualification_type": "N6 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Human Resource Management",
+      "qualification_type": "N4 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.294
+    },
+    {
+      "name": "Human Resource Management",
+      "qualification_type": "N5 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.294
+    },
+    {
+      "name": "Human Resource Management",
+      "qualification_type": "N6 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.294
+    },
+    {
+      "name": "Legal Secretary",
+      "qualification_type": "N4 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Legal Secretary",
+      "qualification_type": "N5 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Legal Secretary",
+      "qualification_type": "N6 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Marketing Management",
+      "qualification_type": "N4 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Marketing Management",
+      "qualification_type": "N5 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "Marketing Management",
+      "qualification_type": "N6 Certificate",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
+    },
+    {
+      "name": "NCV LEVEL 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
+      "synthetic": false,
+      "pdf_discovered": false,
+      "discovery_source": null,
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
-    },
-    {
-      "name": "In order to obtain a National Certificate (Vocational),",
-      "synthetic": false,
-      "pdf_discovered": true,
-      "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
-    },
-    {
-      "name": "It is a specialised National Certificate for a chosen",
-      "synthetic": false,
-      "pdf_discovered": true,
-      "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "NCV & REPORT",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": true,
       "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
-    },
-    {
-      "name": "Study further at a TVET college towards N4-6 National",
-      "synthetic": false,
-      "pdf_discovered": true,
-      "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.333
-    },
-    {
-      "name": "NQF level 5 Higher Certificate at Selective",
-      "synthetic": false,
-      "pdf_discovered": true,
-      "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
-    },
-    {
-      "name": "REPORT 191 PROGRAMMES (N4 - N6)",
-      "synthetic": false,
-      "pdf_discovered": true,
-      "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
-    },
-    {
-      "name": "(NATED) programmes are delivered under the auspices",
-      "synthetic": false,
-      "pdf_discovered": true,
-      "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
-    },
-    {
-      "name": "with a National Certificate in the specific field of study.",
-      "synthetic": false,
-      "pdf_discovered": true,
-      "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.267
-    },
-    {
-      "name": "National Certificate (NATED/TVET) Level 5 course (N5): The",
-      "synthetic": false,
-      "pdf_discovered": true,
-      "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.333
-    },
-    {
-      "name": "National Certificate (NATED/TVET) Level 6 course (N6): The",
-      "synthetic": false,
-      "pdf_discovered": true,
-      "discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "completeness_before": 0.067,
-      "completeness_after": 0.333
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     }
   ]
 }

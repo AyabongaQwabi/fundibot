@@ -1,23 +1,23 @@
 {
   "institution_id": "411",
   "institution_name": "Sol Plaatje University",
+  "institution_type": "university",
+  "points_system": "aps_points",
   "programme_count": 29,
   "programmes_enriched": 29,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.113,
-  "completeness_after": 0.17,
-  "improvement": 0.057,
+  "qual_type_inferred": [],
+  "completeness_before": 0.15,
+  "completeness_after": 0.15,
+  "improvement": 0.0,
   "overall_quality": {
-    "mean": 0.17,
-    "min": 0.133,
-    "max": 0.2,
+    "mean": 0.15,
+    "min": 0.118,
+    "max": 0.176,
     "count": 29
   },
-  "fields_completed": {
-    "admissionRequirements": 19,
-    "faculty_name": 6
-  },
+  "fields_completed": {},
   "fields_still_missing": {
     "nqf_level": 29,
     "duration": 29,
@@ -32,250 +32,422 @@
     "campus": 29,
     "modules": 29,
     "qualification_code": 29,
+    "pricing": 29,
+    "admission_requirements_raw": 29,
     "faculty_name": 3
   },
   "pdf_source_audit": {
     "total_mapped": 0,
-    "useful_files": {
-      "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf": [
-        "faculty_name"
-      ]
-    },
+    "useful_files": {},
     "unused_files": [],
-    "verdict": "good"
+    "verdict": "unmapped"
   },
   "per_programme": [
     {
       "name": "Advanced Diploma",
+      "qualification_type": "Advanced Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "Advanced Diploma IN INFORMATION AND COMMUNICATION TECHNOLOGY IN APPLICATIONS",
+      "qualification_type": "Advanced Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BA (B.A.)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BA exits at HEQSF level 7 and the minimum duration is three years.",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BA – 3 years",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BCom (GENERIC) - B.Com.",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BCom exits at HEQSF level 7 and the minimum duration is three years. A student needs to obtain a total",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BCom – 3 years",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BEd",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BEd (B.Ed.)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BEd (B.Ed.) Degrees",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BEd (Senior Phase and FET Phase) – 4 years",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BSc (B.Sc.)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BSc degree has been carefully designed to address a critical skills shortage in the country and will",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BSc DEGREE IN DATA SCIENCE",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BSc in Data Science",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BSc in Data Science degree has a strong mathematics core and focuses on data science and applications",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "BSc in Data Science – 3 years",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BSc – 3 years",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "Diploma in Applications Development and advances the applied and general skills through the",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "Diploma in ICT in Applications Development",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "Diploma in ICT specialising in Applications Development",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "DIPLOMA IN INFORMATION AND COMMUNICATION TECHNOLOGY (ICT)",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "Diploma in Information and Communication Technology in",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "DIPLOMA IN INFORMATION AND COMMUNICATION TECHNOLOGY:",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "Diploma in Retail Business",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "DIPLOMA IN RETAIL BUSINESS MANAGEMENT",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "DIPLOMA IN RETAIL BUSINESS MANAGEMENT – 3 years",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "honours or postgraduate diploma studies.",
+      "qualification_type": "Honours",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     }
   ]
 }

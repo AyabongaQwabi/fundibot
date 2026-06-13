@@ -1,15 +1,136 @@
 {
   "institution_id": "357",
   "institution_name": "Thekwini TVET College",
-  "sources_used": [],
-  "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/thekwini-tvet-college.pdf"
+  "points_system": "tvet_none",
+  "sources_used": [
+    "thekwini-tvet-college.pdf"
   ],
-  "evidence": [],
+  "prospectus_files": [
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/thekwini-tvet-college.pdf"
+  ],
+  "evidence": [
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "high knowledge programmes to provide the out of school youth and post grade 9",
+        "Level 2"
+      ],
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "thekwini-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 15066,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.08,
+      "source": "prospectus",
+      "sourceFile": "thekwini-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "high knowledge programmes to provide the out of school youth and post grade 9",
+        "Level 2"
+      ],
+      "confidence": 0.172,
+      "source": "prospectus",
+      "sourceFile": "thekwini-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 15066,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.056,
+      "source": "prospectus",
+      "sourceFile": "thekwini-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "high knowledge programmes to provide the out of school youth and post grade 9",
+        "Level 2"
+      ],
+      "confidence": 0.18,
+      "source": "prospectus",
+      "sourceFile": "thekwini-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 15066,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.056,
+      "source": "prospectus",
+      "sourceFile": "thekwini-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "high knowledge programmes to provide the out of school youth and post grade 9",
+        "Level 2"
+      ],
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "thekwini-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 15066,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.056,
+      "source": "prospectus",
+      "sourceFile": "thekwini-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    }
+  ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 0
+    "mid 0.5-0.8": 3,
+    "low<0.5": 8
   },
-  "confidence_mean": 0
+  "confidence_mean": 0.235,
+  "qual_type_inferred_programmes": []
 }

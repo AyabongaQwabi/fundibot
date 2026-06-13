@@ -1,21 +1,25 @@
 {
   "institution_id": "337",
   "institution_name": "Goldfields TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 4,
   "programmes_enriched": 4,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.117,
-  "completeness_after": 0.167,
-  "improvement": 0.05,
+  "qual_type_inferred": [],
+  "completeness_before": 0.147,
+  "completeness_after": 0.191,
+  "improvement": 0.044,
   "overall_quality": {
-    "mean": 0.167,
-    "min": 0.067,
-    "max": 0.2,
+    "mean": 0.191,
+    "min": 0.059,
+    "max": 0.235,
     "count": 4
   },
   "fields_completed": {
-    "admissionRequirements": 3
+    "admission_requirements_raw": 3,
+    "min_grade": 1
   },
   "fields_still_missing": {
     "nqf_level": 4,
@@ -30,50 +34,79 @@
     "campus": 4,
     "modules": 4,
     "qualification_code": 4,
+    "pricing": 4,
     "min_aps": 1,
-    "admissionRequirements": 1
+    "admissionRequirements": 1,
+    "admission_requirements_raw": 1
   },
   "pdf_source_audit": {
     "total_mapped": 2,
-    "useful_files": {},
+    "useful_files": {
+      "goldfields-tvet-college.pdf": [
+        "admission_requirements_raw"
+      ]
+    },
     "unused_files": [
-      "goldfields-tvet-college.pdf",
       "goldfields-tvet-prospectus.pdf"
     ],
-    "verdict": "none"
+    "verdict": "partial"
   },
   "per_programme": [
     {
       "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "NC(V) L3",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.235
     },
     {
       "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     }
   ]
 }

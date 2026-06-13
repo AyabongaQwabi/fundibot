@@ -1,58 +1,588 @@
 {
   "institution_id": "317",
   "institution_name": "Northlink TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
     "northlink-tvet-college.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/northlink-tvet-college.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/northlink-tvet-college.pdf"
   ],
   "evidence": [
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.176,
+      "field": "pricing",
+      "value": {
+        "amount_min": 15230,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.094,
       "source": "prospectus",
       "sourceFile": "northlink-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.9"
+      "matchingMethod": "pdf-bm25:8.2"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.186,
+      "field": "admission_requirements_raw",
+      "value": [
+        "NAL CERTIFICATE VOCATIONAL Primary Health Level 2",
+        "Primary Health Level 3",
+        "Primary Health Level 4"
+      ],
+      "confidence": 0.157,
       "source": "prospectus",
       "sourceFile": "northlink-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:8.3"
+      "matchingMethod": "pdf-bm25:8.2"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.104,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Engineering and Related Design Level 4"
+      ],
+      "confidence": 0.174,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.099,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Engineering and Related Design Level 4"
+      ],
+      "confidence": 0.164,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.102,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Engineering and Related Design Level 4"
+      ],
       "confidence": 0.17,
       "source": "prospectus",
       "sourceFile": "northlink-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:7.6"
+      "matchingMethod": "pdf-bm25:8.8"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.186,
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 11480,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.069,
       "source": "prospectus",
       "sourceFile": "northlink-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:8.3"
+      "matchingMethod": "pdf-bm25:5.9"
     },
     {
-      "field": "nqf_level",
-      "value": 4,
-      "confidence": 0.211,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Solar Photovoltaic Service Technician Year 1",
+        "8 BELLVILLE CAMPUS DESCRIPTION",
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2"
+      ],
+      "confidence": 0.114,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.9"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.071,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Engineering and Related Design Level 4"
+      ],
+      "confidence": 0.119,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.064,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ],
+      "confidence": 0.106,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.069,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ],
+      "confidence": 0.115,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:6.0"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.168,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ],
+      "confidence": 0.281,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:14.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.153,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ],
+      "confidence": 0.255,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.156,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ],
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.239,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:20.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ],
+      "confidence": 0.399,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:20.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.224,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:19.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ],
+      "confidence": 0.373,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:19.3"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.226,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:19.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ],
+      "confidence": 0.377,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:19.6"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 17315,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.109,
       "source": "prospectus",
       "sourceFile": "northlink-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Panel Beater Year 1",
+        "Vehicle Painter (Automobile and Marine paint)) Year 1",
+        "Early Childhood Development Practitioner NQF Level 4"
+      ],
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ],
+      "confidence": 0.207,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.108,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ],
+      "confidence": 0.181,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.111,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ],
+      "confidence": 0.185,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 15230,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.107,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "NAL CERTIFICATE VOCATIONAL Primary Health Level 2",
+        "Primary Health Level 3",
+        "Primary Health Level 4"
+      ],
+      "confidence": 0.179,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.129,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ],
+      "confidence": 0.215,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ],
+      "confidence": 0.241,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ],
+      "confidence": 0.241,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.151,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:13.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ],
+      "confidence": 0.252,
+      "source": "prospectus",
+      "sourceFile": "northlink-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:13.1"
     }
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 5
+    "mid 0.5-0.8": 2,
+    "low<0.5": 46
   },
-  "confidence_mean": 0.186
+  "confidence_mean": 0.188,
+  "qual_type_inferred_programmes": []
 }

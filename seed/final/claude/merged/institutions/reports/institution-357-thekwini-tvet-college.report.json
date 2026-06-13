@@ -1,6 +1,8 @@
 {
   "institution_id": "357",
   "institution_name": "Thekwini TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 8,
   "programmes_enriched": 8,
   "synthetic_injected": [
@@ -11,16 +13,21 @@
     "NC(V)"
   ],
   "pdf_discovered": [],
-  "completeness_before": 0.067,
-  "completeness_after": 0.067,
-  "improvement": 0.0,
+  "qual_type_inferred": [],
+  "completeness_before": 0.059,
+  "completeness_after": 0.117,
+  "improvement": 0.058,
   "overall_quality": {
-    "mean": 0.067,
-    "min": 0.067,
-    "max": 0.067,
+    "mean": 0.117,
+    "min": 0.059,
+    "max": 0.176,
     "count": 8
   },
-  "fields_completed": {},
+  "fields_completed": {
+    "min_grade": 3,
+    "admission_requirements_raw": 4,
+    "pricing": 4
+  },
   "fields_still_missing": {
     "nqf_level": 8,
     "duration": 8,
@@ -35,80 +42,133 @@
     "admissionRequirements": 8,
     "campus": 8,
     "modules": 8,
-    "qualification_code": 8
+    "qualification_code": 8,
+    "pricing": 4,
+    "admission_requirements_raw": 4
   },
   "pdf_source_audit": {
     "total_mapped": 1,
-    "useful_files": {},
-    "unused_files": [
-      "thekwini-tvet-college.pdf"
-    ],
-    "verdict": "none"
+    "useful_files": {
+      "thekwini-tvet-college.pdf": [
+        "admission_requirements_raw",
+        "pricing"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
   },
   "per_programme": [
     {
       "name": "NATED N1",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "NATED N4",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     },
     {
       "name": "National Vocational Certificate - Level 1",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "National Vocational Certificate - Level 2",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "National Vocational Certificate - Level 3",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "National Vocational Certificate - Level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.176
     },
     {
       "name": "NC(V)",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": true,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.067
+      "completeness_before": 0.059,
+      "completeness_after": 0.059
     }
   ]
 }

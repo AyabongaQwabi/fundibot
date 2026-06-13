@@ -1,1075 +1,2102 @@
 {
   "institution_id": "366",
   "institution_name": "University of Limpopo",
+  "points_system": "aps_points",
   "sources_used": [
-    "university-of-limpopo.pdf",
-    "prospectuses/university-of-limpopo.pdf"
+    "university-of-limpopo.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-limpopo.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-limpopo.pdf"
   ],
   "evidence": [
     {
-      "field": "credits",
-      "value": 360,
-      "confidence": 0.639,
+      "field": "admission_requirements_raw",
+      "value": [
+        "2 School related subjects)",
+        "Mathematics, Science and Technology for ACET (Information Technology, Mathematical Literacy, Mathematics, Natura"
+      ],
+      "confidence": 0.551,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
       "matchingMethod": "pdf-bm25:28.6"
     },
     {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.338,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:17.5"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.177,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.539,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:24.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.243,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.201,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.299,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.169,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:7.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.212,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:9.5"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.447,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:23.2"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.159,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:8.2"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.494,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:23.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.128,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.7"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.221,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:9.9"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.567,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:25.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.221,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:9.9"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 55,
-            "minimum_nsc_level": null,
-            "notes": "Accounting and an overall average of 55%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-limpopo.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.231,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.3"
-    },
-    {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.103,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.099,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 55,
-            "minimum_nsc_level": null,
-            "notes": "Accounting and an overall average of 55%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.385,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-limpopo.pdf",
-      "matchingMethod": "adm-sim:0.45"
-    },
-    {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.282,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:14.1"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.271,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:14.1"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.549,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:28.5"
-    },
-    {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.352,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:17.6"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 55,
-            "minimum_nsc_level": null,
-            "notes": "Accounting and an overall average of 55%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.374,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-limpopo.pdf",
-      "matchingMethod": "adm-sim:0.44"
-    },
-    {
-      "field": "credits",
-      "value": 360,
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ],
       "confidence": 0.162,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:7.2"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 55,
-            "minimum_nsc_level": null,
-            "notes": "Accounting and an overall average of 55%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.367,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/university-of-limpopo.pdf",
-      "matchingMethod": "adm-sim:0.43"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.247,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.218,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.3"
-    },
-    {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.107,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.107,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.229,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.2"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.186,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:8.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.291,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:13.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.326,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:14.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.346,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:15.5"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.363,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:16.2"
-    },
-    {
-      "field": "credits",
-      "value": 360,
-      "confidence": 0.113,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.265,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.9"
-    },
-    {
-      "field": "credits",
-      "value": 360,
-      "confidence": 0.144,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.131,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.173,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.393,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:17.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.488,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:21.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.279,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:12.5"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.218,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:9.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.225,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.1"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.196,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.2"
-    },
-    {
-      "field": "credits",
-      "value": 360,
-      "confidence": 0.227,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.2"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.264,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.323,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:14.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.323,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:14.4"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.235,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.2"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.27,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:12.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.3,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
-    },
-    {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.7"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.11,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.7"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.116,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.2"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.121,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.389,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:17.4"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.202,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.5"
-    },
-    {
-      "field": "credits",
-      "value": 360,
-      "confidence": 0.135,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:6.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.546,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:24.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.224,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.189,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
       "matchingMethod": "pdf-bm25:8.4"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.187,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:8.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.181,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.126,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.279,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:12.5"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.123,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.5"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.177,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.243,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.201,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree at NQF level 7",
+        "focused Master’s programme, culminating"
+      ],
       "confidence": 0.465,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
       "matchingMethod": "pdf-bm25:24.1"
     },
     {
-      "field": "credits",
-      "value": 360,
-      "confidence": 0.275,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "b) 60%"
+      ],
+      "confidence": 0.243,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:12.3"
+      "matchingMethod": "pdf-bm25:12.6"
     },
     {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.227,
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree at NQF l evel 7",
+        "b) Applicants must obtain at least 60%"
+      ],
+      "confidence": 0.288,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.8"
+      "matchingMethod": "pdf-bm25:14.9"
     },
     {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.212,
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree in Information Studies or related disciplines with NQF exit level 7",
+        "level 7 Dura",
+        "and beyond"
+      ],
+      "confidence": 0.175,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A relevant 4",
+        "a) Candidates for the MOptom degree must possess a 4",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A candidate must be in possession of a Bachelor of Social Work degree or equivalent at NQF level 8",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.258,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree at NQF l evel 7",
+        "b) Applicants must obtain at least 60%"
+      ],
+      "confidence": 0.383,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:19.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree at NQF l evel 7",
+        "b) Applicants must obtain at least 60%"
+      ],
+      "confidence": 0.524,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:27.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ],
+      "confidence": 0.182,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
       "matchingMethod": "pdf-bm25:9.5"
     },
     {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.567,
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.486,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:25.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "year professional"
+      ],
+      "confidence": 0.224,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.212,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%",
+        "Mathematics Education (h) Science Education (i) Technology Education Admission Requirements: (a) A candidate must hold a Master of Education degree or the Bachelor of Education"
+      ],
+      "confidence": 0.221,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ],
+      "confidence": 0.273,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:14.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropr iate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.333,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropr iate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.198,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%"
+      ],
+      "confidence": 0.238,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.436,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:22.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.145,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:7.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.263,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s qualification (NQF level 7",
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.488,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
       "matchingMethod": "pdf-bm25:25.3"
     },
     {
-      "field": "study_mode",
-      "value": "Full-time",
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.376,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:19.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ],
+      "confidence": 0.199,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "This includes the requirement for the approval of the research proposal within 6"
+      ],
+      "confidence": 0.271,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:14.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "This includes the requirement for the approval of the research proposal within 6"
+      ],
+      "confidence": 0.339,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree in Information Studies or related disciplines with NQF exit level 7",
+        "level 7 Dura",
+        "and beyond"
+      ],
+      "confidence": 0.234,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s qualification (NQF level 7",
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.213,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "7 HOW TO APPLY ONLINE FOR POSTGRADUATE QUAL",
+        "Current and Former UL students (with student number) Step 1",
+        "za) Step 2"
+      ],
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "b) 60%"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "An Honours degree in English with an average of 60%",
+        "dissertation that carries 50%",
+        "A candidate must be in possession of a Bachelor Honours degree in a relevant subject with a mark of 60%"
+      ],
+      "confidence": 0.121,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%"
+      ],
+      "confidence": 0.269,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:14.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%"
+      ],
+      "confidence": 0.359,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:18.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.289,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.36,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:18.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of at least 60%",
+        "dissertation that carries 50%"
+      ],
+      "confidence": 0.198,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ],
+      "confidence": 0.16,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least an Honours degree or equivalent NQF level 8",
+        "c) An average of 60%",
+        "level 8 qualification in Public Administration or"
+      ],
+      "confidence": 0.251,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.442,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:22.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.346,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "LIFE SCIENCES Bachelor of Science Honours (BScHons) The Honours degree programmes consist of a research project and four theory modules relevant to the chosen discipline"
+      ],
+      "confidence": 0.345,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%"
+      ],
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%"
+      ],
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "year equivalent NQF level 8",
+        "b) 60%",
+        "qualification degree (b) with at least a 60%"
+      ],
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "credit Level 6",
+        "credit Level 7",
+        "credit Level 8"
+      ],
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of 60%",
+        "level 8 in the appropriate disciplinary area"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree in the discipline in which the student intends to do an MSc degree (b) A minimum of 60%",
+        "a) An MSc degree in the discipline in which the student intends to do a PhD degree and preferably with a minimum of 60%"
+      ],
+      "confidence": 0.408,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:21.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of at least 60%",
+        "dissertation that carries 50%"
+      ],
+      "confidence": 0.42,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:21.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
+      "confidence": 0.416,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:21.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "specialising in Mathematics (b) An average of 60%"
+      ],
+      "confidence": 0.334,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
+      "confidence": 0.372,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:19.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%"
+      ],
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%"
+      ],
+      "confidence": 0.202,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%"
+      ],
+      "confidence": 0.259,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.258,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%"
+      ],
+      "confidence": 0.204,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.216,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "An Honours degree in English with an average of 60%",
+        "dissertation that carries 50%",
+        "A candidate must be in possession of a Bachelor Honours degree in a relevant subject with a mark of 60%"
+      ],
+      "confidence": 0.324,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:16.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "year equivalent NQF level 8",
+        "b) 60%",
+        "qualification degree (b) with at least a 60%"
+      ],
+      "confidence": 0.228,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.244,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.244,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A 4",
+        "b) An average of 60%",
+        "English Studies (c) Media Studies (d) Northern Sotho (e) Tshivenda (f) Xitsonga Duration: (a) Minimum of one year with a maximum of three years"
+      ],
       "confidence": 0.218,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
       "matchingMethod": "pdf-bm25:11.3"
     },
     {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.107,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) A candidate should h ave at least 60%",
+        "focused Master’s programme,"
+      ],
+      "confidence": 0.254,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
+      "matchingMethod": "pdf-bm25:13.2"
     },
     {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.107,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) A candidate should h ave at least 60%"
+      ],
+      "confidence": 0.389,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
+      "matchingMethod": "pdf-bm25:20.2"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.182,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) A candidate should h ave at least 60%"
+      ],
+      "confidence": 0.405,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:8.6"
+      "matchingMethod": "pdf-bm25:21.0"
     },
     {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.186,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:8.3"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.291,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:13.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.326,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:14.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.346,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:15.5"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.363,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:16.2"
-    },
-    {
-      "field": "credits",
-      "value": 360,
-      "confidence": 0.113,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.265,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.9"
-    },
-    {
-      "field": "credits",
-      "value": 360,
-      "confidence": 0.144,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.131,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.173,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.393,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:17.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.488,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:21.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.279,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:12.5"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.218,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:9.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.225,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.264,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.261,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.7"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.16,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:7.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.323,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:14.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.323,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:14.4"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.126,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:6.5"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.221,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.4"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.131,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.235,
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.215,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
       "matchingMethod": "pdf-bm25:11.2"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.27,
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A relevant 4",
+        "a) Candidates for the MOptom degree must possess a 4",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.198,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:12.1"
+      "matchingMethod": "pdf-bm25:10.2"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.119,
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A 4",
+        "b) An average of 60%",
+        "year Bachelor’s degree or equivalent in Pharmacy."
+      ],
+      "confidence": 0.19,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
+      "matchingMethod": "pdf-bm25:9.9"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.27,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.19,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:12.1"
+      "matchingMethod": "pdf-bm25:9.9"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.125,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least 60%"
+      ],
+      "confidence": 0.214,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
+      "matchingMethod": "pdf-bm25:11.1"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.247,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least 60%"
+      ],
+      "confidence": 0.322,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:11.0"
+      "matchingMethod": "pdf-bm25:16.7"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.125,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.242,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.125,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.187,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:8.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.125,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.125,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.335,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:15.0"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.137,
-      "source": "prospectus",
-      "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:6.1"
-    },
-    {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.3,
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A candidate must be in possession of a Bachelor of Social Work degree or equivalent at NQF level 8",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.258,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
       "matchingMethod": "pdf-bm25:13.4"
     },
     {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.114,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.1,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.7"
+      "matchingMethod": "pdf-bm25:5.2"
     },
     {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.11,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.1,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.7"
+      "matchingMethod": "pdf-bm25:5.2"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.334,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%"
+      ],
+      "confidence": 0.235,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%"
+      ],
+      "confidence": 0.226,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.172,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%"
+      ],
+      "confidence": 0.195,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree in the discipline in which the student intends to do an MSc degree (b) A minimum of 60%",
+        "a) An MSc degree in the discipline in which the student intends to do a PhD degree and preferably with a minimum of 60%"
+      ],
+      "confidence": 0.561,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:29.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Agricultural"
+      ],
+      "confidence": 0.201,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Animal production"
+      ],
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Agricultural"
+      ],
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A relevant 4",
+        "b) An average of 60%",
+        "year Bachelor’s degree or equivalent."
+      ],
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
+      "confidence": 0.158,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Animal production"
+      ],
+      "confidence": 0.156,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A 4",
+        "s degree or equivalent in Medical Sciences or a 4",
+        "year Health Sciences related degree (b) An average of at least 60%"
+      ],
+      "confidence": 0.207,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Plant production or"
+      ],
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "with an average of at least 60%",
+        "b) An average of at least 60%"
+      ],
+      "confidence": 0.24,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Soil Science or"
+      ],
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "b) 60%"
+      ],
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree at NQF l evel 7",
+        "b) Applicants must obtain at least 60%"
+      ],
+      "confidence": 0.288,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:14.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree in Information Studies or related disciplines with NQF exit level 7",
+        "level 7 Dura",
+        "and beyond"
+      ],
+      "confidence": 0.167,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.515,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:26.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "year professional"
+      ],
+      "confidence": 0.282,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:14.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.27,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:14.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.287,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:14.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ],
+      "confidence": 0.222,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropr iate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.308,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:16.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.219,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ],
+      "confidence": 0.263,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ],
+      "confidence": 0.182,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s qualification (NQF level 7",
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.488,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:25.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "7 HOW TO APPLY ONLINE FOR POSTGRADUATE QUAL",
+        "Current and Former UL students (with student number) Step 1",
+        "za) Step 2"
+      ],
+      "confidence": 0.192,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "b) 60%"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "An Honours degree in English with an average of 60%",
+        "dissertation that carries 50%",
+        "A candidate must be in possession of a Bachelor Honours degree in a relevant subject with a mark of 60%"
+      ],
       "confidence": 0.121,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:5.4"
+      "matchingMethod": "pdf-bm25:6.3"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%"
+      ],
+      "confidence": 0.269,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:14.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%"
+      ],
+      "confidence": 0.359,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:18.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.143,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.289,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:15.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.36,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:18.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ],
+      "confidence": 0.16,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least an Honours degree or equivalent NQF level 8",
+        "c) An average of 60%",
+        "level 8 qualification in Public Administration or"
+      ],
+      "confidence": 0.251,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.442,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:22.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ],
+      "confidence": 0.346,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "LIFE SCIENCES Bachelor of Science Honours (BScHons) The Honours degree programmes consist of a research project and four theory modules relevant to the chosen discipline"
+      ],
+      "confidence": 0.345,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.097,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%"
+      ],
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "year equivalent NQF level 8",
+        "b) 60%",
+        "qualification degree (b) with at least a 60%"
+      ],
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "credit Level 6",
+        "credit Level 7",
+        "credit Level 8"
+      ],
+      "confidence": 0.124,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:6.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of 60%",
+        "level 8 in the appropriate disciplinary area"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree in the discipline in which the student intends to do an MSc degree (b) A minimum of 60%",
+        "a) An MSc degree in the discipline in which the student intends to do a PhD degree and preferably with a minimum of 60%"
+      ],
+      "confidence": 0.408,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:21.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of at least 60%",
+        "dissertation that carries 50%"
+      ],
+      "confidence": 0.42,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:21.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
+      "confidence": 0.416,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:21.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "specialising in Mathematics (b) An average of 60%"
+      ],
+      "confidence": 0.334,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
+      "confidence": 0.372,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:19.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "year equivalent NQF level 8",
+        "b) 60%",
+        "qualification degree (b) with at least a 60%"
+      ],
+      "confidence": 0.228,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.177,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%"
+      ],
+      "confidence": 0.34,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.351,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:18.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%"
+      ],
+      "confidence": 0.285,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:14.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.309,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:16.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "An Honours degree in English with an average of 60%",
+        "dissertation that carries 50%",
+        "A candidate must be in possession of a Bachelor Honours degree in a relevant subject with a mark of 60%"
+      ],
+      "confidence": 0.41,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:21.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.225,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "focused Master’s programme, culminating"
+      ],
+      "confidence": 0.14,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.244,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.244,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%"
+      ],
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "s degree in Information Studies or related disciplines with NQF exit level 7",
+        "level 7 Dura",
+        "and beyond"
+      ],
+      "confidence": 0.13,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%"
+      ],
+      "confidence": 0.251,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%"
+      ],
+      "confidence": 0.243,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.227,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.189,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%"
+      ],
+      "confidence": 0.207,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A 4",
+        "b) An average of 60%",
+        "English Studies (c) Media Studies (d) Northern Sotho (e) Tshivenda (f) Xitsonga Duration: (a) Minimum of one year with a maximum of three years"
+      ],
+      "confidence": 0.218,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) A candidate should h ave at least 60%",
+        "focused Master’s programme,"
+      ],
+      "confidence": 0.254,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) A candidate should h ave at least 60%"
+      ],
       "confidence": 0.389,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:17.4"
+      "matchingMethod": "pdf-bm25:20.2"
     },
     {
-      "field": "nqf_level",
-      "value": 8,
-      "confidence": 0.546,
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) A candidate should h ave at least 60%"
+      ],
+      "confidence": 0.405,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
-      "matchingMethod": "pdf-bm25:24.4"
+      "matchingMethod": "pdf-bm25:21.0"
     },
     {
-      "field": "duration",
-      "value": "4 years",
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.215,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A relevant 4",
+        "a) Candidates for the MOptom degree must possess a 4",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.198,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A 4",
+        "b) An average of 60%",
+        "year Bachelor’s degree or equivalent in Pharmacy."
+      ],
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%"
+      ],
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least 60%"
+      ],
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least 60%"
+      ],
+      "confidence": 0.322,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:16.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Soil Science or"
+      ],
+      "confidence": 0.106,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:5.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Agricultural"
+      ],
+      "confidence": 0.248,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Animal production"
+      ],
+      "confidence": 0.216,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Agricultural"
+      ],
+      "confidence": 0.256,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
+      "confidence": 0.265,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A relevant 4",
+        "b) An average of 60%",
+        "year Bachelor’s degree or equivalent."
+      ],
+      "confidence": 0.19,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
+      "confidence": 0.209,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Plant production or"
+      ],
+      "confidence": 0.21,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science"
+      ],
       "confidence": 0.177,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A 4",
+        "s degree or equivalent in Medical Sciences or a 4",
+        "year Health Sciences related degree (b) An average of at least 60%"
+      ],
+      "confidence": 0.247,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:12.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Plant production or"
+      ],
+      "confidence": 0.223,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Soil Science or"
+      ],
+      "confidence": 0.295,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:15.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Soil Science or"
+      ],
+      "confidence": 0.229,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:11.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A candidate must be in possession of a Bachelor of Social Work degree or equivalent at NQF level 8",
+        "b) An average of 60%"
+      ],
+      "confidence": 0.258,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.1,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.334,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:17.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) A BSc Hons degree in the discipline in which the student intends to do an MSc degree (b) A minimum of 60%",
+        "a) An MSc degree in the discipline in which the student intends to do a PhD degree and preferably with a minimum of 60%"
+      ],
+      "confidence": 0.561,
+      "source": "prospectus",
+      "sourceFile": "university-of-limpopo.pdf",
+      "matchingMethod": "pdf-bm25:29.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ],
+      "confidence": 0.162,
       "source": "prospectus",
       "sourceFile": "university-of-limpopo.pdf",
       "matchingMethod": "pdf-bm25:8.4"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 1,
-    "mid 0.5-0.8": 7,
-    "low<0.5": 119
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 5,
+    "low<0.5": 177
   },
-  "confidence_mean": 0.254
+  "confidence_mean": 0.255,
+  "qual_type_inferred_programmes": []
 }

@@ -1,21 +1,26 @@
 {
   "institution_id": "351",
   "institution_name": "Port Elizabeth TVET College",
+  "institution_type": "tvet-college",
+  "points_system": "tvet_none",
   "programme_count": 9,
   "programmes_enriched": 9,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.126,
-  "completeness_after": 0.133,
-  "improvement": 0.007,
+  "qual_type_inferred": [],
+  "completeness_before": 0.118,
+  "completeness_after": 0.131,
+  "improvement": 0.013,
   "overall_quality": {
-    "mean": 0.133,
-    "min": 0.133,
-    "max": 0.133,
+    "mean": 0.131,
+    "min": 0.118,
+    "max": 0.235,
     "count": 9
   },
   "fields_completed": {
-    "nqf_level": 1
+    "min_grade": 3,
+    "pricing": 1,
+    "admission_requirements_raw": 1
   },
   "fields_still_missing": {
     "nqf_level": 8,
@@ -31,13 +36,16 @@
     "admissionRequirements": 9,
     "modules": 9,
     "qualification_code": 9,
+    "pricing": 8,
+    "admission_requirements_raw": 8,
     "campus": 1
   },
   "pdf_source_audit": {
     "total_mapped": 3,
     "useful_files": {
       "port-elizabeth-tvet-college.pdf": [
-        "nqf_level"
+        "pricing",
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [
@@ -49,75 +57,129 @@
   "per_programme": [
     {
       "name": "NC(V) Mechatronics",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Safety in Society",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NATED Financial Management",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Transport & Logistics",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NATED Management Assistant",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Information Technology",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NC(V) Engineering & Related Design",
+      "qualification_type": "NC(V)",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "NATED Public Management",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.118
     },
     {
       "name": "Report 191",
+      "qualification_type": "NATED",
+      "qual_type_inferred": false,
+      "points_system": "tvet_none",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     }
   ]
 }

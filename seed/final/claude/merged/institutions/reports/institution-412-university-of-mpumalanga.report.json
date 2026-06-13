@@ -1,25 +1,24 @@
 {
   "institution_id": "412",
   "institution_name": "University of Mpumalanga",
+  "institution_type": "university",
+  "points_system": "aps_points",
   "programme_count": 23,
   "programmes_enriched": 23,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.13,
-  "completeness_after": 0.278,
-  "improvement": 0.148,
+  "qual_type_inferred": [],
+  "completeness_before": 0.245,
+  "completeness_after": 0.268,
+  "improvement": 0.023,
   "overall_quality": {
-    "mean": 0.278,
-    "min": 0.2,
-    "max": 0.4,
+    "mean": 0.268,
+    "min": 0.176,
+    "max": 0.412,
     "count": 23
   },
   "fields_completed": {
-    "admissionRequirements": 23,
-    "credits": 9,
-    "duration": 9,
-    "modules": 9,
-    "min_aps": 1
+    "admission_requirements_raw": 9
   },
   "fields_still_missing": {
     "nqf_level": 23,
@@ -33,15 +32,15 @@
     "saqa_code": 23,
     "campus": 23,
     "modules": 14,
-    "qualification_code": 23
+    "qualification_code": 23,
+    "pricing": 23,
+    "admission_requirements_raw": 14
   },
   "pdf_source_audit": {
     "total_mapped": 1,
     "useful_files": {
       "university-of-mpumalanga.pdf": [
-        "credits",
-        "duration",
-        "modules"
+        "admission_requirements_raw"
       ]
     },
     "unused_files": [],
@@ -50,187 +49,325 @@
   "per_programme": [
     {
       "name": "BA (GENERAL)",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BACHELOR OF ADMINISTRATION",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BACHELOR OF AGRICUL TURE",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "BACHELOR OF DEVELOPMENT STUDIES",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BACHELOR OF ICT",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BACHELOR OF SOCIAL WORK",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "BCom",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BEd",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BSc",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BSc IN AGRICUL TURE",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "BSc IN ENVIRONMENTAL SCIENCE",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BSc IN FORESTRY",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "Diploma in a relevant ICT Course",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "DIPLOMA IN AGRICUL TURE IN PLANT PRODUCTION",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "Diploma in an appropriate",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "Diploma in an appropriate field such as",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "DIPLOMA IN ANIMAL PRODUCTION",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "DIPLOMA IN HOSPITALITY MANAGEMENT",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "DIPLOMA IN ICT IN APPLICATIONS DEVELOPMENT",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.4
+      "completeness_before": 0.353,
+      "completeness_after": 0.412
     },
     {
       "name": "DIPLOMA IN NATURE CONSERVATION",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "LLB",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "NCV level 4",
+      "qualification_type": "NCV",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     },
     {
       "name": "BACHELOR OF EDUCATION",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.176
     }
   ]
 }

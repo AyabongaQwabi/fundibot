@@ -1,4276 +1,1199 @@
 {
   "institution_id": "369",
   "institution_name": "Stellenbosch University",
+  "points_system": "aps_points",
   "sources_used": [
-    "prospectuses/stellenbosch-university.pdf",
-    "stellenbosch-university.pdf",
-    "lib/seed/prospectuses/stellenbosch-university.pdf"
+    "stellenbosch-university.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/stellenbosch-university.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/stellenbosch-university.pdf"
   ],
   "evidence": [
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 1,
-            "minimum_nsc_level": null,
-            "notes": "Music (1"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "You must have a Diploma (Practical Music), or another qualification"
+        "1 year)",
+        "ior Certificate with at least 40%"
       ],
-      "confidence": 0.277,
+      "confidence": 0.289,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:15.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.141,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
+      ],
+      "confidence": 0.129,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:6.7"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
+        "70% Focal areas"
       ],
-      "confidence": 0.124,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Agricultural economics: Careers include entrepreneurship,",
-        "general management, financial management and logistics",
-        "management for the provision of agricultural inputs and services,"
-      ],
-      "confidence": 0.151,
+      "confidence": 0.157,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:8.1"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.164,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.8"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Similar programmes: BSc Earth Science; BSc Computer Science;"
+        "70% Focal areas"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Agricultural economics: Careers include entrepreneurship,",
-        "general management, financial management and logistics",
-        "management for the provision of agricultural inputs and services,"
-      ],
-      "confidence": 0.151,
+      "confidence": 0.157,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:8.1"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Similar programmes: BSc Earth Science; BSc Computer Science;"
+        "70% Focal areas"
       ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.492,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.58"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Agricultural economics: Careers include entrepreneurship,",
-        "general management, financial management and logistics",
-        "management for the provision of agricultural inputs and services,"
-      ],
-      "confidence": 0.342,
+      "confidence": 0.356,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:18.4"
     },
     {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.313,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:14.9"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.415,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.49"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An NSC aggregate of at least 65% (excluding Life Orientation)",
-        "Home Language 60%",
-        "First Additional Language 50%"
+        "3 years)",
+        "An NSC aggregate of at least 65%",
+        "Home Language 60%"
       ],
-      "confidence": 0.265,
+      "confidence": 0.276,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:14.3"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An NSC aggregate of at"
+        "3 years)",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%"
       ],
-      "confidence": 0.213,
+      "confidence": 0.222,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:11.5"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.723,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.85"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.279,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%"
+      ],
+      "confidence": 0.255,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:13.2"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An NSC aggregate of at"
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
       ],
-      "confidence": 0.245,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.2"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.132,
+      "confidence": 0.12,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:6.2"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
       ],
-      "confidence": 0.116,
+      "confidence": 0.12,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:6.2"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
+        "3 years)",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%"
       ],
-      "confidence": 0.116,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.2"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 50% / English First Additional Language\n60%"
-          },
-          {
-            "subject": "Music",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.474,
+      "confidence": 0.434,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:22.5"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An NSC aggregate of at least 63% (excluding Life Orientation)",
-        "Home Language 50%",
-        "First Additional Language 50%"
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
       ],
-      "confidence": 0.416,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:22.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.157,
+      "confidence": 0.144,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:7.5"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
       ],
-      "confidence": 0.138,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.208,
+      "confidence": 0.19,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:9.9"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
       ],
-      "confidence": 0.183,
+      "confidence": 0.19,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:9.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
+        "3 years)",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%"
       ],
-      "confidence": 0.183,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:9.9"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.197,
+      "confidence": 0.18,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:9.3"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An NSC aggregate of at least 63% (excluding Life Orientation)",
-        "Home Language 50%",
-        "First Additional Language 50%"
+        "3 years)",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%"
       ],
-      "confidence": 0.173,
+      "confidence": 0.18,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:9.3"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An NSC aggregate of at least 63% (excluding Life Orientation)",
-        "Home Language 50%",
-        "First Additional Language 50%"
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
       ],
-      "confidence": 0.173,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:9.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
-      ],
-      "confidence": 0.128,
+      "confidence": 0.133,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:6.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Music (3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An NSC aggregate of at least 60% (excluding Life Orientation)",
-        "Home Language 50%",
-        "First Additional Language 40%"
+        "3 years) See BA (Law) under the Faculty of",
+        "4 years)",
+        "An NSC aggregate of at least 60%"
       ],
-      "confidence": 0.102,
+      "confidence": 0.116,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.5"
+      "matchingMethod": "pdf-bm25:6.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.303,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
+      ],
+      "confidence": 0.277,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:14.4"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
+        "3 years)",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%"
       ],
-      "confidence": 0.266,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:14.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 50% / English First Additional Language\n60%"
-          },
-          {
-            "subject": "Music",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.765,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.90"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "making in the firm"
-      ],
-      "confidence": 0.354,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:19.1"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.401,
+      "confidence": 0.367,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:19.0"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.303,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
+      ],
+      "confidence": 0.277,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:14.4"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%"
       ],
-      "confidence": 0.266,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:14.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 50% / English First Additional Language\n60%"
-          },
-          {
-            "subject": "Music",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.328,
+      "confidence": 0.3,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:15.5"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "National Intelligence Agency, the tourism industry, international",
-        "journalism, public liaison work, the import and export industry, and",
-        "institutions that promote commerce and investment (e.g. Wesgro),"
+        "3 years)",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%"
       ],
-      "confidence": 0.288,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:15.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Visual Arts",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Visual Arts (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "either of the two routes. Further postgraduate training"
-      ],
-      "confidence": 0.17,
+      "confidence": 0.177,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Afrikaans",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Afrikaans Home Language 60%"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 60%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 80,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 80%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "English",
-              "minimum_percentage": 75,
-              "minimum_nsc_level": null,
-              "notes": "English First\nAdditional Language 75%"
-            }
-          ],
-          [
-            {
-              "subject": "Afrikaans",
-              "minimum_percentage": 75,
-              "minimum_nsc_level": null,
-              "notes": "Afrikaans First Additional Language 75%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "these concepts are at the core o"
+        "3 years)",
+        "An NSC aggregate of at least 70%",
+        "Mathematics 75%"
       ],
-      "confidence": 0.17,
+      "confidence": 0.177,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Afrikaans",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Afrikaans Home Language 60%"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 60%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 80,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 80%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "English",
-              "minimum_percentage": 75,
-              "minimum_nsc_level": null,
-              "notes": "English First\nAdditional Language 75%"
-            }
-          ],
-          [
-            {
-              "subject": "Afrikaans",
-              "minimum_percentage": 75,
-              "minimum_nsc_level": null,
-              "notes": "Afrikaans First Additional Language 75%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.193,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:9.2"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "these concepts are at the core o"
+        "3 years)",
+        "An NSC aggregate of at least 70%",
+        "Mathematics 75%"
       ],
-      "confidence": 0.17,
+      "confidence": 0.177,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Afrikaans",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Afrikaans Home Language 60%"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 60%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 80,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 80%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "English",
-              "minimum_percentage": 75,
-              "minimum_nsc_level": null,
-              "notes": "English First\nAdditional Language 75%"
-            }
-          ],
-          [
-            {
-              "subject": "Afrikaans",
-              "minimum_percentage": 75,
-              "minimum_nsc_level": null,
-              "notes": "Afrikaans First Additional Language 75%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.479,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.56"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "making in the firm"
+        "4 years) This is an interfaculty programme",
+        "An aggregate of at least 80%",
+        "Mathematics 80%"
       ],
       "confidence": 0.299,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:16.2"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.327,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:15.5"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "English First\nAdditional Language 70%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.433,
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%"
+      ],
+      "confidence": 0.396,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:20.5"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "development chemist, research assistant, onsite chemist, medical",
-        "chemist, data scientist, machine learning engineer, machine",
-        "learning scientist, applicat"
+        "3 years)",
+        "4 years)",
+        "An NSC aggregate of at least 60%"
       ],
-      "confidence": 0.38,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:20.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Visual Arts",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Visual Arts (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.408,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.48"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.194,
+      "confidence": 0.177,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:9.2"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An NSC aggregate of at least 60% (excluding Life Orientation)"
+        "3 years) See BA (Law) under the Faculty of",
+        "4 years)",
+        "An NSC aggregate of at least 60%"
       ],
-      "confidence": 0.17,
+      "confidence": 0.168,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:9.2"
+      "matchingMethod": "pdf-bm25:8.7"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "A National Senior Certificate",
-        "In the main instrument (or in singing) at least a practical standard",
-        "Candidates must be available for an a"
+        "4 years)",
+        "Mathematics 60%",
+        "Physical Sciences 50%"
       ],
-      "confidence": 0.155,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 40,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 40%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 50,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 50%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.143,
+      "confidence": 0.13,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:6.8"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Language and Hearing Therapy",
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Physical Sciences OR Life Sciences 50%"
+        "4 years)",
+        "Mathematics 60%",
+        "Physical Sciences 50%"
       ],
-      "confidence": 0.125,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 40,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 40%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Language and Hearing Therapy",
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Physical Sciences OR Life Sciences 50%"
-      ],
-      "confidence": 0.212,
+      "confidence": 0.221,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:11.5"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Visual Arts",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Visual Arts (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An NSC aggregate of at least 63% (excluding Life Orientation",
-        "Home Language 50%",
-        "First Additional Language 50%"
+        "4 years)",
+        "4 years) Place for",
+        "An NSC aggregate of at least 63%"
       ],
-      "confidence": 0.157,
+      "confidence": 0.163,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:8.5"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences OR Life Sciences 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.326,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:15.5"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Language and Hearing Therapy",
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Physical Sciences OR Life Sciences 50%"
+        "4 years)",
+        "Mathematics 60%",
+        "Physical Sciences 50%"
       ],
-      "confidence": 0.286,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:15.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Visual Arts",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Visual Arts (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.17,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An NSC aggregate of at least 60% (excluding Life Orientation)"
-      ],
-      "confidence": 0.15,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Motivational letter from Church denomination/Minister pertaining"
-      ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.0"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 75,
-            "minimum_nsc_level": null,
-            "notes": "English First Additional Language 75%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 80,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 80%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.164,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.8"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Actuarial Society of South A"
-      ],
-      "confidence": 0.132,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.1"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Afrikaans",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Afrikaans First Additional Language 70%"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "English",
-              "minimum_percentage": 70,
-              "minimum_nsc_level": null,
-              "notes": "English First\nAdditional Language 70%"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 70,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics final mark of 70%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "making in the firm"
-      ],
-      "confidence": 0.095,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.102,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
       "confidence": 0.298,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.35"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.188,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.9"
+      "matchingMethod": "pdf-bm25:15.5"
     },
     {
-      "field": "career_outcomes",
-      "value": [
-        "An NSC aggregate of at least 65% (excluding Life Orientation)",
-        "Mathematics 60%",
-        "English Home Language 50% OR Afrikaans Home Language"
-      ],
-      "confidence": 0.165,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.9"
-    },
-    {
-      "field": "admissionRequirements",
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 50% / English First Additional Language\n60%"
-          },
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": []
+        "amount_min": 2023,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.225,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:10.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An NSC aggregate of at least 70% (excluding Life Orientation)",
-        "Mathematics 70% OR Mathematics 60% and Accounting 70%"
-      ],
-      "confidence": 0.197,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:10.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.175,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "the global marketplace prepares you for a role in international",
-        "firms as a marketing manager, financial manager, entrepreneur or",
-        "innovation manager."
-      ],
-      "confidence": 0.154,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Afrikaans",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Afrikaans First Additional Language 70%"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "English",
-              "minimum_percentage": 70,
-              "minimum_nsc_level": null,
-              "notes": "English First\nAdditional Language 70%"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 70,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics final mark of 70%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.112,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "orientated, self",
-        "motivated people who drive",
-        "BCom (Law) (3 years)"
-      ],
-      "confidence": 0.098,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Economics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Economics (4"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.5,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.59"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.171,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An NSC aggregate of at least 65% (excluding Life Orientation)",
-        "Mathematics 60%",
-        "English Home Language 50% OR Afrikaans Home Language"
-      ],
-      "confidence": 0.15,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "faculty_name",
-      "value": "ECONOMIC AND",
-      "confidence": 0.88,
-      "source": "json",
-      "sourceFile": "lib/seed/prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "json-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Economics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Economics (4"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Agricultural economics: Careers include entrepreneurship,",
-        "general management, financial management and logistics",
-        "management for the provision of agricultural inputs and services,"
-      ],
-      "confidence": 0.095,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.1"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "making in the firm"
-      ],
-      "confidence": 0.123,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.6"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.136,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Afrikaans",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Afrikaans First Additional Language 70%"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 75,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 75%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "English",
-              "minimum_percentage": 70,
-              "minimum_nsc_level": null,
-              "notes": "English First\nAdditional Language 70%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.101,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences or Physical Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (pass with 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.351,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:16.6"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Mathematics (pass with 60% average in the first year)",
-        "Life Skills",
-        "Natural Sciences (Ed)"
-      ],
-      "confidence": 0.308,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:16.6"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Life Sciences or Physical Sciences 50%",
-        "History or Geography 50%"
-      ],
-      "confidence": 0.308,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:16.6"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "isiXhosa",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "IsiXhosa Home Language 60%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics (pass with 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.387,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:18.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Mathematics (pass with 60% average in the first year)",
-        "Life Skills",
-        "Natural Sciences (Ed)"
-      ],
-      "confidence": 0.34,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:18.4"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Life Sciences or Physical Sciences 50%",
-        "History or Geography 50%"
-      ],
-      "confidence": 0.34,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:18.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 7,
-      "confidence": 0.133,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Full-time",
-      "confidence": 0.115,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.0"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.172,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "scale operation of processes by which various consumer products"
-      ],
-      "confidence": 0.151,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.282,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "scale operation of processes by which various consumer products"
-      ],
-      "confidence": 0.247,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.182,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.6"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "scale operation of processes by which various consumer products"
-      ],
-      "confidence": 0.159,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.6"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.29,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.8"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "by the motion and transfer of energy, for example in vehicles,",
-        "aeroplanes, vessels, missiles, cooling systems, power stations and",
-        "engines, but also includes machines used in all branches of the"
-      ],
-      "confidence": 0.255,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.8"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.274,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.0"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "by the motion and transfer of energy, for example in vehicles,",
-        "aeroplanes, vessels, missiles, cooling systems, power stations and",
-        "engines, but also includes machines used in all branches of the"
-      ],
-      "confidence": 0.241,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.0"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.292,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.9"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "generation, transmission and conversion of electrical energy for",
-        "example factories and municipalities. Electronic engineers focus",
-        "on the control of robotic systems; the collection, processing and"
-      ],
-      "confidence": 0.256,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.9"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 50% / English First Additional Language\n60%"
-          },
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.327,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.38"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.185,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.8"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "scale projects and systems."
-      ],
-      "confidence": 0.162,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.8"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.214,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:10.2"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "by the motion and transfer of energy, for example in vehicles,",
-        "aeroplanes, vessels, missiles, cooling systems, power stations and",
-        "engines, but also includes machines used in all branches of the"
-      ],
-      "confidence": 0.188,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:10.2"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.222,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:10.5"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "by the motion and transfer of energy, for example in vehicles,",
-        "aeroplanes, vessels, missiles, cooling systems, power stations and",
-        "engines, but also includes machines used in all branches of the"
-      ],
-      "confidence": 0.195,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:10.5"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.168,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.0"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "generation, transmission and conversion of electrical energy for",
-        "example factories and municipalities. Electronic engineers focus",
-        "on the control of robotic systems; the collection, processing and"
-      ],
-      "confidence": 0.147,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.0"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 40,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 40%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.815,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.96"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50% / Physical Sciences OR Life Sciences 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.493,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.58"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.179,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.5"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "development chemist, research assistant, onsite chemist, medical",
-        "chemist, data scientist, machine learning engineer, machine",
-        "learning scientist, applicat"
-      ],
-      "confidence": 0.134,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Similar programmes: BSc Earth Science; BSc Computer Science;"
-      ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.2"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          },
-          {
-            "subject": "Music",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Music (3"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.551,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.65"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.153,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "specialist, geotechnical geologist, soil scientist, land-use",
-        "rehabilitator, geologist, mining geologist, environmental",
-        "rehabilitation engineer, exploration consultant, environmental"
-      ],
-      "confidence": 0.135,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Similar programmes: BSc Earth Science; BSc Computer Science;"
-      ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.3"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.223,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:10.6"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Motivational letter from Church denomination/Minister pertaining"
-      ],
-      "confidence": 0.0,
+      "confidence": 0.097,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:8.4"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 40,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 40%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.374,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.44"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.103,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "actuarial analyst, quantitative analyst, credit analyst, risk",
-        "manager, risk product developer, business intelligence analyst,",
-        "forensic computer analyst, computer systems analyst, database"
+        "3 years)",
+        "4 years)",
+        "An NSC aggregate of at least 60%"
       ],
-      "confidence": 0.089,
+      "confidence": 0.156,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
+      "matchingMethod": "pdf-bm25:8.1"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Similar programmes: BSc Earth Science; BSc Computer Science;"
-      ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Afrikaans",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Afrikaans Home Language 60%"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 60%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 80,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 80%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.268,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:12.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "assessment and monitoring, restoration ecology, conservation",
-        "biology, game farm management, ecotourism, sustainable",
-        "agriculture, forestry and organic plant manage"
-      ],
-      "confidence": 0.236,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:12.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.101,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 65% for the NSC (excluding Life",
-        "Afrikaans OR English (Home Language or First Additional",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.089,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "English",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "English First\nAdditional Language 70%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.609,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.72"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.35,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:16.6"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "development chemist, research assistant, onsite chemist, medical",
-        "chemist, data scientist, machine learning engineer, machine",
-        "learning scientist, applicat"
-      ],
-      "confidence": 0.259,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:14.0"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 70%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 60%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.144,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "use planner, agricultural",
-        "An aggregate of at least 65% for the NSC (excluding Life",
-        "Afrikaans OR English (Home Language or First Additional"
-      ],
-      "confidence": 0.127,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "assessment and monitoring, restoration ecology, conservation",
-        "biology, game farm management, ecotourism, sustainable",
-        "agriculture, forestry and organic plant manage"
-      ],
-      "confidence": 0.188,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:10.1"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.144,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 50%",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.126,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.8"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          },
-          {
-            "subject": "Music",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Music (3"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.118,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "specialist, geotechnical geologist, soil scientist, land-use",
-        "rehabilitator, geologist, mining geologist, environmental",
-        "rehabilitation engineer, exploration consultant, environmental"
-      ],
-      "confidence": 0.104,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.6"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          },
-          {
-            "subject": "Music",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Music (3"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.595,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.70"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.155,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "specialist, geotechnical geologist, soil scientist, land-use",
-        "rehabilitator, geologist, mining geologist, environmental",
-        "rehabilitation engineer, exploration consultant, environmental"
-      ],
-      "confidence": 0.136,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.4"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Similar programmes: BSc Earth Science; BSc Computer Science;"
-      ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.376,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.44"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.332,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:15.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "related industries, such as consultant,"
-      ],
-      "confidence": 0.291,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:15.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "assurance, product development, research, technical support,",
-        "sales, purchasing and production management in the food",
-        "industry."
-      ],
-      "confidence": 0.14,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.6"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.663,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.78"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.162,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "assurance, product development, research, technical support,",
-        "sales, purchasing and production management in the food",
-        "industry."
-      ],
-      "confidence": 0.142,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 70,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 70%"
-            }
-          ],
-          [
-            {
-              "subject": "Physical Sciences",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Physical Sciences (Physics and Chemistry) 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Forest and Natural Resources Sciences: Work as a forestry expert,",
-        "timber grower, environmental planner, forest researcher, forester,",
-        "extension officer or consultant, logistics manager, tree breeder,"
-      ],
-      "confidence": 0.245,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:13.2"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.253,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:12.0"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.391,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.46"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "actuarial analyst, quantitative analyst, credit analyst, risk",
-        "manager, risk product developer, business intelligence analyst,",
-        "forensic computer analyst, computer systems analyst, database"
-      ],
-      "confidence": 0.092,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.0"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.103,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Similar programmes: BSc Earth Science; BSc Computer Science;"
-      ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50% / Physical Sciences OR Life Sciences 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.115,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 60%",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.101,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:5.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 40,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 40%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.132,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 60%",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.116,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 40,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 40%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.132,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 60%",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.116,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.104,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 50%",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.092,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:4.9"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.169,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.0"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 50%",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.148,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.0"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.331,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:15.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "related industries, such as consultant,"
-      ],
-      "confidence": 0.291,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:15.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences (Physics and Chemistry) 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.497,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.59"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.621,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:29.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "related industries, such as consultant,"
-      ],
-      "confidence": 0.545,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:29.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.13,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.2"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 60%",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.2"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 40,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 40%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 50,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 50%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.267,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:12.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 50%",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.235,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:12.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.13,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.2"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 60%",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.2"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 40,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 40%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.163,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 65% for the NSC (excluding Life",
-        "Afrikaans OR English (Home Language or First Additional",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.143,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Physical Sciences 50% / Physical Sciences OR Life Sciences 50%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.185,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.8"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An aggregate of at least 65% for the NSC (excluding Life",
-        "Afrikaans OR English (Home Language or First Additional",
-        "Physical Sciences 50%"
-      ],
-      "confidence": 0.163,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.8"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Music (3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "You must have a Diploma (Practical Music), or another qualification"
-      ],
-      "confidence": 0.214,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:11.6"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Music (3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.37,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.44"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.348,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:16.5"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An NSC aggregate of at least 65% (excluding Life Orientation)",
-        "Home Language 60%",
-        "First Additional Language 50%"
-      ],
-      "confidence": 0.306,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:16.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Music (3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "development, population development, town and regional",
-        "planning, tourism, resource planni"
+        "3 years)",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%"
       ],
       "confidence": 0.15,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Music (3"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.196,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:9.3"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "development, population development, town and regional",
-        "planning, tourism, resource planni"
-      ],
-      "confidence": 0.15,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.585,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:27.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "An NSC aggregate of at least 60% (excluding Life Orientation)"
-      ],
-      "confidence": 0.513,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:27.7"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Motivational letter from Church denomination/Minister pertaining"
-      ],
-      "confidence": 0.0,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:27.5"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "programmes offered in the Faculty of Science lead to postgraduate",
-        "programmes in the Faculty of Science; or other faculties.",
-        "For more information on postgraduate programmes, please consult"
-      ],
-      "confidence": 0.479,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:25.9"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.136,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.4"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "house legal counsel); Compliance",
-        "governmental organisation (NGO) work."
-      ],
-      "confidence": 0.396,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:21.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.425,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.50"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "Agricultural economics: Careers include entrepreneurship,",
-        "general management, financial management and logistics",
-        "management for the provision of agricultural inputs and services,"
-      ],
-      "confidence": 0.151,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:8.1"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.164,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:7.8"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Similar programmes: BSc Earth Science; BSc Computer Science;"
+        "3 years)",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%"
       ],
-      "confidence": 0.0,
+      "confidence": 0.094,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:6.5"
+      "matchingMethod": "pdf-bm25:4.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Visual Arts",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Visual Arts (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.397,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.47"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.154,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 60%",
-        "Physical Sciences 50%"
+        "High school teacher in two subjects (Grades 8",
+        "3 years)",
+        "An NSC aggregate of at least 65%"
       ],
-      "confidence": 0.135,
+      "confidence": 0.172,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
+      "matchingMethod": "pdf-bm25:8.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Visual Arts",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Visual Arts (4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.397,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.47"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.154,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Mathematics 60%",
-        "Physical Sciences 50%"
+        "3 years)",
+        "An NSC aggregate of at least 70%",
+        "Mathematics 70%"
       ],
-      "confidence": 0.135,
+      "confidence": 0.206,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
+      "matchingMethod": "pdf-bm25:10.7"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 40,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 40%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.242,
-      "source": "prospectus",
-      "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:11.5"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "Language and Hearing Therapy",
-        "An aggregate of at least 60% for the NSC or an equivalent",
-        "Physical Sciences OR Life Sciences 50%"
+        "4 years) A limited number of students are s",
+        "4 years) This is an interfacul",
+        "An NSC aggregate of at least 80%"
       ],
-      "confidence": 0.212,
+      "confidence": 0.16,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:11.5"
+      "matchingMethod": "pdf-bm25:8.3"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Afrikaans",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Afrikaans First Additional Language 70%"
-          },
-          {
-            "subject": "English",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "English Home Language 50%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 60,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 60%"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "English",
-              "minimum_percentage": 70,
-              "minimum_nsc_level": null,
-              "notes": "English First\nAdditional Language 70%"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 70,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics final mark of 70%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.482,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.57"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematical Literacy",
-            "minimum_percentage": 70,
-            "minimum_nsc_level": null,
-            "notes": "Mathematical Literacy 70%"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 50,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics 50%"
-          },
-          {
-            "subject": "Music",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Music (3"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 60,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 60%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.391,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/stellenbosch-university.pdf",
-      "matchingMethod": "adm-sim:0.46"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "programmes offered in the Faculty of Science lead to postgraduate",
-        "programmes in the Faculty of Science; or other faculties.",
-        "For more information on postgraduate programmes, please consult"
+        "3 years)",
+        "5 years) BROAD DEGREE PROGRAMMES WITH VARI",
+        "An NSC aggregate of at least 65%"
       ],
-      "confidence": 0.479,
+      "confidence": 0.102,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
-      "matchingMethod": "pdf-bm25:25.9"
+      "matchingMethod": "pdf-bm25:5.3"
     },
     {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.136,
+      "field": "admission_requirements_raw",
+      "value": [
+        "High school teacher in two subjects (Grades 8",
+        "3 years)",
+        "An NSC aggregate of at least 65%"
+      ],
+      "confidence": 0.156,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "70% Focal areas"
+      ],
+      "confidence": 0.099,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%"
+      ],
+      "confidence": 0.124,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:6.4"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "house legal counsel); Compliance",
-        "governmental organisation (NGO) work."
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%"
       ],
-      "confidence": 0.396,
+      "confidence": 0.092,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Primary school teacher for Grades 4",
+        "Mathematics (pass with 60%",
+        "Life Sciences or Physical Sciences 50%"
+      ],
+      "confidence": 0.321,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:16.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Primary school teacher for Grades 4",
+        "Mathematics (pass with 60%",
+        "Life Sciences or Physical Sciences 50%"
+      ],
+      "confidence": 0.354,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:18.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes",
+        "Mathematics and Physical Sciences"
+      ],
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes",
+        "Mathematics and Physical Sciences"
+      ],
+      "confidence": 0.257,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:13.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes",
+        "Mathematics and Physical Sciences"
+      ],
+      "confidence": 0.166,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes"
+      ],
+      "confidence": 0.265,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:13.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes"
+      ],
+      "confidence": 0.251,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:13.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes"
+      ],
+      "confidence": 0.267,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:13.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes"
+      ],
+      "confidence": 0.169,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes"
+      ],
+      "confidence": 0.196,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes"
+      ],
+      "confidence": 0.203,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:10.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) Similar programmes"
+      ],
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%"
+      ],
+      "confidence": 0.164,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%"
+      ],
+      "confidence": 0.14,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years) These programmes offer an alternat"
+      ],
+      "confidence": 0.204,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:10.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%"
+      ],
+      "confidence": 0.095,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "An NSC aggregate of at least 60%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50%"
+      ],
+      "confidence": 0.245,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "t Additional Language) 50%",
+        "Physical Sciences 50%"
+      ],
+      "confidence": 0.093,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%"
+      ],
+      "confidence": 0.32,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:16.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%"
+      ],
+      "confidence": 0.132,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "An NSC aggregate of at least 60%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50%"
+      ],
+      "confidence": 0.196,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:10.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "OR Mathematical Literacy 70%",
+        "Life Sciences 50%"
+      ],
+      "confidence": 0.132,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:6.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%"
+      ],
+      "confidence": 0.108,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%"
+      ],
+      "confidence": 0.142,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:7.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)"
+      ],
+      "confidence": 0.304,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:15.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "4 Extended Curriculum Programmes (ECPs) An",
+        "An NSC aggregate of at least 60%"
+      ],
+      "confidence": 0.146,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 Extended Curriculum Programmes (ECPs) An",
+        "Combination 1",
+        "Combination 2"
+      ],
+      "confidence": 0.156,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "f at least 60%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50%",
+        "Mathematics 60%"
+      ],
+      "confidence": 0.255,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:13.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "mathematics teacher (after completion of Postgraduate Certificate in Education), operations researcher, supply chain analyst, data scientist, lecturer, researcher in interdisciplinary scientific fields which"
+      ],
+      "confidence": 0.096,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:5.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%"
+      ],
+      "confidence": 0.105,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%"
+      ],
+      "confidence": 0.121,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%"
+      ],
+      "confidence": 0.121,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "OR Mathematical Literacy 70%",
+        "Life Sciences 50%"
+      ],
+      "confidence": 0.095,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "OR Mathematical Literacy 70%",
+        "Life Sciences 50%"
+      ],
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)"
+      ],
+      "confidence": 0.303,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:15.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)"
+      ],
+      "confidence": 0.568,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:29.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%"
+      ],
+      "confidence": 0.119,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "OR Mathematical Literacy 70%",
+        "Life Sciences 50%"
+      ],
+      "confidence": 0.244,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2023,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.115,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%"
+      ],
+      "confidence": 0.119,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "t Additional Language) 50%",
+        "Physical Sciences 50%"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "t Additional Language) 50%",
+        "Physical Sciences 50%"
+      ],
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 year)",
+        "ior Certificate with at least 40%"
+      ],
+      "confidence": 0.223,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "An NSC aggregate of at least 65%",
+        "Home Language 60%"
+      ],
+      "confidence": 0.319,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:16.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) A committee selects applicants bas",
+        "An NSC aggregate of at least 55%"
+      ],
+      "confidence": 0.179,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years) A committee selects applicants bas",
+        "An NSC aggregate of at least 55%"
+      ],
+      "confidence": 0.179,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:9.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "3 years)",
+        "4 years)",
+        "An NSC aggregate of at least 60%"
+      ],
+      "confidence": 0.535,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:27.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "uage) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 70%"
+      ],
+      "confidence": 0.499,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:25.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "thematics 60%"
+      ],
+      "confidence": 0.412,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:21.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "70% Focal areas"
+      ],
+      "confidence": 0.157,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:8.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%"
+      ],
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2023,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.055,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%"
+      ],
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2023,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.055,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 years)",
+        "Mathematics 60%",
+        "Physical Sciences 50%"
+      ],
+      "confidence": 0.221,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:11.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "uage) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 70%"
+      ],
+      "confidence": 0.499,
+      "source": "prospectus",
+      "sourceFile": "stellenbosch-university.pdf",
+      "matchingMethod": "pdf-bm25:25.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "thematics 60%"
+      ],
+      "confidence": 0.412,
       "source": "prospectus",
       "sourceFile": "stellenbosch-university.pdf",
       "matchingMethod": "pdf-bm25:21.4"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 65,
-    "mid 0.5-0.8": 11,
-    "low<0.5": 201
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 2,
+    "low<0.5": 100
   },
-  "confidence_mean": 0.375
+  "confidence_mean": 0.205,
+  "qual_type_inferred_programmes": []
 }

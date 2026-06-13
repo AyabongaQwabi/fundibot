@@ -1,21 +1,25 @@
 {
   "institution_id": "374",
   "institution_name": "University of Zululand",
+  "institution_type": "university",
+  "points_system": "aps_points",
   "programme_count": 10,
   "programmes_enriched": 10,
   "synthetic_injected": [],
   "pdf_discovered": [],
-  "completeness_before": 0.08,
-  "completeness_after": 0.146,
-  "improvement": 0.066,
+  "qual_type_inferred": [],
+  "completeness_before": 0.13,
+  "completeness_after": 0.217,
+  "improvement": 0.088,
   "overall_quality": {
-    "mean": 0.146,
-    "min": 0.133,
-    "max": 0.2,
+    "mean": 0.217,
+    "min": 0.176,
+    "max": 0.294,
     "count": 10
   },
   "fields_completed": {
-    "admissionRequirements": 10
+    "admission_requirements_raw": 10,
+    "pricing": 5
   },
   "fields_still_missing": {
     "nqf_level": 10,
@@ -30,96 +34,160 @@
     "saqa_code": 10,
     "campus": 10,
     "modules": 10,
-    "qualification_code": 10
+    "qualification_code": 10,
+    "pricing": 5
   },
   "pdf_source_audit": {
     "total_mapped": 1,
-    "useful_files": {},
-    "unused_files": [
-      "university-of-zululand.pdf"
-    ],
-    "verdict": "none"
+    "useful_files": {
+      "university-of-zululand.pdf": [
+        "admission_requirements_raw",
+        "pricing"
+      ]
+    },
+    "unused_files": [],
+    "verdict": "good"
   },
   "per_programme": [
     {
       "name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "Bachelor of Social Sciences in Political and International Studies",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "BEd in Foundation Phase",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "BEd in Intermediate Phase",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.133,
-      "completeness_after": 0.2
+      "completeness_before": 0.176,
+      "completeness_after": 0.294
     },
     {
       "name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     },
     {
       "name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "qualification_type": "Diploma",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.176
     },
     {
       "name": "Bachelor of Education in Foundation Phase",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     },
     {
       "name": "Bachelor of Education in Intermediate Phase",
+      "qualification_type": "Degree",
+      "qual_type_inferred": false,
+      "points_system": "aps_points",
+      "has_pricing": false,
+      "has_admission_reqs": false,
+      "admission_is_default": false,
       "synthetic": false,
       "pdf_discovered": false,
       "discovery_source": null,
-      "completeness_before": 0.067,
-      "completeness_after": 0.133
+      "completeness_before": 0.118,
+      "completeness_after": 0.235
     }
   ]
 }

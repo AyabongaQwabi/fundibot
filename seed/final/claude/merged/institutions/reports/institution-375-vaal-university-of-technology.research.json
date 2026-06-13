@@ -1,9 +1,10 @@
 {
   "institution_id": "375",
   "institution_name": "Vaal University of Technology",
+  "points_system": "aps_points",
   "sources_used": [],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/vaal-university-of-technology.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/vaal-university-of-technology.pdf"
   ],
   "evidence": [],
   "confidence_distribution": {
@@ -11,5 +12,6 @@
     "mid 0.5-0.8": 0,
     "low<0.5": 0
   },
-  "confidence_mean": 0
+  "confidence_mean": 0,
+  "qual_type_inferred_programmes": []
 }

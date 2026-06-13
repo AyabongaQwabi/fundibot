@@ -1,215 +1,116 @@
 {
   "institution_id": "314",
   "institution_name": "Mnambithi TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
-    "prospectuses/Mnambithi_TVET_Prospectus_2022.pdf",
     "Mnambithi_TVET_Prospectus_2022.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/Mnambithi_TVET_Prospectus_2022.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/Mnambithi_TVET_Prospectus_2022.pdf"
   ],
   "evidence": [
     {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.117,
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 months N",
+        "6 months Report",
+        "4 Subjects N"
+      ],
+      "confidence": 0.113,
       "source": "prospectus",
       "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
       "matchingMethod": "pdf-bm25:5.9"
     },
     {
-      "field": "modules",
-      "value": [
-        "Entrepreneurship and",
-        "Management",
-        "Computer Practice"
-      ],
-      "confidence": 0.087,
+      "field": "pricing",
+      "value": {
+        "amount_min": 2672,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.054,
       "source": "prospectus",
       "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
       "matchingMethod": "pdf-bm25:4.7"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Business Studies",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Business Studies N4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.495,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "adm-sim:0.58"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.262,
-      "source": "prospectus",
-      "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "pdf-bm25:11.7"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.247,
-      "source": "prospectus",
-      "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "pdf-bm25:11.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Business Studies",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Business Studies N4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
+      "field": "admission_requirements_raw",
+      "value": [
+        "entry requirement is Grade 9"
+      ],
       "confidence": 0.226,
       "source": "prospectus",
       "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "pdf-bm25:10.1"
+      "matchingMethod": "pdf-bm25:11.7"
     },
     {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.202,
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 Vocational Subjects",
+        "4 Vocational Subjects ISAT PracticalISAT P",
+        "ractical ISAT PracticalISAT Practical ISAT PracticalISAT Practical NCV Level 2"
+      ],
+      "confidence": 0.195,
       "source": "prospectus",
       "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
       "matchingMethod": "pdf-bm25:10.1"
     },
     {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.121,
+      "field": "pricing",
+      "value": {
+        "amount_min": 550,
+        "currency": "ZAR",
+        "label": "registration fee",
+        "granularity": "programme"
+      },
+      "confidence": 0.111,
       "source": "prospectus",
       "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
       "matchingMethod": "pdf-bm25:5.5"
     },
     {
-      "field": "admissionRequirements",
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 Vocational Subjects",
+        "4 Vocational Subjects ISAT PracticalISAT P",
+        "ractical ISAT PracticalISAT Practical ISAT PracticalISAT Practical NCV Level 2"
+      ],
+      "confidence": 0.173,
+      "source": "prospectus",
+      "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
+      "matchingMethod": "pdf-bm25:9.0"
+    },
+    {
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Business Studies",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Business Studies N4"
-          }
-        ],
-        "subject_or_groups": []
+        "amount_min": 550,
+        "currency": "ZAR",
+        "label": "registration fee",
+        "granularity": "programme"
       },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.201,
-      "source": "prospectus",
-      "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
-    },
-    {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.18,
-      "source": "prospectus",
-      "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "pdf-bm25:9.0"
-    },
-    {
-      "field": "study_mode",
-      "value": "Distance Learning",
-      "confidence": 0.121,
+      "confidence": 0.111,
       "source": "prospectus",
       "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
       "matchingMethod": "pdf-bm25:5.5"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Life Orientation",
-        "Mathematical Literacy",
-        "Life Orientation"
+        "4 Vocational Subjects",
+        "4 Vocational Subjects ISAT PracticalISAT P",
+        "ractical ISAT PracticalISAT Practical ISAT PracticalISAT Practical NCV Level 2"
       ],
-      "confidence": 0.096,
-      "source": "prospectus",
-      "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "pdf-bm25:5.2"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Business Studies",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Business Studies N4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.241,
+      "confidence": 0.208,
       "source": "prospectus",
       "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
       "matchingMethod": "pdf-bm25:10.8"
-    },
-    {
-      "field": "duration",
-      "value": "6 months",
-      "confidence": 0.216,
-      "source": "prospectus",
-      "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "pdf-bm25:10.8"
-    },
-    {
-      "field": "modules",
-      "value": [
-        "Life Orientation",
-        "Mathematical Literacy",
-        "Life Orientation"
-      ],
-      "confidence": 0.117,
-      "source": "prospectus",
-      "sourceFile": "Mnambithi_TVET_Prospectus_2022.pdf",
-      "matchingMethod": "pdf-bm25:6.3"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 3,
+    "high≥0.8": 0,
     "mid 0.5-0.8": 0,
-    "low<0.5": 15
+    "low<0.5": 8
   },
-  "confidence_mean": 0.304
+  "confidence_mean": 0.149,
+  "qual_type_inferred_programmes": []
 }

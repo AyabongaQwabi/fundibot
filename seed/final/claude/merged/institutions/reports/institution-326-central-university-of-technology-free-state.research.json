@@ -1,1925 +1,708 @@
 {
   "institution_id": "326",
   "institution_name": "Central University of Technology, Free State",
+  "points_system": "aps_points",
   "sources_used": [
-    "university-of-the-free-state.pdf",
-    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm"
+    "university-of-the-free-state.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-the-free-state.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-the-free-state.pdf"
   ],
   "evidence": [
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "Accounting level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "A",
-            "subject_name": "Accounting",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "Languages level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "L",
-            "subject_name": "Languages",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "saqa_code",
-      "value": "8543",
-      "confidence": 0.122,
-      "source": "prospectus",
-      "sourceFile": "university-of-the-free-state.pdf",
-      "matchingMethod": "pdf-bm25:5.4"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 3 minimum",
-          "Mathematical Literacy level 4 minimum",
-          "Accounting level 5 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 3
-          },
-          {
-            "subject_code": "ML",
-            "subject_name": "Mathematical Literacy",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "A",
-            "subject_name": "Accounting",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "saqa_code",
-      "value": "8543",
-      "confidence": 0.143,
-      "source": "prospectus",
-      "sourceFile": "university-of-the-free-state.pdf",
-      "matchingMethod": "pdf-bm25:6.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Mathematical Literacy level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "Languages level 4 minimum",
-          "Accounting level 4 minimum",
-          "Agricultural Sciences level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "ML",
-            "subject_name": "Mathematical Literacy",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "L",
-            "subject_name": "Languages",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "A",
-            "subject_name": "Accounting",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "AS",
-            "subject_name": "Agricultural Sciences",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.412,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.48"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Mathematical Literacy level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "Languages level 4 minimum",
-          "Accounting level 4 minimum",
-          "Agricultural Sciences level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "ML",
-            "subject_name": "Mathematical Literacy",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "L",
-            "subject_name": "Languages",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "A",
-            "subject_name": "Accounting",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "AS",
-            "subject_name": "Agricultural Sciences",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.498,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.59"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 3 minimum",
-          "Mathematical Literacy level 6 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 3
-          },
-          {
-            "subject_code": "ML",
-            "subject_name": "Mathematical Literacy",
-            "minimum_level": 6
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.376,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.44"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Mathematical Literacy level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "ML",
-            "subject_name": "Mathematical Literacy",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 3 minimum",
-          "Mathematical Literacy level 6 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "English level 4 minimum",
-          "Information Technology level 3 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 3
-          },
-          {
-            "subject_code": "ML",
-            "subject_name": "Mathematical Literacy",
-            "minimum_level": 6
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "IT",
-            "subject_name": "Information Technology",
-            "minimum_level": 3
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 5 minimum",
-          "Physical Sciences level 5 minimum",
-          "English level 5 minimum",
-          "English level 5 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 5
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 3 minimum",
-          "Mathematical Literacy level 6 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 3
-          },
-          {
-            "subject_code": "ML",
-            "subject_name": "Mathematical Literacy",
-            "minimum_level": 6
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.397,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.47"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "Accounting level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "A",
-            "subject_name": "Accounting",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.38,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.45"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.468,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.55"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "English level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.444,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.52"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum",
-          "Languages level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "L",
-            "subject_name": "Languages",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.658,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.77"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.507,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.60"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 3 minimum",
-          "Mathematical Literacy level 6 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 3
-          },
-          {
-            "subject_code": "ML",
-            "subject_name": "Mathematical Literacy",
-            "minimum_level": 6
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 3 minimum",
-          "Mathematical Literacy level 5 minimum",
-          "Accounting level 6 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 3
-          },
-          {
-            "subject_code": "ML",
-            "subject_name": "Mathematical Literacy",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "A",
-            "subject_name": "Accounting",
-            "minimum_level": 6
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 5 minimum",
-          "Life Orientation level 4 minimum",
-          "Languages level 5 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "L",
-            "subject_name": "Languages",
-            "minimum_level": 5
-          }
-        ]
-      },
-      "confidence": 0.477,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.56"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "A compulsory audition before 30 September 2026. For more information:"
+        "Mathematics BC432238 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Physics BC432240 32 4 (50%) 5 (60%) 5 (60%) Data Science BC432295 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Business Management BC432255"
       ],
-      "confidence": 0.0,
+      "confidence": 0.16,
       "source": "prospectus",
       "sourceFile": "university-of-the-free-state.pdf",
-      "matchingMethod": "pdf-bm25:8.5"
+      "matchingMethod": "pdf-bm25:8.3"
     },
     {
-      "field": "admissionRequirements",
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          "English level 5 minimum",
-          "Life Orientation level 4 minimum",
-          "Languages level 5 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "L",
-            "subject_name": "Languages",
-            "minimum_level": 5
-          }
-        ]
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
+      "confidence": 0.118,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "A compulsory audition before 30 September 2026. For more information:"
+        "driven faculty, the Faculty of"
       ],
-      "confidence": 0.0,
+      "confidence": 0.197,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:10.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "N/A Accounting 4",
+        "Business Studies 4",
+        "Economics 4"
+      ],
+      "confidence": 0.191,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:9.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "N/A Accounting 4",
+        "Business Studies 4",
+        "Economics 4"
+      ],
+      "confidence": 0.141,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:7.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematics, Natural Sciences and Technology Education) Dr Msebenzi Rabaza +27 51 401 2307 pdirector@ufs"
+      ],
+      "confidence": 0.223,
       "source": "prospectus",
       "sourceFile": "university-of-the-free-state.pdf",
       "matchingMethod": "pdf-bm25:11.6"
     },
     {
-      "field": "admissionRequirements",
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematics, Natural Sciences and Technology Education) Dr Msebenzi Rabaza +27 51 401 2307 pdirector@ufs"
+      ],
+      "confidence": 0.178,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:9.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ENGLISH MATHEMATICS CAMPUS BCom with specialisation in"
+      ],
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematical Literacy on Level 7",
+        "ENGLISH MATHEMATICS Agricultural Extension* BC530147 30 4 (50%) 3 (40%) Animal Production Management* BC530101 30 4 (50%) 3 (40%) Crop Production * BC530102 30 4 (50%) 3 (40%) Mixed Farming Management* BC530",
+        "BC530147 30 4 (50%) 3 (40%)"
+      ],
+      "confidence": 0.154,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:8.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematical Literacy on Level 7",
+        "ENGLISH MATHEMATICS Agricultural Extension* BC530147 30 4 (50%) 3 (40%) Animal Production Management* BC530101 30 4 (50%) 3 (40%) Crop Production * BC530102 30 4 (50%) 3 (40%) Mixed Farming Management* BC530",
+        "BC530147 30 4 (50%) 3 (40%)"
+      ],
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "N/A 5",
+        "ENGLISH MATHEMATICS PHYSICAL SCIENCES Actuarial Science BC431000 34 4 (50%) 6 (70%) N/A 5"
+      ],
+      "confidence": 0.092,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "NOTE 2",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5 (60%) 5 (60%) 5 (60%) 5 (60"
+      ],
+      "confidence": 0.094,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "N/A 5",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES Physics and Engineering Subjects BC434026 30 4 (50%) 6 (70%) N/A 5 (60%) Agricultural and Biosystems Engineering BC540026 30 4 (50%) 6 (70%) N/A 5 (60%) 9"
+      ],
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          "Mathematics level 5 minimum",
-          "Physical Sciences level 5 minimum",
-          "English level 5 minimum",
-          "English level 5 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 5
-          }
-        ]
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.336,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.40"
+      "confidence": 0.088,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
     },
     {
-      "field": "admissionRequirements",
+      "field": "admission_requirements_raw",
+      "value": [
+        "SELECTION PROGRAMME/S FOR WHICH APPLICATIONS CLOSE 1"
+      ],
+      "confidence": 0.147,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:7.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematics BC432238 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Physics BC432240 32 4 (50%) 5 (60%) 5 (60%) Data Science BC432295 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Business Management BC432255"
+      ],
+      "confidence": 0.102,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.3"
+    },
+    {
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
+        "amount_min": 379220,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
+      "confidence": 0.055,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:4.8"
     },
     {
-      "field": "admissionRequirements",
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
+        "amount_min": 96424,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.489,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.58"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "Accounting level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "A",
-            "subject_name": "Accounting",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.397,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.47"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 2 minimum",
-          "Physical Sciences level 4 minimum",
-          "English level 3 minimum",
-          "English level 3 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 2
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 3
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 3
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 5 minimum",
-          "Physical Sciences level 4 minimum",
-          "English level 3 minimum",
-          "English level 3 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 3
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 3
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 5 minimum",
-          "Life Orientation level 4 minimum",
-          "Languages level 5 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 5
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "L",
-            "subject_name": "Languages",
-            "minimum_level": 5
-          }
-        ]
-      },
-      "confidence": 0.439,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.52"
-    },
-    {
-      "field": "programme_code",
-      "value": "diploma-management",
-      "confidence": 0.344,
-      "source": "json",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "json-sim:0.39"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.498,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.59"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "saqa_code",
-      "value": "8543",
-      "confidence": 0.117,
+      "confidence": 0.06,
       "source": "prospectus",
       "sourceFile": "university-of-the-free-state.pdf",
       "matchingMethod": "pdf-bm25:5.2"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum",
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum",
-          "Languages level 4 minimum",
-          "Accounting level 4 minimum",
-          "Agricultural Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Business Studies level 4 minimum",
-          "Information Technology level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "L",
-            "subject_name": "Languages",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "A",
-            "subject_name": "Accounting",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "AS",
-            "subject_name": "Agricultural Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "BS",
-            "subject_name": "Business Studies",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "IT",
-            "subject_name": "Information Technology",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 weeks",
+        "5 Admission requirements"
+      ],
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum",
-          "Physical Sciences level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "ENGLISH MATHEMATICS ECONOMICS OR BUSINESS STUDIES OR ACCOUNTING OR PHYSICAL SCIENCE SELECTION Construction Economics and Management (full-time) BC432443 30 4 (50%) 5 (60%) 4 (50%) YES VERY IMPORTANT: The",
+        "time) BC432443 30 4 (50%) 5 (60%) 4 (50%) YES",
+        "time option to study a BSc (Construction Economics and Management) programme is usually applicable"
+      ],
+      "confidence": 0.162,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:8.4"
     },
     {
-      "field": "admissionRequirements",
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          "Physical Sciences level 4 minimum",
-          "Life Sciences level 4 minimum",
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "PS",
-            "subject_name": "Physical Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LS",
-            "subject_name": "Life Sciences",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
+      "confidence": 0.056,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
     },
     {
-      "field": "admissionRequirements",
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum",
-          "Life Orientation level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          },
-          {
-            "subject_code": "LO",
-            "subject_name": "Life Orientation",
-            "minimum_level": 4
-          }
-        ]
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.559,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.66"
+      "confidence": 0.061,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          "Mathematics level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "M",
-            "subject_name": "Mathematics",
-            "minimum_level": 4
-          }
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:1.00"
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 MAJOR",
+        "2 Ancient Near Eastern Studies Philosoph"
+      ],
+      "confidence": 0.101,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.2"
     },
     {
-      "field": "admissionRequirements",
+      "field": "admission_requirements_raw",
+      "value": [
+        "N/A Accounting 4",
+        "Business Studies 4",
+        "Economics 4"
+      ],
+      "confidence": 0.172,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:8.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "YEAR STUDENT YOU ARE EXPECTED TO"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "pricing",
       "value": {
-        "subjects_compulsory": [
-          "English level 4 minimum"
-        ],
-        "subject_or_groups": [
-          {
-            "subject_code": "E",
-            "subject_name": "English",
-            "minimum_level": 4
-          }
-        ]
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      "confidence": 0.349,
-      "source": "json-admission",
-      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
-      "matchingMethod": "adm-sim:0.41"
+      "confidence": 0.059,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "N/A 5",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES Physics and Engineering Subjects BC434026 30 4 (50%) 6 (70%) N/A 5 (60%) Agricultural and Biosystems Engineering BC540026 30 4 (50%) 6 (70%) N/A 5 (60%) 9"
+      ],
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES Geography and Environmental Science BC433362 32 4 (50%) 5 (60%) 5 (60%) N/A Geography Specialisation BC433333 32 4 (50%) 5 (60%) 5 (60%) 5 (60%) Environme",
+        "year programme."
+      ],
+      "confidence": 0.104,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematics, Natural Sciences and Technology Education) Dr Msebenzi Rabaza +27 51 401 2307 pdirector@ufs"
+      ],
+      "confidence": 0.211,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:10.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ENGLISH MATHEMATICS ECONOMICS OR BUSINESS STUDIES OR ACCOUNTING OR PHYSICAL SCIENCE SELECTION Construction Economics and Management (full-time) BC432443 30 4 (50%) 5 (60%) 4 (50%) YES VERY IMPORTANT: The",
+        "time) BC432443 30 4 (50%) 5 (60%) 4 (50%) YES",
+        "time option to study a BSc (Construction Economics and Management) programme is usually applicable"
+      ],
+      "confidence": 0.165,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:8.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "NOTE 2",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5 (60%) 5 (60%) 5 (60%) 5 (60"
+      ],
+      "confidence": 0.214,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:11.1"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.091,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:7.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "A N/A Sesotho Home Language 4",
+        "N/A N/A isiZulu Home Language 4",
+        "N/A N/A Afrikaans Home Language 4"
+      ],
+      "confidence": 0.245,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:12.7"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 96424,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:10.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 weeks",
+        "5 Admission requirements"
+      ],
+      "confidence": 0.201,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:10.4"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ENGLISH MATHEMATICS CAMPUS BAdmin BC634040 28 4 (50%) 3 (30%) BC EDUCATION OF PROFESSIONAL ACCOUNTANTS: BACHELOR OF ACCOUNTING (BAcc) AND BCom (ACCOUNTING) PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENT"
+      ],
+      "confidence": 0.127,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.6"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 73080,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.067,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.8"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.099,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "An achievement level of no less than Level 5",
+        "An achievement level of no less than 65%",
+        "ENGLISH CAMPUS BA (Language Practice) – Subject to selection* BC130039 30 5 (60%) BC Language admission requirements: An achievement level of no less than Level 5 (60%) for any home language (HL) taken in Gr"
+      ],
+      "confidence": 0.165,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:8.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.134,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "An achievement level of no less than Level 5",
+        "An achievement level of no less than 65%",
+        "ENGLISH CAMPUS BA (Language Practice) – Subject to selection* BC130039 30 5 (60%) BC Language admission requirements: An achievement level of no less than Level 5 (60%) for any home language (HL) taken in Gr"
+      ],
+      "confidence": 0.224,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:11.6"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 41176,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.089,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 weeks",
+        "5 Admission requirements"
+      ],
+      "confidence": 0.149,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:7.7"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "YEAR STUDENT YOU ARE EXPECTED TO"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.059,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 41176,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.071,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "6 weeks",
+        "5 Admission requirements"
+      ],
+      "confidence": 0.119,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.2"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "YEAR STUDENT YOU ARE EXPECTED TO"
+      ],
+      "confidence": 0.109,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.6"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.059,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "N/A Accounting 4",
+        "Business Studies 4",
+        "Economics 4"
+      ],
+      "confidence": 0.212,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:11.0"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "N/A 5",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES Physics and Engineering Subjects BC434026 30 4 (50%) 6 (70%) N/A 5 (60%) Agricultural and Biosystems Engineering BC540026 30 4 (50%) 6 (70%) N/A 5 (60%) 9"
+      ],
+      "confidence": 0.122,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.3"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ENGLISH MATHEMATICS PHYSICAL SCIENCES Computer Science and Chemistry BC432221 32 4 (50%) 5 (60%) 5 (60%) Computer Science and Mathematical Statistics BC432237 32 4 (50%) 6 (70%) 5 (60%) Computer Science and",
+        "Mathematics BC432238 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Physics BC432240 32 4 (50%) 5 (60%) 5 (60%) Data Scienc"
+      ],
+      "confidence": 0.094,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:4.9"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Mathematics, Natural Sciences and Technology Education) Dr Msebenzi Rabaza +27 51 401 2307 pdirector@ufs"
+      ],
+      "confidence": 0.242,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:12.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 96424,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.075,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "4 weeks",
+        "5 Admission requirements"
+      ],
+      "confidence": 0.125,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.076,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "driven faculty, the Faculty of"
+      ],
+      "confidence": 0.126,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:6.5"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.102,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "ENGLISH MATHEMATICS ECONOMICS OR BUSINESS STUDIES OR ACCOUNTING OR PHYSICAL SCIENCE SELECTION Construction Management (Compact Learning) BC432401 30 4 (50%) 5 (60%) 4 (50%) YES Quantity Surveying (Compact",
+        "time employment in the construction industry"
+      ],
+      "confidence": 0.17,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:8.8"
+    },
+    {
+      "field": "pricing",
+      "value": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.059,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "1 MAJOR",
+        "2 Ancient Near Eastern Studies Philosoph"
+      ],
+      "confidence": 0.098,
+      "source": "prospectus",
+      "sourceFile": "university-of-the-free-state.pdf",
+      "matchingMethod": "pdf-bm25:5.1"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 37,
-    "mid 0.5-0.8": 3,
-    "low<0.5": 20
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 61
   },
-  "confidence_mean": 0.664
+  "confidence_mean": 0.127,
+  "qual_type_inferred_programmes": []
 }

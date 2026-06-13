@@ -1,805 +1,210 @@
 {
   "institution_id": "352",
   "institution_name": "Rhodes University",
+  "points_system": "aps_points",
   "sources_used": [
-    "prospectuses/rhodes-university.pdf",
-    "lib/seed/prospectuses/rhodes-university.pdf",
     "rhodes-university.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/rhodes-university.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/rhodes-university.pdf"
   ],
   "evidence": [
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) 34"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.578,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:0.68"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.21,
+      "field": "admission_requirements_raw",
+      "value": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua"
+      ],
+      "confidence": 0.293,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:10.0"
+      "matchingMethod": "pdf-bm25:15.2"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 6,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 6"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 4,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 4"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 4,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 4"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 50,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics (50%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.378,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Provisional offer) English Level 4",
+        "Mathematics Level 6",
+        "Computer Science Economics Information Systems Management Quantitative Management Bachelor of Commerce (BCom) 3"
+      ],
+      "confidence": 0.346,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
       "matchingMethod": "pdf-bm25:17.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 4"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 4,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 4"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 50,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics (50%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.188,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Provisional offer) English Level 4",
+        "Mathematics Level 6",
+        "Computer Science Economics Information Systems Management Quantitative Management Bachelor of Commerce (BCom) 3"
+      ],
+      "confidence": 0.172,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
       "matchingMethod": "pdf-bm25:8.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) 34"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.259,
+      "field": "admission_requirements_raw",
+      "value": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua"
+      ],
+      "confidence": 0.479,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:12.3"
+      "matchingMethod": "pdf-bm25:24.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 4"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science Level 5"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.139,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Provisional offer) English Level 4",
+        "Mathematics Level 6",
+        "Computer Science Economics Information Systems Management Quantitative Management Bachelor of Commerce (BCom) 3"
+      ],
+      "confidence": 0.127,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
       "matchingMethod": "pdf-bm25:6.6"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) 34"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.565,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:0.66"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.259,
+      "field": "admission_requirements_raw",
+      "value": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua"
+      ],
+      "confidence": 0.39,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:12.3"
+      "matchingMethod": "pdf-bm25:20.2"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 4"
-          },
-          {
-            "subject": "Mathematics (Literacy)",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Literacy Level 5"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "1 year",
-      "confidence": 0.154,
+      "field": "admission_requirements_raw",
+      "value": [
+        "duate Certificate in Education (PGCE) 1",
+        "Senior Phase Teaching (Grade 7"
+      ],
+      "confidence": 0.141,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
       "matchingMethod": "pdf-bm25:7.3"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "direction of study without forfeit"
+        "duate Certificate in Education (PGCE) 1",
+        "Senior Phase Teaching (Grade 7"
       ],
-      "confidence": 0.135,
-      "source": "prospectus",
-      "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:7.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 4"
-          },
-          {
-            "subject": "Mathematics (Literacy)",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Literacy Level 5"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.345,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:0.41"
-    },
-    {
-      "field": "duration",
-      "value": "1 year",
-      "confidence": 0.341,
+      "confidence": 0.312,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
       "matchingMethod": "pdf-bm25:16.2"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "direction of study without forfeit"
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua"
       ],
-      "confidence": 0.3,
+      "confidence": 0.416,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:16.2"
+      "matchingMethod": "pdf-bm25:21.6"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) 34"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.259,
-      "source": "prospectus",
-      "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:12.3"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 6,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 6"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 4,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 4"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 4,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 4"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 50,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics (50%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "faculty_name",
-      "value": "Commerce, Faculty of Pharmacy, Faculty of Education and Faculty of Law",
-      "confidence": 0.44,
-      "source": "json",
-      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
-      "matchingMethod": "json-sim:0.50"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 3"
-          },
-          {
-            "subject": "Mathematics (Literacy)",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Literacy Level 4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 3"
-          },
-          {
-            "subject": "Mathematics (Literacy)",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Literacy Level 4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.151,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Degrees Subjects Fields Bachelor of Education (BEDFP) 4",
+        "Provisional offer) English Level 4",
+        "Mathematics Level 3"
+      ],
+      "confidence": 0.138,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
       "matchingMethod": "pdf-bm25:7.1"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences Level 5"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 5"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science Level 5"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 6"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 1,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 1"
-            }
-          ],
-          [
-            {
-              "subject": "Life Sciences",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Life Sciences Level 6"
-            }
-          ],
-          [
-            {
-              "subject": "Physical Sciences",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Physical Science Level 6"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.183,
-      "source": "prospectus",
-      "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:8.7"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "44 (Dean's discretion)",
-        "year degree. The curriculum is set by the South African"
+        "s discretion) Mathematics Level 5",
+        "Life Sciences Level 5",
+        "Physical Science Level 5"
       ],
-      "confidence": 0.159,
+      "confidence": 0.171,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:8.6"
+      "matchingMethod": "pdf-bm25:8.8"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences Level 5"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 4"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science Level 5"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.123,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Life Sciences Level 5",
+        "Physical Science Level 5",
+        "Provisional offer) Mathematics Level 6"
+      ],
+      "confidence": 0.333,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:5.8"
+      "matchingMethod": "pdf-bm25:17.3"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) 34"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.21,
+      "field": "admission_requirements_raw",
+      "value": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua"
+      ],
+      "confidence": 0.3,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:10.0"
+      "matchingMethod": "pdf-bm25:15.6"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 4"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 4,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 4"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 50,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics (50%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.346,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:0.41"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.176,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Degrees Subjects Fields Bachelor of Education (BEDFP) 4",
+        "Provisional offer) English Level 4",
+        "Mathematics Level 3"
+      ],
+      "confidence": 0.161,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
       "matchingMethod": "pdf-bm25:8.3"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Life Sciences",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Life Sciences Level 5"
-          },
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 5"
-          },
-          {
-            "subject": "Physical Sciences",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Physical Science Level 5"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 6"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 1,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics 1"
-            }
-          ],
-          [
-            {
-              "subject": "Life Sciences",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Life Sciences Level 6"
-            }
-          ],
-          [
-            {
-              "subject": "Physical Sciences",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Physical Science Level 6"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.65,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:0.76"
-    },
-    {
-      "field": "duration",
-      "value": "4 years",
-      "confidence": 0.263,
-      "source": "prospectus",
-      "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:12.5"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "44 (Dean's discretion)",
-        "year degree. The curriculum is set by the South African"
+        "s discretion) Mathematics Level 5",
+        "Life Sciences Level 5",
+        "Physical Science Level 5"
       ],
-      "confidence": 0.231,
+      "confidence": 0.252,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:12.5"
+      "matchingMethod": "pdf-bm25:13.1"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Music",
-            "minimum_percentage": 34,
-            "minimum_nsc_level": null,
-            "notes": "Music (BMus) 34"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.551,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:0.65"
-    },
-    {
-      "field": "duration",
-      "value": "3 years",
-      "confidence": 0.333,
+      "field": "admission_requirements_raw",
+      "value": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua"
+      ],
+      "confidence": 0.412,
       "source": "prospectus",
       "sourceFile": "rhodes-university.pdf",
-      "matchingMethod": "pdf-bm25:15.8"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 6,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 6"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 4,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 4"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 4,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics Level 4"
-            }
-          ],
-          [
-            {
-              "subject": "Mathematics",
-              "minimum_percentage": 50,
-              "minimum_nsc_level": null,
-              "notes": "Mathematics (50%"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.719,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:0.85"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 3,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Level 3"
-          },
-          {
-            "subject": "Mathematics (Literacy)",
-            "minimum_percentage": 4,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics Literacy Level 4"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.425,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/rhodes-university.pdf",
-      "matchingMethod": "adm-sim:0.50"
+      "matchingMethod": "pdf-bm25:21.4"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 12,
-    "mid 0.5-0.8": 5,
-    "low<0.5": 24
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 0,
+    "low<0.5": 16
   },
-  "confidence_mean": 0.47
+  "confidence_mean": 0.278,
+  "qual_type_inferred_programmes": []
 }

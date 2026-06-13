@@ -1,432 +1,138 @@
 {
   "institution_id": "343",
   "institution_name": "Mopani South TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
-    "mopani-south-tvet-college.pdf",
-    "prospectuses/mopani-south-tvet-college.pdf"
+    "mopani-south-tvet-college.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/mopani-south-tvet-college.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/mopani-south-tvet-college.pdf"
   ],
   "evidence": [
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Accounting, Level 5"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Accounting",
-              "minimum_percentage": 5,
-              "minimum_nsc_level": null,
-              "notes": "Accounting, Level 5"
-            }
-          ],
-          [
-            {
-              "subject": "Accounting",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Accounting Sciences, Level 6"
-            }
-          ],
-          [
-            {
-              "subject": "Accounting",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Accounting, Level 6"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.322,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:14.4"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Provide environmental scanning assistance for effective supply chain operations.",
-        "Implement supply chain operational activities within an organisation.",
-        "Implement and assess supply chain workflow processes"
+        "Admission Requirements 3"
       ],
-      "confidence": 0.248,
+      "confidence": 0.527,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
+      "matchingMethod": "pdf-bm25:27.3"
     },
     {
-      "field": "saqa_code",
-      "value": "20908",
-      "confidence": 0.259,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:11.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Accounting, Level 5"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Accounting",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Accounting Sciences, Level 6"
-            }
-          ],
-          [
-            {
-              "subject": "Accounting",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Accounting, Level 6"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.419,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:18.7"
-    },
-    {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Provide environmental scanning assistance for effective supply chain operations.",
-        "Implement supply chain operational activities within an organisation.",
-        "Implement and assess supply chain workflow processes"
+        "Admission Requirements 3"
       ],
-      "confidence": 0.248,
+      "confidence": 0.451,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:13.4"
+      "matchingMethod": "pdf-bm25:23.4"
     },
     {
-      "field": "saqa_code",
-      "value": "20908",
-      "confidence": 0.259,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:11.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Accounting",
-            "minimum_percentage": 5,
-            "minimum_nsc_level": null,
-            "notes": "Accounting, Level 5"
-          }
-        ],
-        "subject_or_groups": [
-          [
-            {
-              "subject": "Accounting",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Accounting Sciences, Level 6"
-            }
-          ],
-          [
-            {
-              "subject": "Accounting",
-              "minimum_percentage": 6,
-              "minimum_nsc_level": null,
-              "notes": "Accounting, Level 6"
-            }
-          ]
-        ]
-      },
-      "confidence": 0.348,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.41"
-    },
-    {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.374,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Admission Requirements 4",
+        "Tourist Information Officer NQF Level 5",
+        "NQF Level 4"
+      ],
+      "confidence": 0.323,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:16.7"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 35,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics-35%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "24 months",
-      "confidence": 0.121,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Diploma."
+      ],
+      "confidence": 0.116,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:6.0"
     },
     {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "engineer.",
-        "C. NATED PROGRAMMES: ENGINEERING STUDIES",
-        "Admission Requirements"
+        "Diploma."
       ],
-      "confidence": 0.101,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.5"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 35,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics-35%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "duration",
-      "value": "24 months",
-      "confidence": 0.116,
+      "confidence": 0.111,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:5.8"
     },
     {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.101,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "of sectors as an electrical tr"
+        "Diploma."
       ],
-      "confidence": 0.088,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:4.8"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 35,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics-35%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.486,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.57"
-    },
-    {
-      "field": "duration",
-      "value": "24 months",
-      "confidence": 0.118,
+      "confidence": 0.113,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:5.9"
     },
     {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 35,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics-35%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.486,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
-      "matchingMethod": "adm-sim:0.57"
-    },
-    {
-      "field": "duration",
-      "value": "24 months",
-      "confidence": 0.118,
+      "field": "admission_requirements_raw",
+      "value": [
+        "Diploma."
+      ],
+      "confidence": 0.113,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:5.9"
     },
     {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.114,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.4"
-    },
-    {
-      "field": "career_outcomes",
+      "field": "admission_requirements_raw",
       "value": [
-        "of sectors as an electrical tr"
+        "Admission Requirements 4",
+        "Tourist Information Officer NQF Level 5",
+        "NQF Level 4"
       ],
-      "confidence": 0.1,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.4"
-    },
-    {
-      "field": "nqf_level",
-      "value": 5,
-      "confidence": 0.138,
+      "confidence": 0.119,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:6.2"
     },
     {
-      "field": "modules",
+      "field": "admission_requirements_raw",
       "value": [
-        "Provide environmental scanning assistance for effective supply chain operations.",
-        "Implement supply chain operational activities within an organisation.",
-        "Implement and assess supply chain workflow processes"
+        "Passed all 7",
+        "subjects with a minimum of 50%"
       ],
-      "confidence": 0.095,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:5.2"
-    },
-    {
-      "field": "duration",
-      "value": "24 months",
-      "confidence": 0.095,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:4.7"
-    },
-    {
-      "field": "study_mode",
-      "value": "Online",
-      "confidence": 0.1,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:4.7"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "of sectors as an electrical tr"
-      ],
-      "confidence": 0.088,
-      "source": "prospectus",
-      "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:4.7"
-    },
-    {
-      "field": "admissionRequirements",
-      "value": {
-        "subjects_compulsory": [
-          {
-            "subject": "Mathematics",
-            "minimum_percentage": 35,
-            "minimum_nsc_level": null,
-            "notes": "Mathematics-35%"
-          }
-        ],
-        "subject_or_groups": []
-      },
-      "confidence": 0.85,
-      "source": "json-admission",
-      "sourceFile": "prospectuses/mopani-south-tvet-college.pdf",
-      "matchingMethod": "adm-sim:1.00"
-    },
-    {
-      "field": "career_outcomes",
-      "value": [
-        "engineer.",
-        "C. NATED PROGRAMMES: ENGINEERING STUDIES",
-        "Admission Requirements"
-      ],
-      "confidence": 0.127,
+      "confidence": 0.132,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
       "matchingMethod": "pdf-bm25:6.9"
     },
     {
-      "field": "duration",
-      "value": "24 months",
-      "confidence": 0.135,
+      "field": "pricing",
+      "value": {
+        "amount_min": 12026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "confidence": 0.111,
       "source": "prospectus",
       "sourceFile": "mopani-south-tvet-college.pdf",
-      "matchingMethod": "pdf-bm25:6.7"
+      "matchingMethod": "pdf-bm25:9.6"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Semester 1",
+        "Semester 2"
+      ],
+      "confidence": 0.186,
+      "source": "prospectus",
+      "sourceFile": "mopani-south-tvet-college.pdf",
+      "matchingMethod": "pdf-bm25:9.6"
     }
   ],
   "confidence_distribution": {
-    "high≥0.8": 5,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 26
+    "high≥0.8": 0,
+    "mid 0.5-0.8": 1,
+    "low<0.5": 10
   },
-  "confidence_mean": 0.305
+  "confidence_mean": 0.209,
+  "qual_type_inferred_programmes": []
 }

@@ -1,25 +1,94 @@
 {
   "institution_id": "338",
   "institution_name": "Ingwe TVET College",
+  "points_system": "tvet_none",
   "sources_used": [
     "Our Programmes _ Ingwe TVET College.pdf"
   ],
   "prospectus_files": [
-    "/Users/nonwork/dev/fundibot/seed/prospectuses/Our Programmes _ Ingwe TVET College.pdf"
+    "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/Our Programmes _ Ingwe TVET College.pdf"
   ],
   "evidence": [
     {
-      "field": "nqf_level",
-      "value": 2,
-      "confidence": 0.112,
-      "source": "prospectus",
-      "sourceFile": "Our Programmes _ Ingwe TVET College.pdf",
-      "matchingMethod": "pdf-bm25:5.0"
+      "field": "min_grade",
+      "value": "Grade 9",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
     },
     {
-      "field": "duration",
-      "value": "36 months",
-      "confidence": 0.101,
+      "field": "min_grade",
+      "value": "Completion of NCV Level 2",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Completion of NCV Level 3",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "min_grade",
+      "value": "Grade 12 / Matric",
+      "confidence": 0.55,
+      "source": "tvet-default",
+      "sourceFile": "",
+      "matchingMethod": "programme-level-default"
+    },
+    {
+      "field": "admission_requirements_raw",
+      "value": [
+        "Grade 9",
+        "NQF Level 4",
+        "or NQF Level 3"
+      ],
+      "confidence": 0.097,
       "source": "prospectus",
       "sourceFile": "Our Programmes _ Ingwe TVET College.pdf",
       "matchingMethod": "pdf-bm25:5.0"
@@ -27,8 +96,11 @@
   ],
   "confidence_distribution": {
     "high≥0.8": 0,
-    "mid 0.5-0.8": 0,
-    "low<0.5": 2
+    "mid 0.5-0.8": 9,
+    "low<0.5": 1
   },
-  "confidence_mean": 0.107
+  "confidence_mean": 0.505,
+  "qual_type_inferred_programmes": [
+    "Level: NQF Level 2-4"
+  ]
 }
