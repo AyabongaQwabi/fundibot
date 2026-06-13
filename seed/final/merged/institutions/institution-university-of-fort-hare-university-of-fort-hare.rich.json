@@ -1943,8 +1943,8 @@
       "id": "programme:university-of-fort-hare--msc-geography-except-that-a-green-cord-is-sewn-onto-the",
       "institution_slug": "university-of-fort-hare",
       "institution_name": "University of Fort Hare",
-      "name": "MSc Geography except that a green cord is sewn onto the",
-      "normalized_name": "MSc Geography except that a green cord is sewn onto the",
+      "name": "MSc Geography ",
+      "normalized_name": "MSc Geography ",
       "qualification_type": "Masters",
       "qualification_level": null,
       "faculty_name": null,
@@ -1955,7 +1955,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "MSc Geography except that a green cord is sewn onto the",
+      "source_excerpt": "MSc Geography ",
       "extraction_confidence": 0.78,
       "source_paths": [
         "generated/v3/programmes.json"
@@ -3571,8 +3571,8 @@
       "id": "programme:university-of-fort-hare--msc-geography-except-that-a-green-cord-is-sewn-onto-the",
       "institution_slug": "university-of-fort-hare",
       "institution_name": "University of Fort Hare",
-      "name": "MSc Geography except that a green cord is sewn onto the",
-      "normalized_name": "MSc Geography except that a green cord is sewn onto the",
+      "name": "MSc Geography ",
+      "normalized_name": "MSc Geography ",
       "qualification_type": "Postgraduate",
       "qualification_level": null,
       "faculty_name": null,
@@ -3583,7 +3583,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "MSc Geography except that a green cord is sewn onto the",
+      "source_excerpt": "MSc Geography ",
       "extraction_confidence": 0.72,
       "source_paths": [
         "workik/batch1/cursor/institution-363-university-of-fort-hare.json"
@@ -6484,8 +6484,8 @@
       "id": "programme:university-of-fort-hare--msc-geography-except-that-a-green-cord-is-sewn-onto-the",
       "institution_slug": "university-of-fort-hare",
       "institution_name": "University of Fort Hare",
-      "name": "MSc Geography except that a green cord is sewn onto the",
-      "normalized_name": "MSc Geography except that a green cord is sewn onto the",
+      "name": "MSc Geography ",
+      "normalized_name": "MSc Geography ",
       "qualification_type": "Masters",
       "qualification_level": null,
       "faculty_name": null,
@@ -6496,7 +6496,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "MSc Geography except that a green cord is sewn onto the",
+      "source_excerpt": "MSc Geography ",
       "extraction_confidence": 0.78,
       "source_paths": [
         "generated/v3/programmes.json"
@@ -8816,8 +8816,8 @@
       "id": "programme:university-of-fort-hare--msc-geography-except-that-a-green-cord-is-sewn-onto-the",
       "institution_slug": "university-of-fort-hare",
       "institution_name": "University of Fort Hare",
-      "name": "MSc Geography except that a green cord is sewn onto the",
-      "normalized_name": "MSc Geography except that a green cord is sewn onto the",
+      "name": "MSc Geography ",
+      "normalized_name": "MSc Geography ",
       "qualification_type": "Postgraduate",
       "qualification_level": null,
       "faculty_name": null,
@@ -8828,7 +8828,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "MSc Geography except that a green cord is sewn onto the",
+      "source_excerpt": "MSc Geography ",
       "extraction_confidence": 0.72,
       "source_paths": [
         "workik/batch1/cursor/institution-363-university-of-fort-hare.json"

@@ -19838,8 +19838,8 @@
     {
       "source": "generated/v3/programmes.json",
       "payload": {
-        "name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
-        "normalized_name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+        "name": "BNurs Nursing • ",
+        "normalized_name": "BNurs Nursing • ",
         "qualification_type": "Degree",
         "faculty_name": "NURSING",
         "department": null,
@@ -19854,20 +19854,20 @@
         "institution_id": "349",
         "institution_name": "North-West University",
         "source_file": "prospectuses/north-west-university.pdf",
-        "source_excerpt": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+        "source_excerpt": "Bachelor of Nursing Nursing • ",
         "extraction_confidence": 0.78,
         "trace": {
           "source_file": "prospectuses/north-west-university.pdf",
           "char_start": 53628,
           "char_end": 53710,
-          "excerpt": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on"
+          "excerpt": "Bachelor of Nursing Nursing • "
         },
         "institutionId": "349",
         "faculty": "NURSING",
         "campuses": [],
         "id": "prog:b8af001d534b",
         "programme_id": "prog:b8af001d534b",
-        "normalization_key": "degree|bnurs nursing • physical sciences or mathematics or life sciences on",
+        "normalization_key": "degree|bnurs nursing • ",
         "sourceFile": "prospectuses/north-west-university.pdf",
         "faculty_id": "fac:6e78adfa6439"
       }
@@ -29791,8 +29791,8 @@
     {
       "source": "generated/v3/programmes.json",
       "payload": {
-        "name": "MSc Geography except that a green cord is sewn onto the",
-        "normalized_name": "MSc Geography except that a green cord is sewn onto the",
+        "name": "MSc Geography ",
+        "normalized_name": "MSc Geography ",
         "qualification_type": "Masters",
         "faculty_name": null,
         "department": null,
@@ -29807,19 +29807,19 @@
         "institution_id": "363",
         "institution_name": "University of Fort Hare",
         "source_file": "prospectuses/university-of-fort-hare.pdf",
-        "source_excerpt": "MSc Geography except that a green cord is sewn onto the",
+        "source_excerpt": "MSc Geography ",
         "extraction_confidence": 0.78,
         "trace": {
           "source_file": "prospectuses/university-of-fort-hare.pdf",
           "char_start": 240011,
           "char_end": 240066,
-          "excerpt": "MSc Geography except that a green cord is sewn onto the"
+          "excerpt": "MSc Geography "
         },
         "institutionId": "363",
         "campuses": [],
         "id": "prog:061d1a66560c",
         "programme_id": "prog:061d1a66560c",
-        "normalization_key": "masters|msc geography except that a green cord is sewn onto the",
+        "normalization_key": "masters|msc geography ",
         "sourceFile": "prospectuses/university-of-fort-hare.pdf"
       }
     },
@@ -36939,8 +36939,8 @@
     {
       "source": "generated/v3/programmes.json",
       "payload": {
-        "name": "BNurs) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
-        "normalized_name": "BNurs) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
+        "name": "BNurs) or post basic BNurs degree with an Honours degree in nursing .",
+        "normalized_name": "BNurs) or post basic BNurs degree with an Honours degree in nursing .",
         "qualification_type": "Honours",
         "faculty_name": "HEALTH CARE SCIENCES",
         "department": null,
@@ -36955,20 +36955,20 @@
         "institution_id": "366",
         "institution_name": "University of Limpopo",
         "source_file": "prospectuses/university-of-limpopo.pdf",
-        "source_excerpt": "Bachelor of Nursing) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
+        "source_excerpt": "Bachelor of Nursing) or post basic BNurs degree with an Honours degree in nursing .",
         "extraction_confidence": 0.78,
         "trace": {
           "source_file": "prospectuses/university-of-limpopo.pdf",
           "char_start": 18826,
           "char_end": 18924,
-          "excerpt": "Bachelor of Nursing) or post basic BNurs degree with an Honours degree in nursing (or equivalent)."
+          "excerpt": "Bachelor of Nursing) or post basic BNurs degree with an Honours degree in nursing ."
         },
         "institutionId": "366",
         "faculty": "HEALTH CARE SCIENCES",
         "campuses": [],
         "id": "prog:c0f077fb823d",
         "programme_id": "prog:c0f077fb823d",
-        "normalization_key": "honours|bnurs) or post basic bnurs degree with an honours degree in nursing (or equivalent).",
+        "normalization_key": "honours|bnurs) or post basic bnurs degree with an honours degree in nursing .",
         "sourceFile": "prospectuses/university-of-limpopo.pdf",
         "faculty_id": "fac:b560216d6ada"
       }
@@ -52963,7 +52963,7 @@
         "institution_id": "370",
         "institution_name": "University of the Free State",
         "source_file": "prospectuses/university-of-the-free-state.pdf",
-        "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
+        "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
         "extraction_confidence": 0.9,
         "sourceFile": "prospectuses/university-of-the-free-state.pdf",
         "institutionId": "370",
@@ -54240,7 +54240,7 @@
         "institution_id": "370",
         "institution_name": "University of the Free State",
         "source_file": "prospectuses/university-of-the-free-state.pdf",
-        "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
+        "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics)  Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
         "extraction_confidence": 0.9,
         "sourceFile": "prospectuses/university-of-the-free-state.pdf",
         "institutionId": "370",
@@ -54724,8 +54724,8 @@
     {
       "source": "generated/v3/programmes.json",
       "payload": {
-        "name": "in Radiation Science (BMedSc)",
-        "normalized_name": "in Radiation Science (BMedSc)",
+        "name": "Bachelor of Medical Science with specialisation in Radiation Science (BMedSc)",
+      "normalized_name": "BMedSc with specialisation in Radiation Science ",
         "qualification_type": "Degree",
         "faculty_name": "Faculty of Health Sciences",
         "department": null,
@@ -77454,7 +77454,7 @@
       "payload": {
         "id": "prog:349:Degree|693203046fb0|bachelor of nursing nursing • physical sciences or mathematics or life sciences ",
         "institutionId": "349",
-        "name": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+        "name": "Bachelor of Nursing Nursing • ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -77468,7 +77468,7 @@
           "source_file": "lib/seed/prospectuses/north-west-university.pdf",
           "char_start": 53628,
           "char_end": 53710,
-          "excerpt": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on"
+          "excerpt": "Bachelor of Nursing Nursing • "
         },
         "normalization_key": "Degree|693203046fb0|bachelor of nursing nursing • physical sciences or mathematics or life sciences ",
         "campuses": [],
@@ -77480,7 +77480,7 @@
         ],
         "institution_id": "349",
         "source_file": "lib/seed/prospectuses/north-west-university.pdf",
-        "source_chunk": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+        "source_chunk": "Bachelor of Nursing Nursing • ",
         "extraction_method": "regex",
         "confidence_score": 1.0
       }
@@ -81950,9 +81950,9 @@
     {
       "source": "generated/v1/programmes.final.json",
       "payload": {
-        "id": "prog:370:Degree|0ec011312f92|bachelor of architecture. the programme that will be available for",
+        "id": "prog:370:Degree|0ec011312f92|bachelor of architecture. ",
         "institutionId": "370",
-        "name": "Bachelor of Architecture. The programme that will be available for",
+        "name": "Bachelor of Architecture. ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -81966,19 +81966,19 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 66178,
           "char_end": 66244,
-          "excerpt": "Bachelor of Architecture. The programme that will be available for"
+          "excerpt": "Bachelor of Architecture. "
         },
-        "normalization_key": "Degree|0ec011312f92|bachelor of architecture. the programme that will be available for",
+        "normalization_key": "Degree|0ec011312f92|bachelor of architecture. ",
         "campuses": [],
         "merged_from": [
-          "prog:370:Degree|0ec011312f92|bachelor of architecture. the programme that will be available for"
+          "prog:370:Degree|0ec011312f92|bachelor of architecture. "
         ],
         "source_refs": [
           "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
         ],
         "institution_id": "370",
         "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
-        "source_chunk": "Bachelor of Architecture. The programme that will be available for",
+        "source_chunk": "Bachelor of Architecture. ",
         "extraction_method": "regex",
         "confidence_score": 1.0
       }
@@ -82166,9 +82166,9 @@
     {
       "source": "generated/v1/programmes.final.json",
       "payload": {
-        "id": "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. the programme that will be",
+        "id": "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. ",
         "institutionId": "370",
-        "name": "Bachelor of Computer Information Systems. The programme that will be",
+        "name": "Bachelor of Computer Information Systems. ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -82182,19 +82182,19 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 58652,
           "char_end": 58720,
-          "excerpt": "Bachelor of Computer Information Systems. The programme that will be"
+          "excerpt": "Bachelor of Computer Information Systems. "
         },
-        "normalization_key": "Degree|324a298e3c8e|bachelor of computer information systems. the programme that will be",
+        "normalization_key": "Degree|324a298e3c8e|bachelor of computer information systems. ",
         "campuses": [],
         "merged_from": [
-          "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. the programme that will be"
+          "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. "
         ],
         "source_refs": [
           "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
         ],
         "institution_id": "370",
         "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
-        "source_chunk": "Bachelor of Computer Information Systems. The programme that will be",
+        "source_chunk": "Bachelor of Computer Information Systems. ",
         "extraction_method": "regex",
         "confidence_score": 1.0
       }
@@ -82561,9 +82561,9 @@
     {
       "source": "generated/v1/programmes.final.json",
       "payload": {
-        "id": "prog:370:Degree|4b60f6649967|bachelor of nursing bc849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) yes",
+        "id": "prog:370:Degree|4b60f6649967|bachelor of nursing ",
         "institutionId": "370",
-        "name": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes",
+        "name": "Bachelor of Nursing ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -82577,19 +82577,19 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 37789,
           "char_end": 37864,
-          "excerpt": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes"
+          "excerpt": "Bachelor of Nursing "
         },
-        "normalization_key": "Degree|4b60f6649967|bachelor of nursing bc849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) yes",
+        "normalization_key": "Degree|4b60f6649967|bachelor of nursing ",
         "campuses": [],
         "merged_from": [
-          "prog:370:Degree|4b60f6649967|bachelor of nursing bc849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) yes"
+          "prog:370:Degree|4b60f6649967|bachelor of nursing "
         ],
         "source_refs": [
           "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
         ],
         "institution_id": "370",
         "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
-        "source_chunk": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes",
+        "source_chunk": "Bachelor of Nursing ",
         "extraction_method": "regex",
         "confidence_score": 1.0
       }
@@ -83668,7 +83668,7 @@
       "payload": {
         "id": "prog:370:Degree|ed673f56d299|bachelor of science in dietetics* bsc (dietetics) bc846002 33 5 (60%) 4 (50%) 5 ",
         "institutionId": "370",
-        "name": "BSc in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes",
+        "name": "BSc in Dietetics* BSc (Dietetics) ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -83682,7 +83682,7 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 36478,
           "char_end": 36575,
-          "excerpt": "Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes"
+          "excerpt": "Bachelor of Science in Dietetics* BSc (Dietetics) "
         },
         "normalization_key": "Degree|ed673f56d299|bachelor of science in dietetics* bsc (dietetics) bc846002 33 5 (60%) 4 (50%) 5 ",
         "campuses": [],
@@ -83694,7 +83694,7 @@
         ],
         "institution_id": "370",
         "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
-        "source_chunk": "Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes",
+        "source_chunk": "Bachelor of Science in Dietetics* BSc (Dietetics) ",
         "extraction_method": "regex",
         "confidence_score": 1.0
       }
@@ -84293,9 +84293,9 @@
     {
       "source": "generated/v1/programmes.final.json",
       "payload": {
-        "id": "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. the programme that will be",
+        "id": "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. ",
         "institutionId": "370",
-        "name": "BSc specialising in Geology. The programme that will be",
+        "name": "BSc specialising in Geology. ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -84309,19 +84309,19 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 55262,
           "char_end": 55333,
-          "excerpt": "Bachelor of Science specialising in Geology. The programme that will be"
+          "excerpt": "Bachelor of Science specialising in Geology. "
         },
-        "normalization_key": "Degree|1fa621ecf12c|bachelor of science specialising in geology. the programme that will be",
+        "normalization_key": "Degree|1fa621ecf12c|bachelor of science specialising in geology. ",
         "campuses": [],
         "merged_from": [
-          "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. the programme that will be"
+          "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. "
         ],
         "source_refs": [
           "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
         ],
         "institution_id": "370",
         "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
-        "source_chunk": "Bachelor of Science specialising in Geology. The programme that will be",
+        "source_chunk": "Bachelor of Science specialising in Geology. ",
         "extraction_method": "regex",
         "confidence_score": 1.0
       }
@@ -86484,9 +86484,9 @@
     {
       "source": "generated/v1/programmes.final.json",
       "payload": {
-        "id": "prog:366:Postgraduate|450d435aa16c|honours degree in nursing (or equivalent).",
+        "id": "prog:366:Postgraduate|450d435aa16c|honours degree in nursing .",
         "institutionId": "366",
-        "name": "Honours degree in nursing (or equivalent).",
+        "name": "Honours degree in nursing .",
         "qualification_type": "Postgraduate",
         "faculty": null,
         "aps_minimum": null,
@@ -86500,19 +86500,19 @@
           "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
           "char_start": 18882,
           "char_end": 18924,
-          "excerpt": "Honours degree in nursing (or equivalent)."
+          "excerpt": "Honours degree in nursing ."
         },
-        "normalization_key": "Postgraduate|450d435aa16c|honours degree in nursing (or equivalent).",
+        "normalization_key": "Postgraduate|450d435aa16c|honours degree in nursing .",
         "campuses": [],
         "merged_from": [
-          "prog:366:Postgraduate|450d435aa16c|honours degree in nursing (or equivalent)."
+          "prog:366:Postgraduate|450d435aa16c|honours degree in nursing ."
         ],
         "source_refs": [
           "https://www.ul.ac.za/"
         ],
         "institution_id": "366",
         "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
-        "source_chunk": "Honours degree in nursing (or equivalent).",
+        "source_chunk": "Honours degree in nursing .",
         "extraction_method": "regex",
         "confidence_score": 1.0
       }
@@ -95980,7 +95980,7 @@
       "payload": {
         "id": "prog:349:Degree|693203046fb0|bachelor of nursing nursing • physical sciences or mathematics or life sciences ",
         "institutionId": "349",
-        "name": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+        "name": "Bachelor of Nursing Nursing • ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -95994,7 +95994,7 @@
           "source_file": "lib/seed/prospectuses/north-west-university.pdf",
           "char_start": 53628,
           "char_end": 53710,
-          "excerpt": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on"
+          "excerpt": "Bachelor of Nursing Nursing • "
         },
         "normalization_key": "Degree|693203046fb0|bachelor of nursing nursing • physical sciences or mathematics or life sciences ",
         "campuses": [],
@@ -115787,9 +115787,9 @@
     {
       "source": "generated/v1/programmes.json",
       "payload": {
-        "id": "prog:370:Degree|0ec011312f92|bachelor of architecture. the programme that will be available for",
+        "id": "prog:370:Degree|0ec011312f92|bachelor of architecture. ",
         "institutionId": "370",
-        "name": "Bachelor of Architecture. The programme that will be available for",
+        "name": "Bachelor of Architecture. ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -115803,12 +115803,12 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 66178,
           "char_end": 66244,
-          "excerpt": "Bachelor of Architecture. The programme that will be available for"
+          "excerpt": "Bachelor of Architecture. "
         },
-        "normalization_key": "Degree|0ec011312f92|bachelor of architecture. the programme that will be available for",
+        "normalization_key": "Degree|0ec011312f92|bachelor of architecture. ",
         "campuses": [],
         "merged_from": [
-          "prog:370:Degree|0ec011312f92|bachelor of architecture. the programme that will be available for"
+          "prog:370:Degree|0ec011312f92|bachelor of architecture. "
         ],
         "source_refs": [
           "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
@@ -115973,9 +115973,9 @@
     {
       "source": "generated/v1/programmes.json",
       "payload": {
-        "id": "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. the programme that will be",
+        "id": "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. ",
         "institutionId": "370",
-        "name": "Bachelor of Computer Information Systems. The programme that will be",
+        "name": "Bachelor of Computer Information Systems. ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -115989,12 +115989,12 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 58652,
           "char_end": 58720,
-          "excerpt": "Bachelor of Computer Information Systems. The programme that will be"
+          "excerpt": "Bachelor of Computer Information Systems. "
         },
-        "normalization_key": "Degree|324a298e3c8e|bachelor of computer information systems. the programme that will be",
+        "normalization_key": "Degree|324a298e3c8e|bachelor of computer information systems. ",
         "campuses": [],
         "merged_from": [
-          "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. the programme that will be"
+          "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. "
         ],
         "source_refs": [
           "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
@@ -116318,9 +116318,9 @@
     {
       "source": "generated/v1/programmes.json",
       "payload": {
-        "id": "prog:370:Degree|4b60f6649967|bachelor of nursing bc849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) yes",
+        "id": "prog:370:Degree|4b60f6649967|bachelor of nursing ",
         "institutionId": "370",
-        "name": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes",
+        "name": "Bachelor of Nursing ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -116334,12 +116334,12 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 37789,
           "char_end": 37864,
-          "excerpt": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes"
+          "excerpt": "Bachelor of Nursing "
         },
-        "normalization_key": "Degree|4b60f6649967|bachelor of nursing bc849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) yes",
+        "normalization_key": "Degree|4b60f6649967|bachelor of nursing ",
         "campuses": [],
         "merged_from": [
-          "prog:370:Degree|4b60f6649967|bachelor of nursing bc849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) yes"
+          "prog:370:Degree|4b60f6649967|bachelor of nursing "
         ],
         "source_refs": [
           "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
@@ -117117,7 +117117,7 @@
       "payload": {
         "id": "prog:370:Degree|ed673f56d299|bachelor of science in dietetics* bsc (dietetics) bc846002 33 5 (60%) 4 (50%) 5 ",
         "institutionId": "370",
-        "name": "BSc in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes",
+        "name": "BSc in Dietetics* BSc (Dietetics) ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -117131,7 +117131,7 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 36478,
           "char_end": 36575,
-          "excerpt": "Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes"
+          "excerpt": "Bachelor of Science in Dietetics* BSc (Dietetics) "
         },
         "normalization_key": "Degree|ed673f56d299|bachelor of science in dietetics* bsc (dietetics) bc846002 33 5 (60%) 4 (50%) 5 ",
         "campuses": [],
@@ -117621,9 +117621,9 @@
     {
       "source": "generated/v1/programmes.json",
       "payload": {
-        "id": "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. the programme that will be",
+        "id": "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. ",
         "institutionId": "370",
-        "name": "BSc specialising in Geology. The programme that will be",
+        "name": "BSc specialising in Geology. ",
         "qualification_type": "Degree",
         "faculty": null,
         "aps_minimum": null,
@@ -117637,12 +117637,12 @@
           "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
           "char_start": 55262,
           "char_end": 55333,
-          "excerpt": "Bachelor of Science specialising in Geology. The programme that will be"
+          "excerpt": "Bachelor of Science specialising in Geology. "
         },
-        "normalization_key": "Degree|1fa621ecf12c|bachelor of science specialising in geology. the programme that will be",
+        "normalization_key": "Degree|1fa621ecf12c|bachelor of science specialising in geology. ",
         "campuses": [],
         "merged_from": [
-          "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. the programme that will be"
+          "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. "
         ],
         "source_refs": [
           "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
@@ -122017,9 +122017,9 @@
     {
       "source": "generated/v1/programmes.json",
       "payload": {
-        "id": "prog:363:Postgraduate|67afb43752f2|msc geography except that a green cord is sewn onto the",
+        "id": "prog:363:Postgraduate|67afb43752f2|msc geography ",
         "institutionId": "363",
-        "name": "MSc Geography except that a green cord is sewn onto the",
+        "name": "MSc Geography ",
         "qualification_type": "Postgraduate",
         "faculty": null,
         "aps_minimum": null,
@@ -122033,12 +122033,12 @@
           "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
           "char_start": 240011,
           "char_end": 240066,
-          "excerpt": "MSc Geography except that a green cord is sewn onto the"
+          "excerpt": "MSc Geography "
         },
-        "normalization_key": "Postgraduate|67afb43752f2|msc geography except that a green cord is sewn onto the",
+        "normalization_key": "Postgraduate|67afb43752f2|msc geography ",
         "campuses": [],
         "merged_from": [
-          "prog:363:Postgraduate|67afb43752f2|msc geography except that a green cord is sewn onto the"
+          "prog:363:Postgraduate|67afb43752f2|msc geography "
         ],
         "source_refs": [
           "https://www.ufh.ac.za/"
@@ -123708,9 +123708,9 @@
     {
       "source": "generated/v1/programmes.json",
       "payload": {
-        "id": "prog:366:Postgraduate|450d435aa16c|honours degree in nursing (or equivalent).",
+        "id": "prog:366:Postgraduate|450d435aa16c|honours degree in nursing .",
         "institutionId": "366",
-        "name": "Honours degree in nursing (or equivalent).",
+        "name": "Honours degree in nursing .",
         "qualification_type": "Postgraduate",
         "faculty": null,
         "aps_minimum": null,
@@ -123724,12 +123724,12 @@
           "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
           "char_start": 18882,
           "char_end": 18924,
-          "excerpt": "Honours degree in nursing (or equivalent)."
+          "excerpt": "Honours degree in nursing ."
         },
-        "normalization_key": "Postgraduate|450d435aa16c|honours degree in nursing (or equivalent).",
+        "normalization_key": "Postgraduate|450d435aa16c|honours degree in nursing .",
         "campuses": [],
         "merged_from": [
-          "prog:366:Postgraduate|450d435aa16c|honours degree in nursing (or equivalent)."
+          "prog:366:Postgraduate|450d435aa16c|honours degree in nursing ."
         ],
         "source_refs": [
           "https://www.ul.ac.za/"
@@ -127853,7 +127853,7 @@
         "saqa_code": null,
         "career_outcomes": [],
         "source_file": "prospectuses/university-of-the-free-state.pdf",
-        "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
+        "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics)  Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
         "extraction_confidence": 0.9
       }
     },
@@ -127876,7 +127876,7 @@
         "saqa_code": null,
         "career_outcomes": [],
         "source_file": "prospectuses/university-of-the-free-state.pdf",
-        "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
+        "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
         "extraction_confidence": 0.9
       }
     },

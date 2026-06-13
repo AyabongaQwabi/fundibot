@@ -744,8 +744,8 @@
     },
     {
       "id": "prog:c0f077fb823d",
-      "name": "BNurs) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
-      "normalized_name": "BNurs) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
+      "name": "BNurs) or post basic BNurs degree with an Honours degree in nursing .",
+      "normalized_name": "BNurs) or post basic BNurs degree with an Honours degree in nursing .",
       "qualification_type": "Honours",
       "qualification_level": null,
       "nqf_level": null,
@@ -3875,8 +3875,8 @@
       "fees_per_year": null
     },
     {
-      "id": "prog:366:Postgraduate|450d435aa16c|honours degree in nursing (or equivalent).",
-      "name": "Honours degree in nursing (or equivalent).",
+      "id": "prog:366:Postgraduate|450d435aa16c|honours degree in nursing .",
+      "name": "Honours degree in nursing .",
       "normalized_name": null,
       "qualification_type": "Postgraduate",
       "qualification_level": null,

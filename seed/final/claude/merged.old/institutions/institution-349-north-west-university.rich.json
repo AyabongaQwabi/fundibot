@@ -1036,8 +1036,8 @@
     },
     {
       "id": "prog:b8af001d534b",
-      "name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
-      "normalized_name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "name": "BNurs Nursing • ",
+      "normalized_name": "BNurs Nursing • ",
       "qualification_type": "Degree",
       "qualification_level": null,
       "nqf_level": null,
@@ -1749,7 +1749,7 @@
     },
     {
       "id": "prog:349:Degree|693203046fb0|bachelor of nursing nursing • physical sciences or mathematics or life sciences ",
-      "name": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "name": "Bachelor of Nursing Nursing • ",
       "normalized_name": null,
       "qualification_type": "Degree",
       "qualification_level": null,

@@ -1350,8 +1350,8 @@
       "id": "programme:north-west-university--bnurs-nursing-physical-sciences-or-mathematics-or-life-sciences-on",
       "institution_slug": "north-west-university",
       "institution_name": "North-West University",
-      "name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
-      "normalized_name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "name": "BNurs Nursing • ",
+      "normalized_name": "BNurs Nursing • ",
       "qualification_type": "Degree",
       "qualification_level": null,
       "faculty_name": "NURSING",
@@ -1362,7 +1362,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "source_excerpt": "Bachelor of Nursing Nursing • ",
       "extraction_confidence": 0.78,
       "source_paths": [
         "generated/v3/programmes.json"
@@ -2716,8 +2716,8 @@
       "id": "programme:north-west-university--bnurs-nursing-physical-sciences-or-mathematics-or-life-sciences-on",
       "institution_slug": "north-west-university",
       "institution_name": "North-West University",
-      "name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
-      "normalized_name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "name": "BNurs Nursing • ",
+      "normalized_name": "BNurs Nursing • ",
       "qualification_type": "Degree",
       "qualification_level": null,
       "faculty_name": "NURSING",
@@ -2728,7 +2728,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "source_excerpt": "Bachelor of Nursing Nursing • ",
       "extraction_confidence": 0.78,
       "source_paths": [
         "generated/v3/programmes.json"

@@ -177,7 +177,7 @@
     {
       "id": null,
       "name": "School of Nursing",
-      "overview": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
+      "overview": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
       "kind": "school"
     },
     {
@@ -9626,8 +9626,8 @@
       }
     },
     {
-      "id": "prog:370:Degree|0ec011312f92|bachelor of architecture. the programme that will be available for",
-      "name": "Bachelor of Architecture. The programme that will be available for",
+      "id": "prog:370:Degree|0ec011312f92|bachelor of architecture. ",
+      "name": "Bachelor of Architecture. ",
       "normalized_name": null,
       "qualification_type": "Degree",
       "qualification_level": null,
@@ -9803,8 +9803,8 @@
       }
     },
     {
-      "id": "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. the programme that will be",
-      "name": "Bachelor of Computer Information Systems. The programme that will be",
+      "id": "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. ",
+      "name": "Bachelor of Computer Information Systems. ",
       "normalized_name": null,
       "qualification_type": "Degree",
       "qualification_level": null,
@@ -10246,8 +10246,8 @@
       }
     },
     {
-      "id": "prog:370:Degree|4b60f6649967|bachelor of nursing bc849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) yes",
-      "name": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes",
+      "id": "prog:370:Degree|4b60f6649967|bachelor of nursing ",
+      "name": "Bachelor of Nursing ",
       "normalized_name": null,
       "qualification_type": "Degree",
       "qualification_level": null,
@@ -11206,7 +11206,7 @@
     },
     {
       "id": "prog:370:Degree|ed673f56d299|bachelor of science in dietetics* bsc (dietetics) bc846002 33 5 (60%) 4 (50%) 5 ",
-      "name": "BSc in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes",
+      "name": "BSc in Dietetics* BSc (Dietetics) ",
       "normalized_name": null,
       "qualification_type": "Degree",
       "qualification_level": null,
@@ -11680,8 +11680,8 @@
       }
     },
     {
-      "id": "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. the programme that will be",
-      "name": "BSc specialising in Geology. The programme that will be",
+      "id": "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. ",
+      "name": "BSc specialising in Geology. ",
       "normalized_name": null,
       "qualification_type": "Degree",
       "qualification_level": null,
@@ -13058,7 +13058,7 @@
         "institution_id": "370",
         "institution_name": "University of the Free State",
         "source_file": "prospectuses/university-of-the-free-state.pdf",
-        "source_excerpt": "Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes",
+        "source_excerpt": "Bachelor of Science in Dietetics* BSc (Dietetics) ",
         "extraction_confidence": 0.9,
         "sourceFile": "prospectuses/university-of-the-free-state.pdf",
         "programme_id": null,
@@ -16581,7 +16581,7 @@
         "institution_id": "370",
         "institution_name": "University of the Free State",
         "source_file": "prospectuses/university-of-the-free-state.pdf",
-        "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
+        "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics)  Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
         "extraction_confidence": 0.9,
         "sourceFile": "prospectuses/university-of-the-free-state.pdf",
         "programme_id": null,
@@ -18667,7 +18667,7 @@
         "institution_id": "370",
         "institution_name": "University of the Free State",
         "source_file": "prospectuses/university-of-the-free-state.pdf",
-        "source_excerpt": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. Closing date for applications is 31 July 2026. If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirements that you must meet. It is impo",
+        "source_excerpt": "Bachelor of Nursing  Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. Closing date for applications is 31 July 2026. If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirements that you must meet. It is impo",
         "extraction_confidence": 0.9,
         "sourceFile": "prospectuses/university-of-the-free-state.pdf",
         "programme_id": null,
@@ -19224,7 +19224,7 @@
         "institution_id": "370",
         "institution_name": "University of the Free State",
         "source_file": "prospectuses/university-of-the-free-state.pdf",
-        "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
+        "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
         "extraction_confidence": 0.9,
         "sourceFile": "prospectuses/university-of-the-free-state.pdf",
         "programme_id": null,

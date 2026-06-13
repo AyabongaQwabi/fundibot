@@ -6143,7 +6143,7 @@
       "name": "School of Nursing",
       "kind": "school",
       "overview": null,
-      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
+      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
       "extraction_confidence": 0.92,
       "source_paths": [
         "generated/v3/faculties.json"
@@ -6832,7 +6832,7 @@
       "name": "School of Nursing",
       "kind": "school",
       "overview": null,
-      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
+      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
       "extraction_confidence": 0.92,
       "source_paths": [
         "generated/v3/institution-370-ufs.json"

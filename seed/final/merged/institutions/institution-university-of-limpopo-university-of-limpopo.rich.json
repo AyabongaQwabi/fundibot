@@ -920,8 +920,8 @@
       "id": "programme:university-of-limpopo--bnurs-or-post-basic-bnurs-degree-with-an-honours-degree-in-nursing-or-equivalent",
       "institution_slug": "university-of-limpopo",
       "institution_name": "University of Limpopo",
-      "name": "BNurs) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
-      "normalized_name": "BNurs) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
+      "name": "BNurs) or post basic BNurs degree with an Honours degree in nursing .",
+      "normalized_name": "BNurs) or post basic BNurs degree with an Honours degree in nursing .",
       "qualification_type": "Honours",
       "qualification_level": null,
       "faculty_name": "HEALTH CARE SCIENCES",
@@ -932,7 +932,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "Bachelor of Nursing) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
+      "source_excerpt": "Bachelor of Nursing) or post basic BNurs degree with an Honours degree in nursing .",
       "extraction_confidence": 0.78,
       "source_paths": [
         "generated/v3/programmes.json"
@@ -3826,8 +3826,8 @@
       "id": "programme:university-of-limpopo--bnurs-or-post-basic-bnurs-degree-with-an-honours-degree-in-nursing-or-equivalent",
       "institution_slug": "university-of-limpopo",
       "institution_name": "University of Limpopo",
-      "name": "BNurs) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
-      "normalized_name": "BNurs) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
+      "name": "BNurs) or post basic BNurs degree with an Honours degree in nursing .",
+      "normalized_name": "BNurs) or post basic BNurs degree with an Honours degree in nursing .",
       "qualification_type": "Honours",
       "qualification_level": null,
       "faculty_name": "HEALTH CARE SCIENCES",
@@ -3838,7 +3838,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "Bachelor of Nursing) or post basic BNurs degree with an Honours degree in nursing (or equivalent).",
+      "source_excerpt": "Bachelor of Nursing) or post basic BNurs degree with an Honours degree in nursing .",
       "extraction_confidence": 0.78,
       "source_paths": [
         "generated/v3/programmes.json"

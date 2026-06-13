@@ -258,7 +258,7 @@
       "name": "School of Nursing",
       "kind": "school",
       "overview": null,
-      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
+      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
       "extraction_confidence": 0.92,
       "source_paths": [
         "generated/v3/faculties.json"
@@ -429,7 +429,7 @@
       "name": "School of Nursing",
       "kind": "school",
       "overview": null,
-      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
+      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
       "extraction_confidence": 0.92,
       "source_paths": [
         "generated/v3/faculties.json"
@@ -611,7 +611,7 @@
       "name": "School of Nursing",
       "kind": "school",
       "overview": null,
-      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
+      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
       "extraction_confidence": 0.92,
       "source_paths": [
         "generated/v3/institution-370-ufs.json"
@@ -1163,7 +1163,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
+      "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics)  Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
       "extraction_confidence": 0.9,
       "source_paths": [
         "generated/v3/institution-370-ufs.json"
@@ -1207,7 +1207,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
+      "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
       "extraction_confidence": 0.9,
       "source_paths": [
         "generated/v3/institution-370-ufs.json"
@@ -4287,7 +4287,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
+      "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
       "extraction_confidence": 0.9,
       "source_paths": [
         "generated/v3/programmes.json"
@@ -5189,7 +5189,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
+      "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics)  Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
       "extraction_confidence": 0.9,
       "source_paths": [
         "generated/v3/programmes.json"
@@ -5785,7 +5785,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
+      "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics)  Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
       "extraction_confidence": 0.9,
       "source_paths": [
         "generated/v3/institution-370-ufs.json"
@@ -5829,7 +5829,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
+      "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
       "extraction_confidence": 0.9,
       "source_paths": [
         "generated/v3/institution-370-ufs.json"
@@ -9789,7 +9789,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
+      "source_excerpt": "CIENCES SUBJECT TO SELECTION Bachelor of Nursing  \u001f Either Mathematics or Mathematical Literacy is required. Either Life Sciences or Physical Sciences is required. \u001f Closing date for applications is 31 July 2026. \u001f If you are a senior applicant (already studying at a tertiary institution, or a graduate), there are important additional requirem",
       "extraction_confidence": 0.9,
       "source_paths": [
         "generated/v3/programmes.json"
@@ -10691,7 +10691,7 @@
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "fees_per_year": null,
-      "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
+      "source_excerpt": ") 4 (50%) 5 (60%) 4 (50%) Yes Bachelor of Science in Dietetics* BSc (Dietetics)  Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%",
       "extraction_confidence": 0.9,
       "source_paths": [
         "generated/v3/programmes.json"

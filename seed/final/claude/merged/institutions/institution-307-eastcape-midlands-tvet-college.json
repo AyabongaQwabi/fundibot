@@ -168,22 +168,244 @@
       "youtube": "https://www.youtube.com/@eastcapemidlandstvetcolleg6939"
     }
   },
-  "campuses": [],
+  "campuses": [
+    {
+      "name": "High Street Campus",
+      "city": "Kariega",
+      "province": "Eastern Cape",
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Health Park Campus",
+      "city": "Kariega",
+      "province": "Eastern Cape",
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Graaf Reinet Campus",
+      "city": "Graaf Reinet",
+      "province": "Eastern Cape",
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Grahamstown Campus",
+      "city": "Grahamstown",
+      "province": "Eastern Cape",
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    }
+  ],
   "faculties": [
     {
-      "id": "fac:36b49827888f",
-      "name": "BUSINESS",
-      "overview": "SCHOOL OF BUSINESS",
+      "id": "eastcape-midlands-tvet-college-school-of-business",
+      "name": "School of Business",
+      "overview": "School of Business",
       "kind": "faculty"
     },
     {
-      "id": "fac:307:59b99127057b",
-      "name": "ART &",
-      "overview": null,
-      "kind": null
+      "id": "eastcape-midlands-tvet-college-school-of-art-and-social-sciences",
+      "name": "School of Art & Social Scieences",
+      "overview":"School of Art & Social Scieences",
+      "kind": "faculty"
     }
   ],
   "programmes": [
+    {
+      "id": "tourism-east-1",
+      "name": "Tourism",
+      "normalized_name": "Tourism",
+      "qualification_type": "NCV Certificate",
+      "faculty_name": "School of Art & Social Scieences"
+    },
+    {
+      "id": "safety-east-1",
+      "name": "Safety in Society",
+      "normalized_name": "Safety in Society",
+      "qualification_type": "Certificate",
+      "faculty_name": "School of Art & Social Scieences"
+    },
+    {
+      "id": "hospitality-east-1",
+      "name": "Hospitality",
+      "normalized_name": "Hospitality",
+      "qualification_type": "NCV Certificate",
+      "faculty_name": "School of Art & Social Scieences"
+    },
+    {
+      "id": "marketing-east-1",
+      "name": "Marketing",
+      "normalized_name": "Marketing",
+      "qualification_type": "NCV Certificate",
+      "faculty_name": "School of Business"
+    },
+    {
+      "id": "office-east-1",
+      "name": "Office Administration",
+      "normalized_name": "Office Administration",
+      "qualification_type": "NCV Certificate",
+      "faculty_name": "School of Business"
+    },
+    {
+      "id": "finance-east-1",
+      "name": "Finance, Economics & Accounting",
+      "normalized_name": "Finance, Economics & Accounting",
+      "qualification_type": "NCV Certificate",
+      "faculty_name": "School of Business"
+    },
+    {
+      "id": "Mangement-east-n4",
+      "name": "Management Assistant",
+      "normalized_name": "Management Assistant",
+      "qualification_type": "N4 Certificate",
+      "faculty_name": "School of Business"
+    },
+     {
+      "id": "Mangement-east-n5",
+      "name": "Management Assistant",
+      "normalized_name": "Management Assistant",
+      "qualification_type": "N5 Certificate",
+      "faculty_name": "School of Business"
+    },
+     {
+      "id": "Mangement-east-n6",
+      "name": "Management Assistant",
+      "normalized_name": "Management Assistant",
+      "qualification_type": "N6 Certificate",
+      "faculty_name": "School of Business"
+    },
+     {
+      "id": "fin-Mangement-east-n4",
+      "name": "Financial Management",
+      "normalized_name": "Financial Management",
+      "qualification_type": "N4 Certificate",
+      "faculty_name": "School of Business"
+    },
+      {
+        "id": "fin-Mangement-east-n5",
+        "name": "Financial Management",
+        "normalized_name": "Financial Management",
+        "qualification_type": "N5 Certificate",
+        "faculty_name": "School of Business"
+      },
+      {
+        "id": "fin-Mangement-east-n6",
+        "name": "Financial Management",
+        "normalized_name": "Financial Management",
+        "qualification_type": "N6 Certificate",
+        "faculty_name": "School of Business"
+      },
+      {
+      "id": "biz-Mangement-east-n4",
+      "name": "Business Management",
+      "normalized_name": "Business Management",
+      "qualification_type": "N4 Certificate",
+      "faculty_name": "School of Business"
+    },
+      {
+        "id": "biz-Mangement-east-n5",
+        "name": "Business Management",
+        "normalized_name": "Business Management",
+        "qualification_type": "N5 Certificate",
+        "faculty_name": "School of Business"
+      },
+      {
+        "id": "biz-Mangement-east-n6",
+        "name": "Business Management",
+        "normalized_name": "Business Management",
+        "qualification_type": "N6 Certificate",
+        "faculty_name": "School of Business"
+      },
+      {
+      "id": "hr-Mangement-east-n4",
+      "name": "Human Resource Management",
+      "normalized_name": "Human Resource Management",
+      "qualification_type": "N4 Certificate",
+      "faculty_name": "School of Business"
+    },
+      {
+        "id": "hr-Mangement-east-n5",
+        "name": "Human Resource Management",
+        "normalized_name": "Human Resource Management",
+        "qualification_type": "N5 Certificate",
+        "faculty_name": "School of Business"
+      },
+       {
+        "id": "hr-Mangement-east-n6",
+        "name": "Human Resource Management",
+        "normalized_name": "Human Resource Management",
+        "qualification_type": "N6 Certificate",
+        "faculty_name": "School of Business"
+      },
+      {
+      "id": "legal-sec-east-n4",
+      "name": "Legal Secretary",
+      "normalized_name": "Legal Secretary",
+      "qualification_type": "N4 Certificate",
+      "faculty_name": "School of Business"
+    },
+      {
+        "id": "legal-sec-east-n5",
+        "name": "Legal Secretary",
+        "normalized_name": "Legal Secretary",
+        "qualification_type": "N5 Certificate",
+        "faculty_name": "School of Business"
+      },
+       {
+        "id": "legal-sec-east-n6",
+        "name": "Legal Secretary",
+        "normalized_name": "Legal Secretary",
+        "qualification_type": "N6 Certificate",
+        "faculty_name": "School of Business"
+      },
+      {
+        "id": "marketing-man-east-n4",
+        "name": "Marketing Management",
+        "normalized_name": "Marketing Management",
+        "qualification_type": "N4 Certificate",
+        "faculty_name": "School of Business"
+      },
+      {
+        "id": "marketing-man-east-n5",
+        "name": "Marketing Management",
+        "normalized_name": "Marketing Management",
+        "qualification_type": "N5 Certificate",
+        "faculty_name": "School of Business"
+      },
+      {
+        "id": "marketing-man-east-n6",
+        "name": "Marketing Management",
+        "normalized_name": "Marketing Management",
+        "qualification_type": "N6 Certificate",
+        "faculty_name": "School of Business"
+      },
+
     {
       "id": "prog:8829d73564ba",
       "name": "NCV LEVEL 4",
@@ -231,64 +453,6 @@
       "fees_per_year": null
     },
     {
-      "name": "In order to obtain a National Certificate (Vocational),",
-      "normalized_name": "In order to obtain a National Certificate (Vocational),",
-      "qualification_type": "Unknown",
-      "qualification_level": null,
-      "nqf_level": null,
-      "faculty_name": null,
-      "department": null,
-      "duration": "18 months",
-      "study_mode": null,
-      "campus": null,
-      "programme_code": null,
-      "saqa_code": null,
-      "min_aps": null,
-      "subjects_compulsory": [],
-      "subject_or_groups": [],
-      "min_grade": null,
-      "selection_required": null,
-      "overview": null,
-      "career_outcomes": [],
-      "fees_per_year": null,
-      "_synthetic": false,
-      "_discovered": true,
-      "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 515,
-      "modules": [
-        "Life Skills & Computer Literacy"
-      ]
-    },
-    {
-      "name": "It is a specialised National Certificate for a chosen",
-      "normalized_name": "It is a specialised National Certificate for a chosen",
-      "qualification_type": "Unknown",
-      "qualification_level": null,
-      "nqf_level": 5,
-      "faculty_name": null,
-      "department": null,
-      "duration": "18 months",
-      "study_mode": null,
-      "campus": null,
-      "programme_code": null,
-      "saqa_code": null,
-      "min_aps": null,
-      "subjects_compulsory": [],
-      "subject_or_groups": [],
-      "min_grade": null,
-      "selection_required": null,
-      "overview": null,
-      "career_outcomes": [],
-      "fees_per_year": null,
-      "_synthetic": false,
-      "_discovered": true,
-      "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 1936,
-      "modules": [
-        "Life Skills & Computer Literacy"
-      ]
-    },
-    {
       "name": "NCV & REPORT",
       "normalized_name": "NCV & REPORT",
       "qualification_type": "NCV",
@@ -313,245 +477,6 @@
       "_discovered": true,
       "_discovery_source": "eastcape-midlands-tvet-college.pdf",
       "_discovery_char": 3902
-    },
-    {
-      "name": "Study further at a TVET college towards N4-6 National",
-      "normalized_name": "Study further at a TVET college towards N4-6 National",
-      "qualification_type": "Nated (Report 191)",
-      "qualification_level": null,
-      "nqf_level": 5,
-      "faculty_name": null,
-      "department": null,
-      "duration": "18 months",
-      "study_mode": null,
-      "campus": null,
-      "programme_code": null,
-      "saqa_code": null,
-      "min_aps": null,
-      "subjects_compulsory": [],
-      "subject_or_groups": [],
-      "min_grade": null,
-      "selection_required": null,
-      "overview": null,
-      "career_outcomes": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
-      ],
-      "fees_per_year": null,
-      "_synthetic": false,
-      "_discovered": true,
-      "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 4798,
-      "modules": [
-        "Communication",
-        "Introduction to Computer Practice",
-        "Introduction to Information",
-        "Office Practice",
-        "Management Communication",
-        "Financial Accounting",
-        "Computerised Financial Systems",
-        "Entrepreneurship & Business",
-        "Introduction to Computer Practice N4 or",
-        "Entrepreneurship & Business",
-        "Management Communication",
-        "Introduction to Accounting N4 or"
-      ]
-    },
-    {
-      "name": "NQF level 5 Higher Certificate at Selective",
-      "normalized_name": "NQF level 5 Higher Certificate at Selective",
-      "qualification_type": "Higher Certificate",
-      "qualification_level": null,
-      "nqf_level": 5,
-      "faculty_name": null,
-      "department": null,
-      "duration": "18 months",
-      "study_mode": null,
-      "campus": null,
-      "programme_code": null,
-      "saqa_code": null,
-      "min_aps": null,
-      "subjects_compulsory": [],
-      "subject_or_groups": [],
-      "min_grade": null,
-      "selection_required": null,
-      "overview": null,
-      "career_outcomes": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
-      ],
-      "fees_per_year": null,
-      "_synthetic": false,
-      "_discovered": true,
-      "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 4879
-    },
-    {
-      "name": "REPORT 191 PROGRAMMES (N4 - N6)",
-      "normalized_name": "REPORT 191 PROGRAMMES (N4 - N6)",
-      "qualification_type": "Nated (Report 191)",
-      "qualification_level": null,
-      "nqf_level": 5,
-      "faculty_name": null,
-      "department": null,
-      "duration": "18 months",
-      "study_mode": null,
-      "campus": null,
-      "programme_code": null,
-      "saqa_code": null,
-      "min_aps": null,
-      "subjects_compulsory": [],
-      "subject_or_groups": [],
-      "min_grade": null,
-      "selection_required": null,
-      "overview": null,
-      "career_outcomes": [],
-      "fees_per_year": null,
-      "_synthetic": false,
-      "_discovered": true,
-      "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 5010
-    },
-    {
-      "name": "(NATED) programmes are delivered under the auspices",
-      "normalized_name": "(NATED) programmes are delivered under the auspices",
-      "qualification_type": "Nated (Report 191)",
-      "qualification_level": null,
-      "nqf_level": 5,
-      "faculty_name": null,
-      "department": null,
-      "duration": "18 months",
-      "study_mode": null,
-      "campus": null,
-      "programme_code": null,
-      "saqa_code": null,
-      "min_aps": null,
-      "subjects_compulsory": [],
-      "subject_or_groups": [],
-      "min_grade": null,
-      "selection_required": null,
-      "overview": null,
-      "career_outcomes": [],
-      "fees_per_year": null,
-      "_synthetic": false,
-      "_discovered": true,
-      "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 5091
-    },
-    {
-      "name": "with a National Certificate in the specific field of study.",
-      "normalized_name": "with a National Certificate in the specific field of study.",
-      "qualification_type": "Certificate",
-      "qualification_level": null,
-      "nqf_level": 5,
-      "faculty_name": null,
-      "department": null,
-      "duration": "18 months",
-      "study_mode": null,
-      "campus": null,
-      "programme_code": null,
-      "saqa_code": null,
-      "min_aps": null,
-      "subjects_compulsory": [],
-      "subject_or_groups": [],
-      "min_grade": null,
-      "selection_required": null,
-      "overview": null,
-      "career_outcomes": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
-      ],
-      "fees_per_year": null,
-      "_synthetic": false,
-      "_discovered": true,
-      "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 5893
-    },
-    {
-      "name": "National Certificate (NATED/TVET) Level 5 course (N5): The",
-      "normalized_name": "National Certificate (NATED/TVET) Level 5 course (N5): The",
-      "qualification_type": "Nated (Report 191)",
-      "qualification_level": null,
-      "nqf_level": 5,
-      "faculty_name": null,
-      "department": null,
-      "duration": "18 months",
-      "study_mode": null,
-      "campus": null,
-      "programme_code": null,
-      "saqa_code": null,
-      "min_aps": null,
-      "subjects_compulsory": [],
-      "subject_or_groups": [],
-      "min_grade": null,
-      "selection_required": null,
-      "overview": null,
-      "career_outcomes": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
-      ],
-      "fees_per_year": null,
-      "_synthetic": false,
-      "_discovered": true,
-      "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 6263,
-      "modules": [
-        "Communication",
-        "Introduction to Computer Practice",
-        "Introduction to Information",
-        "Office Practice",
-        "Management Communication",
-        "Financial Accounting",
-        "Computerised Financial Systems",
-        "Entrepreneurship & Business",
-        "Introduction to Computer Practice N4 or",
-        "Entrepreneurship & Business",
-        "Management Communication",
-        "Introduction to Accounting N4 or"
-      ]
-    },
-    {
-      "name": "National Certificate (NATED/TVET) Level 6 course (N6): The",
-      "normalized_name": "National Certificate (NATED/TVET) Level 6 course (N6): The",
-      "qualification_type": "Nated (Report 191)",
-      "qualification_level": null,
-      "nqf_level": 5,
-      "faculty_name": null,
-      "department": null,
-      "duration": "18 months",
-      "study_mode": null,
-      "campus": null,
-      "programme_code": null,
-      "saqa_code": null,
-      "min_aps": null,
-      "subjects_compulsory": [],
-      "subject_or_groups": [],
-      "min_grade": null,
-      "selection_required": null,
-      "overview": null,
-      "career_outcomes": [
-        "NQF level 5 Higher Certificate at Selective",
-        "QCTO NQF level 5 Higher Certificate a TVET college"
-      ],
-      "fees_per_year": null,
-      "_synthetic": false,
-      "_discovered": true,
-      "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 6391,
-      "modules": [
-        "Communication",
-        "Introduction to Computer Practice",
-        "Introduction to Information",
-        "Office Practice",
-        "Management Communication",
-        "Financial Accounting",
-        "Computerised Financial Systems",
-        "Entrepreneurship & Business",
-        "Introduction to Computer Practice N4 or",
-        "Entrepreneurship & Business",
-        "Management Communication",
-        "Introduction to Accounting N4 or"
-      ]
     }
   ],
   "admission": {
