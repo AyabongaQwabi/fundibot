@@ -355,7 +355,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:21ce1e59d838",
@@ -389,7 +393,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:61d603a2560e",
@@ -423,7 +436,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:ac7bf84aea24",
@@ -457,7 +474,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability.",
+        "tration, animation, writing and sound design. You will also learn"
+      ]
     },
     {
       "id": "prog:79a48e778a4b",
@@ -491,6 +519,12 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -525,7 +559,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability.",
+        "making, video, installa",
+        "tion and digital media form the core of th"
+      ]
     },
     {
       "id": "prog:a67a29ef6adb",
@@ -559,7 +605,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:54d374c3984f",
@@ -593,7 +643,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:da95ede59d77",
@@ -636,7 +690,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "as well as English Level 6",
+        "and Mathematics Level 6",
+        "Level 5 Mathematics Level",
+        "Level 6 and Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 35-42, as well as English Level 6 and Mathematics Level 6, may be wait-listed subject",
+        "Mathematics I  Business Statistics I  Fundamentals of Info"
+      ]
     },
     {
       "id": "prog:ec5f28d22563",
@@ -670,7 +736,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:5f8db133f2ac",
@@ -704,7 +774,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:cef818fb9f07",
@@ -729,7 +803,17 @@
       "career_outcomes": [
         "maker, performer, direct"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Senior Phase and Further Education and Training Teaching (Grades 8",
+        "Physical Sciences (FET)  Teaching Geography (FET)  Teaching History (FET)  Teaching English (FET)  Teaching isiZulu (FET)  Teaching Sesotho (FET)  Teaching Mathematics (FET)  Teaching Engineering Graphi"
+      ],
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:8c1279060d35",
@@ -752,7 +836,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:d57104347bdf",
@@ -786,7 +874,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability.",
+        "tration, animation, writing and sound design. You will also learn"
+      ]
     },
     {
       "id": "prog:2f9c884cff89",
@@ -809,7 +903,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability.",
+        "tration, animation, writing and sound design. You will also learn"
+      ]
     },
     {
       "id": "prog:3bc8ba1fa4eb",
@@ -845,6 +945,16 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -879,7 +989,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
+      ]
     },
     {
       "id": "prog:53234af3366b",
@@ -913,7 +1028,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability.",
+        "making, video, installa",
+        "tion and digital media form the core of th"
+      ]
     },
     {
       "id": "prog:a3c4c2fdb77b",
@@ -947,7 +1069,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 Bachelor of Arts in Fine Arts (",
+        "5 Bachelor of Music (",
+        "5 Wits School of Education (WSoE) Bachelor",
+        "5 An APS of",
+        "5 Senior Phase and Further Education and",
+        "5 Teaching subjects",
+        "Mathematics or Maths Literacy or Technical Mathematics Foundation Phase Teaching (4 years) 37 + 5 4 5 5 An APS of 34-36 may be wait-listed, subject to place availability",
+        "Physical Sciences, Life Sciences, Engineering Graphics & Design (EGD), Geography, History, IsiZulu Home Language, IsiZulu First Additional Language, Sesotho Home Language, Sesotho First Additional Language, Info",
+        "Mathematics, Technical Mathematic"
+      ]
     },
     {
       "id": "prog:359ef92ca97e",
@@ -972,7 +1107,18 @@
       "career_outcomes": [
         "maker, performer, direct"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "English as a Home Language or First Additional Language and must meet departmental selection procedures, which include auditions/interviews",
+        "wits/",
+        "year BA in Theatre and Performance programme covers"
+      ]
     },
     {
       "id": "prog:61c221d23323",
@@ -997,7 +1143,18 @@
       "career_outcomes": [
         "maker, performer, direct"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "English as a Home Language or First Additional Language and must meet departmental selection procedures, which include auditions/interviews",
+        "wits/",
+        "year BA in Theatre and Performance programme covers"
+      ]
     },
     {
       "id": "prog:46d1dd7fb690",
@@ -1026,7 +1183,11 @@
         "School of Human and Community Development",
         "GAIN INTENSIVE PRACTICAL AND THEORETICAL TRAINING THAT AIDS SOCIAL ADJUSTMENT."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:68c0155285da",
@@ -1055,7 +1216,11 @@
         "School of Human and Community Development",
         "GAIN INTENSIVE PRACTICAL AND THEORETICAL TRAINING THAT AIDS SOCIAL ADJUSTMENT."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:3a3d0e86f087",
@@ -1078,7 +1243,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:0eb29a53924a",
@@ -1101,7 +1267,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:2d71c88e4e67",
@@ -1124,7 +1291,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "glish Home Language or First Additional Language Level 5",
+        "Mathematics Level 3",
+        "Maths Literacy Level 4",
+        "Level 5 Mathematics Level",
+        "Level 4 Waitlisting Applicants with an APS of",
+        "Mathematics Level 3 Maths Literacy Level 4 Waitlisting Applicants with an APS of 40-42 may be wait-listed, subject to place availability"
+      ]
     },
     {
       "id": "prog:3b32468d57ac",
@@ -1158,7 +1334,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics I  Business Statistics I SECOND YEAR  Economics IIA AND IIB  A student must choose between Politics II and Philosophy II  History of Philosophy: A Classical and Ear"
+      ]
     },
     {
       "id": "prog:19a7f08d93fd",
@@ -1192,7 +1372,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:a3c30fe731fe",
@@ -1226,7 +1410,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:1b7f2d532606",
@@ -1285,7 +1473,20 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 6",
+        "as well as English Level 6",
+        "and Mathematics Level 6",
+        "Level 5 Mathematics Level",
+        "Level 6 and Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 6 Waitlisting Applicants with an APS of 39-43, as well as English Level 6 and Mathematics Level 6, may be wait-listed subject t",
+        "43, as well as English Level 6",
+        "listed subject to place"
+      ]
     },
     {
       "id": "prog:88d131072e46",
@@ -1319,7 +1520,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 6",
+        "as well as English Level 6",
+        "and Mathematics Level 6",
+        "Level 5 Mathematics Level",
+        "Level 6 and Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 6 Waitlisting Applicants with an APS of 39-43, as well as English Level 6 and Mathematics Level 6, may be wait-listed subject t",
+        "43, as well as English Level 6",
+        "listed subject to place"
+      ]
     },
     {
       "id": "prog:7398c8021d59",
@@ -1380,7 +1594,11 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics I  Business Statistic"
+      ]
     },
     {
       "id": "prog:b15d2bb79dc9",
@@ -1420,6 +1638,19 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 4",
+        "Mathematics Level 4",
+        "Level 4 Mathematics Level",
+        "English Home Language or First Additional Language Level 4 Mathematics Level 4 Waitlisting Acceptance depends on departmental selection"
+      ],
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1443,7 +1674,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 4",
+        "Mathematics Level 4",
+        "Level 4 Mathematics Level",
+        "English Home Language or First Additional Language Level 4 Mathematics Level 4 Waitlisting Acceptance depends on departmental selection"
+      ]
     },
     {
       "id": "prog:90055bc5e5e1",
@@ -1477,6 +1716,19 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 4",
+        "Mathematics Level 4",
+        "Level 4 Mathematics Level",
+        "English Home Language or First Additional Language Level 4 Mathematics Level 4 Waitlisting Acceptance depends on departmental selection"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1500,7 +1752,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 4",
+        "Mathematics Level 4",
+        "Level 4 Mathematics Level",
+        "English Home Language or First Additional Language Level 4 Mathematics Level 4 Waitlisting Acceptance depends on departmental selection"
+      ]
     },
     {
       "id": "prog:d5c852b4f392",
@@ -1526,6 +1786,15 @@
       "fees_per_year": null,
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "requirements/ follow steps 1"
       ]
     },
     {
@@ -1563,6 +1832,11 @@
       },
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability."
       ]
     },
     {
@@ -1600,6 +1874,16 @@
       },
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Applicants for the Bachelor of Sp",
+        "4 An APS of",
+        "4 years)",
+        "4 Bachelor of Social Work (",
+        "5 An APS of",
+        "Mathematics, Technical Mathematics School of Human and Community Development (SHCD) Bachelor of Speech-Language Pathology (4 years) Applicants for the Bachelor of Speech-Language Pathology and Bachelor of A",
+        "English results *Only 60 1st year places are available for the Bachelor of Social Work degree"
       ]
     },
     {
@@ -1637,6 +1921,16 @@
       },
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Applicants for the Bachelor of Sp",
+        "4 An APS of",
+        "4 years)",
+        "4 Bachelor of Social Work (",
+        "5 An APS of",
+        "Mathematics, Technical Mathematics School of Human and Community Development (SHCD) Bachelor of Speech-Language Pathology (4 years) Applicants for the Bachelor of Speech-Language Pathology and Bachelor of A",
+        "English results *Only 60 1st year places are available for the Bachelor of Social Work degree"
       ]
     },
     {
@@ -1674,6 +1968,11 @@
       },
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability."
       ]
     },
     {
@@ -1708,6 +2007,12 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1742,7 +2047,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "reported Grade 11 results."
+      ]
     },
     {
       "id": "prog:7ef088251552",
@@ -1776,7 +2090,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      },
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability."
+      ]
     },
     {
       "id": "prog:4ea753dc765a",
@@ -1813,6 +2138,11 @@
       },
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability."
       ]
     },
     {
@@ -1853,7 +2183,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score t"
+      ]
     },
     {
       "id": "prog:8bbbba5fc572",
@@ -1893,7 +2233,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score t"
+      ]
     },
     {
       "id": "prog:ebcb45666878",
@@ -1933,7 +2283,22 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score t"
+      ]
     },
     {
       "id": "prog:cf24d270198a",
@@ -1979,7 +2344,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND/OR Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND/OR Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score to gu"
+      ]
     },
     {
       "id": "prog:999ea422c0e0",
@@ -2025,7 +2400,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND/OR Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND/OR Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score to gu"
+      ]
     },
     {
       "id": "prog:513c421fe439",
@@ -2071,7 +2456,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Dental Science (BDS) (",
+        "5 years) All applicants to Bachelor of Dent",
+        "Only observation hours completed between 1",
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) ("
+      ]
     },
     {
       "id": "prog:519a52194c35",
@@ -2117,7 +2511,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 Bachelor of Dental Science (BDS) (",
+        "5 years) All applicants to Bachelor of Dent",
+        "Only observation hours completed between 1",
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) ("
+      ]
     },
     {
       "id": "prog:04f73c4f0bbd",
@@ -2151,7 +2559,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Dental Science (BDS) (",
+        "5 years) All applicants to Bachelor of Dent",
+        "Only observation hours completed between 1",
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) ("
+      ]
     },
     {
       "id": "prog:9998c3681285",
@@ -2197,7 +2614,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND/OR Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND/OR Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score to gu"
+      ]
     },
     {
       "id": "prog:3225382f485a",
@@ -2231,7 +2658,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Dental Science (BDS) (",
+        "5 years) All applicants to Bachelor of Dent",
+        "Only observation hours completed between 1",
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) ("
+      ]
     },
     {
       "id": "prog:f0f360b9b960",
@@ -2254,7 +2690,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "C HL 4",
+        "Physics OR Chemistry HL 4",
+        "7 A choice of TWO from Biology",
+        "Physics OR Chemistry 1",
+        "2 A choice of TWO from Biology",
+        "2 A choice of TWO from B",
+        "English Language Mathematics Biology/Physics/Chemistry ALL Applicants must have completed English Language, Mathematics, Biology, Physics or Chemistry",
+        "English Language, Mathematics, Biology AND Physics"
+      ]
     },
     {
       "id": "prog:14f2961522c0",
@@ -2313,7 +2760,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 7",
+        "as well as English Level 5",
+        "and Mathematics Level 7",
+        "Level 5 Mathematics Level",
+        "Level 5 and Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 7 Waitlisting Applicants with an APS of 39-41, as well as English Level 5 and Mathematics Level 7, may be wait-listed, subject"
+      ]
     },
     {
       "id": "prog:12e2d3ccfad5",
@@ -2372,7 +2830,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 7",
+        "as well as English Level 5",
+        "and Mathematics Level 7",
+        "Level 5 Mathematics Level",
+        "Level 5 and Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 7 Waitlisting Applicants with an APS of 39-41, as well as English Level 5 and Mathematics Level 7, may be wait-listed, subject"
+      ]
     },
     {
       "id": "prog:bde8109f18e3",
@@ -2406,7 +2875,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 7",
+        "as well as English Level 5",
+        "and Mathematics Level 7",
+        "Level 5 Mathematics Level",
+        "Level 5 and Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 7 Waitlisting Applicants with an APS of 39-41, as well as English Level 5 and Mathematics Level 7, may be wait-listed, subject"
+      ]
     },
     {
       "id": "prog:cd253fb8b890",
@@ -2446,7 +2926,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Health Systems Sciences (All 3",
+        "5 Bachelor of Clinical Medical Practice",
+        "3 years)",
+        "4 Bachelor of Medicine and Bachelor of S",
+        "6 years) There are two entry points into th",
+        "5 Bachelor of Dental Science (BDS) (",
+        "5 years) All applicants to Bachelor of Dent",
+        "LIFE SCIENCES AND PHYSICAL SCIENCES"
+      ]
     },
     {
       "id": "prog:8f1023a835cc",
@@ -2486,6 +2982,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Health Systems Sciences (All 3",
+        "5 Bachelor of Clinical Medical Practice",
+        "3 years)",
+        "4 Bachelor of Medicine and Bachelor of S",
+        "6 years) There are two entry points into th",
+        "5 Bachelor of Dental Science (BDS) (",
+        "5 years) All applicants to Bachelor of Dent",
+        "LIFE SCIENCES AND PHYSICAL SCIENCES"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -2520,6 +3032,12 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -2554,6 +3072,12 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -2594,7 +3118,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s or Bachelor of Technology degree level) require an average of at least 70%",
+        "Applicants with a completed undergraduate university degree (at a minimum) require an average of at least 70%"
+      ]
     },
     {
       "id": "prog:868c3421e632",
@@ -2634,7 +3163,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Life Sciences AND Chemistry AND Auxiliary Mathematics AND Any other Level I course SECOND YEAR  Life on Earth: Diversity  Life on Earth: Evolution  Ecology, Environment, and Conservation IIA and IIB AND"
+      ]
     },
     {
       "id": "prog:b3ea9bd82279",
@@ -2674,7 +3207,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Life Sciences and Medical)  Scientific and Medical Research PROGRAMME OUTLINE FIRST YEAR Introductory Life Sciences AND Chemistry AND Auxiliary Mathematics AND Any other Level I course SECOND YEAR Molecular"
+      ]
     },
     {
       "id": "prog:6f4e11850734",
@@ -2714,7 +3251,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND/OR Physical Sciences Level 5",
+        "The average of the five subjects carries a 60%",
+        "The average of the NBT scores carries a 40%",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND/OR Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score to guide ap",
+        "English, Mathematics, best of Physical Sciences/Life Sciences and the best two other subjects"
+      ]
     },
     {
       "id": "prog:60dea5c4ae33",
@@ -2754,7 +3304,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:95f469fc0625",
@@ -2777,7 +3328,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND/OR Physical Sciences Level 5",
+        "The average of the five subjects carries a 60%",
+        "The average of the NBT scores carries a 40%",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND/OR Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score to guide appl",
+        "English, Mathematics, best of Physical Sciences/Life Sciences and the best two other subjects"
+      ]
     },
     {
       "id": "prog:e1e644224cf2",
@@ -2800,7 +3364,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics  Architectural Design and Theory I  Theory and Practice of Construction I  Histories and Theories of Architecture I  History and Settlement of Architecture  Design Representation I  D"
+      ]
     },
     {
       "id": "prog:69b3946c0159",
@@ -2859,7 +3427,17 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND/OR Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND/OR Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score to gu"
+      ]
     },
     {
       "id": "prog:a78be8d2541e",
@@ -2893,7 +3471,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability."
+      ]
     },
     {
       "id": "prog:7e43e37f2279",
@@ -2927,7 +3510,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability."
+      ]
     },
     {
       "id": "prog:f908d9bd4338",
@@ -2967,7 +3560,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 4",
+        "Mathematics Level 4",
+        "OR Maths Literacy Level 7",
+        "Life Sciences AND/OR Physical Sciences Level 4",
+        "Level 4 Mathematics Level",
+        "Level 7 Life Sciences AND/OR Physical Sciences Le",
+        "English Home Language or First Additional Language Level 4 Mathematics Level 4 OR Maths Literacy Level 7 Life Sciences AND/OR Physical Sciences Level 4 The Faculty of Health Sciences uses a Composite Index"
+      ]
     },
     {
       "id": "prog:39df8b726122",
@@ -3007,7 +3611,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND/OR Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND/OR Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score to gu"
+      ]
     },
     {
       "id": "prog:b4c17ba4db94",
@@ -3041,7 +3655,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 4",
+        "Mathematics Level 4",
+        "OR Maths Literacy Level 7",
+        "Life Sciences AND/OR Physical Sciences Level 4",
+        "Level 4 Mathematics Level",
+        "Level 7 Life Sciences AND/OR Physical Sciences Le",
+        "English Home Language or First Additional Language Level 4 Mathematics Level 4 OR Maths Literacy Level 7 Life Sciences AND/OR Physical Sciences Level 4 The Faculty of Health Sciences uses a Composite Index"
+      ]
     },
     {
       "id": "prog:2264a328e7be",
@@ -3075,7 +3705,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Dental Science (BDS) (",
+        "5 years) All applicants to Bachelor of Dent",
+        "Only observation hours completed between 1",
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) ("
+      ]
     },
     {
       "id": "prog:2325f6100f9c",
@@ -3109,7 +3748,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ]
     },
     {
       "id": "prog:bb7e702186b6",
@@ -3146,6 +3796,11 @@
       },
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
       ]
     },
     {
@@ -3183,6 +3838,11 @@
       },
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
       ]
     },
     {
@@ -3217,7 +3877,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
+      ]
     },
     {
       "id": "prog:6ac8bcd3b6e0",
@@ -3254,6 +3919,11 @@
       },
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
       ]
     },
     {
@@ -3288,7 +3958,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
+      ]
     },
     {
       "id": "prog:da0381d450be",
@@ -3322,7 +3997,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      },
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
+      ]
     },
     {
       "id": "prog:14997980a0f6",
@@ -3356,7 +4042,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability.",
+        "Language Pathology degree.",
+        "language pathology professional, preferably in a public"
+      ]
     },
     {
       "id": "prog:242b9dcebec7",
@@ -3390,7 +4083,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability.",
+        "Language Pathology degree.",
+        "language pathology professional, preferably in a public"
+      ]
     },
     {
       "id": "prog:ecbf6f842eb9",
@@ -3427,6 +4127,13 @@
       },
       "modules": [
         "Only 60 1st year places are available"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability.",
+        "Language Pathology degree.",
+        "language pathology professional, preferably in a public"
       ]
     },
     {
@@ -3461,7 +4168,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability.",
+        "Language Pathology degree.",
+        "language pathology professional, preferably in a public"
+      ]
     },
     {
       "id": "prog:245bd2bdb6af",
@@ -3495,7 +4209,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      },
+      "admission_requirements_raw": [
+        "33 APS",
+        "listed, subject to place availability.",
+        "Language Pathology degree.",
+        "language pathology professional, preferably in a public"
+      ]
     },
     {
       "id": "prog:c5237f702899",
@@ -3535,6 +4262,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 4",
+        "Mathematics Level 4",
+        "OR Maths Literacy Level 7",
+        "Life Sciences AND/OR Physical Sciences Level 4",
+        "Level 4 Mathematics Level",
+        "Level 7 Life Sciences AND/OR Physical Sciences Le",
+        "English Home Language or First Additional Language Level 4 Mathematics Level 4 OR Maths Literacy Level 7 Life Sciences AND/OR Physical Sciences Level 4 The Faculty of Health Sciences uses a Composite Index"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -3575,6 +4318,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Health Systems Sciences (All 3",
+        "5 Bachelor of Clinical Medical Practice",
+        "3 years)",
+        "4 Bachelor of Medicine and Bachelor of S",
+        "6 years) There are two entry points into th",
+        "5 Bachelor of Dental Science (BDS) (",
+        "5 years) All applicants to Bachelor of Dent",
+        "LIFE SCIENCES AND PHYSICAL SCIENCES"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -3609,7 +4368,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Health Systems Sciences (All 3",
+        "5 Bachelor of Clinical Medical Practice",
+        "3 years)",
+        "4 Bachelor of Medicine and Bachelor of S",
+        "6 years) There are two entry points into th",
+        "5 Bachelor of Dental Science (BDS) (",
+        "5 years) All applicants to Bachelor of Dent",
+        "LIFE SCIENCES AND PHYSICAL SCIENCES"
+      ]
     },
     {
       "id": "prog:f5e4c8c9b195",
@@ -3643,7 +4418,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "st Economics lA Economics lB OR Economic Theory lA Economic Theory lB AND Accounting l / Business Accounting l AND Computational Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Major 1",
+        "third year level) AND Major 2",
+        "Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Maj"
+      ]
     },
     {
       "id": "prog:f636047e1435",
@@ -3677,6 +4458,12 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -3711,7 +4498,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:476a6366133c",
@@ -3762,7 +4553,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "as well as English 5",
+        "and Mathematics 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 35-37, as well as English 5 and Mathematics 5, may be wait-listed subject to place avai",
+        "37, as well as English 5",
+        "listed subject to place"
+      ]
     },
     {
       "id": "prog:13fb703dd7d9",
@@ -3796,7 +4599,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "as well as English Level 5",
+        "and Mathematics Level 7",
+        "Level 5 and Mathematics Level",
+        "English Level 5 and Mathematics Level 7, may be wait-listed, subject to place availability",
+        "mathematics, statistics, and computing"
+      ]
     },
     {
       "id": "prog:64ec3b75781a",
@@ -3830,7 +4641,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "as well as English Level 5",
+        "and Mathematics Level 7",
+        "Level 5 and Mathematics Level",
+        "English Level 5 and Mathematics Level 7, may be wait-listed, subject to place availability",
+        "mathematics, statistics, and computing"
+      ]
     },
     {
       "id": "prog:d5947de1b358",
@@ -3870,7 +4689,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "st Economics lA Economics lB OR Economic Theory lA Economic Theory lB AND Accounting l / Business Accounting l AND Computational Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Major 1",
+        "third year level) AND Major 2",
+        "Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Maj"
+      ]
     },
     {
       "id": "prog:9101827af45d",
@@ -3913,7 +4738,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:ad298e39ac77",
@@ -3947,7 +4773,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics I  Business Statistics I SECOND YEAR  Economics IIA AND IIB  A student must choose between Politics II and Philosophy II  History of Philosophy: A Classical and Ear"
+      ]
     },
     {
       "id": "prog:8d444dad8300",
@@ -3981,7 +4811,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "as well as English Level 5",
+        "and Mathematics Level 5",
+        "Level 5 and Mathematics Level",
+        "English Level 5 and Mathematics Level 5, may be wait-listed subject to place availability"
+      ]
     },
     {
       "id": "prog:5c405c21a451",
@@ -4015,7 +4852,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics I  Business Statistics I SECOND YEAR  Economics IIA AND IIB  A student must choose between Politics II and Philosophy II  History of Philosophy: A Classical and Ear"
+      ]
     },
     {
       "id": "prog:79019b087e6e",
@@ -4038,7 +4879,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "st Economics lA Economics lB OR Economic Theory lA Economic Theory lB AND Accounting l / Business Accounting l AND Computational Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Major 1",
+        "third year level) AND Major 2",
+        "Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Maj"
+      ]
     },
     {
       "id": "prog:10b88a8b33aa",
@@ -4089,7 +4936,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "as well as English 5",
+        "and Mathematics 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 35-37, as well as English 5 and Mathematics 5, may be wait-listed subject to place avai",
+        "37, as well as English 5",
+        "listed subject to place"
+      ]
     },
     {
       "id": "prog:be063c864973",
@@ -4129,7 +4988,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "as well as English 5",
+        "and Mathematics 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 35-37, as well as English 5 and Mathematics 5, may be wait-listed subject to place avai",
+        "37, as well as English 5",
+        "listed subject to place"
+      ]
     },
     {
       "id": "prog:8afd24076521",
@@ -4178,7 +5049,13 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "st Economics lA Economics lB OR Economic Theory lA Economic Theory lB AND Accounting l / Business Accounting l AND Computational Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Major 1",
+        "third year level) AND Major 2",
+        "Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Maj"
+      ]
     },
     {
       "id": "prog:2db9988666b3",
@@ -4218,7 +5095,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "st Economics lA Economics lB OR Economic Theory lA Economic Theory lB AND Accounting l / Business Accounting l AND Computational Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Major 1",
+        "third year level) AND Major 2",
+        "Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Maj"
+      ]
     },
     {
       "id": "prog:b24bedf5b931",
@@ -4267,7 +5150,16 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "Mathematics I  Business Statistics I SECOND YEAR  Financial Accounting II  Management Accounting and Finance II  Taxation II  Auditing II  Business Enterprise Law  Mercantile Law  Information Sys",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlis"
+      ]
     },
     {
       "id": "prog:67a771c9a52e",
@@ -4310,7 +5202,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "as well as English Level 6",
+        "and Mathematics Level 6",
+        "Level 5 Mathematics Level",
+        "Level 6 and Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 35-42, as well as English Level 6 and Mathematics Level 6, may be wait-listed subject",
+        "Mathematics I  Business Statistics I  Fundamentals of Info"
+      ]
     },
     {
       "id": "prog:f40c81278902",
@@ -4353,7 +5257,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:628d8777f936",
@@ -4387,7 +5292,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "st Economics lA Economics lB OR Economic Theory lA Economic Theory lB AND Accounting l / Business Accounting l AND Computational Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Major 1",
+        "third year level) AND Major 2",
+        "Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Maj"
+      ]
     },
     {
       "id": "prog:d870209625fb",
@@ -4421,7 +5332,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "as well as English Level 5",
+        "and Mathematics Level 5",
+        "Level 5 and Mathematics Level",
+        "English Level 5 and Mathematics Level 5, may be wait-listed subject to place availability"
+      ]
     },
     {
       "id": "prog:afdd25fefef2",
@@ -4455,7 +5373,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics I  Business Statistics I SECOND YEAR  Economics IIA AND IIB  A student must choose between Politics II and Philosophy II  History of Philosophy: A Classical and Ear"
+      ]
     },
     {
       "id": "prog:611511848fb8",
@@ -4501,7 +5423,12 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Grades 4",
+        "Grades 8"
+      ]
     },
     {
       "id": "prog:14101b25ba17",
@@ -4547,7 +5474,12 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Grades 4",
+        "Grades 8"
+      ]
     },
     {
       "id": "prog:4217845340a6",
@@ -4573,7 +5505,12 @@
         "YEAR, FULL",
         "TIME INTERN"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Grades 4",
+        "Grades 8"
+      ]
     },
     {
       "id": "prog:30f31aeea54c",
@@ -4596,7 +5533,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 Bachelor of Arts in Fine Arts (",
+        "5 Bachelor of Music (",
+        "5 Wits School of Education (WSoE) Bachelor",
+        "5 An APS of",
+        "5 Senior Phase and Further Education and",
+        "5 Teaching subjects",
+        "Mathematics or Maths Literacy or Technical Mathematics Foundation Phase Teaching (4 years) 37 + 5 4 5 5 An APS of 34-36 may be wait-listed, subject to place availability",
+        "Physical Sciences, Life Sciences, Engineering Graphics & Design (EGD), Geography, History, IsiZulu Home Language, IsiZulu First Additional Language, Sesotho Home Language, Sesotho First Additional Language, Info",
+        "Mathematics, Technical Mathematic"
+      ]
     },
     {
       "id": "prog:e1f840eaa81d",
@@ -4633,7 +5583,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      },
+      "admission_requirements_raw": [
+        "Grades 4",
+        "Grades 8"
+      ]
     },
     {
       "id": "prog:4cf0fdbaf9d8",
@@ -4679,7 +5640,12 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
+      ]
     },
     {
       "id": "prog:b45580cb33b0",
@@ -4725,7 +5691,12 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "35 APS",
+        "listed, subject to place availability."
+      ]
     },
     {
       "id": "prog:9c84a84e17b8",
@@ -4751,7 +5722,12 @@
         "YEAR, FULL",
         "TIME INTERN"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Grades 4",
+        "Grades 8"
+      ]
     },
     {
       "id": "prog:b9f39fba2725",
@@ -4777,7 +5753,12 @@
         "YEAR, FULL",
         "TIME INTERN"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Grades 4",
+        "Grades 8"
+      ]
     },
     {
       "id": "prog:bf483ee88b5b",
@@ -4817,7 +5798,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d620a7030b88",
@@ -4857,7 +5839,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND/OR Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND/OR Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score to guide appl"
+      ]
     },
     {
       "id": "prog:8a38c6a74999",
@@ -4897,7 +5889,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 5",
+        "applicants who achieve Level 6",
+        "Level 5 may be wait",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted"
+      ]
     },
     {
       "id": "prog:cbbeaa7fd6f5",
@@ -4937,7 +5937,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "Mathematics IA AND IB  Engineering Physics IA AND IB  Applied Physics  Game Design I AND II SECOND YEAR  Data Structures and Algorithms  Software Development I  Microprocessors  Electronics I",
+        "Mathematics II  Digital Art Design Project  Game Creation IIA AND IIB Digital Arts Bachelor of Engineering Science in Digital Arts EBA01 DURATION: 3 YEARS NSC REQUIREMENTS APS 42 + English Home Language o",
+        "Mathematics Level 5 Physical Sciences"
+      ]
     },
     {
       "id": "prog:1ee3d52c79d3",
@@ -4977,7 +5987,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c9d3a24a472b",
@@ -5017,7 +6028,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c5321a86434a",
@@ -5051,6 +6063,12 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5091,6 +6109,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5131,6 +6165,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5165,7 +6215,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ]
     },
     {
       "id": "prog:7dec145545ec",
@@ -5199,7 +6265,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "C HL 4",
+        "D HL 4",
+        "3 School of Civil and Environmental Enginee",
+        "3 School of Electrical and Information Engi",
+        "3 School of Mechanical",
+        "English Language Mathematics Physics Chemistry (BSc ChemEng and BSc Metallurgy ONL Y) School of Chemical and Metallurgical Engineering A-C A-C A-C HL 4-7, SL 5-7 1-3 A-C A-C HL 4-7, SL 5-7 1-3 A-C A-C HL 4"
+      ]
     },
     {
       "id": "prog:e91dfd8b72ed",
@@ -5233,6 +6308,12 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5267,7 +6348,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics  Physics SECOND YEAR  Introduction to Structures  Building Science I  Construction Technology II  Quantities and Specifications II  Site Management  Accounting Principles in Constructi"
+      ]
     },
     {
       "id": "prog:ac9df77dc1bc",
@@ -5301,6 +6386,19 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 30-35 may be wait-listed subject to place availability"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5335,6 +6433,13 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
       }
     },
     {
@@ -5369,7 +6474,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics  Physics SECOND YEAR  Introduction to Structures  Building Science I  Construction Technology II  Quantities and Specifications II  Site Management  Accounting Principles in Constructi"
+      ]
     },
     {
       "id": "prog:653cd98d3266",
@@ -5409,7 +6518,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "5 Bachelor of Engineering Science in Digita",
+        "5 School of Mechanical",
+        "4 years)",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "5 Bachelor of Science in Engineering in Mec",
+        "5 School of Mining Engineering Bachelor of",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed."
+      ]
     },
     {
       "id": "prog:0e7a9b19d738",
@@ -5443,6 +6566,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5483,6 +6622,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5517,7 +6672,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ]
     },
     {
       "id": "prog:6392419c8dfe",
@@ -5551,7 +6722,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ]
     },
     {
       "id": "prog:9539ad390b8b",
@@ -5585,6 +6772,19 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 30-35 may be wait-listed subject to place availability"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5619,6 +6819,19 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 30-35 may be wait-listed subject to place availability"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5653,6 +6866,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics 124 Computer Science 125 Mathematical Sciences"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5687,7 +6909,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics  Physics SECOND YEAR  Introduction to Structures  Building Science I  Construction Technology II  Quantities and Specifications II  Site Management  Accounting Principles in Constructi"
+      ]
     },
     {
       "id": "prog:74542c43c988",
@@ -5721,7 +6947,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics  Physics SECOND YEAR  Introduction to Structures  Building Science I  Construction Technology II  Quantities and Specifications II  Site Management  Accounting Principles in Constructi"
+      ]
     },
     {
       "id": "prog:efec78ea4031",
@@ -5761,7 +6991,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "5 Bachelor of Engineering Science in Digita",
+        "5 School of Mechanical",
+        "4 years)",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "5 Bachelor of Science in Engineering in Mec",
+        "5 School of Mining Engineering Bachelor of",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed."
+      ]
     },
     {
       "id": "prog:83302f6b220a",
@@ -5801,7 +7045,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "5 Bachelor of Engineering Science in Digita",
+        "5 School of Mechanical",
+        "4 years)",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "5 Bachelor of Science in Engineering in Mec",
+        "5 School of Mining Engineering Bachelor of",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed."
+      ]
     },
     {
       "id": "prog:865603c7a1a9",
@@ -5841,7 +7099,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Chemistry lllB AND Process Engineering Fundamentals IIB The School of Chemistry offers a 3",
+        "Mathematics II (Engineering) AND Chemistry IIA AND Chemistry IIB AND Process Engineering Fundamentals IIA AND Economic Concepts IA THIRD YEAR Applied Chemistry lll:  Applied Chemistry lllA  Applied Chemist"
+      ]
     },
     {
       "id": "prog:7e704f76495a",
@@ -5881,7 +7144,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 School of Civil and Environmental Enginee",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed.Bachelor of Science in Engineering in Metallurgy",
+        "listed."
+      ]
     },
     {
       "id": "prog:cd51db4bf214",
@@ -5921,7 +7195,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 School of Civil and Environmental Enginee",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed.Bachelor of Science in Engineering in Metallurgy",
+        "listed."
+      ]
     },
     {
       "id": "prog:df556f11a297",
@@ -5961,7 +7246,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 School of Civil and Environmental Enginee",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed.Bachelor of Science in Engineering in Metallurgy",
+        "listed."
+      ]
     },
     {
       "id": "prog:c5b8093a14aa",
@@ -6001,7 +7297,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "5 Bachelor of Engineering Science in Digita",
+        "5 School of Mechanical",
+        "4 years)",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "5 Bachelor of Science in Engineering in Mec",
+        "5 School of Mining Engineering Bachelor of",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed."
+      ]
     },
     {
       "id": "prog:a219a1326008",
@@ -6041,7 +7351,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "5 Bachelor of Engineering Science in Digita",
+        "5 School of Mechanical",
+        "4 years)",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "5 Bachelor of Science in Engineering in Mec",
+        "5 School of Mining Engineering Bachelor of",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed."
+      ]
     },
     {
       "id": "prog:cfbf4324dea5",
@@ -6081,7 +7405,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 School of Civil and Environmental Enginee",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed.Bachelor of Science in Engineering in Metallurgy",
+        "listed."
+      ]
     },
     {
       "id": "prog:992c249c0588",
@@ -6121,7 +7456,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "5 Bachelor of Engineering Science in Digita",
+        "5 School of Mechanical",
+        "4 years)",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "5 Bachelor of Science in Engineering in Mec",
+        "5 School of Mining Engineering Bachelor of",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed."
+      ]
     },
     {
       "id": "prog:5e79fd44f647",
@@ -6161,7 +7510,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 School of Civil and Environmental Enginee",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed.Bachelor of Science in Engineering in Metallurgy",
+        "listed."
+      ]
     },
     {
       "id": "prog:53a095afd9ac",
@@ -6201,7 +7561,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics II THIRD YEAR  Numerical Methods (Metallurgy)  Engineering Failure Analysis  Kinetics and Transport Processes in Metallurgical Engineering  Solidification, Heat Treatment and Microstructure"
+      ]
     },
     {
       "id": "prog:2145af5ce262",
@@ -6241,7 +7605,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "4 Acceptance depends on departmental select",
+        "listed.",
+        "33 may be accepted on"
+      ]
     },
     {
       "id": "prog:5fe811c41264",
@@ -6275,6 +7646,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6315,6 +7702,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6355,7 +7758,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ]
     },
     {
       "id": "prog:29541467e4e5",
@@ -6395,7 +7814,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ]
     },
     {
       "id": "prog:ed86975b96a6",
@@ -6437,7 +7872,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:003bc6e7bc3d",
@@ -6471,6 +7907,19 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 30-35 may be wait-listed subject to place availability"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6505,7 +7954,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "requirements/admission",
+        "requirements"
+      ]
     },
     {
       "id": "prog:e4b356ef3dc3",
@@ -6545,7 +8004,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 School of Civil and Environmental Enginee",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed.Bachelor of Science in Engineering in Metallurgy",
+        "listed."
+      ]
     },
     {
       "id": "prog:09804a537a0a",
@@ -6579,7 +8054,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ogrammes Duration (years) APS English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3",
+        "5 Applicants with",
+        "Biological Sciences Bachelor of Science in the field of Biological Sciences 3",
+        "Earth Sciences Bachelor of Science in the fields of Geographical and Archaeological Sciences 3",
+        "Bachelor of Science in the field of Geospatial Sciences 3",
+        "5 Bachelor of Science in the field of Envi",
+        "ronmental Studies 3",
+        "5 Bachelor of Science in the field of Geol",
+        "ogical Sciences 3",
+        "5 Mathematical Sciences Bachelor of Science",
+        "English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3 42 + 5 5 Applicants with 40-41 points may be wait-listed, subject to"
+      ]
     },
     {
       "id": "prog:fcd12d830a7b",
@@ -6619,7 +8108,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 7",
+        "Mathematics Level 7",
+        "Physical Sciences Level 7",
+        "Level 7 Mathematics Level",
+        "Level 7 Waitlisting Applicants with",
+        "Mathematics II:  Abstract Mathematics  Differential Equations  Basic Analysis  Linear Algebra  Multivariable Calculus  Advanced Analysis THIRD YEAR Actuarial Science III:  Computers and Communica",
+        "English Home Language or First Additional Language Level 7 Mathematics Level 7 Physical Sciences Level 7 Waitlisting Applicants with 44+"
+      ]
     },
     {
       "id": "prog:f6871f554706",
@@ -6659,7 +8159,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PHYSICS AND ASTROPHYSICS DURATION 3",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 6",
+        "Physical Sciences Level 6",
+        "Level 5 Mathematics Level",
+        "Level 6 Waitlisting Applicants with",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 6 Physical Sciences Level 6 Waitlisting Applicants with 40-42 points may be wait-listed, subject to place availability"
+      ]
     },
     {
       "id": "prog:18d8f19d2988",
@@ -6693,7 +8203,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ogrammes Duration (years) APS English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3",
+        "5 Applicants with",
+        "Biological Sciences Bachelor of Science in the field of Biological Sciences 3",
+        "Earth Sciences Bachelor of Science in the fields of Geographical and Archaeological Sciences 3",
+        "Bachelor of Science in the field of Geospatial Sciences 3",
+        "5 Bachelor of Science in the field of Envi",
+        "ronmental Studies 3",
+        "5 Bachelor of Science in the field of Geol",
+        "ogical Sciences 3",
+        "5 Mathematical Sciences Bachelor of Science",
+        "English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3 42 + 5 5 Applicants with 40-41 points may be wait-listed, subject to"
+      ]
     },
     {
       "id": "prog:90183b2eb64d",
@@ -6733,7 +8257,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "APPLIED CHEMISTRY AND CHEMISTRY DURATION 3",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 6",
+        "Physical Sciences Level 6",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 6 Physical Sciences Level 6 W"
+      ]
     },
     {
       "id": "prog:7e961c67db1f",
@@ -6767,7 +8300,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics II:  Abstract Mathematics  Basic Analysis  Linear Algebra  Multivariable Calculus  Introduction to Mathematical Statistics  Advanced Analysis AND Computational and Applied Mathematics ll"
+      ]
     },
     {
       "id": "prog:635b02f7e995",
@@ -6801,7 +8338,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ogrammes Duration (years) APS English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3",
+        "5 Applicants with",
+        "Biological Sciences Bachelor of Science in the field of Biological Sciences 3",
+        "Earth Sciences Bachelor of Science in the fields of Geographical and Archaeological Sciences 3",
+        "Bachelor of Science in the field of Geospatial Sciences 3",
+        "5 Bachelor of Science in the field of Envi",
+        "ronmental Studies 3",
+        "5 Bachelor of Science in the field of Geol",
+        "ogical Sciences 3",
+        "5 Mathematical Sciences Bachelor of Science",
+        "English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3 42 + 5 5 Applicants with 40-41 points may be wait-listed, subject to"
+      ]
     },
     {
       "id": "prog:3660f23a1c11",
@@ -6835,7 +8386,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 118119,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with 40-41 points may be wait-listed, subject to place availability"
+      ]
     },
     {
       "id": "prog:dbbce9904758",
@@ -6875,7 +8439,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ogrammes Duration (years) APS English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3",
+        "5 Applicants with",
+        "Biological Sciences Bachelor of Science in the field of Biological Sciences 3",
+        "Earth Sciences Bachelor of Science in the fields of Geographical and Archaeological Sciences 3",
+        "Bachelor of Science in the field of Geospatial Sciences 3",
+        "5 Bachelor of Science in the field of Envi",
+        "ronmental Studies 3",
+        "5 Bachelor of Science in the field of Geol",
+        "ogical Sciences 3",
+        "5 Mathematical Sciences Bachelor of Science",
+        "English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3 42 + 5 5 Applicants with 40-41 points may be wait-listed, subject to"
+      ]
     },
     {
       "id": "prog:1a9411747bad",
@@ -6909,6 +8487,25 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ogrammes Duration (years) APS English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3",
+        "5 Applicants with",
+        "Biological Sciences Bachelor of Science in the field of Biological Sciences 3",
+        "Earth Sciences Bachelor of Science in the fields of Geographical and Archaeological Sciences 3",
+        "Bachelor of Science in the field of Geospatial Sciences 3",
+        "5 Bachelor of Science in the field of Envi",
+        "ronmental Studies 3",
+        "5 Bachelor of Science in the field of Geol",
+        "ogical Sciences 3",
+        "5 Mathematical Sciences Bachelor of Science",
+        "English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3 42 + 5 5 Applicants with 40-41 points may be wait-listed, subject to"
+      ],
+      "pricing": {
+        "amount_min": 120121,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6949,7 +8546,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ogrammes Duration (years) APS English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3",
+        "5 Applicants with",
+        "Biological Sciences Bachelor of Science in the field of Biological Sciences 3",
+        "Earth Sciences Bachelor of Science in the fields of Geographical and Archaeological Sciences 3",
+        "Bachelor of Science in the field of Geospatial Sciences 3",
+        "5 Bachelor of Science in the field of Envi",
+        "ronmental Studies 3",
+        "5 Bachelor of Science in the field of Geol",
+        "ogical Sciences 3",
+        "5 Mathematical Sciences Bachelor of Science",
+        "English Home Language or First Additional Language Mathematics Physical Sciences Waitlisting Bachelor of Science (BSc) General 3 42 + 5 5 Applicants with 40-41 points may be wait-listed, subject to"
+      ]
     },
     {
       "id": "prog:c832da6b7194",
@@ -6989,7 +8600,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "requirements/admission",
+        "requirements"
+      ]
     },
     {
       "id": "prog:f5aaf63d4942",
@@ -7029,7 +8645,32 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ence in the field of Environmental Studies 3",
+        "5 Bachelor of Science in the field of Geol",
+        "ogical Sciences 3",
+        "5 Mathematical Sciences Bachelor of Science",
+        "in the field of Actuarial Science 3",
+        "7 Applicants with",
+        "points and English Level 6",
+        "Bachelor of Science in the field of Computational and Applied Mathematics 3",
+        "6 Applicants with",
+        "Bachelor of Science in the field of Computer Science 3",
+        "6 Bachelor of Science in the field of Mat",
+        "hematical Sciences 3",
+        "Mathematics Level 7",
+        "and Physical Sciences Level 7",
+        "Physical Sciences Bachelor of Science in the field of Physical Sciences (Chemistry/Physics) 3",
+        "5 Applicants with",
+        "Level 6 may be wait",
+        "Level 7 and Physical Sciences Level",
+        "English Level 6 may be wait-listed, subject to place availability",
+        "Mathematics 3 44 + 5 6 Applicants with 41-43 points may be wait-listed, subject to place availability",
+        "English Level 6, Mathematics Level 7 and Physical Sciences Level 7 may be wait-listed, subject to place availability",
+        "Physical Sciences Bachelor of Science in the field of Physical Sciences (Chemistry/Physics) 3 42 + 5 6 5 Applicants with 44+"
+      ]
     },
     {
       "id": "prog:2f09e87f6d66",
@@ -7063,6 +8704,19 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 30-35 may be wait-listed subject to place availability"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -7097,7 +8751,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 30-35 may be wait-listed subject to place availability"
+      ]
     },
     {
       "id": "prog:38b0436a9921",
@@ -7123,7 +8785,13 @@
       "fees_per_year": null,
       "campuses_offering": [
         "Medical School"
-      ]
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:85f72192f7e3",
@@ -7157,6 +8825,19 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Level 5 Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Waitlisting Applicants with an APS of 30-35 may be wait-listed subject to place availability"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -7191,7 +8872,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "requirements/admission",
+        "requirements"
+      ]
     },
     {
       "id": "prog:36748d1ac79c",
@@ -7225,7 +8916,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 School of Civil and Environmental Enginee",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed.Bachelor of Science in Engineering in Metallurgy",
+        "listed."
+      ]
     },
     {
       "id": "prog:3ccdf64abb0e",
@@ -7265,7 +8967,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 School of Civil and Environmental Enginee",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed.Bachelor of Science in Engineering in Metallurgy",
+        "listed."
+      ]
     },
     {
       "id": "prog:87cb4cb64de7",
@@ -7305,7 +9018,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "5 School of Civil and Environmental Enginee",
+        "5 Generally",
+        "applicants who achieve Level 6",
+        "Level 6 in English",
+        "English, Mathematics and Physical Sciences stand a greater chance of being accepted",
+        "listed.Bachelor of Science in Engineering in Metallurgy",
+        "listed."
+      ]
     },
     {
       "id": "prog:1fd018fe9992",
@@ -7345,6 +9069,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -7379,7 +9119,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ]
     },
     {
       "id": "prog:a4c1996c525a",
@@ -7413,6 +9169,12 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -7447,7 +9209,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 Bachelor of Oral Health Sciences (BOHS",
+        "3 years)",
+        "4 Bachelor of Nursing (BNurs) (",
+        "4 years)",
+        "4 Bachelor of Pharmacy (BPharm) (",
+        "5 Bachelor of Science in Occupational T",
+        "4 years) All applicants to BSc Occupational",
+        "Only observation hours completed between 1"
+      ]
     },
     {
       "id": "prog:49a96c5cba4f",
@@ -7481,7 +9259,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "requirements/admission",
+        "requirements"
+      ]
     },
     {
       "id": "prog:63c998f472b9",
@@ -7515,6 +9303,18 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "year BSc(URP) programme, you may register for the professional",
+        "finder/undergraduate/ebe/urban",
+        "regional",
+        "planning/"
+      ],
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -7538,7 +9338,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d9d9089e9706",
@@ -7574,7 +9375,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics and Statistics and Accounting Information Systems"
+      ]
     },
     {
       "id": "prog:e920790273bf",
@@ -7599,7 +9404,11 @@
       "career_outcomes": [
         "ment accountant registered with the Chartered Institute of"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics and Statistics and Accounting Information Systems"
+      ]
     },
     {
       "id": "prog:92e1564e193e",
@@ -7635,7 +9444,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 6",
+        "as well as English Level 6",
+        "and Mathematics Level 6",
+        "Level 5 Mathematics Level",
+        "Level 6 and Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 6 Waitlisting Applicants with an APS of 39-43, as well as English Level 6 and Mathematics Level 6, may be wait-listed subject t",
+        "43, as well as English Level 6",
+        "listed subject to place"
+      ]
     },
     {
       "id": "prog:9bd1affc6ff6",
@@ -7661,6 +9483,12 @@
       "fees_per_year": null,
       "campuses_offering": [
         "Medical School"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Basic 0",
+        "English or Afrikaans",
+        "Mathematics (MAT) Min Max Min Max Min Max Proficient 71 100 Proficient 70 100 Proficient 69 100 Intermediate 35 70 Intermediate 38 69 Intermediate 35 68 Basic 0 34 Basic 0 37 Basic 0 34 Wits Additional Placeme"
       ]
     },
     {
@@ -7684,7 +9512,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics or Mathematics I (major):  Algebra  Calculus AND Any three other level one courses, recommended courses:  Geography  Introductory Life Sciences  Archaeology SECOND YEAR  People and th"
+      ]
     },
     {
       "id": "prog:4652716cd0e2",
@@ -7713,7 +9545,11 @@
         "PROGRAMME OUTLINE",
         "FIRST YEAR"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics II  Physics II (Electrical)  Biomedical Statistics and Numerical Methods THIRD YEAR  Anatomy  Biomedical Transport Phenomena  Biomedical Measurement, Instrumentation and Imaging  Signal"
+      ]
     },
     {
       "id": "prog:525a3ca4313f",
@@ -7736,7 +9572,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics or Mathematics I (major):  Algebra  Calculus AND Any three other level one courses, recommended courses:  Geography  Introductory Life Sciences  Archaeology SECOND YEAR  People and th"
+      ]
     },
     {
       "id": "prog:b882ba322834",
@@ -7759,7 +9599,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:469c549b3394",
@@ -7782,7 +9626,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "time options"
+      ]
     },
     {
       "id": "prog:27e34d801fbf",
@@ -7805,7 +9653,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics or Mathematics I (major):  Algebra  Calculus AND Any three other level one courses, recommended courses:  Geography  Introductory Life Sciences  Archaeology SECOND YEAR  People and th"
+      ]
     },
     {
       "id": "prog:410d9646c622",
@@ -7828,7 +9680,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score t"
+      ]
     },
     {
       "id": "prog:900ed5893bc0",
@@ -7857,7 +9719,17 @@
         "PROGRAMME OUTLINE",
         "FIRST YEAR"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 YEARS NSC REQUIREMENTS English Home Langu",
+        "age or First Additional Language Level 5",
+        "Mathematics Level 5",
+        "Life Sciences AND Physical Sciences Level 5",
+        "Level 5 Mathematics Level",
+        "Level 5 The Faculty of Health Sciences uses a Com",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 5 Life Sciences AND Physical Sciences Level 5 The Faculty of Health Sciences uses a Composite Index (CI) score t"
+      ]
     },
     {
       "id": "prog:ae0405279a9d",
@@ -7880,7 +9752,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "year BSc(URP) programme, you may register for the professional",
+        "finder/undergraduate/ebe/urban",
+        "regional",
+        "planning/"
+      ]
     },
     {
       "id": "prog:55f7be7313b5",
@@ -7909,7 +9788,8 @@
         "PROGRAMME OUTLINE",
         "FIRST YEAR"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:9f30714dff9f",
@@ -7932,7 +9812,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS APS",
+        "English Home Language or First Additional Language Level 5",
+        "Mathematics Level 6",
+        "as well as English Level 6",
+        "and Mathematics Level 6",
+        "Level 5 Mathematics Level",
+        "Level 6 and Mathematics Level",
+        "English Home Language or First Additional Language Level 5 Mathematics Level 6 Waitlisting Applicants with an APS of 39-43, as well as English Level 6 and Mathematics Level 6, may be wait-listed subject t",
+        "43, as well as English Level 6",
+        "listed subject to place"
+      ]
     },
     {
       "id": "prog:e35e260c3e15",
@@ -7955,7 +9848,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics or Mathematics I (major):  Algebra  Calculus AND Any three other level one courses, recommended courses:  Geography  Introductory Life Sciences  Archaeology SECOND YEAR  People and th"
+      ]
     },
     {
       "id": "prog:8aa62563f18e",
@@ -7978,7 +9875,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Life Sciences AND Chemistry AND Auxiliary Mathematics AND Any other Level I course SECOND YEAR  Life on Earth: Diversity  Life o"
+      ],
+      "pricing": {
+        "amount_min": 50000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:5fbbcb5a534e",
@@ -8001,7 +9907,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Level 6",
+        "AND Mathematics Level 6",
+        "year LLB (for graduates only) 2",
+        "No matric APS calculation 4",
+        "4 Subject to assessment criteria as determi",
+        "year LLB 4",
+        "Applicants must have obtained an average of at least 65%",
+        "Level 6 AND Mathematics Level",
+        "English Level 6 AND Mathematics Level 6, may be wait-listed subject to place availability"
+      ]
     },
     {
       "id": "prog:3cf6fa2d41ce",
@@ -8035,7 +9953,22 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 YEARS NSC REQUIREMENTS APS",
+        "English Home Language OR Additional First Language Level 6",
+        "Mathematics Level 5",
+        "Maths Literacy Level 6",
+        "as well as English Level 6",
+        "AND Mathematics Level 5",
+        "OR Maths Literacy Level 6",
+        "Level 6 Mathematics Level",
+        "Level 6 Waitlisting Students who come to Wits imm",
+        "Level 6 AND Mathematics Level",
+        "English Home Language OR Additional First Language Level 6 Mathematics Level 5 Maths Literacy Level 6 Waitlisting Students who come to Wits immediately after Matric may apply for the four-year LLB",
+        "English Level 6 AND Mathematics Level 5 OR Maths Literacy Level 6, may be wait-listed, subject to place availability"
+      ]
     },
     {
       "id": "prog:c1403875c964",
@@ -8069,7 +10002,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Level 6",
+        "AND Mathematics Level 6",
+        "year LLB (for graduates only) 2",
+        "No matric APS calculation 4",
+        "4 Subject to assessment criteria as determi",
+        "year LLB 4",
+        "Applicants must have obtained an average of at least 65%",
+        "Level 6 AND Mathematics Level",
+        "English Level 6 AND Mathematics Level 6, may be wait-listed subject to place availability"
+      ]
     },
     {
       "id": "prog:42eea7200e7d",
@@ -8103,7 +10048,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Level 6",
+        "AND Mathematics Level 6",
+        "year LLB (for graduates only) 2",
+        "No matric APS calculation 4",
+        "4 Subject to assessment criteria as determi",
+        "year LLB 4",
+        "Applicants must have obtained an average of at least 65%",
+        "Level 6 AND Mathematics Level",
+        "English Level 6 AND Mathematics Level 6, may be wait-listed subject to place availability"
+      ]
     },
     {
       "id": "prog:8c4ae45a9660",
@@ -8137,7 +10094,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS No matric APS calc",
+        "year LLB programme (year of study 2"
+      ]
     },
     {
       "id": "prog:cc176052cffe",
@@ -8171,7 +10133,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 YEARS NSC REQUIREMENTS No matric APS calc"
+      ]
     },
     {
       "id": "prog:f4816f52a590",
@@ -8205,7 +10171,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "st Economics lA Economics lB OR Economic Theory lA Economic Theory lB AND Accounting l / Business Accounting l AND Computational Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Major 1",
+        "third year level) AND Major 2",
+        "Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Maj"
+      ]
     },
     {
       "id": "prog:5ad6bc32ffd6",
@@ -8239,7 +10211,22 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 YEARS NSC REQUIREMENTS APS",
+        "English Home Language OR Additional First Language Level 6",
+        "Mathematics Level 5",
+        "Maths Literacy Level 6",
+        "as well as English Level 6",
+        "AND Mathematics Level 5",
+        "OR Maths Literacy Level 6",
+        "Level 6 Mathematics Level",
+        "Level 6 Waitlisting Students who come to Wits imm",
+        "Level 6 AND Mathematics Level",
+        "English Home Language OR Additional First Language Level 6 Mathematics Level 5 Maths Literacy Level 6 Waitlisting Students who come to Wits immediately after Matric may apply for the four-year LLB",
+        "English Level 6 AND Mathematics Level 5 OR Maths Literacy Level 6, may be wait-listed, subject to place availability"
+      ]
     },
     {
       "id": "prog:9b73a323adf2",
@@ -8273,7 +10260,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 YEARS NSC REQUIREMENTS No matric APS calc",
+        "year LLB programme (year of study 2"
+      ]
     },
     {
       "id": "prog:137a4bb61be1",
@@ -8307,7 +10299,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "st Economics lA Economics lB OR Economic Theory lA Economic Theory lB AND Accounting l / Business Accounting l AND Computational Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Major 1",
+        "third year level) AND Major 2",
+        "Mathematics Business Statistics AND Fundamentals of Information Systems Commercial Law Potential Major (second year level) AND Potential Major (second year level) AND Potential Major (second year level) Maj"
+      ]
     },
     {
       "id": "prog:dc09b288970c",
@@ -8330,7 +10328,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics  Architectural Design and Theory I  Theory and Practice of Construction I  Histories and Theories of Architecture I  History and Settlement of Architecture  Design Representation I  D"
+      ]
     },
     {
       "id": "prog:2b48d99a1473",
@@ -8370,7 +10372,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:915096ac0488",
@@ -8404,7 +10407,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 90660,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "and 2"
+      ]
     },
     {
       "id": "prog:972fedf3f99d",
@@ -8427,7 +10439,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:573ffe933f84",
@@ -8450,7 +10463,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "36% following a needle stick injury)"
+      ]
     }
   ],
   "admission": {
@@ -11843,15 +13860,17 @@
     "adm_reqs_count": 141
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:54:34Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:02:24Z",
     "test_mode": false,
-    "completeness_before": 0.15,
-    "completeness_after": 0.31,
-    "improvement": 0.159,
-    "fields_enriched": 551,
+    "points_system": "aps_points",
+    "completeness_before": 0.273,
+    "completeness_after": 0.343,
+    "improvement": 0.069,
+    "fields_enriched": 271,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf"
     ]
   }
 }

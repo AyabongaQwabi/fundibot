@@ -301,7 +301,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points"
     },
     {
       "id": "prog:78accee80900",
@@ -324,7 +325,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Arts specialising in Law Also referred to as BA (Law) [3 years] 5 34 Career: Lawyer (A Bachelor of Arts specialising in Law degree and"
+      ]
     },
     {
       "id": "prog:5089cb396d1e",
@@ -358,6 +369,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -381,7 +401,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "specific admission regulations 1",
+        "Language",
+        "specific admission regulations"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:bb86d69617cf",
@@ -404,7 +435,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "5 years",
+        "This is a 5",
+        "Successful applicants must achieve at least 60%",
+        "Successful applicants must achieve at least 50%"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:4eede73ffe3e",
@@ -438,7 +481,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics and Bachelor of Science in Physics"
+      ]
     },
     {
       "id": "prog:92c7232d3fee",
@@ -461,7 +514,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics English Home Language or English First Additional Language Bachelor of Arts in Speech-Language Pathology [4 years] 4 5 32 Selection is based on academic achievement, and only 50 students are admit"
+      ]
     },
     {
       "id": "prog:4c103204d721",
@@ -484,7 +547,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Grades 7",
+        "Physical Sciences or Life Sciences)"
+      ]
     },
     {
       "id": "prog:1171e6bf51a3",
@@ -507,7 +576,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Arts specialising in Law Also referred to as BA (Law) [3 years] 5 34 Career: Lawyer (A Bachelor of Arts specialising in Law degree and"
+      ]
     },
     {
       "id": "prog:8509b89a6e6a",
@@ -530,7 +609,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Arts specialising in Law Also referred to as BA (Law) [3 years] 5 34 Career: Lawyer (A Bachelor of Arts specialising in Law degree and"
+      ]
     },
     {
       "id": "prog:3900dc2bddc9",
@@ -553,7 +642,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:a59d0f8d65d2",
@@ -576,7 +678,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Arts specialising in Law Also referred to as BA (Law) [3 years] 5 34 Career: Lawyer (A Bachelor of Arts specialising in Law degree and"
+      ]
     },
     {
       "id": "prog:2446a53d7334",
@@ -599,7 +711,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Arts specialising in Law Also referred to as BA (Law) [3 years] 5 34 Career: Lawyer (A Bachelor of Arts specialising in Law degree and"
+      ]
     },
     {
       "id": "prog:9fd576931b0f",
@@ -633,7 +755,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "but do not comply with the 5",
+        "4 in Mathematics and a",
+        "5 in English",
+        "Mathematics English Home Language or English First Additional Language Bachelor of Arts specialising in Philosophy, Politics and Economics [3 years] 5 5 32 Students who are interested in the Bachelor of Arts",
+        "Mathematics, but have an APS of 32, a 4 in Mathematics and a 5 in English, may be admitted to another degree programme for the first year"
+      ]
     },
     {
       "id": "prog:fcf30f9cd59a",
@@ -667,7 +803,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "but do not comply with the 5",
+        "4 in Mathematics and a",
+        "5 in English",
+        "Mathematics English Home Language or English First Additional Language Bachelor of Arts specialising in Philosophy, Politics and Economics [3 years] 5 5 32 Students who are interested in the Bachelor of Arts",
+        "Mathematics, but have an APS of 32, a 4 in Mathematics and a 5 in English, may be admitted to another degree programme for the first year"
+      ]
     },
     {
       "id": "prog:c47ead7a4517",
@@ -694,7 +844,16 @@
         "Programmes",
         "Application requ"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "specific admission regulations"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:e9128cb6f3ae",
@@ -717,7 +876,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points"
     },
     {
       "id": "prog:22b16551a302",
@@ -740,7 +900,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points"
     },
     {
       "id": "prog:a466781ea987",
@@ -780,7 +941,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points"
     },
     {
       "id": "prog:e7f4f92b0012",
@@ -820,7 +982,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "7 Undergraduate prospectus",
+        "3 years",
+        "5 Mathematics",
+        "3 or Mathematical Literacy",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Administration specialising in Public Administration and International Relations [3 years] 5 Mathematics 3 or Mathemat"
+      ]
     },
     {
       "id": "prog:e5c43ed10495",
@@ -863,7 +1038,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "3 years",
+        "4 Physical Sciences or Life Sciences",
+        "4 Selection is based on a candidates",
+        "6 years",
+        "4 Selection is based on a cand",
+        "Physical Sciences or Life Sciences 28 4 Selection is based on a candidates’ final Grade 11 examination results and the Biographical Information Form",
+        "Physical Sciences or Life Sciences 30 4 Selection is based on a cand"
+      ]
     },
     {
       "id": "prog:ca1cab462504",
@@ -900,7 +1086,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Consumer Science specialising in Clothing Retail Management [4 years] 5 4 28 Suggested second-choice programme: Bachel"
+      ]
     },
     {
       "id": "prog:d37f950ab1f9",
@@ -926,7 +1122,17 @@
         "developers, quality controllers and assurance managers, store managers, image",
         "consultants, textile technologists, v"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Consumer Science specialising in Clothing Retail Management [4 years] 5 4 28 Suggested second-choice programme: Bachel"
+      ]
     },
     {
       "id": "prog:3589bc2b61d3",
@@ -953,7 +1159,16 @@
         "Programmes",
         "Application requ"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:3af105fccb33",
@@ -987,7 +1202,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 years",
+        "3 years",
+        "4 years",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences School of Dentistry Bachelor of Dental Surgery [5 years] 5 6 5 35 Selection is based on a candidates’ final Gra"
+      ]
     },
     {
       "id": "prog:28fac6a2ff51",
@@ -1021,7 +1248,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 years",
+        "3 years",
+        "4 years",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences School of Dentistry Bachelor of Dental Surgery [5 years] 5 6 5 35 Selection is based on a candidates’ final Gra"
+      ]
     },
     {
       "id": "prog:735fddc79664",
@@ -1055,7 +1294,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "4 years"
+      ]
     },
     {
       "id": "prog:84b021ed302f",
@@ -1089,7 +1333,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "This is a 4",
+        "Applicants who meet the criteria for the 3"
+      ]
     },
     {
       "id": "prog:9b252814f35b",
@@ -1129,7 +1379,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "an achievement level of 5",
+        "3 years"
+      ]
     },
     {
       "id": "prog:94340f447a68",
@@ -1152,7 +1407,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "choice programme are not obtained.",
+        "Possible name change to: Bachelor of Information Science specialising in Interactive Technology."
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:06b6663c915f",
@@ -1186,7 +1451,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "an achievement level of 5",
+        "3 years"
+      ]
     },
     {
       "id": "prog:79906be556b2",
@@ -1226,7 +1496,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "an achievement level of 5",
+        "3 years"
+      ]
     },
     {
       "id": "prog:efff1ed82378",
@@ -1266,7 +1541,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:f5b2a44b3387",
@@ -1300,7 +1579,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "3 years",
+        "4 Physical Sciences or Life Sciences",
+        "4 Selection is based on a candidates",
+        "6 years",
+        "4 Selection is based on a cand",
+        "Physical Sciences or Life Sciences 28 4 Selection is based on a candidates’ final Grade 11 examination results and the Biographical Information Form",
+        "Physical Sciences or Life Sciences 30 4 Selection is based on a cand"
+      ]
     },
     {
       "id": "prog:3e0820e1b9b7",
@@ -1334,7 +1624,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "3 years",
+        "4 Physical Sciences or Life Sciences",
+        "4 Selection is based on a candidates",
+        "6 years",
+        "4 Selection is based on a cand",
+        "Physical Sciences or Life Sciences 28 4 Selection is based on a candidates’ final Grade 11 examination results and the Biographical Information Form",
+        "Physical Sciences or Life Sciences 30 4 Selection is based on a cand"
+      ]
     },
     {
       "id": "prog:efa6006d46cb",
@@ -1380,7 +1681,20 @@
       },
       "modules": [
         "A candidate only qualifies for Award B if the candidate meets the"
-      ]
+      ],
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "5 years",
+        "This is a 5",
+        "or Grade V Practical and Grade III Theory (Unisa/ Royal Schools/ Trinity) or a comparable standard and Practical audition and theoretical test passed with 50%",
+        "hoc basis.",
+        "year programme. Prospective students will be required to write an"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:8a0b1d91f0d9",
@@ -1417,7 +1731,16 @@
       },
       "modules": [
         "A candidate only qualifies for Award B if the candidate meets the"
-      ]
+      ],
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "hoc basis."
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:304cbdea3016",
@@ -1451,7 +1774,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "4 Life Sciences (not Physical Sciences)",
+        "4 Selection is based on a candidates",
+        "Life Sciences (not Physical Sciences) 28 4 Selection is based on a candidates’ final Grade 11 examination results"
+      ]
     },
     {
       "id": "prog:2168daabcd39",
@@ -1485,7 +1815,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "5 years",
+        "3 years",
+        "4 years",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences School of Dentistry Bachelor of Dental Surgery [5 years] 5 6 5 35 Selection is based on a candidates’ final Gra"
+      ]
     },
     {
       "id": "prog:b20271d55b7d",
@@ -1519,7 +1861,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "4 Life Sciences (not Physical Sciences)",
+        "4 Selection is based on a candidates",
+        "Life Sciences (not Physical Sciences) 28 4 Selection is based on a candidates’ final Grade 11 examination results"
+      ]
     },
     {
       "id": "prog:43cf0bb7abfb",
@@ -1542,7 +1891,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "choice programmes: Bachelor of Political Science specialising in"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:d5952a78ff64",
@@ -1565,7 +1924,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "choice programmes: Bachelor of Political Science specialising in"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:c78fcea751a4",
@@ -1588,7 +1957,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "choice programmes: Bachelor of Political Science specialising in"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:63363c33f05e",
@@ -1611,7 +1990,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "choice programmes: Bachelor of Political Science specialising in"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:b2188fef8c31",
@@ -1645,7 +2034,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "3 years",
+        "4 Physical Sciences or Life Sciences",
+        "4 Selection is based on a candidates",
+        "6 years",
+        "4 Selection is based on a cand",
+        "Physical Sciences or Life Sciences 28 4 Selection is based on a candidates’ final Grade 11 examination results and the Biographical Information Form",
+        "Physical Sciences or Life Sciences 30 4 Selection is based on a cand"
+      ]
     },
     {
       "id": "prog:82c272d1dd90",
@@ -1679,7 +2079,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "A general average mark of 60%",
+        "and a weighted average of 60%"
+      ]
     },
     {
       "id": "prog:e54d0f1e9a68",
@@ -1717,7 +2122,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "2 years",
+        "applicants must first complete the Higher Certificate in Sports Sciences (HCSS) with a cumulative weighted average of at least 70%"
+      ]
     },
     {
       "id": "prog:45a6980a3344",
@@ -1751,7 +2161,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Theology [3 years] 4 28 Suggested second-choice programme: Diploma in Theology Careers: Ministers, pastors, priests, preachers in ce"
+      ]
     },
     {
       "id": "prog:a6f9b169c24f",
@@ -1791,7 +2211,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "3 years",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Information Systems [3 years] 5 5 30 Th"
+      ]
     },
     {
       "id": "prog:e86f5d1c3510",
@@ -1825,7 +2256,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points"
     },
     {
       "id": "prog:c3f915bb5636",
@@ -1859,6 +2291,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "4 For advice on a second",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences or Life Sciences 28 4 4 4 For advice on a second-choice programme for Bachelor of Veterinary Nursing, please"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1893,6 +2336,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "4 For advice on a second",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences or Life Sciences 28 4 4 4 For advice on a second-choice programme for Bachelor of Veterinary Nursing, please"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1927,7 +2381,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "6 years",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Veterinary Science [6 years] 5 5 5 35 Proposed second choice programmes for Bachelor of Veterinary"
+      ]
     },
     {
       "id": "prog:6414f21a9933",
@@ -1961,7 +2425,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "6 years",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Veterinary Science [6 years] 5 5 5 35 Proposed second choice programmes for Bachelor of Veterinary"
+      ]
     },
     {
       "id": "prog:dcb1873c7fa0",
@@ -1995,7 +2469,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "5 years",
+        "This is a 5",
+        "or Grade V Practical and Grade III Theory (Unisa/ Royal Schools/ Trinity) or a comparable standard and Practical audition and theoretical test passed with 50%",
+        "hoc basis.",
+        "year programme. Prospective students will be required to write an"
+      ]
     },
     {
       "id": "prog:f20772deca3b",
@@ -2033,6 +2515,15 @@
       "campuses_offering": [
         "Prinshof Campus",
         "Onderstepoort Campus"
+      ],
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "English Home Language or English First Additional Languag"
       ]
     },
     {
@@ -2067,6 +2558,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "4 For advice on a second",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences or Life Sciences 28 4 4 4 For advice on a second-choice programme for Bachelor of Veterinary Nursing, please"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -2104,7 +2606,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "6 years",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Veterinary Science [6 years] 5 5 5 35 Proposed second choice programmes for Bachelor of Veterinary"
+      ]
     },
     {
       "id": "prog:45b9934e8544",
@@ -2127,7 +2639,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:9e2d65a54d31",
@@ -2150,7 +2675,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:de6c85cbbeec",
@@ -2184,7 +2722,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:591e5543bce3",
@@ -2207,7 +2758,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:97aa7f9c84e9",
@@ -2230,7 +2785,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Register for JT membership 2",
+        "Join jTOnline (for Grade 8",
+        "Mathematics, Physical Sciences, Accounting, Life Sciences and English"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:f513017c9408",
@@ -2256,7 +2822,16 @@
         "choice programme",
         ": Bachelor of Commerce in Investment"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:f8ca7c24deb8",
@@ -2279,7 +2854,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:e38c294078a1",
@@ -2304,7 +2892,18 @@
       "career_outcomes": [
         "choice programmes: Bachelor of Science in Zoology."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Physical Science: Students in the Cambridge system must have completed both Physics and Chemistry with an achievement level equal to that of NSC Physical Sciences as specified in the application requirements tables",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Agriculture in Agricultural Economics in Agribusiness Management [4 years] 5 5 5 32"
+      ]
     },
     {
       "id": "prog:6b2891ce7b52",
@@ -2329,7 +2928,18 @@
       "career_outcomes": [
         "choice programmes: Bachelor of Science in Zoology."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Physical Science: Students in the Cambridge system must have completed both Physics and Chemistry with an achievement level equal to that of NSC Physical Sciences as specified in the application requirements tables",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Agriculture in Agricultural Economics in Agribusiness Management [4 years] 5 5 5 32"
+      ]
     },
     {
       "id": "prog:de3ed48e9d10",
@@ -2352,7 +2962,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:9333fd787f10",
@@ -2379,7 +2993,16 @@
         "relations and personnel administration.",
         "University of"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:63875819fd21",
@@ -2402,7 +3025,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:db4073f80122",
@@ -2425,7 +3057,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Arts specialising in Law Also referred to as BA (Law) [3 years] 5 34 Career: Lawyer (A Bachelor of Arts specialising in Law degree and"
+      ]
     },
     {
       "id": "prog:b12e6da1077d",
@@ -2448,7 +3090,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:fd5eb1d38a63",
@@ -2475,7 +3130,11 @@
         "relations and personnel administration.",
         "University of"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:b68fe3087bc5",
@@ -2498,7 +3157,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:6569a8e9e972",
@@ -2521,7 +3184,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:ff2cd7c551e7",
@@ -2544,7 +3211,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:d578b59c91fb",
@@ -2567,7 +3238,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:773f125bd35a",
@@ -2590,7 +3265,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:735df6b158ca",
@@ -2613,7 +3292,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:e50d264529b8",
@@ -2636,7 +3319,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points"
     },
     {
       "id": "prog:9b8c68ec200e",
@@ -2659,7 +3343,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "English and Afrikaans assessments, depending on the language of tuition at the schools where the work-integrated learning was performed",
+        "integrated learning was performed."
+      ]
     },
     {
       "id": "prog:25afccca2998",
@@ -2682,7 +3371,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Grade R to Grade 3",
+        "English Home Language or English First Additional Language Bachelor of Education in Early Childhood Care and Education [4 years] 4 28 Suggested second-choice programmes: Any other Bachelor of Education"
+      ]
     },
     {
       "id": "prog:63eee67dc509",
@@ -2705,7 +3405,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:3058b7b30281",
@@ -2728,7 +3439,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ]
     },
     {
       "id": "prog:0cde586577a7",
@@ -2751,7 +3468,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:c1bdc445c5b3",
@@ -2774,7 +3502,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ]
     },
     {
       "id": "prog:dc7cf0d11f98",
@@ -2797,7 +3531,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "applicants must have passed Mathematics and Physical Sciences with a minimum achievement level of 5",
+        "applicants must first complete the Higher Certificate in Sports Sciences (HCSS) with a cumulative weighted average of at least 70%",
+        "Mathematics and Physical Sciences with a minimum achievement level of 5 (60–69%) in the NSC or an equivalent qualification"
+      ]
     },
     {
       "id": "prog:ba61c29c1f83",
@@ -2820,7 +3560,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ]
     },
     {
       "id": "prog:a6ae26e9cd92",
@@ -2843,7 +3589,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "applicants must have passed Mathematics and Physical Sciences with a minimum achievement level of 5",
+        "applicants must first complete the Higher Certificate in Sports Sciences (HCSS) with a cumulative weighted average of at least 70%",
+        "Mathematics and Physical Sciences with a minimum achievement level of 5 (60–69%) in the NSC or an equivalent qualification"
+      ]
     },
     {
       "id": "prog:d134f13f1919",
@@ -2877,7 +3629,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points"
     },
     {
       "id": "prog:2aa28697e3da",
@@ -2911,6 +3664,16 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics, Bachelor of Science in Physics, Bachelor of Science in Construction Management and Bachelor of Science in Quantity Surveying"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -2945,7 +3708,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics and Bachelor of Science in Physics"
+      ]
     },
     {
       "id": "prog:3a5efc9b8e5b",
@@ -2972,7 +3740,18 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "5 years",
+        "Mathematics and Bachelor of Science in Physics"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:48b4f78bd316",
@@ -3010,6 +3789,16 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "year Bachelor of Engineering programme [previously called"
+      ],
+      "pricing": {
+        "amount_min": 150000,
+        "currency": "ZAR",
+        "label": "tuition \nfee",
+        "granularity": "programme"
       }
     },
     {
@@ -3033,7 +3822,26 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Students from the Bachelor of Science 4",
+        "year and 5",
+        "for Languages before being eligible for transfer into a 4",
+        "lish First Additional Language Mathematics Physical Sciences Bachelor of Science in Mathematics 58%",
+        "65% N/A",
+        "Physics 58%",
+        "Human Physiology 58%",
+        "year programmes (above) must achieve a minimum of 70%",
+        "and a minimum of 65%",
+        "Mathematics Physical Sciences Bachelor of Science in Mathematics 58% 65% N/A 32 Bachelor of Science in:  Chemistry  Geoinformatics  Geology  Meteorology  Physics 58% 58% 58% 32 Bachelor of Science in:  A",
+        "Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes"
+      ],
+      "pricing": {
+        "amount_min": 2000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:9661e8798db8",
@@ -3056,7 +3864,26 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Students from the Bachelor of Science 4",
+        "year and 5",
+        "for Languages before being eligible for transfer into a 4",
+        "lish First Additional Language Mathematics Physical Sciences Bachelor of Science in Mathematics 58%",
+        "65% N/A",
+        "Physics 58%",
+        "Human Physiology 58%",
+        "year programmes (above) must achieve a minimum of 70%",
+        "and a minimum of 65%",
+        "Mathematics Physical Sciences Bachelor of Science in Mathematics 58% 65% N/A 32 Bachelor of Science in:  Chemistry  Geoinformatics  Geology  Meteorology  Physics 58% 58% 58% 32 Bachelor of Science in:  A",
+        "Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes"
+      ],
+      "pricing": {
+        "amount_min": 2000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:65a4b0f0c23f",
@@ -3090,7 +3917,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points"
     },
     {
       "id": "prog:f786dc54217d",
@@ -3124,7 +3952,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points"
     },
     {
       "id": "prog:1d2322037f10",
@@ -3162,7 +3991,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:84ea14f2d4e1",
@@ -3200,6 +4033,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -3238,7 +4080,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:655666fb64da",
@@ -3276,6 +4122,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -3314,7 +4169,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:8ffe45dbf8a1",
@@ -3352,7 +4211,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Achievement level APSEnglish Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Mathematics 58%",
+        "65% N/A",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Mathematics 58% 65% N/A 32 Bachelor of Science in:  Chemistry  Geoinformatics  Geology "
+      ]
     },
     {
       "id": "prog:d24b9a58d536",
@@ -3390,6 +4260,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -3428,6 +4307,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -3465,7 +4353,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Science in Actuarial and Financial Mathematics [3 years] 5 7 36 Suggested second-choice programme: Bachelor of Science"
+      ]
     },
     {
       "id": "prog:b8183623f430",
@@ -3490,7 +4388,16 @@
       "career_outcomes": [
         "choice programmes: Bachelor of Science in Zoology."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:ef040ef1fd28",
@@ -3517,7 +4424,17 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "6 years",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Veterinary Science [6 years] 5 5 5 35 Proposed second choice programmes for Bachelor of Veterinary"
+      ]
     },
     {
       "id": "prog:6cdb88b884cd",
@@ -3544,7 +4461,16 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:0cc1e7da5fa0",
@@ -3571,7 +4497,11 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:f35036ca822a",
@@ -3598,7 +4528,16 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:8f481e7383a4",
@@ -3636,7 +4575,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "1 rule will also be taken into account",
+        "will be allowed to change their choice of study to one of the 4",
+        "year Bachelor of Science or 5",
+        "Only students that have completed school in the last two years and have not studied at a tertiary institution will be considered for the 4",
+        "year Bachelor of Science and 5"
+      ]
     },
     {
       "id": "prog:d6ca6e9df9a9",
@@ -3674,7 +4621,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:d879e1864f40",
@@ -3712,7 +4663,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:aced3d9bf1e6",
@@ -3737,7 +4692,19 @@
       "career_outcomes": [
         "management or subcontracting field. With the honours programme, graduate"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Architecture [3 years] 5 4 4 30 Will only be considered as first study choice"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:d88416bd450f",
@@ -3764,7 +4731,11 @@
         "[4 years]",
         "choice programmes: Bachelor of Science in Food Science,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:9874a4118dc2",
@@ -3802,7 +4773,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:7a8b18592f68",
@@ -3840,6 +4815,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -3878,7 +4862,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:ee41d117486e",
@@ -3916,7 +4904,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:cd7482db89c0",
@@ -3954,7 +4946,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:f9892ab509f1",
@@ -3992,6 +4988,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4030,7 +5035,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:ac5bbd48cf24",
@@ -4057,7 +5066,21 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Students from the Bachelor of Science 4",
+        "year and 5",
+        "for Languages before being eligible for transfer into a 4",
+        "lish First Additional Language Mathematics Physical Sciences Bachelor of Science in Mathematics 58%",
+        "65% N/A",
+        "Physics 58%",
+        "Human Physiology 58%",
+        "year programmes (above) must achieve a minimum of 70%",
+        "and a minimum of 65%",
+        "Mathematics Physical Sciences Bachelor of Science in Mathematics 58% 65% N/A 32 Bachelor of Science in:  Chemistry  Geoinformatics  Geology  Meteorology  Physics 58% 58% 58% 32 Bachelor of Science in:  A",
+        "Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes"
+      ]
     },
     {
       "id": "prog:6e7a6f8cefcc",
@@ -4095,6 +5118,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4133,7 +5165,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:47d3aacacf48",
@@ -4171,6 +5207,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4198,7 +5243,16 @@
         "[4 years]",
         "choice programmes: Bachelor of Science in Food Science,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:45d6e9ac89e3",
@@ -4236,6 +5290,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4263,7 +5326,16 @@
         "[4 years]",
         "choice programmes: Bachelor of Science in Food Science,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:90a25098cf7f",
@@ -4302,7 +5374,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "PHYSICAL SCIENCES English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Meteorology [3 years] 5 5 5 34 Suggested second-choice programme: Bachelor of S"
+      ]
     },
     {
       "id": "prog:2f1e6a8deb40",
@@ -4340,6 +5422,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4367,7 +5458,11 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:991334196049",
@@ -4394,7 +5489,16 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:56c821ef4882",
@@ -4432,7 +5536,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:e37f0539f256",
@@ -4470,7 +5578,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:8b661f6381ff",
@@ -4508,7 +5620,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:8caa82c177d6",
@@ -4546,6 +5662,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4572,7 +5697,19 @@
         "engineers focus on asset management, trading bonds and derivatives, designing",
         "financial products and managing credit and portfolio risk."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "Physical Sciences or Life Sciences)",
+        "Mathematics and applied mathematics graduates work in research institutions, education, government, medical institutions, engineering, finance and the computer industry",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Science in Mathematical Statistics [3 years] 5 6 34 Suggested second-choice programmes: Bachelor of Science in Physics"
+      ]
     },
     {
       "id": "prog:3c782d669889",
@@ -4610,6 +5747,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4644,6 +5790,25 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Students from the Bachelor of Science 4",
+        "year and 5",
+        "for Languages before being eligible for transfer into a 4",
+        "lish First Additional Language Mathematics Physical Sciences Bachelor of Science in Mathematics 58%",
+        "65% N/A",
+        "Physics 58%",
+        "Human Physiology 58%",
+        "year programmes (above) must achieve a minimum of 70%",
+        "and a minimum of 65%",
+        "Mathematics Physical Sciences Bachelor of Science in Mathematics 58% 65% N/A 32 Bachelor of Science in:  Chemistry  Geoinformatics  Geology  Meteorology  Physics 58% 58% 58% 32 Bachelor of Science in:  A",
+        "Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4682,6 +5847,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4720,6 +5894,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4758,6 +5941,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4797,7 +5989,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "PHYSICAL SCIENCES English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Meteorology [3 years] 5 5 5 34 Suggested second-choice programme: Bachelor of S"
+      ]
     },
     {
       "id": "prog:14f0acbfac37",
@@ -4824,7 +6026,16 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:56e20094af8a",
@@ -4862,6 +6073,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4891,7 +6111,12 @@
         "year degree and honours programme, graduates",
         "government sectors, as well as property, banking, insurance,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics, Bachelor of Science in Physics, Bachelor of Science in Construction Management and Bachelor of Science in Quantity Surveying"
+      ]
     },
     {
       "id": "prog:1a8ab0e3ec51",
@@ -4928,6 +6153,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Grades 7",
+        "Mathematics and Bachelor of Education in Senior Phase and Further Education and Training Teaching [Grades 7 to 12] (with elective modules in Physical Sciences or Life Sciences)"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4966,6 +6202,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5006,7 +6251,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second",
+        "4 years"
+      ]
     },
     {
       "id": "prog:3e73a92538c6",
@@ -5046,7 +6298,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second",
+        "4 years"
+      ]
     },
     {
       "id": "prog:48ffa6ef1508",
@@ -5083,6 +6342,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5108,7 +6378,17 @@
       "career_outcomes": [
         "choice programmes: Bachelor of Science in Zoology."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "6 years",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Veterinary Science [6 years] 5 5 5 35 Proposed second choice programmes for Bachelor of Veterinary"
+      ]
     },
     {
       "id": "prog:0256329503d8",
@@ -5146,6 +6426,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5184,7 +6473,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:65b38a36c4ff",
@@ -5222,6 +6515,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5249,7 +6551,16 @@
         "choice programmes: Bachelor of Science in Environmental",
         "ups,"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:51dcc66fc502",
@@ -5287,7 +6598,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:c98965ea4d56",
@@ -5310,7 +6625,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "1 rule will also be taken into account",
+        "will be allowed to change their choice of study to one of the 4",
+        "year Bachelor of Science or 5",
+        "Only students that have completed school in the last two years and have not studied at a tertiary institution will be considered for the 4",
+        "year Bachelor of Science and 5"
+      ],
+      "pricing": {
+        "amount_min": 30000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:0d91b066c4cf",
@@ -5333,7 +6661,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Applicants in the foundation programme of the Bachelor of Science 4",
+        "and 5",
+        "Bachelor of Science students in years 1"
+      ]
     },
     {
       "id": "prog:696905885c6f",
@@ -5356,7 +6690,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "choice programme: Bachelor of Arts."
+      ]
     },
     {
       "id": "prog:91fd5d0b72e7",
@@ -5379,7 +6718,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Possible name c"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:fed0b57e6ac4",
@@ -5402,7 +6750,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Possible name c"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:4e9e70d99fd0",
@@ -5429,7 +6786,11 @@
         "relations and personnel administration.",
         "University of"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:bef22e54dd17",
@@ -5452,7 +6813,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Theology [3 years] 4 28 Suggested second-choice programme: Diploma in Theology Careers: Ministers, pastors, priests, preachers in ce"
+      ]
     },
     {
       "id": "prog:3c98ccd488d9",
@@ -5477,7 +6848,19 @@
       "career_outcomes": [
         "management or subcontracting field. With the honours programme, graduate"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Architecture [3 years] 5 4 4 30 Will only be considered as first study choice"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:dd6bd8ea8ad5",
@@ -5503,7 +6886,13 @@
         "choice programme",
         ": Bachelor of Commerce in Investment"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second"
+      ]
     },
     {
       "id": "prog:ed1671c6fbd0",
@@ -5531,7 +6920,17 @@
         "in Physics",
         "[3 years]"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "PHYSICAL SCIENCES English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Meteorology [3 years] 5 5 5 34 Suggested second-choice programme: Bachelor of S"
+      ]
     },
     {
       "id": "prog:8bf8047bcc25",
@@ -5568,6 +6967,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5593,7 +7003,16 @@
       "career_outcomes": [
         "choice programmes: Any of the programmes listed in the"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 202551,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:089c74340e3f",
@@ -5616,7 +7035,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points"
     },
     {
       "id": "prog:1837f7d1c95d",
@@ -5639,7 +7059,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:c577345d60a1",
@@ -5662,7 +7095,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:b910231af745",
@@ -5685,7 +7131,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:a508b007956b",
@@ -5710,7 +7169,11 @@
       "career_outcomes": [
         "choice programmes: Any of the programmes listed in the"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:367:Degree|d96541a5229e|bachelor of arts specialising in law degree and a bachelor of laws",
@@ -5733,7 +7196,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Arts specialising in Law Also referred to as BA (Law) [3 years] 5 34 Career: Lawyer (A Bachelor of Arts specialising in Law degree and"
+      ]
     },
     {
       "id": "prog:367:Degree|12fe17ce28a9|bachelor of education",
@@ -5767,7 +7240,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points"
     },
     {
       "id": "prog:367:Degree|1fc72c66b77a|bachelor of education degree, they will be",
@@ -5792,7 +7266,12 @@
       "career_outcomes": [
         "specific admission regulations"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "English and Afrikaans assessments, depending on the language of tuition at the schools where the work-integrated learning was performed",
+        "integrated learning was performed."
+      ]
     },
     {
       "id": "prog:367:Degree|84b40d41273e|bachelor of education in foundation phase teaching",
@@ -5815,7 +7294,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Degree|2658477e616a|bachelor of education in intermediate phase teaching",
@@ -5838,7 +7328,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Degree|31f92ae05cd8|bachelor of education in senior phase and further",
@@ -5872,6 +7373,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -5895,7 +7407,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ]
     },
     {
       "id": "prog:367:Degree|e8939825d1a5|bachelor of education in senior phase and further education and training (fet) t",
@@ -5918,7 +7436,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "applicants must have passed Mathematics and Physical Sciences with a minimum achievement level of 5",
+        "applicants must first complete the Higher Certificate in Sports Sciences (HCSS) with a cumulative weighted average of at least 70%",
+        "Mathematics and Physical Sciences with a minimum achievement level of 5 (60–69%) in the NSC or an equivalent qualification"
+      ]
     },
     {
       "id": "prog:367:Degree|acd1f30c30c4|bachelor of education in senior phase and further education and training teachin",
@@ -5941,7 +7465,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "passed with an achievement level of at least 5",
+        "and Mathematics passed with an achievement level of at least 5",
+        "Physical Sciences or Life Sciences are Physical Sciences, passed with an achievement level of at least 5 (60%–69%), and Mathematics passed with an achievement level of at least 5 (60%–69%) in the final NSC/IE"
+      ]
     },
     {
       "id": "prog:367:Degree|a4c7cf6732db|bachelor of engineering",
@@ -5984,7 +7514,12 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics and Bachelor of Science in Physics"
+      ]
     },
     {
       "id": "prog:367:Degree|3445585ea53a|bachelor of engineering programme [previously called",
@@ -6022,6 +7557,28 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Students from the following Bachelor of Science 4",
+        "year and 5",
+        "with a minimum of 65%",
+        "65% in Mathematics",
+        "65% in Physical Sciences and an Admission Poi",
+        "year programmes must achieve a minimum of 70%",
+        "and a minimum of 65%",
+        "English, 65% in Mathematics, 65% in Physical Sciences and an Admission Point Score (APS) of 33",
+        "Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for tr",
+        "year Bachelor of Engineering programme [previously called",
+        "year Bachelor of Engineering programme for",
+        "choice programme, they may be considered for their second",
+        "choice programme."
+      ],
+      "pricing": {
+        "amount_min": 150000,
+        "currency": "ZAR",
+        "label": "tuition \nfee",
+        "granularity": "programme"
       }
     },
     {
@@ -6045,7 +7602,22 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "nce 4",
+        "year and 5",
+        "for Languages before being eligible for transfer into a 4",
+        "year programmes must achieve a minimum of 70%",
+        "and a minimum of 65%",
+        "Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes: – 4-",
+        "Mathematics, Bachelor of Science in Ecology, and Bachelor of Science in Human Physiology – 5-year programmes: Bachelor of Science in Agriculture in Applied Plant and Soil Sciences, and Bachelor of Science in"
+      ],
+      "pricing": {
+        "amount_min": 2000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Degree|3559e041d8a9|bachelor of engineering programme after the first year of study in these program",
@@ -6068,7 +7640,22 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "nce 4",
+        "year and 5",
+        "for Languages before being eligible for transfer into a 4",
+        "year programmes must achieve a minimum of 70%",
+        "and a minimum of 65%",
+        "Mathematics and Physical Sciences, and a minimum of 65% for Languages before being eligible for transfer into a 4-year Bachelor of Engineering programme after the first year of study in these programmes: – 4-",
+        "Mathematics, Bachelor of Science in Ecology, and Bachelor of Science in Human Physiology – 5-year programmes: Bachelor of Science in Agriculture in Applied Plant and Soil Sciences, and Bachelor of Science in"
+      ],
+      "pricing": {
+        "amount_min": 2000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Degree|7a326be2aff2|bachelor of engineering programme for",
@@ -6106,6 +7693,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "5 years",
+        "Mathematics and Bachelor of Science in Physics"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6140,7 +7738,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:367:Degree|bcb50ffd778e|bachelor of laws [also referred to as llb].",
@@ -6163,7 +7774,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:367:Degree|da5e6214a6dd|bachelor of laws applications can be directed to:",
@@ -6186,7 +7810,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 years",
+        "Candidates are urged to apply as early as possible from 1",
+        "3 years",
+        "English Home Language or English First Additional Language Bachelor of Laws Also referred to as LLB [4 years] 6 35 Careers: Refer to the infographics in this brochure",
+        "English Home Language or English First Additional Language Mathematics Bachelor of Commerce specialising in Law Also referred to as BCom (Law) [3 years] 5 5 32 Careers: First step towards becoming attorne"
+      ]
     },
     {
       "id": "prog:367:Degree|13982a862dd7|bachelor of nursing science",
@@ -6220,6 +7857,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "4 For advice on a second",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences or Life Sciences 28 4 4 4 For advice on a second-choice programme for Bachelor of Veterinary Nursing, please"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6243,7 +7891,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "choice programmes: Bachelor of Political Science specialising in"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Postgraduate|cbfb6d4f3be4|bachelor of social science honours specialising in",
@@ -6269,7 +7927,12 @@
         "choice programme",
         ": Bachelor of Commerce in Investment"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "choice programme: Bachelor of Arts."
+      ]
     },
     {
       "id": "prog:367:Degree|332bfa169c3f|bachelor of social science in heritage and cultural",
@@ -6292,7 +7955,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Possible name c"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Degree|1d91fa17faf6|bachelor of social science specialising in heritage and cultural tourism",
@@ -6315,7 +7987,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "Possible name c"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Degree|cc58e8eb9fe1|bachelor of social science specialising in industrial",
@@ -6338,7 +8019,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "choice programme: Bachelor of Arts."
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Degree|e46c94ebce2a|bachelor of veterinary nursing,",
@@ -6372,6 +8063,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "4 For advice on a second",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences or Life Sciences 28 4 4 4 For advice on a second-choice programme for Bachelor of Veterinary Nursing, please"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6410,6 +8112,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6448,6 +8159,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6486,7 +8206,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     },
     {
       "id": "prog:367:Degree|2847998d8b11|bachelor of science in mathematics and the bachelor of education",
@@ -6523,6 +8247,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Grades 7",
+        "Mathematics and Bachelor of Education in Senior Phase and Further Education and Training Teaching [Grades 7 to 12] (with elective modules in Physical Sciences or Life Sciences)"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6561,6 +8296,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6598,6 +8342,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Grades 7",
+        "Mathematics and Bachelor of Education in Senior Phase and Further Education and Training Teaching [Grades 7 to 12] (with elective modules in Physical Sciences or Life Sciences)"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6623,7 +8378,19 @@
       "career_outcomes": [
         "management or subcontracting field. With the honours programme, graduate"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second",
+        "English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Architecture [3 years] 5 4 4 30 Will only be considered as first study choice"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Postgraduate|6e6051aa9009|honours degree, graduates can register as",
@@ -6649,7 +8416,13 @@
         "choice programme",
         ": Bachelor of Commerce in Investment"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second"
+      ]
     },
     {
       "id": "prog:367:Postgraduate|b15ae33b29d9|honours in meteorology is",
@@ -6677,7 +8450,17 @@
         "in Physics",
         "[3 years]"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 years",
+        "PHYSICAL SCIENCES English Home Language or English First Additional Language Mathematics Physical Sciences Bachelor of Science in Meteorology [3 years] 5 5 5 34 Suggested second-choice programme: Bachelor of S"
+      ]
     },
     {
       "id": "prog:367:Postgraduate|e37d1cc7a65d|honours programme, graduates",
@@ -6714,6 +8497,17 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "5 or Accounting",
+        "4 Suggested second"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -6739,7 +8533,16 @@
       "career_outcomes": [
         "choice programmes: Any of the programmes listed in the"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ],
+      "pricing": {
+        "amount_min": 202551,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:367:Postgraduate|5ce98dced7f9|master of arts in clinical, counselling or research psychology.",
@@ -6764,7 +8567,11 @@
       "career_outcomes": [
         "choice programmes: Any of the programmes listed in the"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "up_points",
+      "admission_requirements_raw": [
+        "3 years"
+      ]
     }
   ],
   "admission": {
@@ -7736,15 +9543,17 @@
     "adm_reqs_count": 44
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:53:40Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:01:06Z",
     "test_mode": false,
-    "completeness_before": 0.129,
-    "completeness_after": 0.283,
-    "improvement": 0.154,
-    "fields_enriched": 491,
+    "points_system": "up_points",
+    "completeness_before": 0.249,
+    "completeness_after": 0.342,
+    "improvement": 0.092,
+    "fields_enriched": 334,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-pretoria.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-pretoria.pdf"
     ]
   }
 }

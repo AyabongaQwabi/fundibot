@@ -209,7 +209,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 year)",
+        "ior Certificate with at least 40%"
+      ]
     },
     {
       "id": "prog:1ff8dd0da027",
@@ -249,7 +254,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:07e5fa7f2261",
@@ -306,6 +320,10 @@
       },
       "modules": [
         "Similar programmes: BSc Earth Science; BSc Computer Science;"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "70% Focal areas"
       ]
     },
     {
@@ -363,6 +381,10 @@
       },
       "modules": [
         "Similar programmes: BSc Earth Science; BSc Computer Science;"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "70% Focal areas"
       ]
     },
     {
@@ -408,7 +430,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "70% Focal areas"
+      ]
     },
     {
       "id": "prog:376c925fc4b8",
@@ -446,7 +472,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An NSC aggregate of at least 65%",
+        "Home Language 60%",
+        "First Additional Language 50%",
+        "An NSC aggregate of at least 65% (excluding Life Orientation)"
+      ]
     },
     {
       "id": "prog:690e31d163ff",
@@ -488,7 +522,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 40%",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%",
+        "Mathematics 50% OR Mathematical Literacy 70% Similar programmes: BCom (Management Sciences): Focal Area Human Resource Management; BCom (Industrial Psychology) Career opportunities: Development manager, human"
+      ]
     },
     {
       "id": "prog:acafdb1b6e54",
@@ -530,7 +574,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 40%",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%",
+        "Mathematics 50% OR Mathematical Literacy 70% Similar programmes: BCom (Management Sciences): Focal Area Human Resource Management; BCom (Industrial Psychology) Career opportunities: Development manager, human"
+      ]
     },
     {
       "id": "prog:55a73d959137",
@@ -576,7 +630,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:cd11eb250148",
@@ -622,7 +685,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:02a3e5fb6e7e",
@@ -666,7 +738,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 50%",
+        "Mathematics 50% OR Mathematical Literacy 70% Similar programme: BA degree Career opportunities: A choice of many subjects that focus on either of the two routes"
+      ]
     },
     {
       "id": "prog:3489ca636ae6",
@@ -712,7 +794,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:b7fee3dce9ab",
@@ -752,7 +843,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:c509bd82601a",
@@ -792,7 +892,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:7224f48c3813",
@@ -830,7 +939,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 50%",
+        "Mathematics 50% OR Mathematical Literacy 70% Similar programme: BA degree Career opportunities: A choice of many subjects that focus on either of the two routes"
+      ]
     },
     {
       "id": "prog:caf5771dd62f",
@@ -868,7 +987,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 50%",
+        "Mathematics 50% OR Mathematical Literacy 70% Similar programme: BA degree Career opportunities: A choice of many subjects that focus on either of the two routes"
+      ]
     },
     {
       "id": "prog:0be652b9680e",
@@ -908,7 +1037,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:0afebf7aa25d",
@@ -948,7 +1086,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) See BA (Law) under the Faculty of",
+        "4 years)",
+        "An NSC aggregate of at least 60%",
+        "Home Language 50%",
+        "First Additional Language 40%"
+      ]
     },
     {
       "id": "prog:4952eec77e85",
@@ -988,7 +1134,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:c39c8f21a45b",
@@ -1030,7 +1185,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%",
+        "OR English First Additional Language 70%",
+        "Mathematics final mark of 70%",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 40%",
+        "Mathematics 60%",
+        "English First Additional Language 70% To register for the Econometrics and Financial Sector focal areas, you must have a Grade 12 Mathematics final mark of 70% or higher as this is required for Actuari",
+        "Mathematics 60% Similar programme: BA in Humanities; BA in Language and Culture; BA in International Studies; BCom (Economic Sciences); BCom (International Business); Bachelor of Data Science (BDatSci): Foca"
+      ]
     },
     {
       "id": "prog:41273f03b736",
@@ -1070,7 +1239,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:dc816afbf99e",
@@ -1116,7 +1294,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "3 years) See BA (Law) under the Faculty of",
+        "An NSC aggregate of at least 63%",
+        "English Home Language 50%",
+        "OR English First Additional Language 60%",
+        "English Home Language 50% OR English First Additional Language 60% Similar programmes: BA in Humanities; BA in Language and Culture; BA in Political, Philosophical and Economic Studies; BCom (Internati"
+      ]
     },
     {
       "id": "prog:0bc13438821a",
@@ -1152,7 +1339,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 40%",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%",
+        "Life Sciences; Mathematics; Mathematical Literacy; Music; Physical Sciences; Religion Studies; Visual Arts; Languages (one language of learning and teaching at a higher education institution and two other reco",
+        "Mathematics 50% OR Mathematical Literacy 70% Similar programme: BA degree Career opportunities: A choice of many subjects that focus on either of the two routes"
+      ]
     },
     {
       "id": "prog:2ad556ad095d",
@@ -1217,7 +1415,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An NSC aggregate of at least 70%",
+        "Mathematics 75%",
+        "English Home Language 50%",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%",
+        "OR English First Additional Language 70%",
+        "Mathematics 75% - English Home Language 50% OR Afrikaans Home Language 50% OR Afrikaans First Additional Language 70% OR English First Additional Language 70% Focal areas - Data Science - Financ"
+      ]
     },
     {
       "id": "prog:46beea3dda5b",
@@ -1282,7 +1491,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An NSC aggregate of at least 70%",
+        "Mathematics 75%",
+        "English Home Language 50%",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%",
+        "OR English First Additional Language 70%",
+        "Mathematics 75% - English Home Language 50% OR Afrikaans Home Language 50% OR Afrikaans First Additional Language 70% OR English First Additional Language 70% Focal areas - Data Science - Financ"
+      ]
     },
     {
       "id": "prog:dc61e92de976",
@@ -1347,7 +1567,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) This is an interfaculty programme",
+        "An aggregate of at least 80%",
+        "Mathematics 80%",
+        "Afrikaans Home Language 60%",
+        "OR English Home Language 60%",
+        "OR Afrikaans First Additional Language 75%",
+        "OR English First Additional Language 75%",
+        "Mathematics 80% - Afrikaans Home Language 60% OR English Home Language 60% OR Afrikaans First Additional Language 75% OR English First Additional Language 75% Focal areas - Analytics and Optimisation"
+      ]
     },
     {
       "id": "prog:d78d690b5108",
@@ -1385,7 +1616,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% Focal areas (you choose one) - Applied Mathematics - Mathematics - Operations Research Similar programmes: BSc Computer Science; BEng; BSc Physics; BCom Mathematical Sciences; BSc wi",
+        "English (Home Language or First Additional Language) 50% - Mathematics 70% If you take Chemistry or Physics as a university subject: - Physical Sciences 50% Focal areas (you choose one) - Genera"
+      ]
     },
     {
       "id": "prog:52086f5b3864",
@@ -1421,7 +1663,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "4 years)",
+        "An NSC aggregate of at least 60%"
+      ]
     },
     {
       "id": "prog:5562aa382bc8",
@@ -1459,7 +1707,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) See BA (Law) under the Faculty of",
+        "4 years)",
+        "An NSC aggregate of at least 60%",
+        "Home Language 50%",
+        "First Additional Language 40%"
+      ]
     },
     {
       "id": "prog:9b7a4757263b",
@@ -1525,7 +1781,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "An aggregate of at least 60%",
+        "Physical Sciences OR Life Sciences 50%",
+        "At least TWO of the following THREE languages (Home Language or First Additional Language) 60%",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Bachelor of Occupational Therapy Career opportunities: After a year of commu",
+        "Physical Sciences OR Life Sciences 50% - At least TWO of the following THREE languages (Home Language or First Additional Language) 60%: English AND/ OR Afrikaans AND/OR a third South African language"
+      ]
     },
     {
       "id": "prog:8240d328f4d5",
@@ -1570,7 +1837,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "An aggregate of at least 60%",
+        "Physical Sciences OR Life Sciences 50%",
+        "At least TWO of the following THREE languages (Home Language or First Additional Language) 60%",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Bachelor of Occupational Therapy Career opportunities: After a year of commu",
+        "Physical Sciences OR Life Sciences 50% - At least TWO of the following THREE languages (Home Language or First Additional Language) 60%: English AND/ OR Afrikaans AND/OR a third South African language"
+      ]
     },
     {
       "id": "prog:6ee63d39fcb9",
@@ -1610,7 +1888,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "4 years) Place for",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 50%"
+      ]
     },
     {
       "id": "prog:69951b4b631a",
@@ -1655,6 +1941,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "An aggregate of at least 60%",
+        "Physical Sciences OR Life Sciences 50%",
+        "At least TWO of the following THREE languages (Home Language or First Additional Language) 60%",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Bachelor of Occupational Therapy Career opportunities: After a year of commu",
+        "Physical Sciences OR Life Sciences 50% - At least TWO of the following THREE languages (Home Language or First Additional Language) 60%: English AND/ OR Afrikaans AND/OR a third South African language"
+      ],
+      "pricing": {
+        "amount_min": 2023,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1694,6 +1996,12 @@
       },
       "modules": [
         "Motivational letter from Church denomination/Minister pertaining"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "4 years)",
+        "An NSC aggregate of at least 60%"
       ]
     },
     {
@@ -1736,7 +2044,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%",
+        "OR English First Additional Language 70%",
+        "Mathematics final mark of 70%",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 40%",
+        "Mathematics 60%",
+        "English First Additional Language 70% To register for the Econometrics and Financial Sector focal areas, you must have a Grade 12 Mathematics final mark of 70% or higher as this is required for Actuari",
+        "Mathematics 60% Similar programme: BA in Humanities; BA in Language and Culture; BA in International Studies; BCom (Economic Sciences); BCom (International Business); Bachelor of Data Science (BDatSci): Foca"
+      ]
     },
     {
       "id": "prog:976cd69b51f3",
@@ -1801,7 +2123,21 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%",
+        "OR English First Additional Language 70%",
+        "Mathematics final mark of 70%",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 40%",
+        "Mathematics 60%",
+        "English First Additional Language 70% To register for the Econometrics and Financial Sector focal areas, you must have a Grade 12 Mathematics final mark of 70% or higher as this is required for Actuari",
+        "Mathematics 60% Similar programme: BA in Humanities; BA in Language and Culture; BA in International Studies; BCom (Economic Sciences); BCom (International Business); Bachelor of Data Science (BDatSci): Foca"
+      ]
     },
     {
       "id": "prog:c5ba9530cb18",
@@ -1839,7 +2175,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "High school teacher in two subjects (Grades 8",
+        "3 years)",
+        "An NSC aggregate of at least 65%",
+        "Mathematics 60%",
+        "English Home Language 50%",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%",
+        "OR English First Additional Language 70%",
+        "Mathematics 60% - English Home Language 50% OR Afrikaans Home Language 50% OR Afrikaans First Additional Language 70% OR English First Additional Language 70% Similar programmes: BAcc; BCom (Financial"
+      ]
     },
     {
       "id": "prog:4a32f9085fb0",
@@ -1888,7 +2236,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An NSC aggregate of at least 70%",
+        "Mathematics 70%",
+        "OR Mathematics 60%",
+        "and Accounting 70%",
+        "English Home Language 50%",
+        "Mathematics 70% OR Mathematics 60% and Accounting 70% - English Home Language 50% OR Afrikaans Home Language"
+      ]
     },
     {
       "id": "prog:9a5013b8c439",
@@ -1928,7 +2286,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) A limited number of students are s",
+        "4 years) This is an interfacul",
+        "An NSC aggregate of at least 80%",
+        "Mathematics 70%",
+        "English Home Language 70%",
+        "OR English First Additional Language 80%",
+        "Mathematics 70% - English Home Language 70% OR English First Additional Language 80% Similar programme: BCom (Management Sciences) Career opportunities: Interaction with international students and the gl"
+      ]
     },
     {
       "id": "prog:93d350e0e7ac",
@@ -1999,7 +2367,23 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "5 years) BROAD DEGREE PROGRAMMES WITH VARI",
+        "An NSC aggregate of at least 65%",
+        "Mathematics 60%",
+        "English Home Language 50%",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%",
+        "OR English First Additional Language 70%",
+        "Mathematics 60% - English Home Language 50% OR Afrikaans Home Language 50% OR Afrikaans First Additional Language 70% OR English First Additional Language 70% To register for the Econometrics and Finan",
+        "BCom (Law) (3 years)",
+        "BAccLLB (5 years)",
+        "An NSC aggregate of at least 65% (excluding Life Orientation)",
+        "English Home Language 50% OR Afrikaans Home Language"
+      ]
     },
     {
       "id": "prog:0e8e0a650c3d",
@@ -2049,7 +2433,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "High school teacher in two subjects (Grades 8",
+        "3 years)",
+        "An NSC aggregate of at least 65%",
+        "Mathematics 60%",
+        "English Home Language 50%",
+        "OR Afrikaans Home Language 50%",
+        "OR Afrikaans First Additional Language 70%",
+        "OR English First Additional Language 70%",
+        "Mathematics 60% - English Home Language 50% OR Afrikaans Home Language 50% OR Afrikaans First Additional Language 70% OR English First Additional Language 70% Similar programmes: BAcc; BCom (Financial"
+      ]
     },
     {
       "id": "prog:6e915e5d0660",
@@ -2100,7 +2496,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "70% Focal areas"
+      ]
     },
     {
       "id": "prog:7c89810c4236",
@@ -2136,7 +2536,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An NSC aggregate of at least 63%",
+        "Home Language 50%",
+        "First Additional Language 40%",
+        "Mathematics 50%",
+        "OR Mathematical Literacy 70%",
+        "Mathematics 50% OR Mathematical Literacy 70% Similar programmes: BCom (Management Sciences): Focal Area Human Resource Management; BCom (Industrial Psychology) Career opportunities: Development manager, human"
+      ]
     },
     {
       "id": "prog:cbdc53590ec4",
@@ -2191,7 +2601,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% Focal areas (you choose one) - Applied Mathematics - Mathematics - Operations Research Similar programmes: BSc Computer Science; BEng; BSc Physics; BCom Mathematical Sciences; BSc wi",
+        "English (Home Language or First Additional Language) 50% - Mathematics 70% If you take Chemistry or Physics as a university subject: - Physical Sciences 50% Focal areas (you choose one) - Genera"
+      ]
     },
     {
       "id": "prog:a8d608a52940",
@@ -2248,6 +2669,18 @@
       "modules": [
         "Life Sciences or Physical Sciences 50%",
         "History or Geography 50%"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Primary school teacher for Grades 4",
+        "Mathematics (pass with 60%",
+        "Life Sciences or Physical Sciences 50%",
+        "History or Geography 50%",
+        "Mathematics (pass with 60% average in the first year) - Life Skills - Natural Sciences (Ed) • Life Sciences or Physical Sciences 50% - Social Sciences (Ed) • History or Geography 50% Career opportuniti",
+        "Mathematics (pass with 60% average in the first year)",
+        "Life Skills",
+        "Natural Sciences (Ed)",
+        "Social Sciences (Ed)"
       ]
     },
     {
@@ -2299,6 +2732,18 @@
       "modules": [
         "Life Sciences or Physical Sciences 50%",
         "History or Geography 50%"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Primary school teacher for Grades 4",
+        "Mathematics (pass with 60%",
+        "Life Sciences or Physical Sciences 50%",
+        "History or Geography 50%",
+        "Mathematics (pass with 60% average in the first year) - Life Skills - Natural Sciences (Ed) • Life Sciences or Physical Sciences 50% - Social Sciences (Ed) • History or Geography 50% Career opportuniti",
+        "Mathematics (pass with 60% average in the first year)",
+        "Life Skills",
+        "Natural Sciences (Ed)",
+        "Social Sciences (Ed)"
       ]
     },
     {
@@ -2324,7 +2769,12 @@
       "career_outcomes": [
         "scale operation of processes by which various consumer products"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes",
+        "Mathematics and Physical Sciences"
+      ]
     },
     {
       "id": "prog:694f3e8025c8",
@@ -2349,7 +2799,12 @@
       "career_outcomes": [
         "scale operation of processes by which various consumer products"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes",
+        "Mathematics and Physical Sciences"
+      ]
     },
     {
       "id": "prog:3a89fccaccab",
@@ -2374,7 +2829,12 @@
       "career_outcomes": [
         "scale operation of processes by which various consumer products"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes",
+        "Mathematics and Physical Sciences"
+      ]
     },
     {
       "id": "prog:10b10a52b801",
@@ -2403,7 +2863,11 @@
         "economy, such as process plants and manufacturing industries.",
         "BEng (Mechatronic) (4 years)"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes"
+      ]
     },
     {
       "id": "prog:122a8f80fcc6",
@@ -2432,7 +2896,11 @@
         "economy, such as process plants and manufacturing industries.",
         "BEng (Mechatronic) (4 years)"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes"
+      ]
     },
     {
       "id": "prog:9e1736a9360d",
@@ -2461,7 +2929,11 @@
         "dissemination of information by computer and communication",
         "networks, such as cell phone networks; and the design of"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes"
+      ]
     },
     {
       "id": "prog:7152e5f8e612",
@@ -2509,7 +2981,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes"
+      ]
     },
     {
       "id": "prog:24a255bc42a1",
@@ -2538,7 +3014,11 @@
         "economy, such as process plants and manufacturing industries.",
         "BEng (Mechatronic) (4 years)"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes"
+      ]
     },
     {
       "id": "prog:c79d10bce107",
@@ -2567,7 +3047,11 @@
         "economy, such as process plants and manufacturing industries.",
         "BEng (Mechatronic) (4 years)"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes"
+      ]
     },
     {
       "id": "prog:ccc4cc050e6f",
@@ -2596,7 +3080,11 @@
         "dissemination of information by computer and communication",
         "networks, such as cell phone networks; and the design of"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) Similar programmes"
+      ]
     },
     {
       "id": "prog:307ec1b914a3",
@@ -2651,7 +3139,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d30b2a51f1af",
@@ -2691,7 +3180,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:fad6e10484a2",
@@ -2744,6 +3234,17 @@
       },
       "modules": [
         "Similar programmes: BSc Earth Science; BSc Computer Science;"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% Focal areas (you choose one) - Applied Mathematics - Mathematics - Operations Research Similar programmes: BSc Computer Science; BEng; BSc Physics; BCom Mathematical Sciences; BSc wi",
+        "English (Home Language or First Additional Language) 50% - Mathematics 70% If you take Chemistry or Physics as a university subject: - Physical Sciences 50% Focal areas (you choose one) - Genera"
       ]
     },
     {
@@ -2807,6 +3308,16 @@
       },
       "modules": [
         "Similar programmes: BSc Earth Science; BSc Computer Science;"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 60%",
+        "or 70%",
+        "English (Home Language or First Additional Language) 50% - Physical Sciences 50% - Mathematics 60% or 70% (depending on your choice of first-year Mathematics and Physics) ** Focal areas (you cho"
       ]
     },
     {
@@ -2833,6 +3344,10 @@
       "fees_per_year": null,
       "modules": [
         "Motivational letter from Church denomination/Minister pertaining"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) These programmes offer an alternat"
       ]
     },
     {
@@ -2897,6 +3412,17 @@
       },
       "modules": [
         "Similar programmes: BSc Earth Science; BSc Computer Science;"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% Focal areas (you choose one) - Applied Mathematics - Mathematics - Operations Research Similar programmes: BSc Computer Science; BEng; BSc Physics; BCom Mathematical Sciences; BSc wi",
+        "English (Home Language or First Additional Language) 50% - Mathematics 70% If you take Chemistry or Physics as a university subject: - Physical Sciences 50% Focal areas (you choose one) - Genera"
       ]
     },
     {
@@ -2962,7 +3488,16 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "An NSC aggregate of at least 60%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50%",
+        "Mathematics 60%",
+        "Physical Sciences (Physics and Chemistry) 50%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50% - Mathematics 60% - Physical Sciences (Physics and Chemistry) 50% Similar programmes: BSc in Biodiversity and Ecology; BScFor ("
+      ]
     },
     {
       "id": "prog:61b092d2748b",
@@ -3010,7 +3545,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "t Additional Language) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 60%",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% - Mathematics 60% Similar programmes: BSc Human Life Sciences, BSc with focal area Biomedical Mathematical Sciences; BSc Physiotherapy",
+        "PHYSICAL SCIENCES BSc Chemistry (3 years) - An aggregate of at least 65% for the NSC (excluding Life Orientation) - Afrikaans OR English (Home Language or First Additional Language) 50% - Physical Scienc",
+        "Mathematics 70% Focal areas (you choose one) - Chemistry and Polymer Science - Chemical Biology - Applied and Sustainable Chemistry Students are enco"
+      ]
     },
     {
       "id": "prog:ab746cd378dc",
@@ -3048,7 +3596,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "70% If you take Chemistry or Physics as a uni",
+        "Physical Sciences 50%",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% Focal areas (you choose one) - Applied Mathematics - Mathematics - Operations Research Similar programmes: BSc Computer Science; BEng; BSc Physics; BCom Mathematical Sciences; BSc wi",
+        "English (Home Language or First Additional Language) 50% - Mathematics 70% If you take Chemistry or Physics as a university subject: - Physical Sciences 50% Focal areas (you choose one) - Genera"
+      ]
     },
     {
       "id": "prog:1a43ab764707",
@@ -3094,7 +3653,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 60%",
+        "or 70%",
+        "mathematics; BSc Conservation Ecology; BScAgric Plant and Soil Sciences; BScAgric Animal Production Systems",
+        "life sciences teacher (after completion of Postgraduate Certificate in Education)",
+        "Life Sciences (3 years) - An aggregate of at least 65% for the NSC (excluding Life Orientation) - Afrikaans OR English (Home Language or First Additional Language) 50% - Physical Sciences 50% - Mat"
+      ]
     },
     {
       "id": "prog:39191b774cb7",
@@ -3138,7 +3709,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "An NSC aggregate of at least 60%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50%",
+        "Mathematics 60%",
+        "Physical Sciences (Physics and Chemistry) 50%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50% - Mathematics 60% - Physical Sciences (Physics and Chemistry) 50% Similar programmes: BSc in Biodiversity and Ecology; BScFor ("
+      ]
     },
     {
       "id": "prog:56528f6e84f5",
@@ -3185,7 +3765,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "OR Mathematical Literacy 70%",
+        "Life Sciences 50%",
+        "An aggregate of at least 60%",
+        "Mathematics 50%",
+        "Physical Sciences 50%",
+        "Life Sciences 50% Similar programmes: BSc in Dietetics; Bachelor of Occupational Therapy; BSc in Physiotherapy and Bachelor of Speech-Language and Hearing Therapy Career opportunities: After a year of communit",
+        "Mathematics 50% - Physical Sciences 50% - Life Sciences 50% Similar programmes: BSc in Food Science; BSc in Molecular Biology and Biotechnology; Bachelor of Occupational Therapy; BSc in Physiotherapy"
+      ]
     },
     {
       "id": "prog:8ac18ce73c0c",
@@ -3245,7 +3836,17 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 60%",
+        "or 70%",
+        "English (Home Language or First Additional Language) 50% - Physical Sciences 50% - Mathematics 60% or 70% (depending on your choice of first-year Mathematics and Physics) ** Focal areas (you cho"
+      ]
     },
     {
       "id": "prog:86522d02b263",
@@ -3308,6 +3909,16 @@
       },
       "modules": [
         "Similar programmes: BSc Earth Science; BSc Computer Science;"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 60%",
+        "or 70%",
+        "English (Home Language or First Additional Language) 50% - Physical Sciences 50% - Mathematics 60% or 70% (depending on your choice of first-year Mathematics and Physics) ** Focal areas (you cho"
       ]
     },
     {
@@ -3350,7 +3961,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
+      ]
     },
     {
       "id": "prog:2b8e02c8b430",
@@ -3396,7 +4011,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "4 Extended Curriculum Programmes (ECPs) An",
+        "An NSC aggregate of at least 60%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50%",
+        "Mathematics 60%",
+        "Physical Sciences (Physics and Chemistry) 50%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50% - Mathematics 60% - Physical Sciences (Physics and Chemistry) 50% Similar programmes: BSc in Dietetics; BSc in Molecular Biology"
+      ]
     },
     {
       "id": "prog:9768ef3c0e84",
@@ -3442,7 +4067,22 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Extended Curriculum Programmes (ECPs) An",
+        "Combination 1",
+        "Combination 2",
+        "An NSC aggregate of at least 60%",
+        "excluding Life Orientation) English OR Afrikaans (Home Language or First Additional Language) 50%",
+        "Mathematics between 55%",
+        "50% Combination",
+        "60% Physical Sciences (Physics and Chemistry)",
+        "between 45%",
+        "Mathematics between 60%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50% AND Comply with one of the following combinations: Combination 1 Mathematics between 55% and 59,9% Physical Sciences (Physics and Chemis",
+        "Mathematics ≥ 60% Physical Sciences (Physics and Chemistry) between 45% and 49,9% BScFor (Wood and Wood Products Sciences): Combination 1 Mathematics between 60%"
+      ]
     },
     {
       "id": "prog:9d5ccf77f7dc",
@@ -3504,7 +4144,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "f at least 60%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50%",
+        "Mathematics 60%",
+        "Physical Sciences (Physics and Chemistry) 50%",
+        "Mathematics 70%",
+        "Physical Sciences (Physics and Chemistry) 60%",
+        "English OR Afrikaans (Home Language or First Additional Language) 50% - See additional requirements for each field of study Fields of study - Forestry and Natural Resources Sciences: • Mathema",
+        "Physical Sciences (Physics and Chemistry) 50% - Wood and Wood Products Sciences: • Mathematics 70% • Physical Sciences (Physics and Chemistry) 60% Similar programmes: Forestry and Natural Resources Scienc"
+      ]
     },
     {
       "id": "prog:87bafcc3eb39",
@@ -3553,6 +4204,10 @@
       },
       "modules": [
         "Similar programmes: BSc Earth Science; BSc Computer Science;"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "mathematics teacher (after completion of Postgraduate Certificate in Education), operations researcher, supply chain analyst, data scientist, lecturer, researcher in interdisciplinary scientific fields which"
       ]
     },
     {
@@ -3603,7 +4258,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%",
+        "Life Sciences 50%",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "Mathematics 40% - Life Sciences 50% Similar programmes: BSc in Physiotherapy; Bachelor of Nursing, BSc in Dietetics; BSc in Human Life Sciences; BSc in Sport Science",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Ba"
+      ]
     },
     {
       "id": "prog:68a5c91aa6d2",
@@ -3662,7 +4328,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%",
+        "Life Sciences 50%",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "Mathematics 40% - Life Sciences 50% Similar programmes: BSc in Physiotherapy; Bachelor of Nursing, BSc in Dietetics; BSc in Human Life Sciences; BSc in Sport Science",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Ba"
+      ]
     },
     {
       "id": "prog:a3188d9184aa",
@@ -3721,7 +4398,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%",
+        "Life Sciences 50%",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "Mathematics 40% - Life Sciences 50% Similar programmes: BSc in Physiotherapy; Bachelor of Nursing, BSc in Dietetics; BSc in Human Life Sciences; BSc in Sport Science",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Ba"
+      ]
     },
     {
       "id": "prog:555380ae53a8",
@@ -3774,7 +4462,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "OR Mathematical Literacy 70%",
+        "Life Sciences 50%",
+        "An aggregate of at least 60%",
+        "Mathematics 50%",
+        "Physical Sciences 50%",
+        "Life Sciences 50% Similar programmes: BSc in Dietetics; Bachelor of Occupational Therapy; BSc in Physiotherapy and Bachelor of Speech-Language and Hearing Therapy Career opportunities: After a year of communit",
+        "Mathematics 50% - Physical Sciences 50% - Life Sciences 50% Similar programmes: BSc in Food Science; BSc in Molecular Biology and Biotechnology; Bachelor of Occupational Therapy; BSc in Physiotherapy"
+      ]
     },
     {
       "id": "prog:7e3a8ff47213",
@@ -3821,7 +4520,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "OR Mathematical Literacy 70%",
+        "Life Sciences 50%",
+        "An aggregate of at least 60%",
+        "Mathematics 50%",
+        "Physical Sciences 50%",
+        "Life Sciences 50% Similar programmes: BSc in Dietetics; Bachelor of Occupational Therapy; BSc in Physiotherapy and Bachelor of Speech-Language and Hearing Therapy Career opportunities: After a year of communit",
+        "Mathematics 50% - Physical Sciences 50% - Life Sciences 50% Similar programmes: BSc in Food Science; BSc in Molecular Biology and Biotechnology; Bachelor of Occupational Therapy; BSc in Physiotherapy"
+      ]
     },
     {
       "id": "prog:1c4d342fbc29",
@@ -3863,7 +4573,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
+      ]
     },
     {
       "id": "prog:19f6d61a7b32",
@@ -3905,7 +4619,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
+      ]
     },
     {
       "id": "prog:a023f5968d4e",
@@ -3943,7 +4661,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%",
+        "Life Sciences 50%",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "Mathematics 40% - Life Sciences 50% Similar programmes: BSc in Physiotherapy; Bachelor of Nursing, BSc in Dietetics; BSc in Human Life Sciences; BSc in Sport Science",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Ba"
+      ]
     },
     {
       "id": "prog:5e0dc11f8b47",
@@ -4011,6 +4740,22 @@
             }
           ]
         ]
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "OR Mathematical Literacy 70%",
+        "Life Sciences 50%",
+        "An aggregate of at least 60%",
+        "Mathematics 50%",
+        "Physical Sciences 50%",
+        "Life Sciences 50% Similar programmes: BSc in Dietetics; Bachelor of Occupational Therapy; BSc in Physiotherapy and Bachelor of Speech-Language and Hearing Therapy Career opportunities: After a year of communit",
+        "Mathematics 50% - Physical Sciences 50% - Life Sciences 50% Similar programmes: BSc in Food Science; BSc in Molecular Biology and Biotechnology; Bachelor of Occupational Therapy; BSc in Physiotherapy"
+      ],
+      "pricing": {
+        "amount_min": 2023,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4049,7 +4794,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%",
+        "Life Sciences 50%",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "Mathematics 40% - Life Sciences 50% Similar programmes: BSc in Physiotherapy; Bachelor of Nursing, BSc in Dietetics; BSc in Human Life Sciences; BSc in Sport Science",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Ba"
+      ]
     },
     {
       "id": "prog:0d6bb9b75668",
@@ -4112,7 +4868,20 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "t Additional Language) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 60%",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% - Mathematics 60% Similar programmes: BSc Human Life Sciences, BSc with focal area Biomedical Mathematical Sciences; BSc Physiotherapy",
+        "PHYSICAL SCIENCES BSc Chemistry (3 years) - An aggregate of at least 65% for the NSC (excluding Life Orientation) - Afrikaans OR English (Home Language or First Additional Language) 50% - Physical Scienc",
+        "Mathematics 70% Focal areas (you choose one) - Chemistry and Polymer Science - Chemical Biology - Applied and Sustainable Chemistry Students are enco"
+      ]
     },
     {
       "id": "prog:b93815767934",
@@ -4166,7 +4935,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "t Additional Language) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 60%",
+        "An aggregate of at least 65%",
+        "Afrikaans OR English (Home Language or First Additional Language) 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% - Mathematics 60% Similar programmes: BSc Human Life Sciences, BSc with focal area Biomedical Mathematical Sciences; BSc Physiotherapy",
+        "PHYSICAL SCIENCES BSc Chemistry (3 years) - An aggregate of at least 65% for the NSC (excluding Life Orientation) - Afrikaans OR English (Home Language or First Additional Language) 50% - Physical Scienc",
+        "Mathematics 70% Focal areas (you choose one) - Chemistry and Polymer Science - Chemical Biology - Applied and Sustainable Chemistry Students are enco"
+      ]
     },
     {
       "id": "prog:7c63113727d3",
@@ -4202,7 +4984,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 year)",
+        "ior Certificate with at least 40%"
+      ]
     },
     {
       "id": "prog:87a77d4ff141",
@@ -4240,7 +5027,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "An NSC aggregate of at least 65%",
+        "Home Language 60%",
+        "First Additional Language 50%",
+        "An NSC aggregate of at least 65% (excluding Life Orientation)"
+      ]
     },
     {
       "id": "prog:dd23d7b20222",
@@ -4277,7 +5072,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) A committee selects applicants bas",
+        "An NSC aggregate of at least 55%"
+      ]
     },
     {
       "id": "prog:b4290707423f",
@@ -4314,7 +5114,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) A committee selects applicants bas",
+        "An NSC aggregate of at least 55%"
+      ]
     },
     {
       "id": "prog:b18fd330da88",
@@ -4342,6 +5147,12 @@
       "fees_per_year": null,
       "modules": [
         "Motivational letter from Church denomination/Minister pertaining"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years)",
+        "4 years)",
+        "An NSC aggregate of at least 60%"
       ]
     },
     {
@@ -4371,7 +5182,15 @@
         "the University’s Postgraduate Prospectus at https:/ /www.sun.ac.za/",
         "english/pgstudies/."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "uage) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% - Mathematics 70% Focal areas (you choose one) - Chemistry and Polymer Science - Chemical Biology - Applied and Sustainable Chemistry Students are encouraged to follow up a three-ye",
+        "english/pgstudies/"
+      ]
     },
     {
       "id": "prog:16ad2fd76386",
@@ -4397,7 +5216,11 @@
         "house legal counsel); Compliance",
         "governmental organisation (NGO) work."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "thematics 60%"
+      ]
     },
     {
       "id": "prog:369:Degree|970f519c2cad|ba",
@@ -4431,7 +5254,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:369:Degree|c65fae888e5c|ba in development and the environment;",
@@ -4488,6 +5312,10 @@
       },
       "modules": [
         "Similar programmes: BSc Earth Science; BSc Computer Science;"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "70% Focal areas"
       ]
     },
     {
@@ -4526,6 +5354,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%",
+        "Life Sciences 50%",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "Mathematics 40% - Life Sciences 50% Similar programmes: BSc in Physiotherapy; Bachelor of Nursing, BSc in Dietetics; BSc in Human Life Sciences; BSc in Sport Science",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Ba"
+      ],
+      "pricing": {
+        "amount_min": 2023,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4564,6 +5408,22 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "An aggregate of at least 60%",
+        "Mathematics 40%",
+        "Life Sciences 50%",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "Mathematics 40% - Life Sciences 50% Similar programmes: BSc in Physiotherapy; Bachelor of Nursing, BSc in Dietetics; BSc in Human Life Sciences; BSc in Sport Science",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Ba"
+      ],
+      "pricing": {
+        "amount_min": 2023,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -4609,7 +5469,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)",
+        "Mathematics 60%",
+        "Physical Sciences 50%",
+        "An aggregate of at least 60%",
+        "Physical Sciences OR Life Sciences 50%",
+        "At least TWO of the following THREE languages (Home Language or First Additional Language) 60%",
+        "Mathematics 60% - Physical Sciences 50% Similar programmes: BSc in Sport Science; BSc in Human Life Sciences; Bachelor of Nursing; Bachelor of Occupational Therapy Career opportunities: After a year of commu",
+        "Physical Sciences OR Life Sciences 50% - At least TWO of the following THREE languages (Home Language or First Additional Language) 60%: English AND/ OR Afrikaans AND/OR a third South African language"
+      ]
     },
     {
       "id": "prog:369:Degree|b5508e98e435|bcom",
@@ -4672,7 +5543,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:369:Degree|cc4b86819668|beng",
@@ -4695,7 +5567,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:369:Degree|5f75057e98ee|bsc",
@@ -4750,7 +5623,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:369:Postgraduate|4052f60b12d5|honours degree. this will enable you to gain recognition",
@@ -4779,7 +5653,15 @@
         "the University’s Postgraduate Prospectus at https:/ /www.sun.ac.za/",
         "english/pgstudies/."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "uage) 50%",
+        "Physical Sciences 50%",
+        "Mathematics 70%",
+        "Physical Sciences 50% - Mathematics 70% Focal areas (you choose one) - Chemistry and Polymer Science - Chemical Biology - Applied and Sustainable Chemistry Students are encouraged to follow up a three-ye",
+        "english/pgstudies/"
+      ]
     },
     {
       "id": "prog:369:Postgraduate|bafbcfec224b|master of the high court clerk or",
@@ -4805,7 +5687,11 @@
         "house legal counsel); Compliance",
         "governmental organisation (NGO) work."
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "thematics 60%"
+      ]
     }
   ],
   "admission": {
@@ -6830,15 +7716,17 @@
     "adm_reqs_count": 58
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:53:46Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:01:15Z",
     "test_mode": false,
-    "completeness_before": 0.14,
-    "completeness_after": 0.318,
-    "improvement": 0.178,
-    "fields_enriched": 277,
+    "points_system": "aps_points",
+    "completeness_before": 0.28,
+    "completeness_after": 0.338,
+    "improvement": 0.058,
+    "fields_enriched": 102,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/stellenbosch-university.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/stellenbosch-university.pdf"
     ]
   }
 }

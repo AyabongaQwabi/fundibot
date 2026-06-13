@@ -265,7 +265,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:010ca0bef7b7",
@@ -344,7 +345,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:12cd19d0918c",
@@ -423,7 +425,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or better in English 4",
+        "or better in African Language and English 4",
+        "or better in English 3",
+        "or better in History or Economics and English 3",
+        "or better in History and English 3",
+        "or RPL according to University Policy 3",
+        "English 4 years Bachelor of Arts in Language Practice (HSBALP) NCS 30 + an adequate achievement (50 -59%) or better in African Language and English 4 years Bachelor of Arts (English Language and Literatur",
+        "English 3 Years Bachelor of Arts in International Relations (HSBAIR) NSC 30 + an adequate achievement (50 -59%) or better in History or Economics and English 3 Years Bachelor of Arts in Youth Development",
+        "English 4 Years Bachelor of Arts (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and English 3 Years Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University P"
+      ]
     },
     {
       "id": "prog:041e54887def",
@@ -494,7 +508,20 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or better in English or African Languages 3",
+        "or better in English 3",
+        "or better in English and History or Economics 3",
+        "or better in English 4",
+        "English or African Languages 3 years Bachelor of Arts (HSBBA) NCS 30 + an adequate achievement (50 -59%) or better in English 3 years Bachelor of Arts (Development Studies) (HSBADS) NCS 30 + an adequate ac",
+        "English and History or Economics 3 years Bachelor of Indigenous Knowledge Systems (HSBIKS) NCS 30 + an adequate achievement (50 -59%) or better in English 4 years Bachelor of Arts in Language Practice (HS",
+        "59%) or better in English or",
+        "59%) or better in English 3 years",
+        "59%) or better in English and",
+        "59%) or better in English 4 years"
+      ]
     },
     {
       "id": "prog:0b45c61a20f0",
@@ -549,7 +576,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:10f8ee12e447",
@@ -628,7 +656,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:36d30bff82b8",
@@ -671,7 +700,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c7503b81895e",
@@ -750,7 +780,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:1fd4519802e6",
@@ -790,7 +821,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "in any three subjects 3",
+        "pass in Mathematics 4",
+        "in English and at least 50%",
+        "English and a moderate achievement level (40-49%) in any three subjects 3 years BACHELOR OF COMMERCE (in various disciplines) Bachelor of Commerce in Accounting Sciences (MSBCAS) NSC 35 + an adequate achie",
+        "English and at least 50% pass in Mathematics 4 years Bachelor of Commerce in Tourism Management (MSBTRM) NSC 32 + an adequate achievement level (50-59%) in English and Mathematical Literacy (or",
+        "59%) in English and a",
+        "49%) in any three subjects 3 years",
+        "59%) in English and at",
+        "59%) in English and"
+      ]
     },
     {
       "id": "prog:e7b2e1b354bb",
@@ -830,7 +873,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "in English 4",
+        "in English 3",
+        "The duration of such programmes is 4",
+        "Programmes Code Duration Extended Bachelor of Administration MSEBAD 4",
+        "years Extended Bachelor of Commerce (Accounting) MSEBCA 4",
+        "years Extended Bachelor of Commerce (Business Information Systems) MSEIS 4",
+        "a minimum of 60%",
+        "a minimum of 50%",
+        "English 4 years Bachelor of Arts in Criminal Justice (LWBACJ) NSC 34 + a minimum of 50% in English 3 Years EXTENDED DEGREE PROGRAMMES Extended Degree Programmes Any student who does not qualify for the"
+      ]
     },
     {
       "id": "prog:085413e1e079",
@@ -864,7 +919,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years ENVIRONMENTAL SCIENCES STREAM Bache",
+        "an achievement level of 4",
+        "3 years Bachelor of Earth Sciences in Mini",
+        "an achievement level of 5",
+        "Economics and Geography 4",
+        "and 50%",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "English, Mathematics, Physical Sciences, Life Sciences, Geography , or Agricultural Sciences",
+        "Mathematics and Physical Science (adequate achievement, 50-59%) and 50% + in English and at least three of these subjects – Agricultural Sciences, Accounting, Life Sciences, Economics and Geography 4 years Ba",
+        "English, Mathematics, Phy"
+      ]
     },
     {
       "id": "prog:7b70f5930fa8",
@@ -898,7 +966,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years ENVIRONMENTAL SCIENCES STREAM Bache",
+        "an achievement level of 4",
+        "3 years Bachelor of Earth Sciences in Mini",
+        "an achievement level of 5",
+        "Economics and Geography 4",
+        "and 50%",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "English, Mathematics, Physical Sciences, Life Sciences, Geography , or Agricultural Sciences",
+        "Mathematics and Physical Science (adequate achievement, 50-59%) and 50% + in English and at least three of these subjects – Agricultural Sciences, Accounting, Life Sciences, Economics and Geography 4 years Ba",
+        "English, Mathematics, Phy"
+      ]
     },
     {
       "id": "prog:369731864dd6",
@@ -932,7 +1013,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years ENVIRONMENTAL SCIENCES STREAM Bache",
+        "an achievement level of 4",
+        "3 years Bachelor of Earth Sciences in Mini",
+        "an achievement level of 5",
+        "Economics and Geography 4",
+        "and 50%",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "English, Mathematics, Physical Sciences, Life Sciences, Geography , or Agricultural Sciences",
+        "Mathematics and Physical Science (adequate achievement, 50-59%) and 50% + in English and at least three of these subjects – Agricultural Sciences, Accounting, Life Sciences, Economics and Geography 4 years Ba",
+        "English, Mathematics, Phy"
+      ]
     },
     {
       "id": "prog:b97b0c3bc600",
@@ -1003,7 +1097,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d01b92a1494c",
@@ -1049,7 +1144,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years BSc in Nutrition (SHBBSN) NSC",
+        "Mathematics and Physical Sciences or Agricultural Sciences 4",
+        "and Physical Sciences 4",
+        "in English 4",
+        "Selection test 4",
+        "achievement of level 4",
+        "Life Sciences, English and Physical Sciences (60-69) and Mathematics (50-59), excluding life orientation",
+        "Life Sciences, English, Mathematics and Physical Sciences or Agricultural Sciences 4 years BSc in Sports and Exercise Science (SHBSES) NSC 34 + adequate achievement (50-59%) in Life Sciences, English, and Phys",
+        "Life Sciences, English, Mathematics, and Physical Sciences 4 years BSc in Recreation and Leisure Studies (SHBRLS) NSC 34 + adequate achievement (50-59%) in English 4 years Bachelor of Psychology (SHBBP) NSC 36",
+        "English + Selection test 4 years DIPLOMA Diploma in Nursing (SHDPN) NSC 28 + achievement of level 4 (50 – 59%) in Life Science"
+      ]
     },
     {
       "id": "prog:d3c7c2f93ec9",
@@ -1104,7 +1212,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or better in History and English 3",
+        "or RPL according to University Policy 3",
+        "adequate achievement in English 1",
+        "or better in English 4",
+        "Tshivenda and Xitsonga 4",
+        "English 3 Years Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years Higher Certificate in Music NSC Certificate + adequate achievement in English 1 Year Bachelor of Social Wor",
+        "English 4 Years EDUCATION STREAM Bachelor of Education in Senior Phase and Further Education and Training (SEBESP) (SEBECP) (SEBELP) NSC 36 + English (50%) plus two (50) from Mathematics, Physical Science",
+        "Life Sciences OR NSC 36 + English (50%) plus two (50) from Accounting, Business Studies and Economics OR NSC 36 + English (50%) plus two (50) from History , Geography , Sepedi, Tshivenda and Xitsonga 4 Years"
+      ]
     },
     {
       "id": "prog:1141725a16c3",
@@ -1169,7 +1288,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or better in English 4",
+        "or better in African Language and English 4",
+        "or better in English 3",
+        "or better in History or Economics and English 3",
+        "or better in History and English 3",
+        "or RPL according to University Policy 3",
+        "English 4 years Bachelor of Arts in Language Practice (HSBALP) NCS 30 + an adequate achievement (50 -59%) or better in African Language and English 4 years Bachelor of Arts (English Language and Literatur",
+        "English 3 Years Bachelor of Arts in International Relations (HSBAIR) NSC 30 + an adequate achievement (50 -59%) or better in History or Economics and English 3 Years Bachelor of Arts in Youth Development",
+        "English 4 Years Bachelor of Arts (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and English 3 Years Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University P"
+      ]
     },
     {
       "id": "prog:3bd4547250f3",
@@ -1203,7 +1334,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Economics and Geography 4",
+        "an achievement level of 5",
+        "Life Sciences, Economics and Geography 4 years Bachelor of Earth Sciences in Hydrology and Water Resources (ESBHWR) NCS 35 + an achievement level of 5 (60-69%) in English, Mathematics, Physical Sciences and an",
+        "Life Sciences, Economics and Geography 4 years Bachelor of Urban and Regional Planning (ESBURP) NCS 35 + an achievement level of 5 (60-69%) in Physical Sciences, Mathematics, English, Technical Drawing, Geograp",
+        "English and Mathematics, plus at least any three subjects – Agricultural Sciences, Accounting, Life Sciences, Economics and Geography 4 years Bachelor of Environmental Sciences in Disaster Risk Reduction",
+        "Mathematics and Life Sciences,"
+      ]
     },
     {
       "id": "prog:457f1fa45570",
@@ -1237,7 +1377,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:95379d86138b",
@@ -1277,7 +1418,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:58ac7b770dc1",
@@ -1326,7 +1468,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "in any three subjects 3",
+        "pass in Mathematics 4",
+        "in English and at least 50%",
+        "English and a moderate achievement level (40-49%) in any three subjects 3 years BACHELOR OF COMMERCE (in various disciplines) Bachelor of Commerce in Accounting Sciences (MSBCAS) NSC 35 + an adequate achie",
+        "English and at least 50% pass in Mathematics 4 years Bachelor of Commerce in Tourism Management (MSBTRM) NSC 32 + an adequate achievement level (50-59%) in English and Mathematical Literacy (or",
+        "59%) in English and a",
+        "49%) in any three subjects 3 years",
+        "59%) in English and at",
+        "59%) in English and"
+      ]
     },
     {
       "id": "prog:ae316ac3a363",
@@ -1391,7 +1545,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:3d49535952ed",
@@ -1448,7 +1603,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "pass in Mathematics 4",
+        "Geography and Tourism 3",
+        "in English and Accounting or Mathematics 3",
+        "and Information Technology or Computer Studies 3",
+        "n English and at least 50%",
+        "in English and moderate achievement in Mathematics or 75%",
+        "English and at least 50% pass in Mathematics 4 years Bachelor of Commerce in Tourism Management (MSBTRM) NSC 32 + an adequate achievement level (50-59%) in English and Mathematical Literacy (or moderate",
+        "Mathematics) plus moderate achievement in any two of these subjects: Accounting, Business Studies, Economics, Information Technology , Geography and Tourism 3 Years Bachelor of Commerce in Accounting",
+        "English and Accounting or Mathematics 3 years Bachelor of Commerce in Business Information Systems (MSBIS) NSC 32 + an adequate achievement level (50-59%) in English and moderate achievement in Mathemati"
+      ]
     },
     {
       "id": "prog:c603a7abdba1",
@@ -1488,7 +1655,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "and Information Technology or Computer Studies 3",
+        "Information Technology and Mathematics 3",
+        "in English and Accounting or Mathematics 3",
+        "Business Studies and Information Technology 3",
+        "English and Business Studies, plus a moderate achievement level (40-49%) in any two of these subjects: Accounting, Economics, Information Technology and Mathematics 3 Years Bachelor of Commerce in Cost an",
+        "English and Accounting or Mathematics 3 Years Bachelor of Commerce in Economics (MSBBCE) NSC 32 + an adequate achievement level (50-59%) in English and Economics or Mathematics, plus moderate achievement"
+      ]
     },
     {
       "id": "prog:c68a3e9d9a89",
@@ -1528,7 +1704,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "BAD 4",
+        "years Extended Bachelor of Commerce (Accounting) MSEBCA 4",
+        "years Extended Bachelor of Commerce (Business Information Systems) MSEIS 4",
+        "years Extended Bachelor of Commerce (Business Management) MSECBM 4",
+        "years Extended Bachelor of Commerce (Cost and Management Accounting) MSECMA 4",
+        "years Extended Bachelor of Commerce (Economics) MSEBCE 4",
+        "years Extended Bachelor of Commerce (Human Resources Management) MSEHR 4",
+        "Maths in Motion: Building Future Scientists The Faculty of Science, Engineering and Agriculture drives innovative, hands-on lear"
+      ]
     },
     {
       "id": "prog:9b0ecfb0ecfb",
@@ -1568,7 +1755,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "and Information Technology or Computer Studies 3",
+        "Information Technology and Mathematics 3",
+        "in English and Accounting or Mathematics 3",
+        "Business Studies and Information Technology 3",
+        "English and Business Studies, plus a moderate achievement level (40-49%) in any two of these subjects: Accounting, Economics, Information Technology and Mathematics 3 Years Bachelor of Commerce in Cost an",
+        "English and Accounting or Mathematics 3 Years Bachelor of Commerce in Economics (MSBBCE) NSC 32 + an adequate achievement level (50-59%) in English and Economics or Mathematics, plus moderate achievement"
+      ]
     },
     {
       "id": "prog:ce5c053ba21d",
@@ -1611,7 +1807,20 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Business Studies and Information Technology 3",
+        "Information Technology and Mathematics 3",
+        "in English 4",
+        "in English 3",
+        "a minimum of 60%",
+        "a minimum of 50%",
+        "Mathematics, plus moderate achievement in any two of these subjects: Accounting, Business Studies and Information Technology 3 Years Bachelor of Commerce in Human Resource Management (MSBHR) NSC 32 + an adeq",
+        "English plus moderate achievement in any two of these subjects: Accounting, Business Studies, Economics, Information Technology and Mathematics 3 Years Bachelor of Commerce in Industrial Psychology (MSBIP",
+        "English plus moderate achievement in any two of these subjects: Accounting, Business Studies, Economics, Information Technology and Mathematics 3 Years 17 LAW STREAM Bachelor of Laws (LWBBL) NSC 38 + a min",
+        "English 4 years Bachelor of Arts in Criminal Justice (LWBACJ) NSC 34 + a minimum of 50% in English 3 Years EXTENDED DEGREE PROGRAMMES Extended"
+      ]
     },
     {
       "id": "prog:4574a7abd260",
@@ -1684,7 +1893,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "pass in Mathematics 4",
+        "Geography and Tourism 3",
+        "in English and Accounting or Mathematics 3",
+        "and Information Technology or Computer Studies 3",
+        "n English and at least 50%",
+        "in English and moderate achievement in Mathematics or 75%",
+        "English and at least 50% pass in Mathematics 4 years Bachelor of Commerce in Tourism Management (MSBTRM) NSC 32 + an adequate achievement level (50-59%) in English and Mathematical Literacy (or moderate",
+        "Mathematics) plus moderate achievement in any two of these subjects: Accounting, Business Studies, Economics, Information Technology , Geography and Tourism 3 Years Bachelor of Commerce in Accounting",
+        "English and Accounting or Mathematics 3 years Bachelor of Commerce in Business Information Systems (MSBIS) NSC 32 + an adequate achievement level (50-59%) in English and moderate achievement in Mathemati"
+      ]
     },
     {
       "id": "prog:cddfa7433479",
@@ -1724,7 +1945,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or better in History and English 3",
+        "or RPL according to University Policy 3",
+        "adequate achievement in English 1",
+        "or better in English 4",
+        "Tshivenda and Xitsonga 4",
+        "English 3 Years Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years Higher Certificate in Music NSC Certificate + adequate achievement in English 1 Year Bachelor of Social Wor",
+        "English 4 Years EDUCATION STREAM Bachelor of Education in Senior Phase and Further Education and Training (SEBESP) (SEBECP) (SEBELP) NSC 36 + English (50%) plus two (50) from Mathematics, Physical Science",
+        "Life Sciences OR NSC 36 + English (50%) plus two (50) from Accounting, Business Studies and Economics OR NSC 36 + English (50%) plus two (50) from History , Geography , Sepedi, Tshivenda and Xitsonga 4 Years"
+      ]
     },
     {
       "id": "prog:6fe144cc0554",
@@ -1779,7 +2011,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or better in History and English 3",
+        "or RPL according to University Policy 3",
+        "adequate achievement in English 1",
+        "or better in English 4",
+        "Tshivenda and Xitsonga 4",
+        "English 3 Years Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years Higher Certificate in Music NSC Certificate + adequate achievement in English 1 Year Bachelor of Social Wor",
+        "English 4 Years EDUCATION STREAM Bachelor of Education in Senior Phase and Further Education and Training (SEBESP) (SEBECP) (SEBELP) NSC 36 + English (50%) plus two (50) from Mathematics, Physical Science",
+        "Life Sciences OR NSC 36 + English (50%) plus two (50) from Accounting, Business Studies and Economics OR NSC 36 + English (50%) plus two (50) from History , Geography , Sepedi, Tshivenda and Xitsonga 4 Years"
+      ]
     },
     {
       "id": "prog:fecc860502f1",
@@ -1844,7 +2087,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d9edd6b0dcc6",
@@ -1890,7 +2134,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:5737cf31bef3",
@@ -1917,6 +2162,13 @@
       "modules": [
         "Candidates may be subjected to a selection procedure determined",
         "Equivalent FET Level 4 qualifications in any of the above subjects"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s pass achievement rating of 3",
+        "4 years Extended BSc (Biochemistry and Bio",
+        "English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments",
+        "49%) or"
       ]
     },
     {
@@ -1944,6 +2196,13 @@
       "modules": [
         "Candidates may be subjected to a selection procedure determined",
         "Equivalent FET Level 4 qualifications in any of the above subjects"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s pass achievement rating of 3",
+        "4 years Extended BSc (Biochemistry and Bio",
+        "English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments",
+        "49%) or"
       ]
     },
     {
@@ -1967,7 +2226,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or Geography 4",
+        "s pass achievement rating of 3",
+        "4 years Extended BSc (Botany and Zoology)",
+        "4 years Extended BSc (Computer Science) (M",
+        "30% in English (",
+        "credit NSC subjects and 50%",
+        "English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography 4 years Extended BSc (Chemistry and Applied Chemistry",
+        "English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments",
+        "English, Mathematics"
+      ]
     },
     {
       "id": "prog:014426854c84",
@@ -1990,7 +2261,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or Geography 4",
+        "s pass achievement rating of 3",
+        "4 years Extended BSc (Botany and Zoology)",
+        "4 years Extended BSc (Computer Science) (M",
+        "30% in English (",
+        "credit NSC subjects and 50%",
+        "English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography 4 years Extended BSc (Chemistry and Applied Chemistry",
+        "English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments",
+        "English, Mathematics"
+      ]
     },
     {
       "id": "prog:606c8f3e3730",
@@ -2013,7 +2296,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or Geography 4",
+        "s pass achievement rating of 3",
+        "4 years Extended BSc (Botany and Zoology)",
+        "4 years Extended BSc (Computer Science) (M",
+        "30% in English (",
+        "credit NSC subjects and 50%",
+        "English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography 4 years Extended BSc (Chemistry and Applied Chemistry",
+        "English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments",
+        "English, Mathematics"
+      ]
     },
     {
       "id": "prog:62902cfc829b",
@@ -2036,7 +2331,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or Geography 4",
+        "s pass achievement rating of 3",
+        "4 years Extended BSc (Botany and Zoology)",
+        "4 years Extended BSc (Computer Science) (M",
+        "30% in English (",
+        "credit NSC subjects and 50%",
+        "English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography 4 years Extended BSc (Chemistry and Applied Chemistry",
+        "English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments",
+        "English, Mathematics"
+      ]
     },
     {
       "id": "prog:12f7a14b4fab",
@@ -2059,7 +2366,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "an achievement level of 4",
+        "3 Years BSc (Computer Science) (MNBBSP) NSC",
+        "3 years BSc (Computer Science and Mathemat",
+        "3 years ENVIRONMENTAL SCIENCES STREAM Bach",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "Mathematics) (MNBBSQ) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in each of the four recognised 20-credit NSC subjects: English, Mathematics, Physical Science and Life Sciences",
+        "credit NSC subjects: English,"
+      ]
     },
     {
       "id": "prog:b3b74a1cd4f9",
@@ -2105,7 +2422,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "an achievement level of 4",
+        "3 Years BSc (Computer Science) (MNBBSP) NSC",
+        "3 years BSc (Computer Science and Mathemat",
+        "3 years ENVIRONMENTAL SCIENCES STREAM Bach",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "Mathematics) (MNBBSQ) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in each of the four recognised 20-credit NSC subjects: English, Mathematics, Physical Science and Life Sciences",
+        "credit NSC subjects: English,"
+      ]
     },
     {
       "id": "prog:2da76b410dac",
@@ -2128,7 +2455,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years BSc (Biochemistry and Biology) (MN",
+        "an achievement level of 4",
+        "3 Years BSc Microbiology and Botany) (MNBB",
+        "3 years BSc Mathematics and Applied Mathem",
+        "3 years BSc (Mathematics and Physics) (MNB",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "Mathematics and Applied Mathematics) (MNBBSF) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised subjects: English, Mathematics, Physical Science and Life Scien",
+        "Mathematics and Physics) (MNBBSH) NSC 26 + an achievement level of 4 (adequate achievement, 50-5"
+      ]
     },
     {
       "id": "prog:cb8ab6d0b5bc",
@@ -2174,7 +2512,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years BSc (Mathematics and Physics) (MNB",
+        "an achievement level of 4",
+        "3 years BSc (Mathematics and Statistics) (",
+        "3 years BSc (Physics and Chemistry) (MNBBS",
+        "3 years BSc (Chemistry and Mathematics) (M",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "Mathematics and Physics) (MNBBSH) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised 20-credit subjects: English, Mathematics, Physical Science and Life Science",
+        "Mathematics and Statistics) (MNBBSI) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised 20-credit subjects: English, Mathematics, Physical Science and Life Sci",
+        "Mathematics) (MNBBSK) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the fo"
+      ]
     },
     {
       "id": "prog:88eaa451de79",
@@ -2197,7 +2547,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years BSc (Mathematics and Physics) (MNB",
+        "an achievement level of 4",
+        "3 years BSc (Mathematics and Statistics) (",
+        "3 years BSc (Physics and Chemistry) (MNBBS",
+        "3 years BSc (Chemistry and Mathematics) (M",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "Mathematics and Physics) (MNBBSH) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised 20-credit subjects: English, Mathematics, Physical Science and Life Science",
+        "Mathematics and Statistics) (MNBBSI) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised 20-credit subjects: English, Mathematics, Physical Science and Life Sci",
+        "Mathematics) (MNBBSK) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the fo"
+      ]
     },
     {
       "id": "prog:21bc2571b2a8",
@@ -2243,7 +2605,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years BSc (Biochemistry and Biology) (MN",
+        "an achievement level of 4",
+        "3 Years BSc Microbiology and Botany) (MNBB",
+        "3 years BSc Mathematics and Applied Mathem",
+        "3 years BSc (Mathematics and Physics) (MNB",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "Mathematics and Applied Mathematics) (MNBBSF) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised subjects: English, Mathematics, Physical Science and Life Scien",
+        "Mathematics and Physics) (MNBBSH) NSC 26 + an achievement level of 4 (adequate achievement, 50-5"
+      ]
     },
     {
       "id": "prog:58ca31738857",
@@ -2289,7 +2662,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years BSc (Mathematics and Physics) (MNB",
+        "an achievement level of 4",
+        "3 years BSc (Mathematics and Statistics) (",
+        "3 years BSc (Physics and Chemistry) (MNBBS",
+        "3 years BSc (Chemistry and Mathematics) (M",
+        "English, Mathematics, Physical Science and Life Sciences",
+        "Mathematics and Physics) (MNBBSH) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised 20-credit subjects: English, Mathematics, Physical Science and Life Science",
+        "Mathematics and Statistics) (MNBBSI) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the four recognised 20-credit subjects: English, Mathematics, Physical Science and Life Sci",
+        "Mathematics) (MNBBSK) NSC 26 + an achievement level of 4 (adequate achievement, 50-59%) or better in the fo"
+      ]
     },
     {
       "id": "prog:304cc18016f0",
@@ -2335,7 +2720,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:ac52293126ad",
@@ -2381,7 +2767,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d7db763c9408",
@@ -2427,7 +2814,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:cc35ffb73b0a",
@@ -2473,7 +2861,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Economics and Geography 4",
+        "an achievement level of 5",
+        "4 years AGRICULTURE STREAM Bachelor of Scie",
+        "an achievement level of 4",
+        "as well as in either Life Sciences or Agricultural Sciences 4",
+        "Physical Science and Life Sciences 4",
+        "Mathematics and Life Sciences, (adequate achievement, 50-59%) or better in English, Physical Sciences and Economics",
+        "Mathematics, Physical Sciences and English, as well as in either Life Sciences or Agricultural Sciences 4 years Bachelor of Science in Agriculture (Agribusiness Management) (AGBAAM) NCS 26 + an achievement l",
+        "English, Mathematics, Physical Science and Life Sciences 4 years Bachelor of Science in Agriculture (Animal Science) (AGBAAS) NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematic"
+      ]
     },
     {
       "id": "prog:7c861f1d937e",
@@ -2536,7 +2936,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Economics and Geography 4",
+        "an achievement level of 5",
+        "4 years AGRICULTURE STREAM Bachelor of Scie",
+        "an achievement level of 4",
+        "as well as in either Life Sciences or Agricultural Sciences 4",
+        "Physical Science and Life Sciences 4",
+        "Mathematics and Life Sciences, (adequate achievement, 50-59%) or better in English, Physical Sciences and Economics",
+        "Mathematics, Physical Sciences and English, as well as in either Life Sciences or Agricultural Sciences 4 years Bachelor of Science in Agriculture (Agribusiness Management) (AGBAAM) NCS 26 + an achievement l",
+        "English, Mathematics, Physical Science and Life Sciences 4 years Bachelor of Science in Agriculture (Animal Science) (AGBAAS) NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematic"
+      ]
     },
     {
       "id": "prog:c9a2e311fa34",
@@ -2582,7 +2994,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science and Life Sciences 4",
+        "an achievement level of 4",
+        "Physical Science and Life Sciences 4 years Bachelor of Science in Agriculture (Animal Science) (AGBAAS) NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematics, Physical Science and Life Sci",
+        "English, Mathematics, Physical Science and Life Sciences 4 years Bachelor of Science in Agriculture (Plant Production) (AGBAPP) NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathemati",
+        "Physical Science and Life Sciences 4 years Bachelor of Science in Soil Science (AGBASS) NCS 26 + an achievement level of 4 (50-59%) or better in English, Mathematics, Physical Science and Life Sciences 4 years Bach",
+        "English, Mathematic"
+      ]
     },
     {
       "id": "prog:02e72f783faa",
@@ -2628,7 +3049,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years BSc in Nutrition (SHBBSN) NSC",
+        "Mathematics and Physical Sciences or Agricultural Sciences 4",
+        "and Physical Sciences 4",
+        "in English 4",
+        "Selection test 4",
+        "achievement of level 4",
+        "Life Sciences, English and Physical Sciences (60-69) and Mathematics (50-59), excluding life orientation",
+        "Life Sciences, English, Mathematics and Physical Sciences or Agricultural Sciences 4 years BSc in Sports and Exercise Science (SHBSES) NSC 34 + adequate achievement (50-59%) in Life Sciences, English, and Phys",
+        "Life Sciences, English, Mathematics, and Physical Sciences 4 years BSc in Recreation and Leisure Studies (SHBRLS) NSC 34 + adequate achievement (50-59%) in English 4 years Bachelor of Psychology (SHBBP) NSC 36",
+        "English + Selection test 4 years DIPLOMA Diploma in Nursing (SHDPN) NSC 28 + achievement of level 4 (50 – 59%) in Life Science"
+      ]
     },
     {
       "id": "prog:00f4bdf0856b",
@@ -2651,7 +3085,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or Geography 4",
+        "s pass achievement rating of 3",
+        "4 years Extended BSc (Botany and Zoology)",
+        "4 years Extended BSc (Computer Science) (M",
+        "30% in English (",
+        "credit NSC subjects and 50%",
+        "English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography 4 years Extended BSc (Chemistry and Applied Chemistry",
+        "English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments",
+        "English, Mathematics"
+      ]
     },
     {
       "id": "prog:1cc50eee8c86",
@@ -2697,7 +3143,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s pass achievement rating of 3",
+        "4 years Extended BSc (Biochemistry and Bio",
+        "English, Mathematics, Physical Sciences and any other relevant subject as judged by responsible departments",
+        "49%) or"
+      ]
     },
     {
       "id": "prog:d92c5c487aa0",
@@ -2768,7 +3221,20 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years BSc in Nutrition (SHBBSN) NSC",
+        "Mathematics and Physical Sciences or Agricultural Sciences 4",
+        "and Physical Sciences 4",
+        "in English 4",
+        "Selection test 4",
+        "achievement of level 4",
+        "Life Sciences, English and Physical Sciences (60-69) and Mathematics (50-59), excluding life orientation",
+        "Life Sciences, English, Mathematics and Physical Sciences or Agricultural Sciences 4 years BSc in Sports and Exercise Science (SHBSES) NSC 34 + adequate achievement (50-59%) in Life Sciences, English, and Phys",
+        "Life Sciences, English, Mathematics, and Physical Sciences 4 years BSc in Recreation and Leisure Studies (SHBRLS) NSC 34 + adequate achievement (50-59%) in English 4 years Bachelor of Psychology (SHBBP) NSC 36",
+        "English + Selection test 4 years DIPLOMA Diploma in Nursing (SHDPN) NSC 28 + achievement of level 4 (50 – 59%) in Life Science"
+      ]
     },
     {
       "id": "prog:27fd7467c120",
@@ -2814,7 +3280,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years BSc in Nutrition (SHBBSN) NSC",
+        "Mathematics and Physical Sciences or Agricultural Sciences 4",
+        "and Physical Sciences 4",
+        "in English 4",
+        "Selection test 4",
+        "achievement of level 4",
+        "Life Sciences, English and Physical Sciences (60-69) and Mathematics (50-59), excluding life orientation",
+        "Life Sciences, English, Mathematics and Physical Sciences or Agricultural Sciences 4 years BSc in Sports and Exercise Science (SHBSES) NSC 34 + adequate achievement (50-59%) in Life Sciences, English, and Phys",
+        "Life Sciences, English, Mathematics, and Physical Sciences 4 years BSc in Recreation and Leisure Studies (SHBRLS) NSC 34 + adequate achievement (50-59%) in English 4 years Bachelor of Psychology (SHBBP) NSC 36",
+        "English + Selection test 4 years DIPLOMA Diploma in Nursing (SHDPN) NSC 28 + achievement of level 4 (50 – 59%) in Life Science"
+      ]
     },
     {
       "id": "prog:fd1d02e95c01",
@@ -2860,7 +3339,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c28de840ef4a",
@@ -2906,7 +3386,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years BSc in Nutrition (SHBBSN) NSC",
+        "Mathematics and Physical Sciences or Agricultural Sciences 4",
+        "and Physical Sciences 4",
+        "in English 4",
+        "Selection test 4",
+        "achievement of level 4",
+        "Life Sciences, English and Physical Sciences (60-69) and Mathematics (50-59), excluding life orientation",
+        "Life Sciences, English, Mathematics and Physical Sciences or Agricultural Sciences 4 years BSc in Sports and Exercise Science (SHBSES) NSC 34 + adequate achievement (50-59%) in Life Sciences, English, and Phys",
+        "Life Sciences, English, Mathematics, and Physical Sciences 4 years BSc in Recreation and Leisure Studies (SHBRLS) NSC 34 + adequate achievement (50-59%) in English 4 years Bachelor of Psychology (SHBBP) NSC 36",
+        "English + Selection test 4 years DIPLOMA Diploma in Nursing (SHDPN) NSC 28 + achievement of level 4 (50 – 59%) in Life Science"
+      ]
     },
     {
       "id": "prog:498651bf7672",
@@ -2940,7 +3433,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or Geography 3",
+        "Candidates wishing to enrol for a BSc degree must have obtained a minimum admission requirement in a National Senior Certificate (NSC) as certified by the Council for General and Further Education and Training (Umalusi) with an achievement rating of 4",
+        "30% in English (",
+        "credit NSC subjects and 50%",
+        "English (40-49%) in 4 of the recognised 20 credit NSC subjects and 50% in either Life Sciences, Agricultural Sciences, Physical Sciences, or Geography 3 years BACHELOR OF SCIENCE DEGREES Bachelor of Scienc",
+        "English, Mathematics, Phys",
+        "49%) in 4 of the",
+        "Candidates wishing to enrol for a BSc degree must have obtained",
+        "59%) or better i"
+      ]
     },
     {
       "id": "prog:f5a7f1252810",
@@ -2974,7 +3479,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Selection test 4",
+        "achievement of level 4",
+        "and a minimum level achievement of 3",
+        "3 Years",
+        "English + Selection test 4 years DIPLOMA Diploma in Nursing (SHDPN) NSC 28 + achievement of level 4 (50 – 59%) in Life Sciences, English and Physical Sciences, and a minimum level achievement of 3 (40 – 4"
+      ]
     },
     {
       "id": "prog:a74977952ff3",
@@ -3017,6 +3530,24 @@
             }
           ]
         ]
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Business Studies and Information Technology 3",
+        "Information Technology and Mathematics 3",
+        "in English 4",
+        "in English 3",
+        "a minimum of 60%",
+        "a minimum of 50%",
+        "Mathematics, plus moderate achievement in any two of these subjects: Accounting, Business Studies and Information Technology 3 Years Bachelor of Commerce in Human Resource Management (MSBHR) NSC 32 + an adeq",
+        "English plus moderate achievement in any two of these subjects: Accounting, Business Studies, Economics, Information Technology and Mathematics 3 Years Bachelor of Commerce in Industrial Psychology (MSBIP",
+        "English plus moderate achievement in any two of these subjects: Accounting, Business Studies, Economics, Information Technology and Mathematics 3 Years 17 LAW STREAM Bachelor of Laws (LWBBL) NSC 38 + a min",
+        "English 4 years Bachelor of Arts in Criminal Justice (LWBACJ) NSC 34 + a minimum of 50% in English 3 Years EXTENDED DEGREE PROGRAMMES Extended"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -3057,7 +3588,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or better in History and English 3",
+        "or RPL according to University Policy 3",
+        "adequate achievement in English 1",
+        "or better in English 4",
+        "Tshivenda and Xitsonga 4",
+        "English 3 Years Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years Higher Certificate in Music NSC Certificate + adequate achievement in English 1 Year Bachelor of Social Wor",
+        "English 4 Years EDUCATION STREAM Bachelor of Education in Senior Phase and Further Education and Training (SEBESP) (SEBECP) (SEBELP) NSC 36 + English (50%) plus two (50) from Mathematics, Physical Science",
+        "Life Sciences OR NSC 36 + English (50%) plus two (50) from Accounting, Business Studies and Economics OR NSC 36 + English (50%) plus two (50) from History , Geography , Sepedi, Tshivenda and Xitsonga 4 Years"
+      ]
     },
     {
       "id": "prog:373:Degree|31f92ae05cd8|bachelor of education in senior phase and further",
@@ -3112,7 +3654,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or better in History and English 3",
+        "or RPL according to University Policy 3",
+        "adequate achievement in English 1",
+        "or better in English 4",
+        "Tshivenda and Xitsonga 4",
+        "English 3 Years Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years Higher Certificate in Music NSC Certificate + adequate achievement in English 1 Year Bachelor of Social Wor",
+        "English 4 Years EDUCATION STREAM Bachelor of Education in Senior Phase and Further Education and Training (SEBESP) (SEBECP) (SEBELP) NSC 36 + English (50%) plus two (50) from Mathematics, Physical Science",
+        "Life Sciences OR NSC 36 + English (50%) plus two (50) from Accounting, Business Studies and Economics OR NSC 36 + English (50%) plus two (50) from History , Geography , Sepedi, Tshivenda and Xitsonga 4 Years"
+      ]
     },
     {
       "id": "prog:373:Degree|b050ae3150d9|bachelor of nursing (shbbn)",
@@ -3152,7 +3705,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years BSc in Nutrition (SHBBSN) NSC",
+        "Life Sciences, English and Physical Sciences (60-69) and Mathematics (50-59), excluding life orientation",
+        "69%) in Life Sciences, English",
+        "69) and Mathematics (50",
+        "59), excluding life"
+      ]
     }
   ],
   "admission": {
@@ -5092,15 +5653,17 @@
     "adm_reqs_count": 46
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:54:36Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:02:27Z",
     "test_mode": false,
-    "completeness_before": 0.132,
-    "completeness_after": 0.244,
-    "improvement": 0.112,
-    "fields_enriched": 107,
+    "points_system": "aps_points",
+    "completeness_before": 0.215,
+    "completeness_after": 0.26,
+    "improvement": 0.045,
+    "fields_enriched": 49,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-venda.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-venda.pdf"
     ]
   }
 }

@@ -61,11 +61,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:265f6cd4b297",
@@ -84,11 +86,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:357:NATED|3787633babc5|report 191",
@@ -107,11 +111,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -135,7 +141,17 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "high knowledge programmes to provide the out of school youth and post grade 9",
+        "Level 2"
+      ],
+      "pricing": {
+        "amount_min": 15066,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": null,
@@ -159,7 +175,17 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "high knowledge programmes to provide the out of school youth and post grade 9",
+        "Level 2"
+      ],
+      "pricing": {
+        "amount_min": 15066,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": null,
@@ -183,7 +209,17 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "high knowledge programmes to provide the out of school youth and post grade 9",
+        "Level 2"
+      ],
+      "pricing": {
+        "amount_min": 15066,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": null,
@@ -207,7 +243,17 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "high knowledge programmes to provide the out of school youth and post grade 9",
+        "Level 2"
+      ],
+      "pricing": {
+        "amount_min": 15066,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": null,
@@ -231,7 +277,8 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none"
     }
   ],
   "admission": {
@@ -256,15 +303,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:52:24Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:59:16Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.067,
-    "improvement": 0.0,
-    "fields_enriched": 0,
+    "points_system": "tvet_none",
+    "completeness_before": 0.059,
+    "completeness_after": 0.117,
+    "improvement": 0.058,
+    "fields_enriched": 11,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/thekwini-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/thekwini-tvet-college.pdf"
     ]
   }
 }

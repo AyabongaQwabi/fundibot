@@ -126,7 +126,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:1928bbe60714",
@@ -149,7 +150,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:375:Degree|2c3bbd231bb4|btech",
@@ -172,7 +174,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     }
   ],
   "admission": {
@@ -198,15 +201,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:54:36Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:02:27Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.067,
+    "points_system": "aps_points",
+    "completeness_before": 0.059,
+    "completeness_after": 0.059,
     "improvement": 0.0,
     "fields_enriched": 0,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/vaal-university-of-technology.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/vaal-university-of-technology.pdf"
     ]
   }
 }

@@ -111,7 +111,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 144
+      "credits": 144,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Paper 1",
+        "Paper 2",
+        "Theory / Practical Theory Practical Duration 3",
+        "40% Final Mark",
+        "60% formative assessment mark",
+        "40% summative assessment mark Minimum final",
+        "50% Summative Assessment",
+        "contribution to Summative Assessment Mark 50%",
+        "50% Sub minimum",
+        "50% DOCTOR OF PHARMACY (DPHA"
+      ]
     },
     {
       "id": "prog:040034402e11",
@@ -137,6 +150,11 @@
       "fees_per_year": null,
       "modules": [
         "which meet(s)"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 He or she has successfully passed equival",
+        "up to a limit of 50%"
       ]
     },
     {
@@ -160,7 +178,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Paper 2",
+        "Paper 3",
+        "Theory / Practical Theory Oral Practical Duration 3",
+        "min 3",
+        "Sub minimum 40%",
+        "40% Introduction to Pharmacy (BPharm I) In"
+      ]
     },
     {
       "id": "prog:124241466c5e",
@@ -183,7 +210,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 BACHELOR PROGRAMME SOP B",
+        "SOP B 1",
+        "1 SELECTION SOP B",
+        "1 Selection Process Successful applicants"
+      ]
     },
     {
       "id": "prog:e46fec907252",
@@ -206,7 +240,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:b017cfc1365c",
@@ -229,7 +270,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:6e481616369c",
@@ -252,7 +300,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:99baae6af864",
@@ -275,7 +330,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:3e285cab883c",
@@ -298,7 +357,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:4c103a37485b",
@@ -321,7 +387,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:5d03da6c8558",
@@ -344,7 +417,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:3d82b4f00efb",
@@ -367,7 +447,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Lectures per week Practicals per week Tutorials per week 4",
+        "2 Content"
+      ]
     },
     {
       "id": "prog:bc0bb6aa2886",
@@ -390,7 +475,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Lectures per week Practicals per week Tutorials per week 4",
+        "2 Content"
+      ]
     },
     {
       "id": "prog:8d8887a22586",
@@ -414,7 +504,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 144
+      "credits": 144,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Paper 1",
+        "Paper 2",
+        "Theory / Practical Theory Practical Duration 3",
+        "40% Final Mark",
+        "60% formative assessment mark",
+        "40% summative assessment mark Minimum final",
+        "50% Summative Assessment",
+        "contribution to Summative Assessment Mark 50%",
+        "50% Sub minimum",
+        "50% DOCTOR OF PHARMACY (DPHA"
+      ]
     },
     {
       "id": "prog:f3e7702fb177",
@@ -438,7 +541,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 144
+      "credits": 144,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Paper 2",
+        "Paper 3",
+        "Theory / Practical Theory Oral Practical Duration 3",
+        "min 3",
+        "Sub minimum 40%",
+        "40% Introduction to Pharmacy (BPharm I) In"
+      ]
     },
     {
       "id": "prog:4c0a2e3e5760",
@@ -461,7 +573,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOP B 1",
+        "6 Transfers from SMU and/or other universit",
+        "s average mark should be 70%"
+      ]
     },
     {
       "id": "prog:df62e9bc97f4",
@@ -487,6 +605,11 @@
       "fees_per_year": null,
       "modules": [
         "Before a candidate is accepted for doctoral study, the programme coordinator con"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Candidates must be in possession of a Master’s degree or equivalent",
+        "Before a candidate is accepted for doctoral study, the programme coordinator concerne"
       ]
     },
     {
@@ -514,6 +637,12 @@
       "modules": [
         "of this calculation.",
         "These are then added together and divided by the number of subjects included"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOP B 1",
+        "6 Transfers from SMU and/or other universit",
+        "s average mark should be 70%"
       ]
     },
     {
@@ -542,7 +671,13 @@
         "of this calculation.",
         "These are then added together and divided by the number of subjects included"
       ],
-      "credits": 240
+      "credits": 240,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOP B 1",
+        "6 Transfers from SMU and/or other universit",
+        "s average mark should be 70%"
+      ]
     },
     {
       "id": "prog:035caef6adc9",
@@ -569,6 +704,12 @@
       "modules": [
         "of this calculation.",
         "These are then added together and divided by the number of subjects included"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOP B 1",
+        "6 Transfers from SMU and/or other universit",
+        "s average mark should be 70%"
       ]
     },
     {
@@ -600,6 +741,12 @@
         "Master’s Degrees",
         "Professional Master’s Degrees",
         "Doctoral Degrees"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Doctoral Degrees All qualifications with a minimum duration of 1",
+        "2 Senate may recognise periods of attendanc",
+        "3 A part"
       ]
     },
     {
@@ -623,7 +770,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:bf8d49a44f04",
@@ -646,7 +800,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:c3b9e5cdae9a",
@@ -669,7 +830,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:f97d16449720",
@@ -692,7 +860,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Ms N Nyawo 3",
+        "SCHOOL COMMITTEES 4"
+      ]
     },
     {
       "id": "prog:cf478df09a1e",
@@ -715,7 +888,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:5430aad49a40",
@@ -738,7 +918,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:7c7c8eeaefd3",
@@ -762,7 +949,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:a3950ddbf29a",
@@ -786,7 +986,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:e70a91297d61",
@@ -809,7 +1022,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Dissertation SOP M 2",
+        "SOP M 2",
+        "1 Introduction The MPharm in Public Heal"
+      ]
     },
     {
       "id": "prog:f9f059395309",
@@ -833,7 +1052,13 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 240
+      "credits": 240,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Dissertation SOP M 2",
+        "SOP M 2",
+        "1 Introduction The MPharm in Public Heal"
+      ]
     },
     {
       "id": "prog:251e511e926f",
@@ -857,7 +1082,13 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 240
+      "credits": 240,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Dissertation SOP M 2",
+        "SOP M 2",
+        "1 Introduction The MPharm in Public Heal"
+      ]
     },
     {
       "id": "prog:40a273e808fa",
@@ -880,7 +1111,23 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "The minimum time of the new programme Preparation Total Experiential Formal Research 4",
+        "Minimum SAQA credits per year level in the new programme Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5",
+        "Level 6",
+        "Level 7",
+        "Level 8",
+        "Level 1 Level",
+        "Level 3 Level",
+        "Level 5 Level",
+        "Level 7 Level"
+      ]
     },
     {
       "id": "prog:84726b7475d5",
@@ -904,7 +1151,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 240
+      "credits": 240,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:9735d6c196b9",
@@ -932,6 +1192,13 @@
         "Core Modules",
         "Elective Modules and",
         "MPharm Research Project"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "grammar and computer literacy) Phase 3",
+        "The MPharm Selection Committee will screen all applicants who underwent the Phase 2",
+        "SOP M 3",
+        "5 Curriculum The Master of Pharmacy in Rad"
       ]
     },
     {
@@ -956,7 +1223,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 240
+      "credits": 240,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:d6785fceda21",
@@ -979,7 +1259,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:7ac4042dfbf0",
@@ -1007,6 +1300,14 @@
       "modules": [
         "At least 60% obtained as an average final mark for the interview and writing ski",
         "Candidates who hold a qualificati"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "les at NQF Level 9",
+        "SOP M 3",
+        "MASTER OF PHARMACY IN RADIOPHARMACY SOP M 3",
+        "1 Introduction The MPharm Radiopharmacy pr",
+        "Level 9 totaling"
       ]
     },
     {
@@ -1030,7 +1331,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Dissertation SOP M 2",
+        "SOP M 2",
+        "1 Introduction The MPharm in Public Heal"
+      ]
     },
     {
       "id": "prog:97d2b6598832",
@@ -1053,7 +1360,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Indicates Acting Head of Department 7",
+        "1 Students are personally responsible for e",
+        "2 A prospective",
+        "3 All agreements between a student and the"
+      ]
     },
     {
       "id": "prog:06ec2297b166",
@@ -1076,7 +1390,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:3436008a7656",
@@ -1099,7 +1417,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:db2df50a4fd0",
@@ -1122,7 +1444,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:93c9d6005da5",
@@ -1145,7 +1471,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:afbd9fd21c5d",
@@ -1168,7 +1498,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:97e3840ecaa7",
@@ -1191,7 +1525,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:e59d1a8621b7",
@@ -1214,7 +1549,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:ca014e41e057",
@@ -1237,7 +1576,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:44a4b6bf9585",
@@ -1260,7 +1603,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Ms N Nyawo 3",
+        "SCHOOL COMMITTEES 4"
+      ]
     },
     {
       "id": "prog:8ac919bf602b",
@@ -1286,6 +1634,17 @@
       "fees_per_year": null,
       "modules": [
         "Before a candidate is accepted for doctoral study, the programme coordinator con"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "admission requirements 1",
+        "1 Selection For practical reasons only a l",
+        "registration in a School of Pharmacy at any other University shall not be admitted to this Pharmacy School 1",
+        "2 Admission requirements Students with a s",
+        "SOPD 1",
+        "3 Examination of the thesis A candidate fo",
+        "registration in a School of Pharmacy at any other University shall not be admitted to",
+        "time study in the fields of interest"
       ]
     },
     {
@@ -1309,7 +1668,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:0e957711bfc3",
@@ -1332,7 +1695,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:88c80f2a1d16",
@@ -1355,7 +1722,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:22bef25ea241",
@@ -1378,7 +1749,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:aa9856fa4ceb",
@@ -1401,7 +1776,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:fe8a05ecb887",
@@ -1424,7 +1803,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:e31d8ff4c961",
@@ -1447,7 +1830,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:f5fd38506bb7",
@@ -1470,7 +1857,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:7a005ba2238f",
@@ -1493,7 +1884,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:1a4d04f30359",
@@ -1516,7 +1911,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:73c3d6e91ec1",
@@ -1539,7 +1938,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:2b6019f1d899",
@@ -1562,7 +1965,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:37d65b0903ae",
@@ -1585,7 +1992,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "2 Selection and admission requirements"
+      ]
     },
     {
       "id": "prog:8757bb8f7267",
@@ -1608,7 +2020,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "2 Selection and admission requirements"
+      ]
     },
     {
       "id": "prog:487ec14a701a",
@@ -1631,7 +2048,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy in Pharmacy PhD in P",
+        "9 Doctor of Pharmacy DPharm DPHA",
+        "PLACEMENT RULES 7",
+        "1 HIGHER CERTIFICATE PROGRAMMES SOP HCer",
+        "HIGHER CERTIFICATE IN VACCINOLOGY SOP HCert 1",
+        "1 Purpose of qualification The HCert (Va"
+      ]
     },
     {
       "id": "prog:8b345fa95973",
@@ -1654,7 +2081,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:ab8a37281d29",
@@ -1677,7 +2108,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:c68ab22ba0fe",
@@ -1700,7 +2135,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "2 Selection and admission requirements"
+      ]
     },
     {
       "id": "prog:4bc00ac17fc5",
@@ -1723,7 +2163,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "3 Examination of the thesis A candidate fo",
+        "1 Introd"
+      ]
     },
     {
       "id": "prog:f48de9b8a005",
@@ -1746,7 +2192,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "3 Examination of the thesis A candidate fo",
+        "1 Introd"
+      ]
     },
     {
       "id": "prog:adf6c1ceac0b",
@@ -1772,6 +2224,11 @@
       "fees_per_year": null,
       "modules": [
         "Before a candidate is accepted for doctoral study, the programme coordinator con"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Candidates must be in possession of a Master’s degree or equivalent",
+        "Before a candidate is accepted for doctoral study, the programme coordinator concerne"
       ]
     },
     {
@@ -1795,7 +2252,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:413:Degree|3dc45ff1ad86|bachelor of pharmacy (bpharm) programme .",
@@ -1818,7 +2276,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Paper 2",
+        "Paper 3",
+        "Theory / Practical Theory Oral Practical Duration 3",
+        "min 3",
+        "Sub minimum 40%",
+        "40% Introduction to Pharmacy (BPharm I) In"
+      ]
     },
     {
       "id": "prog:413:Degree|9232a1c0b25f|bachelor of public health (monash university),",
@@ -1844,6 +2311,11 @@
       "fees_per_year": null,
       "modules": [
         "which meet(s)"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 He or she has successfully passed equival",
+        "up to a limit of 50%"
       ]
     },
     {
@@ -1867,7 +2339,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|10b86092bcd6|bsc (hons)",
@@ -1890,7 +2369,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Degree|2c3bbd231bb4|btech",
@@ -1913,7 +2399,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|4ec4f0713a9c|diploma in pharmaceutical regulatory affairs. the professional masters degree qu",
@@ -1937,7 +2430,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 144
+      "credits": 144,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Paper 2",
+        "Paper 3",
+        "Theory / Practical Theory Oral Practical Duration 3",
+        "min 3",
+        "Sub minimum 40%",
+        "40% Introduction to Pharmacy (BPharm I) In"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|c01b1c9607ef|doctorate degree (+2)",
@@ -1960,7 +2462,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOP B 1",
+        "6 Transfers from SMU and/or other universit",
+        "s average mark should be 70%"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|25175a1c1e44|doctorate in pharmacy (dpharm degree) as part of the university qualifications m",
@@ -1986,6 +2494,11 @@
       "fees_per_year": null,
       "modules": [
         "Before a candidate is accepted for doctoral study, the programme coordinator con"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Candidates must be in possession of a Master’s degree or equivalent",
+        "Before a candidate is accepted for doctoral study, the programme coordinator concerne"
       ]
     },
     {
@@ -2013,6 +2526,12 @@
       "modules": [
         "of this calculation.",
         "These are then added together and divided by the number of subjects included"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOP B 1",
+        "6 Transfers from SMU and/or other universit",
+        "s average mark should be 70%"
       ]
     },
     {
@@ -2040,6 +2559,12 @@
       "modules": [
         "of this calculation.",
         "These are then added together and divided by the number of subjects included"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOP B 1",
+        "6 Transfers from SMU and/or other universit",
+        "s average mark should be 70%"
       ]
     },
     {
@@ -2071,6 +2596,12 @@
         "Master’s Degrees",
         "Professional Master’s Degrees",
         "Doctoral Degrees"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Doctoral Degrees All qualifications with a minimum duration of 1",
+        "2 Senate may recognise periods of attendanc",
+        "3 A part"
       ]
     },
     {
@@ -2094,7 +2625,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|19912ec0c671|hons (wits), phd",
@@ -2117,7 +2655,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|c6ac6046c810|hons public administration",
@@ -2140,7 +2685,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|0f1833406d75|hons) (pharmacy) (liverpool jmu),",
@@ -2163,7 +2715,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Ms N Nyawo 3",
+        "SCHOOL COMMITTEES 4"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|6b36c80f55a7|hons) chemistry (calabarnigeria),",
@@ -2186,7 +2743,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|f04f82bb3223|hons)-pharmacology (nwu) mpharm (smu)",
@@ -2209,7 +2773,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|a73b8c7a3d31|master of pharmacy (mpharm)",
@@ -2233,7 +2804,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|ae1c57fff8f2|master of pharmacy (mpharm) ........................",
@@ -2257,7 +2841,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|d19467e16b14|master of pharmacy in public health",
@@ -2280,7 +2877,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Dissertation SOP M 2",
+        "SOP M 2",
+        "1 Introduction The MPharm in Public Heal"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|d77525f477e9|master of pharmacy in public health pharmacy and management",
@@ -2304,7 +2907,13 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 240
+      "credits": 240,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Dissertation SOP M 2",
+        "SOP M 2",
+        "1 Introduction The MPharm in Public Heal"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|0e759ddbf1ce|master of pharmacy in public health pharmacy and management ....................",
@@ -2328,7 +2937,13 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 240
+      "credits": 240,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Dissertation SOP M 2",
+        "SOP M 2",
+        "1 Introduction The MPharm in Public Heal"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|dda90ba4d3f7|master of pharmacy in public health pharmacy and management qualification code: ",
@@ -2351,7 +2966,23 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "The minimum time of the new programme Preparation Total Experiential Formal Research 4",
+        "Minimum SAQA credits per year level in the new programme Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5",
+        "Level 6",
+        "Level 7",
+        "Level 8",
+        "Level 1 Level",
+        "Level 3 Level",
+        "Level 5 Level",
+        "Level 7 Level"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|ff35a05089d4|master of pharmacy in radiopharmacy",
@@ -2375,7 +3006,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 240
+      "credits": 240,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|7c0f2cf63f08|master of pharmacy in radiopharmacy (mprp01) curriculum consists of seven module",
@@ -2403,6 +3047,13 @@
         "Core Modules",
         "Elective Modules and",
         "MPharm Research Project"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "grammar and computer literacy) Phase 3",
+        "The MPharm Selection Committee will screen all applicants who underwent the Phase 2",
+        "SOP M 3",
+        "5 Curriculum The Master of Pharmacy in Rad"
       ]
     },
     {
@@ -2427,7 +3078,20 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 240
+      "credits": 240,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|70953ff43800|master of pharmacy mpharm mpra01 35",
@@ -2450,7 +3114,20 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 Senate may",
+        "LIST OF PROGRAMMES QUALIFICATION ABBREVIATION QUAL CODE PAGE 6",
+        "1 Higher Certificate in Vaccinology HCert (",
+        "2 Bachelor of Pharmacy BPharm BPHA",
+        "3 Postgraduate Diploma in Hospital Pharmac",
+        "4 Postgraduate Diploma in Pharmaceutical R",
+        "5 Master of Pharmacy MPharm MPRA",
+        "6 Master of Pharmacy in Public Health Phar",
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|e25a427cd28c|masters of pharmacy degree programme in radiopharmacy offered at smu is the only",
@@ -2478,6 +3155,14 @@
       "modules": [
         "At least 60% obtained as an average final mark for the interview and writing ski",
         "Candidates who hold a qualificati"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "les at NQF Level 9",
+        "SOP M 3",
+        "MASTER OF PHARMACY IN RADIOPHARMACY SOP M 3",
+        "1 Introduction The MPharm Radiopharmacy pr",
+        "Level 9 totaling"
       ]
     },
     {
@@ -2501,7 +3186,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Dissertation SOP M 2",
+        "SOP M 2",
+        "1 Introduction The MPharm in Public Heal"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|385312b57d86|mba (unisa)",
@@ -2524,7 +3215,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Indicates Acting Head of Department 7",
+        "1 Students are personally responsible for e",
+        "2 A prospective",
+        "3 All agreements between a student and the"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|28376977ae0f|mcom (uj) phd (smu)",
@@ -2547,7 +3245,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|6506f82cbcd8|mphil (paed id) uct",
@@ -2570,7 +3272,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|6a9173654ed9|mphil local government",
@@ -2593,7 +3299,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|b1dd60e60f5f|msc",
@@ -2616,7 +3326,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|d4177e9a51d6|msc (clinic. pharm), phd,",
@@ -2639,7 +3353,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|79bb04198a9b|msc (med)",
@@ -2662,7 +3380,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|8fad78a10929|msc (med) (smu)",
@@ -2685,7 +3407,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:413:Postgraduate|cd09ea95f60d|msc (med) pharmac",
@@ -2708,7 +3431,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|4b87b7663624|msc (med) pharmacy",
@@ -2731,7 +3458,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|0bb0b7a7a5d7|msc (ru) (pharmaceutics), phd (otago) (pharmaceutics)",
@@ -2754,7 +3485,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Ms N Nyawo 3",
+        "SCHOOL COMMITTEES 4"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|98b6f05f0157|msc or equivalent degree in pharmacy may be accepted for full -time study in the",
@@ -2780,6 +3516,17 @@
       "fees_per_year": null,
       "modules": [
         "Before a candidate is accepted for doctoral study, the programme coordinator con"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "admission requirements 1",
+        "1 Selection For practical reasons only a l",
+        "registration in a School of Pharmacy at any other University shall not be admitted to this Pharmacy School 1",
+        "2 Admission requirements Students with a s",
+        "SOPD 1",
+        "3 Examination of the thesis A candidate fo",
+        "registration in a School of Pharmacy at any other University shall not be admitted to",
+        "time study in the fields of interest"
       ]
     },
     {
@@ -2803,7 +3550,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|1d85592dbf85|msc. pharm (ru), pmpp",
@@ -2826,7 +3577,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|0c2db2d9c990|phd",
@@ -2849,7 +3604,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|258639801515|phd (mcgill university)",
@@ -2872,7 +3631,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|d794ed0ab31e|phd (medunsa)",
@@ -2895,7 +3658,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|6d521b7080ce|phd (pharmaceutical",
@@ -2918,7 +3685,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|e522bbc69590|phd (ru)",
@@ -2941,7 +3712,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|639332696105|phd (smu)",
@@ -2964,7 +3739,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|d5f283140bdd|phd (uj)",
@@ -2987,7 +3766,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|753f76c4bd47|phd (ul)",
@@ -3010,7 +3793,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|2805e0d2f4f8|phd (ul, medunsa)",
@@ -3033,7 +3820,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|212f31dfc378|phd (university of manchester)",
@@ -3056,7 +3847,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|0de7997a8ac9|phd (uwc)",
@@ -3079,7 +3874,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|25e6e6c278bf|phd degree programme",
@@ -3102,7 +3901,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "2 Selection and admission requirements"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|46d95a52377e|phd degree programme ...",
@@ -3125,7 +3929,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "2 Selection and admission requirements"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|df67153cac5a|phd in pharmacy dhma05 46",
@@ -3148,7 +3957,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "7 Master of Pharmacy in Radiopharmacy MPh",
+        "8 Doctor of Philosophy in Pharmacy PhD in P",
+        "9 Doctor of Pharmacy DPharm DPHA",
+        "PLACEMENT RULES 7",
+        "1 HIGHER CERTIFICATE PROGRAMMES SOP HCer",
+        "HIGHER CERTIFICATE IN VACCINOLOGY SOP HCert 1",
+        "1 Purpose of qualification The HCert (Va"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|79b1c0b46020|phd pharmacy (smu)",
@@ -3171,7 +3990,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|844fb9511dbf|phd quality of care in general practice (university of manchester)",
@@ -3194,7 +4017,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|5dc1466556b2|phd shall execute during not less than two academic years advanced research unde",
@@ -3217,7 +4044,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "2 Selection and admission requirements"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|3a578e28e007|phd shall execute during not less than two academic years of research work. the ",
@@ -3240,7 +4072,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "3 Examination of the thesis A candidate fo",
+        "1 Introd"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|ca3235a46614|phd student senate shall appoint a supervisor who shall have at least the same q",
@@ -3263,7 +4101,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "3 Examination of the thesis A candidate fo",
+        "1 Introd"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|ea61e4faa490|phd) degree in any discipline of the pharmacy profession, it also offers a profe",
@@ -3289,6 +4133,11 @@
       "fees_per_year": null,
       "modules": [
         "Before a candidate is accepted for doctoral study, the programme coordinator con"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Candidates must be in possession of a Master’s degree or equivalent",
+        "Before a candidate is accepted for doctoral study, the programme coordinator concerne"
       ]
     },
     {
@@ -3312,7 +4161,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Ms N Nyawo 3",
+        "SCHOOL COMMITTEES 4"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|fb317fa82be9|hons) chemistry (calabarnigeria)",
@@ -3335,7 +4189,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MPharm (Radiopharmacy) (SMU) 4",
+        "MEMBERS OF STAFF 5",
+        "Life Sciences), Bsc Hons (Chemistry) Laboratory Technician Mr Moremi M",
+        "Physical Science (Unisa) in process Departmental Secretary Ms Mahlangu, J"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|a078c79d5d0e|msc (clinic. pharm), phd",
@@ -3358,7 +4219,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "PhD (University of Manchester) 6"
+      ]
     },
     {
       "id": "prog:413:Postgraduate|9c475cf893e9|phd student senate shall appoint a supervisor who shall have at least the same q",
@@ -3381,7 +4246,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "SOPD 1",
+        "3 Examination of the thesis A candidate fo",
+        "1 Introd"
+      ]
     }
   ],
   "admission": {
@@ -3407,15 +4278,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:54:58Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:02:59Z",
     "test_mode": false,
-    "completeness_before": 0.094,
-    "completeness_after": 0.171,
-    "improvement": 0.077,
-    "fields_enriched": 160,
+    "points_system": "aps_points",
+    "completeness_before": 0.151,
+    "completeness_after": 0.208,
+    "improvement": 0.057,
+    "fields_enriched": 136,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/sefako-makgatho-health-sciences-university.pdf"
     ]
   }
 }

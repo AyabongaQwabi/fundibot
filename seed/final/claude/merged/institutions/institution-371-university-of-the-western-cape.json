@@ -166,7 +166,8 @@
           "subject": "Life Science",
           "minimum_level": 4
         }
-      ]
+      ],
+      "_points_system": "uwc_points"
     },
     {
       "name": "Bachelor of Commerce (BCom)",
@@ -182,22 +183,26 @@
           "minimum_level": 5
         }
       ],
-      "notes": "Accounting (5) not required if Math level is 5 or higher."
+      "notes": "Accounting (5) not required if Math level is 5 or higher.",
+      "_points_system": "uwc_points"
     },
     {
       "name": "Bachelor of Laws (LLB)",
       "qualification_type": "Bachelor",
-      "faculty": "Law"
+      "faculty": "Law",
+      "_points_system": "uwc_points"
     },
     {
       "name": "Bachelor of Dental Surgery (BDS)",
       "qualification_type": "Bachelor",
-      "faculty": "Dentistry"
+      "faculty": "Dentistry",
+      "_points_system": "uwc_points"
     },
     {
       "name": "Bachelor of Oral Health",
       "qualification_type": "Bachelor",
-      "faculty": "Dentistry"
+      "faculty": "Dentistry",
+      "_points_system": "uwc_points"
     },
     {
       "name": "Bachelor of Library and Information Studies (BLIS)",
@@ -208,22 +213,26 @@
           "subject": "Mathematics",
           "minimum_level": 4
         }
-      ]
+      ],
+      "_points_system": "uwc_points"
     },
     {
       "name": "Bachelor of Nursing",
       "qualification_type": "Bachelor",
-      "faculty": "Community and Health Sciences"
+      "faculty": "Community and Health Sciences",
+      "_points_system": "uwc_points"
     },
     {
       "name": "BSc Mathematics & Statistical Sciences",
       "qualification_type": "Bachelor",
-      "faculty": "Science"
+      "faculty": "Science",
+      "_points_system": "uwc_points"
     },
     {
       "name": "BSc Computer Science",
       "qualification_type": "Bachelor",
-      "faculty": "Science"
+      "faculty": "Science",
+      "_points_system": "uwc_points"
     }
   ],
   "admission": {
@@ -249,15 +258,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:54:10Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:01:48Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.067,
+    "points_system": "uwc_points",
+    "completeness_before": 0.059,
+    "completeness_after": 0.059,
     "improvement": 0.0,
     "fields_enriched": 0,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-the-western-cape.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-the-western-cape.pdf"
     ]
   }
 }

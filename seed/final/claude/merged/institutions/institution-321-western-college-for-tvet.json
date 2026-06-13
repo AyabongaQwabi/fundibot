@@ -70,7 +70,7 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
@@ -85,7 +85,9 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:8546c3bbb535",
@@ -104,7 +106,7 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
@@ -119,7 +121,9 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:1d7c65c74cd0",
@@ -138,7 +142,7 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
@@ -153,7 +157,9 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:76f712121b01",
@@ -187,7 +193,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:e4a260b5bd55",
@@ -221,7 +228,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:8c880f016986",
@@ -255,7 +263,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:bf7555e6434a",
@@ -289,7 +298,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:05a0dcee40d9",
@@ -308,7 +318,7 @@
       "min_aps": 20,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Completion of NCV Level 3",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
@@ -323,7 +333,9 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:ca386d1c76b3",
@@ -342,11 +354,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Completion of NCV Level 3",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     }
   ],
   "admission": {
@@ -604,13 +618,15 @@
     "adm_reqs_count": 8
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:26Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:47Z",
     "test_mode": false,
-    "completeness_before": 0.096,
-    "completeness_after": 0.163,
-    "improvement": 0.067,
-    "fields_enriched": 9,
+    "points_system": "tvet_none",
+    "completeness_before": 0.144,
+    "completeness_after": 0.144,
+    "improvement": 0.0,
+    "fields_enriched": 5,
+    "qual_type_inferred": [],
     "prospectus_files": []
   }
 }

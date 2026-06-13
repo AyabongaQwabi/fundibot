@@ -7871,6 +7871,10 @@
         "Provide environmental scanning assistance for effective supply chain operations.",
         "Implement supply chain operational activities within an organisation.",
         "Implement and assess supply chain workflow processes"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Admission Requirements 3"
       ]
     },
     {
@@ -7927,6 +7931,10 @@
         "Provide environmental scanning assistance for effective supply chain operations.",
         "Implement supply chain operational activities within an organisation.",
         "Implement and assess supply chain workflow processes"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Admission Requirements 3"
       ]
     },
     {
@@ -7978,7 +7986,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Admission Requirements 4",
+        "Tourist Information Officer NQF Level 5",
+        "NQF Level 4",
+        "Level 5 NQF Level",
+        "English or Recognition of Prior Learning (RPL) A qualified students will be able to: • Provide accurate tourism information and customer service to visitors",
+        "Provide accurate tourism information and customer service to visitors.",
+        "Promote local attractions and travel services.",
+        "Coordinate tourism activities and maintain administrative records.",
+        "Communicate effectively with clients and stakeholders in the tourism sector."
+      ]
     },
     {
       "id": "prog:a36f1a329850",
@@ -8018,7 +8038,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Diploma."
+      ]
     },
     {
       "id": "prog:342813c77410",
@@ -8054,7 +8078,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Diploma."
+      ]
     },
     {
       "id": "prog:f9a5f61e4d12",
@@ -8088,7 +8116,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Diploma."
+      ]
     },
     {
       "id": "prog:871c4a819f2f",
@@ -8124,7 +8156,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Diploma."
+      ]
     },
     {
       "id": "prog:2328f32a04ab",
@@ -8154,6 +8190,18 @@
         "Provide environmental scanning assistance for effective supply chain operations.",
         "Implement supply chain operational activities within an organisation.",
         "Implement and assess supply chain workflow processes"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Admission Requirements 4",
+        "Tourist Information Officer NQF Level 5",
+        "NQF Level 4",
+        "Level 5 NQF Level",
+        "English or Recognition of Prior Learning (RPL) A qualified students will be able to: • Provide accurate tourism information and customer service to visitors",
+        "Provide accurate tourism information and customer service to visitors.",
+        "Promote local attractions and travel services.",
+        "Coordinate tourism activities and maintain administrative records.",
+        "Communicate effectively with clients and stakeholders in the tourism sector."
       ]
     },
     {
@@ -8194,7 +8242,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Passed all 7",
+        "subjects with a minimum of 50%"
+      ]
     },
     {
       "id": "prog:343:Degree|970f519c2cad|ba",
@@ -8217,7 +8270,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:343:NATED|3787633babc5|report 191",
@@ -8240,7 +8294,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 12026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Semester 1",
+        "Semester 2"
+      ]
     }
   ],
   "admission": {
@@ -8533,15 +8597,17 @@
     "adm_reqs_count": 10
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:57Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:58:36Z",
     "test_mode": false,
-    "completeness_before": 0.097,
-    "completeness_after": 0.285,
-    "improvement": 0.188,
-    "fields_enriched": 31,
+    "points_system": "tvet_none",
+    "completeness_before": 0.251,
+    "completeness_after": 0.31,
+    "improvement": 0.059,
+    "fields_enriched": 11,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/mopani-south-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/mopani-south-tvet-college.pdf"
     ]
   }
 }

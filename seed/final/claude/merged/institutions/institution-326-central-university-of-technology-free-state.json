@@ -321,7 +321,11 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics BC432238 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Physics BC432240 32 4 (50%) 5 (60%) 5 (60%) Data Science BC432295 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Business Management BC432255"
+      ]
     },
     {
       "id": "prog:416454ab7173",
@@ -374,7 +378,16 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "driven faculty, the Faculty of"
+      ]
     },
     {
       "id": "prog:aef2623ec0a8",
@@ -421,7 +434,16 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "N/A Accounting 4",
+        "Business Studies 4",
+        "Economics 4",
+        "OR Business Studies 4",
+        "N/A N/A Engineering Graphics and Design 4",
+        "ENGLISH MATHEMATICS PHYSICAL SCIENCES OTHER SUBJECT REQUIREMENTS LIFE SCIENCES CAMPUS BACHELOR OF EDUCATION IN SENIOR AND FET PHASE Accounting and Business Studies BC736101 30 4 (50%) 4 (50%) N/A Accounti"
+      ]
     },
     {
       "id": "prog:30173bb20d34",
@@ -474,7 +496,16 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "N/A Accounting 4",
+        "Business Studies 4",
+        "Economics 4",
+        "OR Business Studies 4",
+        "N/A N/A Engineering Graphics and Design 4",
+        "ENGLISH MATHEMATICS PHYSICAL SCIENCES OTHER SUBJECT REQUIREMENTS LIFE SCIENCES CAMPUS BACHELOR OF EDUCATION IN SENIOR AND FET PHASE Accounting and Business Studies BC736101 30 4 (50%) 4 (50%) N/A Accounti"
+      ]
     },
     {
       "id": "prog:820f5ebd9680",
@@ -533,7 +564,11 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics, Natural Sciences and Technology Education) Dr Msebenzi Rabaza +27 51 401 2307 pdirector@ufs"
+      ]
     },
     {
       "id": "prog:089f884c3ad9",
@@ -586,7 +621,11 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics, Natural Sciences and Technology Education) Dr Msebenzi Rabaza +27 51 401 2307 pdirector@ufs"
+      ]
     },
     {
       "id": "prog:0f70261ba8da",
@@ -639,7 +678,11 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ENGLISH MATHEMATICS CAMPUS BCom with specialisation in"
+      ]
     },
     {
       "id": "prog:b455d2612c98",
@@ -722,7 +765,17 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematical Literacy on Level 7",
+        "ENGLISH MATHEMATICS Agricultural Extension* BC530147 30 4 (50%) 3 (40%) Animal Production Management* BC530101 30 4 (50%) 3 (40%) Crop Production * BC530102 30 4 (50%) 3 (40%) Mixed Farming Management* BC530",
+        "BC530147 30 4 (50%) 3 (40%)",
+        "BC530101 30 4 (50%) 3 (40%)",
+        "BC530102 30 4 (50%) 3 (40%)",
+        "BC530103 30 4 (50%) 3 (40%)",
+        "Mathematical Literacy on Level 7 (80%) will also be accepted IF the AP is 31 or above (excluding BAgric majoring in Agricultural"
+      ]
     },
     {
       "id": "prog:682fe487cd32",
@@ -805,7 +858,17 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematical Literacy on Level 7",
+        "ENGLISH MATHEMATICS Agricultural Extension* BC530147 30 4 (50%) 3 (40%) Animal Production Management* BC530101 30 4 (50%) 3 (40%) Crop Production * BC530102 30 4 (50%) 3 (40%) Mixed Farming Management* BC530",
+        "BC530147 30 4 (50%) 3 (40%)",
+        "BC530101 30 4 (50%) 3 (40%)",
+        "BC530102 30 4 (50%) 3 (40%)",
+        "BC530103 30 4 (50%) 3 (40%)",
+        "Mathematical Literacy on Level 7 (80%) will also be accepted IF the AP is 31 or above (excluding BAgric majoring in Agricultural"
+      ]
     },
     {
       "id": "prog:5540a0406291",
@@ -840,7 +903,12 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "N/A 5",
+        "ENGLISH MATHEMATICS PHYSICAL SCIENCES Actuarial Science BC431000 34 4 (50%) 6 (70%) N/A 5"
+      ]
     },
     {
       "id": "prog:a393f7928bb3",
@@ -899,7 +967,12 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "NOTE 2",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5 (60%) 5 (60%) 5 (60%) 5 (60"
+      ]
     },
     {
       "id": "prog:834d6754393f",
@@ -964,7 +1037,12 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "N/A 5",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES Physics and Engineering Subjects BC434026 30 4 (50%) 6 (70%) N/A 5 (60%) Agricultural and Biosystems Engineering BC540026 30 4 (50%) 6 (70%) N/A 5 (60%) 9"
+      ]
     },
     {
       "id": "prog:c7077f77c6ab",
@@ -999,7 +1077,16 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "SELECTION PROGRAMME/S FOR WHICH APPLICATIONS CLOSE 1"
+      ]
     },
     {
       "id": "prog:ded93d3dbc23",
@@ -1064,6 +1151,15 @@
             "minimum_level": 3
           }
         ]
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics BC432238 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Physics BC432240 32 4 (50%) 5 (60%) 5 (60%) Data Science BC432295 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Business Management BC432255"
+      ],
+      "pricing": {
+        "amount_min": 379220,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1105,7 +1201,17 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 96424,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 weeks",
+        "5 Admission requirements"
+      ]
     },
     {
       "id": "prog:cc5b6c74a91f",
@@ -1158,7 +1264,14 @@
             "minimum_level": 5
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ENGLISH MATHEMATICS ECONOMICS OR BUSINESS STUDIES OR ACCOUNTING OR PHYSICAL SCIENCE SELECTION Construction Economics and Management (full-time) BC432443 30 4 (50%) 5 (60%) 4 (50%) YES VERY IMPORTANT: The",
+        "time) BC432443 30 4 (50%) 5 (60%) 4 (50%) YES",
+        "time option to study a BSc (Construction Economics and Management) programme is usually applicable",
+        "time basis."
+      ]
     },
     {
       "id": "prog:d8f6c978a29d",
@@ -1205,6 +1318,12 @@
             "minimum_level": 4
           }
         ]
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1246,7 +1365,17 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "1 MAJOR",
+        "2 Ancient Near Eastern Studies Philosoph"
+      ]
     },
     {
       "id": "prog:307404c186da",
@@ -1305,7 +1434,16 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "N/A Accounting 4",
+        "Business Studies 4",
+        "Economics 4",
+        "OR Business Studies 4",
+        "N/A N/A Engineering Graphics and Design 4",
+        "ENGLISH MATHEMATICS PHYSICAL SCIENCES OTHER SUBJECT REQUIREMENTS LIFE SCIENCES CAMPUS BACHELOR OF EDUCATION IN SENIOR AND FET PHASE Accounting and Business Studies BC736101 30 4 (50%) 4 (50%) N/A Accounti"
+      ]
     },
     {
       "id": "prog:c0b2d18964f5",
@@ -1328,7 +1466,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:88c275f7f155",
@@ -1381,6 +1520,15 @@
             "minimum_level": 4
           }
         ]
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "YEAR STUDENT YOU ARE EXPECTED TO"
+      ],
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1416,7 +1564,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:1fefc2584d41",
@@ -1469,7 +1618,12 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "N/A 5",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES Physics and Engineering Subjects BC434026 30 4 (50%) 6 (70%) N/A 5 (60%) Agricultural and Biosystems Engineering BC540026 30 4 (50%) 6 (70%) N/A 5 (60%) 9"
+      ]
     },
     {
       "id": "prog:fff632a522a4",
@@ -1504,7 +1658,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:78f6d7c002cc",
@@ -1563,7 +1718,12 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES Geography and Environmental Science BC433362 32 4 (50%) 5 (60%) 5 (60%) N/A Geography Specialisation BC433333 32 4 (50%) 5 (60%) 5 (60%) 5 (60%) Environme",
+        "year programme."
+      ]
     },
     {
       "id": "prog:051d4fe3f70f",
@@ -1604,7 +1764,11 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics, Natural Sciences and Technology Education) Dr Msebenzi Rabaza +27 51 401 2307 pdirector@ufs"
+      ]
     },
     {
       "id": "prog:07bef19f6876",
@@ -1663,7 +1827,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:481f0c1900e5",
@@ -1722,7 +1887,14 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ENGLISH MATHEMATICS ECONOMICS OR BUSINESS STUDIES OR ACCOUNTING OR PHYSICAL SCIENCE SELECTION Construction Economics and Management (full-time) BC432443 30 4 (50%) 5 (60%) 4 (50%) YES VERY IMPORTANT: The",
+        "time) BC432443 30 4 (50%) 5 (60%) 4 (50%) YES",
+        "time option to study a BSc (Construction Economics and Management) programme is usually applicable",
+        "time basis."
+      ]
     },
     {
       "id": "prog:af2c6eb20311",
@@ -1757,7 +1929,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c9a3b33343b0",
@@ -1816,6 +1989,16 @@
             "minimum_level": 4
           }
         ]
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "NOTE 2",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5 (60%) 5 (60%) 5 (60%) 5 (60"
+      ],
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1875,7 +2058,15 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "A N/A Sesotho Home Language 4",
+        "N/A N/A isiZulu Home Language 4",
+        "N/A N/A Afrikaans Home Language 4",
+        "N/A Geography 5",
+        "English and History BC736519 30 4 (50%) N/A N/A N/A N/A BC Afrikaans HL and English BC736521 30 4 (50%) N/A N/A Afrikaans Home Language 4 (50%) N/A BC Geography and Life Sciences QC736600 BC736600 30 4 (5"
+      ]
     },
     {
       "id": "prog:7769eaae4b4c",
@@ -1898,7 +2089,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 96424,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 weeks",
+        "5 Admission requirements"
+      ]
     },
     {
       "id": "prog:547086ce5068",
@@ -1939,7 +2140,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:47379e3cc02c",
@@ -1986,6 +2188,15 @@
             "minimum_level": 4
           }
         ]
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ENGLISH MATHEMATICS CAMPUS BAdmin BC634040 28 4 (50%) 3 (30%) BC EDUCATION OF PROFESSIONAL ACCOUNTANTS: BACHELOR OF ACCOUNTING (BAcc) AND BCom (ACCOUNTING) PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENT"
+      ],
+      "pricing": {
+        "amount_min": 73080,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -2045,7 +2256,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:dd7751c78943",
@@ -2104,7 +2316,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:30a84985e4c3",
@@ -2157,7 +2370,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:ba54cd00862a",
@@ -2207,6 +2421,18 @@
       },
       "modules": [
         "A compulsory audition before 30 September 2026. For more information:"
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "An achievement level of no less than Level 5",
+        "An achievement level of no less than 65%",
+        "ENGLISH CAMPUS BA (Language Practice) – Subject to selection* BC130039 30 5 (60%) BC Language admission requirements: An achievement level of no less than Level 5 (60%) for any home language (HL) taken in Gr",
+        "BC130039 30 5 (60%) BC"
       ]
     },
     {
@@ -2257,6 +2483,18 @@
       },
       "modules": [
         "A compulsory audition before 30 September 2026. For more information:"
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "An achievement level of no less than Level 5",
+        "An achievement level of no less than 65%",
+        "ENGLISH CAMPUS BA (Language Practice) – Subject to selection* BC130039 30 5 (60%) BC Language admission requirements: An achievement level of no less than Level 5 (60%) for any home language (HL) taken in Gr",
+        "BC130039 30 5 (60%) BC"
       ]
     },
     {
@@ -2310,7 +2548,17 @@
             "minimum_level": 5
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 41176,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "6 weeks",
+        "5 Admission requirements"
+      ]
     },
     {
       "id": "prog:6d05cc170b54",
@@ -2345,7 +2593,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:ee309548eea7",
@@ -2380,6 +2629,15 @@
             "minimum_level": 4
           }
         ]
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "YEAR STUDENT YOU ARE EXPECTED TO"
+      ],
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -2427,7 +2685,17 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 41176,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "6 weeks",
+        "5 Admission requirements"
+      ]
     },
     {
       "id": "prog:10fac0f5587c",
@@ -2480,6 +2748,15 @@
             "minimum_level": 4
           }
         ]
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "YEAR STUDENT YOU ARE EXPECTED TO"
+      ],
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -2533,7 +2810,16 @@
             "minimum_level": 3
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "N/A Accounting 4",
+        "Business Studies 4",
+        "Economics 4",
+        "OR Business Studies 4",
+        "N/A N/A Engineering Graphics and Design 4",
+        "ENGLISH MATHEMATICS PHYSICAL SCIENCES OTHER SUBJECT REQUIREMENTS LIFE SCIENCES CAMPUS BACHELOR OF EDUCATION IN SENIOR AND FET PHASE Accounting and Business Studies BC736101 30 4 (50%) 4 (50%) N/A Accounti"
+      ]
     },
     {
       "id": "prog:a9458fe5145d",
@@ -2586,7 +2872,12 @@
             "minimum_level": 3
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "N/A 5",
+        "ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES Physics and Engineering Subjects BC434026 30 4 (50%) 6 (70%) N/A 5 (60%) Agricultural and Biosystems Engineering BC540026 30 4 (50%) 6 (70%) N/A 5 (60%) 9"
+      ]
     },
     {
       "id": "prog:9ee801a2239b",
@@ -2609,7 +2900,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:8a586be5bb1d",
@@ -2656,7 +2948,8 @@
             "minimum_level": 5
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:5d49a53edeaa",
@@ -2679,7 +2972,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:f0dc3d854df7",
@@ -2720,7 +3014,12 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ENGLISH MATHEMATICS PHYSICAL SCIENCES Computer Science and Chemistry BC432221 32 4 (50%) 5 (60%) 5 (60%) Computer Science and Mathematical Statistics BC432237 32 4 (50%) 6 (70%) 5 (60%) Computer Science and",
+        "Mathematics BC432238 32 4 (50%) 6 (70%) 5 (60%) Computer Science and Physics BC432240 32 4 (50%) 5 (60%) 5 (60%) Data Scienc"
+      ]
     },
     {
       "id": "prog:334435d93a1d",
@@ -2743,7 +3042,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics, Natural Sciences and Technology Education) Dr Msebenzi Rabaza +27 51 401 2307 pdirector@ufs"
+      ]
     },
     {
       "id": "prog:1d9683387aaa",
@@ -2778,7 +3081,17 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 96424,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "4 weeks",
+        "5 Admission requirements"
+      ]
     },
     {
       "id": "prog:3f3d7a712d39",
@@ -2813,7 +3126,16 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "driven faculty, the Faculty of"
+      ]
     },
     {
       "id": "prog:b0ab65899977",
@@ -2908,7 +3230,17 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ENGLISH MATHEMATICS ECONOMICS OR BUSINESS STUDIES OR ACCOUNTING OR PHYSICAL SCIENCE SELECTION Construction Management (Compact Learning) BC432401 30 4 (50%) 5 (60%) 4 (50%) YES Quantity Surveying (Compact",
+        "time employment in the construction industry"
+      ]
     },
     {
       "id": "prog:59f2cf0956b2",
@@ -2931,7 +3263,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:23bec50eab9e",
@@ -2972,7 +3305,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:5eb91c3d7500",
@@ -3025,7 +3359,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:2c2b0026bffc",
@@ -3066,7 +3401,17 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "1 MAJOR",
+        "2 Ancient Near Eastern Studies Philosoph"
+      ]
     },
     {
       "id": "prog:90ef1ed3fc1d",
@@ -3089,7 +3434,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:b9bfbfe3926d",
@@ -3124,7 +3470,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:2c94b0f68f5e",
@@ -3159,7 +3506,8 @@
             "minimum_level": 4
           }
         ]
-      }
+      },
+      "_points_system": "aps_points"
     }
   ],
   "admission": {
@@ -4986,15 +5334,17 @@
     "adm_reqs_count": 40
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:32Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:58Z",
     "test_mode": false,
-    "completeness_before": 0.44,
-    "completeness_after": 0.505,
-    "improvement": 0.065,
-    "fields_enriched": 60,
+    "points_system": "aps_points",
+    "completeness_before": 0.446,
+    "completeness_after": 0.504,
+    "improvement": 0.058,
+    "fields_enriched": 61,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-the-free-state.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-the-free-state.pdf"
     ]
   }
 }

@@ -125,7 +125,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Diploma in Accountancy",
+        "the actual achievement is multiplied by 2",
+        "3 ENTREPRENEURSHIP",
+        "4 Including one of the following at level",
+        "Applicants with Technical Maths at level 5",
+        "ENGLISH (HL or FAL) MATHS MATHS LIT ACC RECOMMENDATIONS AND FURTHER REQUIREMENTS FINANCIAL ACCOUNTING & TAXATION Diploma in Accountancy 38 3 4 *3 *5 *4 Diploma in Accountancy: Eng",
+        "Maths(3), Maths Lit(5) or Acc(4); Diploma in Accountancy (Extended): English (4) and one of the following: Maths(3), Maths Lit(4) or Acc(3)",
+        "Maths Lit) and Accounting, the actual achievement is multiplied by 2",
+        "Maths at level 5 (60%) would be considered"
+      ]
     },
     {
       "name": "Bachelor of Food Science & Technology",
@@ -164,7 +176,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths Literacy 4",
+        "3 At least",
+        "and any other 2",
+        "with Tech Maths 4",
+        "4 Plus any other two subjects (",
+        "4 Plus any two other subjects (excl",
+        "each at a minimum of a Level 3",
+        "45% or above in Maths or Physical Sciences if",
+        "the other three are 50%",
+        "for Maths Literacy and 50%",
+        "subjects at 40%",
+        "Level 3 pass (",
+        "Maths or Physical Sciences if the other three are 50% and above ENVIRONMENTAL & OCCUPATIONAL STUDIES Diploma in Environmental Management 26 with Maths; 27 with Tech Maths; 28 with Maths Literacy 28",
+        "Maths; 29 with Tech Maths; 30 with Maths Literacy 4 3 4 5 4 3 At least: 40% (3) for Mathematics, 60% (5) for Maths Literacy and 50% (4) for Technical Maths; 50% (4) for Geography or Life Sciences",
+        "Maths; 31 with Tech Maths 32 with Maths; 33 with Tech Maths 4 4 5 4 4 Plus any other two subjects (4) except Life Orientation FOOD SCIENCE & TECHNOLOGY Bachelor of Food Science & Technology N/A 32",
+        "Maths; 33 with Tech Maths 4 4 5 3 4 Plus any two other subjects (excl"
+      ]
     },
     {
       "name": "Diploma in Hospitality Management",
@@ -191,6 +222,11 @@
       },
       "career_outcomes": [
         "skilled in property"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following"
       ]
     },
     {
@@ -222,6 +258,19 @@
         "coordinating, financial administration, projects and",
         "human resource management.",
         "Who would like this"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following",
+        "3 PUBLIC ADMINISTRATION",
+        "ECO 3",
+        "BUS 3",
+        "ACC 3",
+        "3 Including one of the following",
+        "ECO 2",
+        "BUS 2",
+        "ACC 2"
       ]
     },
     {
@@ -263,7 +312,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths Literacy 4",
+        "3 At least",
+        "and any other 2",
+        "with Tech Maths 4",
+        "4 Plus any other two subjects (",
+        "4 Plus any two other subjects (excl",
+        "each at a minimum of a Level 3",
+        "45% or above in Maths or Physical Sciences if",
+        "the other three are 50%",
+        "for Maths Literacy and 50%",
+        "subjects at 40%",
+        "Level 3 pass (",
+        "Maths or Physical Sciences if the other three are 50% and above ENVIRONMENTAL & OCCUPATIONAL STUDIES Diploma in Environmental Management 26 with Maths; 27 with Tech Maths; 28 with Maths Literacy 28",
+        "Maths; 29 with Tech Maths; 30 with Maths Literacy 4 3 4 5 4 3 At least: 40% (3) for Mathematics, 60% (5) for Maths Literacy and 50% (4) for Technical Maths; 50% (4) for Geography or Life Sciences",
+        "Maths; 31 with Tech Maths 32 with Maths; 33 with Tech Maths 4 4 5 4 4 Plus any other two subjects (4) except Life Orientation FOOD SCIENCE & TECHNOLOGY Bachelor of Food Science & Technology N/A 32",
+        "Maths; 33 with Tech Maths 4 4 5 3 4 Plus any two other subjects (excl"
+      ]
     },
     {
       "name": "Diploma in Horticulture",
@@ -292,7 +360,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "name": "Diploma in Event Management",
@@ -322,6 +391,17 @@
         "26 (ML) 1 4 2 4",
         "Diploma in Events Management 28 (M)",
         "30 (ML) 1 4 2 4 Inc"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Including one of the following",
+        "ECO 2",
+        "BUS 2",
+        "ACC 2",
+        "4 An NSC with at least three years relevant",
+        "ML) 1",
+        "4 Including one of the following",
+        "4 Diploma in Events Management"
       ]
     },
     {
@@ -349,7 +429,13 @@
       "career_outcomes": [
         "skilled in property"
       ],
-      "study_mode": "Part-time"
+      "study_mode": "Part-time",
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Including one of the following for full",
+        "ACC 4",
+        "4 Including one official language at level"
+      ]
     },
     {
       "name": "Diploma in Information Technology",
@@ -372,7 +458,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:77b18ec4757e",
@@ -395,7 +482,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
+      ]
     },
     {
       "id": "prog:04ef61f05531",
@@ -418,7 +509,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
+      ]
     },
     {
       "id": "prog:3049f5afab8f",
@@ -441,7 +536,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
+      ]
     },
     {
       "id": "prog:1e34014e35e3",
@@ -464,7 +563,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
+      ]
     },
     {
       "id": "prog:94c087bde1be",
@@ -516,7 +619,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths Literacy 4",
+        "3 At least",
+        "and any other 2",
+        "with Tech Maths 4",
+        "4 Plus any other two subjects (",
+        "4 Plus any two other subjects (excl",
+        "each at a minimum of a Level 3",
+        "45% or above in Maths or Physical Sciences if",
+        "the other three are 50%",
+        "for Maths Literacy and 50%",
+        "subjects at 40%",
+        "Level 3 pass (",
+        "Maths or Physical Sciences if the other three are 50% and above ENVIRONMENTAL & OCCUPATIONAL STUDIES Diploma in Environmental Management 26 with Maths; 27 with Tech Maths; 28 with Maths Literacy 28",
+        "Maths; 29 with Tech Maths; 30 with Maths Literacy 4 3 4 5 4 3 At least: 40% (3) for Mathematics, 60% (5) for Maths Literacy and 50% (4) for Technical Maths; 50% (4) for Geography or Life Sciences",
+        "Maths; 31 with Tech Maths 32 with Maths; 33 with Tech Maths 4 4 5 4 4 Plus any other two subjects (4) except Life Orientation FOOD SCIENCE & TECHNOLOGY Bachelor of Food Science & Technology N/A 32",
+        "Maths; 33 with Tech Maths 4 4 5 3 4 Plus any two other subjects (excl"
+      ]
     },
     {
       "id": "prog:99c5b386d423",
@@ -556,7 +678,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ENGLISH (HL or FAL) MATHS MATHS LIT ACC RECOMMENDATIONS AND FURTHER REQUIREMENTS FINANCIAL ACCOUNTING & TAXATION Diplo"
+      ]
     },
     {
       "id": "prog:b4cf7161f67c",
@@ -611,6 +737,20 @@
       },
       "modules": [
         "4 All students accepted for the Somatology"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 EMERGENCY MEDICAL SCIENCES HC in Emerge",
+        "3 Bachelor of Emergency Medical Care",
+        "4 Bachelor of Emergency Medical Care (ECP)",
+        "4 Subject to space availability",
+        "with Maths Literacy) 4",
+        "4 All students accepted for the Somatology",
+        "course will be required to have received Hepatitis inoculation NURSING SCIENCE Bachelor of Nursing 3",
+        "consideration will be given for admitting students who received between 47%",
+        "49% for any one of the four subjects (Englis",
+        "English, Mathematics, Life Science and Physical Science) for the Bachelor of Emergency Medical Care ECP (PBEMCX)",
+        "Maths); 25 (with Maths Literacy) 4 3 4** 4 All students accepted for the Somatology course will be required to have received Hepatitis inoculation NURSING SCIENCE Bachelor of Nursing 3"
       ]
     },
     {
@@ -666,6 +806,10 @@
       },
       "modules": [
         "4 All students accepted for the Somatology"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
       ]
     },
     {
@@ -712,7 +856,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths Literacy 4",
+        "3 At least",
+        "and any other 2",
+        "with Tech Maths 4",
+        "4 Plus any other two subjects (",
+        "4 Plus any two other subjects (excl",
+        "each at a minimum of a Level 3",
+        "45% or above in Maths or Physical Sciences if",
+        "the other three are 50%",
+        "for Maths Literacy and 50%",
+        "subjects at 40%",
+        "Level 3 pass (",
+        "Maths or Physical Sciences if the other three are 50% and above ENVIRONMENTAL & OCCUPATIONAL STUDIES Diploma in Environmental Management 26 with Maths; 27 with Tech Maths; 28 with Maths Literacy 28",
+        "Maths; 29 with Tech Maths; 30 with Maths Literacy 4 3 4 5 4 3 At least: 40% (3) for Mathematics, 60% (5) for Maths Literacy and 50% (4) for Technical Maths; 50% (4) for Geography or Life Sciences",
+        "Maths; 31 with Tech Maths 32 with Maths; 33 with Tech Maths 4 4 5 4 4 Plus any other two subjects (4) except Life Orientation FOOD SCIENCE & TECHNOLOGY Bachelor of Food Science & Technology N/A 32",
+        "Maths; 33 with Tech Maths 4 4 5 3 4 Plus any two other subjects (excl"
+      ]
     },
     {
       "id": "prog:02a2e51e0d84",
@@ -758,7 +921,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "mathematics, science, physi"
+      ]
     },
     {
       "id": "prog:97f6d7bf3bec",
@@ -804,7 +971,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Method 2",
+        "5 Recommended",
+        "5 Eyesight and Medical at approved SAMSA",
+        "Waitlist Method 2",
+        "4 M (N",
+        "60% ES (N",
+        "with 60%",
+        "60% M (N",
+        "70% PS (N",
+        "60% PS (N"
+      ]
     },
     {
       "id": "prog:20ec17fafc42",
@@ -850,7 +1030,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:18f869d98d9e",
@@ -896,7 +1090,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Method 2",
+        "5 Recommended",
+        "5 Eyesight and Medical at approved SAMSA",
+        "Waitlist Method 2",
+        "4 M (N",
+        "60% ES (N",
+        "with 60%",
+        "60% M (N",
+        "70% PS (N",
+        "60% PS (N"
+      ]
     },
     {
       "id": "prog:8200e2c1dc36",
@@ -942,7 +1149,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:9c9745520b2e",
@@ -982,7 +1203,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Including one of the following for full",
+        "ACC 4",
+        "4 Including one official language at level"
+      ]
     },
     {
       "id": "prog:c6b8709d50f6",
@@ -1007,7 +1234,12 @@
       "career_outcomes": [
         "Academic Review Compone"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Successful applicants will have at least an appropriate first degree or NQF Level 6",
+        "Level 6 diploma with subjects that satisfy the c"
+      ]
     },
     {
       "id": "prog:959e5113ad67",
@@ -1030,7 +1262,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Successful applicants will have at least an appropriate first degree or NQF Level 6",
+        "Level 6 diploma with subjects that satisfy the c"
+      ]
     },
     {
       "id": "prog:a0ceb908c26e",
@@ -1064,7 +1301,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
+      ]
     },
     {
       "id": "prog:a860f6a03626",
@@ -1098,7 +1339,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "The Intermediate Phases caters for learners in middle childhood and early adolescence (Grades 4"
+      ]
     },
     {
       "id": "prog:f5de6303ecc5",
@@ -1132,7 +1377,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
+      ]
     },
     {
       "id": "prog:b303190a14ff",
@@ -1183,7 +1432,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Waitlist Method 2",
+        "Method 2",
+        "60% ES (N",
+        "with 60%",
+        "English Language equivalent to the National Senior Certificate A National Certificate (Vocational) at level (4) CHEMICAL ENGINEERING Diploma in Chemical Engineering 30 27 - 29 23 - 26 Waitlist Method"
+      ]
     },
     {
       "id": "prog:d58b269071ed",
@@ -1229,7 +1486,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Method 2",
+        "Waitlist Method 2",
+        "Method 1",
+        "ith 60%",
+        "60% ES (N",
+        "with 60%",
+        "50% Clothing Production (N"
+      ]
     },
     {
       "id": "prog:5bc89dde8d52",
@@ -1281,7 +1548,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 M (N",
+        "60% PS (N",
+        "with a minimum of 45%",
+        "with a minimum of 55%",
+        "English (4); with one of either Mathematics, Physical Science (4), and the other (3), with a minimum of 45%, or Technical Maths/ Technical Science (5) and the other (4) with a minimum of 55% for the followi"
+      ]
     },
     {
       "id": "prog:6fa597ee8d34",
@@ -1333,7 +1608,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "At least 3",
+        "Method 2",
+        "5 or ET",
+        "5 Recommended",
+        "60% ES (N",
+        "60% Electrotechnics (N",
+        "60% Digital Electronics (N",
+        "with 60%"
+      ]
     },
     {
       "id": "prog:e16623eae5be",
@@ -1388,6 +1674,20 @@
       },
       "modules": [
         "As part of the selection for all EMS"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "To find out how to calculate your APS score see method 1",
+        "on the reverse of this brochure 4",
+        "4 BHSc in Medical Laboratory Sciences (Ext",
+        "4 Consideration will be given for applicant",
+        "s with a level 3",
+        "3 BHSc Dental Technology",
+        "4 BHSc Dental Technology (ECP)",
+        "4 EMERGENCY MEDICAL SCIENCES HC in Emerge",
+        "min 48%",
+        "ENGLISH (HL or FAL) MATHS MATHS TECH** MATHS LIT** LIFE SCIENCES PHYSICAL SCIENCES FURTHER REQUIREMENTS BIOMEDICAL SCIENCES BHSc in Medical Laboratory Sciences 38+ To find out how to calculate your",
+        "Maths or PS, subject to space availability"
       ]
     },
     {
@@ -1443,6 +1743,10 @@
       },
       "modules": [
         "As part of the selection for all EMS"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
       ]
     },
     {
@@ -1498,6 +1802,20 @@
       },
       "modules": [
         "As part of the selection for all EMS"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "To find out how to calculate your APS score see method 1",
+        "on the reverse of this brochure 4",
+        "4 BHSc in Medical Laboratory Sciences (Ext",
+        "4 Consideration will be given for applicant",
+        "s with a level 3",
+        "3 BHSc Dental Technology",
+        "4 BHSc Dental Technology (ECP)",
+        "4 EMERGENCY MEDICAL SCIENCES HC in Emerge",
+        "min 48%",
+        "ENGLISH (HL or FAL) MATHS MATHS TECH** MATHS LIT** LIFE SCIENCES PHYSICAL SCIENCES FURTHER REQUIREMENTS BIOMEDICAL SCIENCES BHSc in Medical Laboratory Sciences 38+ To find out how to calculate your",
+        "Maths or PS, subject to space availability"
       ]
     },
     {
@@ -1553,6 +1871,20 @@
       },
       "modules": [
         "As part of the selection for all EMS"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "To find out how to calculate your APS score see method 1",
+        "on the reverse of this brochure 4",
+        "4 BHSc in Medical Laboratory Sciences (Ext",
+        "4 Consideration will be given for applicant",
+        "s with a level 3",
+        "3 BHSc Dental Technology",
+        "4 BHSc Dental Technology (ECP)",
+        "4 EMERGENCY MEDICAL SCIENCES HC in Emerge",
+        "min 48%",
+        "ENGLISH (HL or FAL) MATHS MATHS TECH** MATHS LIT** LIFE SCIENCES PHYSICAL SCIENCES FURTHER REQUIREMENTS BIOMEDICAL SCIENCES BHSc in Medical Laboratory Sciences 38+ To find out how to calculate your",
+        "Maths or PS, subject to space availability"
       ]
     },
     {
@@ -1605,7 +1937,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
+      ]
     },
     {
       "id": "prog:0c0abce2777b",
@@ -1628,7 +1964,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:dd0a237ce993",
@@ -1680,7 +2017,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:8f7e0e86cc5c",
@@ -1732,7 +2083,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "August 1",
+        "2 Choose your"
+      ]
     },
     {
       "id": "prog:718369826bef",
@@ -1784,7 +2140,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "August 1",
+        "2 Choose your"
+      ]
     },
     {
       "id": "prog:a8927b5f78ee",
@@ -1830,7 +2191,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "August 1",
+        "2 Choose your"
+      ]
     },
     {
       "id": "prog:3b7de930d953",
@@ -1882,7 +2248,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "August 1",
+        "2 Choose your"
+      ]
     },
     {
       "id": "prog:89a52bb28b1b",
@@ -1928,7 +2299,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Diploma in Accountancy",
+        "the actual achievement is multiplied by 2",
+        "3 ENTREPRENEURSHIP",
+        "4 Including one of the following at level",
+        "Applicants with Technical Maths at level 5",
+        "ENGLISH (HL or FAL) MATHS MATHS LIT ACC RECOMMENDATIONS AND FURTHER REQUIREMENTS FINANCIAL ACCOUNTING & TAXATION Diploma in Accountancy 38 3 4 *3 *5 *4 Diploma in Accountancy: Eng",
+        "Maths(3), Maths Lit(5) or Acc(4); Diploma in Accountancy (Extended): English (4) and one of the following: Maths(3), Maths Lit(4) or Acc(3)",
+        "Maths Lit) and Accounting, the actual achievement is multiplied by 2",
+        "Maths at level 5 (60%) would be considered"
+      ]
     },
     {
       "id": "prog:9551793cae1c",
@@ -1974,7 +2357,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Diploma in Accountancy",
+        "the actual achievement is multiplied by 2",
+        "3 ENTREPRENEURSHIP",
+        "4 Including one of the following at level",
+        "Applicants with Technical Maths at level 5",
+        "ENGLISH (HL or FAL) MATHS MATHS LIT ACC RECOMMENDATIONS AND FURTHER REQUIREMENTS FINANCIAL ACCOUNTING & TAXATION Diploma in Accountancy 38 3 4 *3 *5 *4 Diploma in Accountancy: Eng",
+        "Maths(3), Maths Lit(5) or Acc(4); Diploma in Accountancy (Extended): English (4) and one of the following: Maths(3), Maths Lit(4) or Acc(3)",
+        "Maths Lit) and Accounting, the actual achievement is multiplied by 2",
+        "Maths at level 5 (60%) would be considered"
+      ]
     },
     {
       "id": "prog:47430d9bbba9",
@@ -2026,7 +2421,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Tech Maths To find out how to calculate your APS score see method 1",
+        "on the reverse of this brochure 4",
+        "4 Life Sciences or Physical Sciences Dipl",
+        "with Maths Literacy 4",
+        "4 Life Sciences or Physical Sciences CHEM",
+        "ENGLISH (HL or FAL) MATHS TECH MATHS MATHS LIT LIFE SCIENCES PHYSICAL SCIENCES COMMENTS/ ADDITIONAL REQUIREMENTS ECP: Subject to space, students may be admitted with: ECP MAINSTREAM AGRICULTURE Dip",
+        "Maths; 29 with Tech Maths 30 with Maths; 31 with Tech Maths To find out how to calculate your APS score see method 1 on the reverse of this brochure 4 3 4 4 4 Life Sciences or Physical Scienc",
+        "Maths; 29 with Tech Maths; 30 with Maths Literacy 30 with Maths; 31 with Tech Maths; 32 with Maths Literacy 4 3 4 5 4 4 Life Sciences or Physical Sciences CHEMISTRY Diploma in Analytical Chemistry",
+        "Maths; 29 with Te"
+      ]
     },
     {
       "id": "prog:3d25d201b71d",
@@ -2078,7 +2485,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Tech Maths To find out how to calculate your APS score see method 1",
+        "on the reverse of this brochure 4",
+        "4 Life Sciences or Physical Sciences Dipl",
+        "with Maths Literacy 4",
+        "4 Life Sciences or Physical Sciences CHEM",
+        "ENGLISH (HL or FAL) MATHS TECH MATHS MATHS LIT LIFE SCIENCES PHYSICAL SCIENCES COMMENTS/ ADDITIONAL REQUIREMENTS ECP: Subject to space, students may be admitted with: ECP MAINSTREAM AGRICULTURE Dip",
+        "Maths; 29 with Tech Maths 30 with Maths; 31 with Tech Maths To find out how to calculate your APS score see method 1 on the reverse of this brochure 4 3 4 4 4 Life Sciences or Physical Scienc",
+        "Maths; 29 with Tech Maths; 30 with Maths Literacy 30 with Maths; 31 with Tech Maths; 32 with Maths Literacy 4 3 4 5 4 4 Life Sciences or Physical Sciences CHEMISTRY Diploma in Analytical Chemistry",
+        "Maths; 29 with Te"
+      ]
     },
     {
       "id": "prog:65513a79a620",
@@ -2124,7 +2543,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Tech Maths To find out how to calculate your APS score see method 1",
+        "on the reverse of this brochure 4",
+        "4 Life Sciences or Physical Sciences Dipl",
+        "with Maths Literacy 4",
+        "4 Life Sciences or Physical Sciences CHEM",
+        "ENGLISH (HL or FAL) MATHS TECH MATHS MATHS LIT LIFE SCIENCES PHYSICAL SCIENCES COMMENTS/ ADDITIONAL REQUIREMENTS ECP: Subject to space, students may be admitted with: ECP MAINSTREAM AGRICULTURE Dip",
+        "Maths; 29 with Tech Maths 30 with Maths; 31 with Tech Maths To find out how to calculate your APS score see method 1 on the reverse of this brochure 4 3 4 4 4 Life Sciences or Physical Scienc",
+        "Maths; 29 with Tech Maths; 30 with Maths Literacy 30 with Maths; 31 with Tech Maths; 32 with Maths Literacy 4 3 4 5 4 4 Life Sciences or Physical Sciences CHEMISTRY Diploma in Analytical Chemistry",
+        "Maths; 29 with Te"
+      ]
     },
     {
       "id": "prog:820bac826e9c",
@@ -2170,7 +2601,30 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extended Curriculum Product Design",
+        "3 Diploma in Jewellery Design",
+        "4 Extended Curriculum Jewellery Design and",
+        "3 MEDIA STUDIES Diploma in Film Production",
+        "5 Diploma in Photography",
+        "4 Diploma in Journalism",
+        "with ML 5",
+        "English) 3",
+        "4 Diploma in Public Relations",
+        "English) 2",
+        "3 INFORMATION TECHNOLOGY Diploma in Applic",
+        "with ML 4",
+        "4 Diploma in Communication Networks",
+        "4 Diploma in Multimedia Applications",
+        "4 Higher Certificat",
+        "English) 3 4 4 Diploma in Public Relations & Communication 28 with M; 30 with ML 5 HL or FAL: 50% (Excl",
+        "English) 2 4 3 INFORMATION TECHNOLOGY Diploma in Applications Development 28 with M; 30 with ML 4 3 5 4 Diploma in Communication Networks 28 with M; 30 with ML 4 3 5 4 Diploma in Multimedia Applications"
+      ]
     },
     {
       "id": "prog:717f653c8ec3",
@@ -2210,7 +2664,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:d6399c3b4e07",
@@ -2250,7 +2718,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:a534e8c560cb",
@@ -2292,7 +2774,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Including one of the following at level",
+        "Applicants with Technical Maths at level 5",
+        "4 As above GRADUATE CENTRE FOR MANAGEMENT",
+        "ML) Contact Classes 4",
+        "4 See note re",
+        "OR Consumer Studies OR Management Practice OR Financial Management OR Marketing (all at NQF Level 4",
+        "ML) 4",
+        "4 National Certificate (Vocational) (NCV) a",
+        "69% in three of the following fundamental sub",
+        "Maths at level 5 (60%) would be considered"
+      ]
     },
     {
       "id": "prog:274264cad953",
@@ -2344,7 +2839,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths Literacy 4",
+        "4 Life Sciences or Physical Sciences CHEM",
+        "with Tech Maths 4",
+        "45% or above in Maths or Physical Sciences",
+        "if the other one is 50%",
+        "or Life Sciences if the other three are 50%",
+        "45% or above in Maths or Physical Sciences if",
+        "the other three are 50%",
+        "Maths Literacy 30 with Maths; 31 with Tech Maths; 32 with Maths Literacy 4 3 4 5 4 4 Life Sciences or Physical Sciences CHEMISTRY Diploma in Analytical Chemistry 28 with Maths; 29 with Tech Maths 3",
+        "Maths; 31 with Tech Maths 4 4 5 4 45% or above in Maths or Physical Sciences if the other one is 50% or above BIOTECHNOLOGY & CONSUMER SCIENCES Diploma in Biotechnology 28 with Maths; 29 with Tech",
+        "Maths 30 with Maths; 31 with Tech Maths 4 4 5 4 4 45% or above in Maths or Physical Sciences or Life Sciences if the other three are 50% or above Diploma in Consumer Science: Food & Nutrition 26 wi",
+        "Maths; 27 with Tech Maths 28 with Maths; 29 with Tech Maths 4 3 4 4 45% or above in Maths or Physical Sciences if the other three are 50% and above ENVIRONMENTAL & OCCUPATIONAL STUDIES Diploma in Env",
+        "Maths; 27 with Tech Maths; 28"
+      ]
     },
     {
       "id": "prog:1302941e7da4",
@@ -2384,7 +2895,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following",
+        "BUS/ ACC/ ECO 4",
+        "4 BUSINESS"
+      ]
     },
     {
       "id": "prog:ee459cd527e7",
@@ -2424,7 +2942,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following",
+        "3 PUBLIC ADMINISTRATION",
+        "ECO 3",
+        "BUS 3",
+        "ACC 3",
+        "3 Including one of the following",
+        "ECO 2",
+        "BUS 2",
+        "ACC 2"
+      ]
     },
     {
       "id": "prog:a3c04e5a149a",
@@ -2475,7 +3006,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Waitlist Method 2",
+        "Method 2",
+        "60% ES (N",
+        "with 60%",
+        "English Language equivalent to the National Senior Certificate A National Certificate (Vocational) at level (4) CHEMICAL ENGINEERING Diploma in Chemical Engineering 30 27 - 29 23 - 26 Waitlist Method"
+      ]
     },
     {
       "id": "prog:a75669cc5171",
@@ -2521,7 +3060,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Maths is not a compulsory subject, it merely caters for the TVET students",
+        "English Mathematics Physical Science DIPLOMA IN CIVIL ENGINEERING BACHELOR OF ENGINEERING TECHNOLOGY IN CIVIL ENGINEERING Civil Engineers maintain and adapt the infrastructure that we depend on every day"
+      ]
     },
     {
       "id": "prog:c411db36811f",
@@ -2573,7 +3117,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Method 2",
+        "Waitlist Method 2",
+        "Method 1",
+        "ith 60%",
+        "60% ES (N",
+        "with 60%",
+        "50% Clothing Production (N"
+      ]
     },
     {
       "id": "prog:f0d49deca540",
@@ -2619,7 +3173,30 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extended Curriculum Product Design",
+        "3 Diploma in Jewellery Design",
+        "4 Extended Curriculum Jewellery Design and",
+        "3 MEDIA STUDIES Diploma in Film Production",
+        "5 Diploma in Photography",
+        "4 Diploma in Journalism",
+        "with ML 5",
+        "English) 3",
+        "4 Diploma in Public Relations",
+        "English) 2",
+        "3 INFORMATION TECHNOLOGY Diploma in Applic",
+        "with ML 4",
+        "4 Diploma in Communication Networks",
+        "4 Diploma in Multimedia Applications",
+        "4 Higher Certificat",
+        "English) 3 4 4 Diploma in Public Relations & Communication 28 with M; 30 with ML 5 HL or FAL: 50% (Excl",
+        "English) 2 4 3 INFORMATION TECHNOLOGY Diploma in Applications Development 28 with M; 30 with ML 4 3 5 4 Diploma in Communication Networks 28 with M; 30 with ML 4 3 5 4 Diploma in Multimedia Applications"
+      ]
     },
     {
       "id": "prog:bddfa62e0376",
@@ -2659,7 +3236,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "mathematics, science, physics and information technology; have an aptitude for design, and love variety and working both indoors and outdoors"
+      ]
     },
     {
       "id": "prog:a8c5357588eb",
@@ -2705,7 +3286,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ENGLISH (HL or FAL)"
+      ]
     },
     {
       "id": "prog:34005eba724f",
@@ -2751,7 +3336,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Experience with age groups 4",
+        "years to 6"
+      ]
     },
     {
       "id": "prog:e6b20e0eda5e",
@@ -2806,6 +3396,20 @@
       },
       "modules": [
         "4 All students accepted for the Somatology"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 EMERGENCY MEDICAL SCIENCES HC in Emerge",
+        "3 Bachelor of Emergency Medical Care",
+        "4 Bachelor of Emergency Medical Care (ECP)",
+        "4 Subject to space availability",
+        "with Maths Literacy) 4",
+        "4 All students accepted for the Somatology",
+        "course will be required to have received Hepatitis inoculation NURSING SCIENCE Bachelor of Nursing 3",
+        "consideration will be given for admitting students who received between 47%",
+        "49% for any one of the four subjects (Englis",
+        "English, Mathematics, Life Science and Physical Science) for the Bachelor of Emergency Medical Care ECP (PBEMCX)",
+        "Maths); 25 (with Maths Literacy) 4 3 4** 4 All students accepted for the Somatology course will be required to have received Hepatitis inoculation NURSING SCIENCE Bachelor of Nursing 3"
       ]
     },
     {
@@ -2858,7 +3462,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 M (N",
+        "60% PS (N",
+        "with a minimum of 45%",
+        "with a minimum of 55%",
+        "English (4); with one of either Mathematics, Physical Science (4), and the other (3), with a minimum of 45%, or Technical Maths/ Technical Science (5) and the other (4) with a minimum of 55% for the followi"
+      ]
     },
     {
       "id": "prog:cc8522d436e0",
@@ -2910,7 +3522,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "At least 3",
+        "Method 2",
+        "5 or ET",
+        "5 Recommended",
+        "60% ES (N",
+        "60% Electrotechnics (N",
+        "60% Digital Electronics (N",
+        "with 60%"
+      ]
     },
     {
       "id": "prog:8f4f2d4fe3f8",
@@ -2962,7 +3585,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "At least 3",
+        "Waitlist Method 2",
+        "5 Recommended",
+        "Method 2",
+        "with 60%",
+        "60% M (N",
+        "60% ES (N"
+      ]
     },
     {
       "id": "prog:0a3f3d3d1763",
@@ -3002,7 +3635,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Diploma in Accountancy",
+        "the actual achievement is multiplied by 2",
+        "3 ENTREPRENEURSHIP",
+        "4 Including one of the following at level",
+        "Applicants with Technical Maths at level 5",
+        "ENGLISH (HL or FAL) MATHS MATHS LIT ACC RECOMMENDATIONS AND FURTHER REQUIREMENTS FINANCIAL ACCOUNTING & TAXATION Diploma in Accountancy 38 3 4 *3 *5 *4 Diploma in Accountancy: Eng",
+        "Maths(3), Maths Lit(5) or Acc(4); Diploma in Accountancy (Extended): English (4) and one of the following: Maths(3), Maths Lit(4) or Acc(3)",
+        "Maths Lit) and Accounting, the actual achievement is multiplied by 2",
+        "Maths at level 5 (60%) would be considered"
+      ]
     },
     {
       "id": "prog:4cb29a532e9f",
@@ -3042,7 +3687,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Diploma in Accountancy",
+        "the actual achievement is multiplied by 2",
+        "3 ENTREPRENEURSHIP",
+        "4 Including one of the following at level",
+        "Applicants with Technical Maths at level 5",
+        "ENGLISH (HL or FAL) MATHS MATHS LIT ACC RECOMMENDATIONS AND FURTHER REQUIREMENTS FINANCIAL ACCOUNTING & TAXATION Diploma in Accountancy 38 3 4 *3 *5 *4 Diploma in Accountancy: Eng",
+        "Maths(3), Maths Lit(5) or Acc(4); Diploma in Accountancy (Extended): English (4) and one of the following: Maths(3), Maths Lit(4) or Acc(3)",
+        "Maths Lit) and Accounting, the actual achievement is multiplied by 2",
+        "Maths at level 5 (60%) would be considered"
+      ]
     },
     {
       "id": "prog:4eeb58cad09f",
@@ -3088,7 +3745,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths Literacy 4",
+        "3 At least",
+        "and any other 2",
+        "with Tech Maths 4",
+        "4 Plus any other two subjects (",
+        "4 Plus any two other subjects (excl",
+        "each at a minimum of a Level 3",
+        "45% or above in Maths or Physical Sciences if",
+        "the other three are 50%",
+        "for Maths Literacy and 50%",
+        "subjects at 40%",
+        "Level 3 pass (",
+        "Maths or Physical Sciences if the other three are 50% and above ENVIRONMENTAL & OCCUPATIONAL STUDIES Diploma in Environmental Management 26 with Maths; 27 with Tech Maths; 28 with Maths Literacy 28",
+        "Maths; 29 with Tech Maths; 30 with Maths Literacy 4 3 4 5 4 3 At least: 40% (3) for Mathematics, 60% (5) for Maths Literacy and 50% (4) for Technical Maths; 50% (4) for Geography or Life Sciences",
+        "Maths; 31 with Tech Maths 32 with Maths; 33 with Tech Maths 4 4 5 4 4 Plus any other two subjects (4) except Life Orientation FOOD SCIENCE & TECHNOLOGY Bachelor of Food Science & Technology N/A 32",
+        "Maths; 33 with Tech Maths 4 4 5 3 4 Plus any two other subjects (excl"
+      ]
     },
     {
       "id": "prog:6fe8383b492f",
@@ -3130,7 +3806,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Diploma in Events Management",
+        "4 Including one of the following",
+        "4 SPORT MANAGEMENT Diploma in Sport and Lei",
+        "4 Applicants are required to complete the f"
+      ]
     },
     {
       "id": "prog:31030edd3fc5",
@@ -3172,7 +3856,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Diploma in Events Management",
+        "4 Including one of the following",
+        "4 SPORT MANAGEMENT Diploma in Sport and Lei",
+        "4 Applicants are required to complete the f"
+      ]
     },
     {
       "id": "prog:f764a06b2571",
@@ -3218,7 +3910,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:8779535b94e6",
@@ -3264,7 +3970,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:f47b6115d5c2",
@@ -3298,7 +4018,30 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extended Curriculum Product Design",
+        "3 Diploma in Jewellery Design",
+        "4 Extended Curriculum Jewellery Design and",
+        "3 MEDIA STUDIES Diploma in Film Production",
+        "5 Diploma in Photography",
+        "4 Diploma in Journalism",
+        "with ML 5",
+        "English) 3",
+        "4 Diploma in Public Relations",
+        "English) 2",
+        "3 INFORMATION TECHNOLOGY Diploma in Applic",
+        "with ML 4",
+        "4 Diploma in Communication Networks",
+        "4 Diploma in Multimedia Applications",
+        "4 Higher Certificat",
+        "English) 3 4 4 Diploma in Public Relations & Communication 28 with M; 30 with ML 5 HL or FAL: 50% (Excl",
+        "English) 2 4 3 INFORMATION TECHNOLOGY Diploma in Applications Development 28 with M; 30 with ML 4 3 5 4 Diploma in Communication Networks 28 with M; 30 with ML 4 3 5 4 Diploma in Multimedia Applications"
+      ]
     },
     {
       "id": "prog:fa0aadca1a92",
@@ -3344,7 +4087,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "mathematics, science, physi"
+      ]
     },
     {
       "id": "prog:b480163ce25d",
@@ -3384,7 +4131,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "The Intermediate Phases caters for learners in middle childhood and early adolescence (Grades 4"
+      ]
     },
     {
       "id": "prog:41aef498a4cd",
@@ -3430,7 +4181,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:dcf15ee37256",
@@ -3472,7 +4224,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following"
+      ]
     },
     {
       "id": "prog:8ad56d938301",
@@ -3512,7 +4269,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 CAPE TOWN HOTEL SCHOOL Diploma in Hospit",
+        "4 Including one of the following"
+      ]
     },
     {
       "id": "prog:0ce4897cc80b",
@@ -3554,7 +4317,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following"
+      ]
     },
     {
       "id": "prog:5eeaf13e97a3",
@@ -3600,7 +4368,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following"
+      ]
     },
     {
       "id": "prog:ac040aaa046e",
@@ -3646,7 +4419,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following"
+      ]
     },
     {
       "id": "prog:0903562c80ca",
@@ -3688,7 +4466,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:abd5996215cb",
@@ -3730,7 +4522,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:e9ddf057732d",
@@ -3776,7 +4582,30 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extended Curriculum Product Design",
+        "3 Diploma in Jewellery Design",
+        "4 Extended Curriculum Jewellery Design and",
+        "3 MEDIA STUDIES Diploma in Film Production",
+        "5 Diploma in Photography",
+        "4 Diploma in Journalism",
+        "with ML 5",
+        "English) 3",
+        "4 Diploma in Public Relations",
+        "English) 2",
+        "3 INFORMATION TECHNOLOGY Diploma in Applic",
+        "with ML 4",
+        "4 Diploma in Communication Networks",
+        "4 Diploma in Multimedia Applications",
+        "4 Higher Certificat",
+        "English) 3 4 4 Diploma in Public Relations & Communication 28 with M; 30 with ML 5 HL or FAL: 50% (Excl",
+        "English) 2 4 3 INFORMATION TECHNOLOGY Diploma in Applications Development 28 with M; 30 with ML 4 3 5 4 Diploma in Communication Networks 28 with M; 30 with ML 4 3 5 4 Diploma in Multimedia Applications"
+      ]
     },
     {
       "id": "prog:847b6927c8da",
@@ -3822,7 +4651,30 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extended Curriculum Product Design",
+        "3 Diploma in Jewellery Design",
+        "4 Extended Curriculum Jewellery Design and",
+        "3 MEDIA STUDIES Diploma in Film Production",
+        "5 Diploma in Photography",
+        "4 Diploma in Journalism",
+        "with ML 5",
+        "English) 3",
+        "4 Diploma in Public Relations",
+        "English) 2",
+        "3 INFORMATION TECHNOLOGY Diploma in Applic",
+        "with ML 4",
+        "4 Diploma in Communication Networks",
+        "4 Diploma in Multimedia Applications",
+        "4 Higher Certificat",
+        "English) 3 4 4 Diploma in Public Relations & Communication 28 with M; 30 with ML 5 HL or FAL: 50% (Excl",
+        "English) 2 4 3 INFORMATION TECHNOLOGY Diploma in Applications Development 28 with M; 30 with ML 4 3 5 4 Diploma in Communication Networks 28 with M; 30 with ML 4 3 5 4 Diploma in Multimedia Applications"
+      ]
     },
     {
       "id": "prog:5af725e22f68",
@@ -3856,7 +4708,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:0011d5fc9187",
@@ -3902,7 +4755,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths Literacy 4",
+        "4 Subject to space",
+        "40% or above in Physical Sciences (",
+        "students may be admitted to the Foundation Programme if they have at least 40%",
+        "Maths; 29 with Tech Maths Other subjects: Physical Sciences (4); or Accounting (4); or Business Studies (4); or Economics (4); or Geography (4) 4 4 5 40% or above in Physical Sciences (3); or",
+        "Maths; 29 with Tech Maths; 30 with Maths Literacy 30 with Maths; 31 with Tech Maths; 32 with Maths Literacy 4 3 4 5 4 Subject to space, students may be admitted to the Foundation Programme if they",
+        "Life Sciences Diploma in Landscape Architecture 28 with Maths; 29 with Tech Maths; 30 with Maths Literacy 30 with Maths; 31 with Tech Maths; 32 with Maths Literacy 4 3 4 5 4 Subject to space, students may"
+      ]
     },
     {
       "id": "prog:7865078b4e17",
@@ -3942,7 +4805,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:e3a9ea952304",
@@ -3987,7 +4851,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following"
+      ]
     },
     {
       "id": "prog:0793bb130d2b",
@@ -4033,7 +4902,24 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Tech Maths 4",
+        "4 Plus any two other subjects (excl",
+        "each at a minimum of a Level 3",
+        "corresponding with an APS of 4",
+        "with Maths Literacy 4",
+        "4 MATHEMATICS",
+        "45% or above in Maths or Physical Sciences",
+        "if the other one is 50%",
+        "40% or above in P",
+        "Level 3 pass (",
+        "Maths; 33 with Tech Maths 4 4 5 3 4 Plus any two other subjects (excl",
+        "Maths; 29 with Tech Maths 30 with Maths; 31 with Tech Maths 4 4 5 4 45% or above in Maths or Physical Sciences if the other one is 50% or above Diploma in Nature Conservation 28 with Maths; 29 with",
+        "Maths; 30 with Maths Literacy 30 with Maths; 31 with Tech Maths; 32 with Maths Literacy 4 3 4 5 4 MATHEMATICS & PHYSICS Diploma in Mathematical Sciences 26 with Maths; 27 with Tech Maths",
+        "Maths; 29 with Tech Maths Other subjects: Physical Sciences (4); or Accounting (4); or Business Studies (4); or Economics (4); or Geography (4) 4 4 5 40% or above in P"
+      ]
     },
     {
       "id": "prog:4bb60731f1ef",
@@ -4073,7 +4959,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:50a77adbfa2d",
@@ -4113,7 +5000,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following",
+        "BUS/ ACC/ ECO 4",
+        "4 BUSINESS"
+      ]
     },
     {
       "id": "prog:6da0a1e066d8",
@@ -4159,7 +5053,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "NOT ACHIEVED 0",
+        "39% OUTSTANDING ACHIEVEMENT MERITORIOUS ACH",
+        "29% Faculty of Education Faculty of Health",
+        "English Mathematics or Mathematical Literacy Physical Science Life Sciences Faculty of Business & Management Sciences NOTE: Operations Management requires Mathematics and not Mathematical Literacy or Te",
+        "Mathematics English Home Language or First Additional Language Mathematics or Mathematical Liter"
+      ]
     },
     {
       "id": "prog:4db7ca4f90c4",
@@ -4211,7 +5113,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "At least 3",
+        "Waitlist Method 2",
+        "5 Recommended",
+        "Method 2",
+        "with 60%",
+        "60% M (N",
+        "60% ES (N"
+      ]
     },
     {
       "id": "prog:da9e75706b26",
@@ -4263,7 +5175,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "At least 3",
+        "Waitlist Method 2",
+        "5 Recommended",
+        "Method 2",
+        "with 60%",
+        "60% M (N",
+        "60% ES (N"
+      ]
     },
     {
       "id": "prog:30280f456f14",
@@ -4311,7 +5233,30 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extended Curriculum Product Design",
+        "3 Diploma in Jewellery Design",
+        "4 Extended Curriculum Jewellery Design and",
+        "3 MEDIA STUDIES Diploma in Film Production",
+        "5 Diploma in Photography",
+        "4 Diploma in Journalism",
+        "with ML 5",
+        "English) 3",
+        "4 Diploma in Public Relations",
+        "English) 2",
+        "3 INFORMATION TECHNOLOGY Diploma in Applic",
+        "with ML 4",
+        "4 Diploma in Communication Networks",
+        "4 Diploma in Multimedia Applications",
+        "4 Higher Certificat",
+        "English) 3 4 4 Diploma in Public Relations & Communication 28 with M; 30 with ML 5 HL or FAL: 50% (Excl",
+        "English) 2 4 3 INFORMATION TECHNOLOGY Diploma in Applications Development 28 with M; 30 with ML 4 3 5 4 Diploma in Communication Networks 28 with M; 30 with ML 4 3 5 4 Diploma in Multimedia Applications"
+      ]
     },
     {
       "id": "prog:1de4ec86b9b1",
@@ -4357,7 +5302,24 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Tech Maths 4",
+        "4 Plus any two other subjects (excl",
+        "each at a minimum of a Level 3",
+        "corresponding with an APS of 4",
+        "with Maths Literacy 4",
+        "4 MATHEMATICS",
+        "45% or above in Maths or Physical Sciences",
+        "if the other one is 50%",
+        "40% or above in P",
+        "Level 3 pass (",
+        "Maths; 33 with Tech Maths 4 4 5 3 4 Plus any two other subjects (excl",
+        "Maths; 29 with Tech Maths 30 with Maths; 31 with Tech Maths 4 4 5 4 45% or above in Maths or Physical Sciences if the other one is 50% or above Diploma in Nature Conservation 28 with Maths; 29 with",
+        "Maths; 30 with Maths Literacy 30 with Maths; 31 with Tech Maths; 32 with Maths Literacy 4 3 4 5 4 MATHEMATICS & PHYSICS Diploma in Mathematical Sciences 26 with Maths; 27 with Tech Maths",
+        "Maths; 29 with Tech Maths Other subjects: Physical Sciences (4); or Accounting (4); or Business Studies (4); or Economics (4); or Geography (4) 4 4 5 40% or above in P"
+      ]
     },
     {
       "id": "prog:cb3712ad0203",
@@ -4397,7 +5359,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following",
+        "3 PUBLIC ADMINISTRATION",
+        "ECO 3",
+        "BUS 3",
+        "ACC 3",
+        "3 Including one of the following",
+        "ECO 2",
+        "BUS 2",
+        "ACC 2"
+      ]
     },
     {
       "id": "prog:a8db75507c8b",
@@ -4434,7 +5409,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Life Sciences **= as alternative for Maths ***Preference will be given to candidates with higher APS scores **** Compulsory FACULTY OF INFORMATICS & DESIGN DIPLOMA IN JOURNALISM Journalists collect, w"
+      ]
     },
     {
       "id": "prog:1035c0e61429",
@@ -4480,7 +5459,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:af398629dcfc",
@@ -4526,7 +5519,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:f72b8cd9e486",
@@ -4572,7 +5579,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following",
+        "3 PUBLIC ADMINISTRATION",
+        "ECO 3",
+        "BUS 3",
+        "ACC 3",
+        "3 Including one of the following",
+        "ECO 2",
+        "BUS 2",
+        "ACC 2"
+      ]
     },
     {
       "id": "prog:3041dc520daf",
@@ -4617,7 +5637,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Including one of the following",
+        "3 PUBLIC ADMINISTRATION",
+        "ECO 3",
+        "BUS 3",
+        "ACC 3",
+        "3 Including one of the following",
+        "ECO 2",
+        "BUS 2",
+        "ACC 2"
+      ]
     },
     {
       "id": "prog:f012d3b41985",
@@ -4654,7 +5687,30 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extended Curriculum Product Design",
+        "3 Diploma in Jewellery Design",
+        "4 Extended Curriculum Jewellery Design and",
+        "3 MEDIA STUDIES Diploma in Film Production",
+        "5 Diploma in Photography",
+        "4 Diploma in Journalism",
+        "with ML 5",
+        "English) 3",
+        "4 Diploma in Public Relations",
+        "English) 2",
+        "3 INFORMATION TECHNOLOGY Diploma in Applic",
+        "with ML 4",
+        "4 Diploma in Communication Networks",
+        "4 Diploma in Multimedia Applications",
+        "4 Higher Certificat",
+        "English) 3 4 4 Diploma in Public Relations & Communication 28 with M; 30 with ML 5 HL or FAL: 50% (Excl",
+        "English) 2 4 3 INFORMATION TECHNOLOGY Diploma in Applications Development 28 with M; 30 with ML 4 3 5 4 Diploma in Communication Networks 28 with M; 30 with ML 4 3 5 4 Diploma in Multimedia Applications"
+      ]
     },
     {
       "id": "prog:347aadf1d29e",
@@ -4696,7 +5752,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Including one of the following for full",
+        "ACC 4",
+        "4 Including one official language at level"
+      ]
     },
     {
       "id": "prog:f4cb2ef8270b",
@@ -4741,7 +5803,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Including one of the following",
+        "ECO 2",
+        "BUS 2",
+        "ACC 2",
+        "4 An NSC with at least three years relevant",
+        "ML) 1",
+        "4 Including one of the following",
+        "4 Diploma in Events Management"
+      ]
     },
     {
       "id": "prog:80d2e185f9b5",
@@ -4787,7 +5860,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
+      ]
     },
     {
       "id": "prog:69b095159ec2",
@@ -4829,7 +5906,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Diploma in Events Management",
+        "4 Including one of the following",
+        "4 SPORT MANAGEMENT Diploma in Sport and Lei",
+        "4 Applicants are required to complete the f"
+      ]
     },
     {
       "id": "prog:05395252a8fe",
@@ -4871,7 +5956,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ML) 1",
+        "4 Diploma in Events Management",
+        "4 Including one of the following",
+        "4 SPORT MANAGEMENT Diploma in Sport and Lei",
+        "4 Applicants are required to complete the f"
+      ]
     },
     {
       "id": "prog:92af94b569cc",
@@ -4916,7 +6009,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Including one of the following",
+        "ECO 2",
+        "BUS 2",
+        "ACC 2",
+        "4 An NSC with at least three years relevant",
+        "ML) 1",
+        "4 Including one of the following",
+        "4 Diploma in Events Management"
+      ]
     },
     {
       "id": "prog:30700b71a54d",
@@ -4961,7 +6065,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Including one of the following",
+        "ECO 2",
+        "BUS 2",
+        "ACC 2",
+        "4 An NSC with at least three years relevant",
+        "ML) 1",
+        "4 Including one of the following",
+        "4 Diploma in Events Management"
+      ]
     },
     {
       "id": "prog:6121508afab5",
@@ -5007,7 +6122,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "4 Diploma in Communication Networks",
+        "4 Diploma in Multimedia Applications",
+        "4 Higher Certificate in ICT",
+        "4 TOWN",
+        "HL or FAL (Excluding English) 4",
+        "5 Compulsory",
+        "English) 4 4 5 5 Compulsory: Geography (4) or Economics (4) or Business Studies (4) or Tourism (4) Subject to the space availability, consideration will be given for admitting students to the Design ECP pr",
+        "English (4); Mathematics (2) or Mathematical Literacy (4) or Technical Mathematics (3) for the following programmes only: Diploma in Fashion Design (ECP), Diploma in Visual Communication Design (ECP), Dipl"
+      ]
     },
     {
       "id": "prog:4a7e06871493",
@@ -5053,7 +6180,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ENGLISH (HL or FAL)"
+      ]
     },
     {
       "id": "prog:26b1c3ccf0e1",
@@ -5099,7 +6230,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with ML 4",
+        "5 Extended Curriculum Architectural Techno",
+        "4 Diploma in Interior Design",
+        "5 Extended Curriculum Interior Design",
+        "4 APPLIED DESIGN Diploma in Fashion",
+        "4 Extended Curriculum Fashion",
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extende",
+        "ENGLISH (HL or FAL) LANGUAGE REQUIREMENTS MATHS (M) MATHS LIT (ML) TECH MATHS ADDITIONAL REQUIREMENTS ARCHITECTURAL TECHNOLOGY & INTERIOR DESIGN Diploma in Architectural Technology 30 with M; 32 with"
+      ]
     },
     {
       "id": "prog:89af195cdc83",
@@ -5122,7 +6267,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "leaving results.",
+        "An achievement rating of at least (4) in four subjects from the"
+      ]
     },
     {
       "id": "prog:6d408a30a7e1",
@@ -5171,6 +6321,10 @@
       },
       "modules": [
         "As part of the selection for all EMS"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
       ]
     },
     {
@@ -5226,6 +6380,10 @@
       },
       "modules": [
         "4 All students accepted for the Somatology"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
       ]
     },
     {
@@ -5274,7 +6432,30 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Diploma in Visual Communication Design",
+        "4 Extended Curriculum Visual Communication",
+        "3 Diploma in Product Design",
+        "4 Extended Curriculum Product Design",
+        "3 Diploma in Jewellery Design",
+        "4 Extended Curriculum Jewellery Design and",
+        "3 MEDIA STUDIES Diploma in Film Production",
+        "5 Diploma in Photography",
+        "4 Diploma in Journalism",
+        "with ML 5",
+        "English) 3",
+        "4 Diploma in Public Relations",
+        "English) 2",
+        "3 INFORMATION TECHNOLOGY Diploma in Applic",
+        "with ML 4",
+        "4 Diploma in Communication Networks",
+        "4 Diploma in Multimedia Applications",
+        "4 Higher Certificat",
+        "English) 3 4 4 Diploma in Public Relations & Communication 28 with M; 30 with ML 5 HL or FAL: 50% (Excl",
+        "English) 2 4 3 INFORMATION TECHNOLOGY Diploma in Applications Development 28 with M; 30 with ML 4 3 5 4 Diploma in Communication Networks 28 with M; 30 with ML 4 3 5 4 Diploma in Multimedia Applications"
+      ]
     },
     {
       "id": "prog:5f5b3fccd457",
@@ -5297,7 +6478,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "leaving results.",
+        "An achievement rating of at least (4) in four subjects from the"
+      ]
     },
     {
       "id": "prog:fa3eefb4c40c",
@@ -5325,6 +6511,11 @@
         "At least one of these four subjects should be an official",
         "At least one of the languages in bullet (2) or (3) listed above",
         "An achievement rating of at least (4) in subjects related to the"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Successful applicants will have at least an appropriate first degree or NQF Level 6",
+        "Level 6 diploma with subjects that satisfy the c"
       ]
     },
     {
@@ -5348,7 +6539,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Successful applicants will have at least an appropriate first degree or NQF Level 6",
+        "Level 6 diploma with subjects that satisfy the c"
+      ]
     },
     {
       "id": "prog:a999b1eb7fb1",
@@ -5371,7 +6567,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "THERE ARE 7"
+      ]
     }
   ],
   "admission": {
@@ -9406,15 +10606,17 @@
     "adm_reqs_count": 113
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:29Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:52Z",
     "test_mode": false,
-    "completeness_before": 0.128,
-    "completeness_after": 0.247,
-    "improvement": 0.119,
-    "fields_enriched": 221,
+    "points_system": "aps_points",
+    "completeness_before": 0.218,
+    "completeness_after": 0.274,
+    "improvement": 0.056,
+    "fields_enriched": 117,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/cape-peninsula-university-of-technology.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/cape-peninsula-university-of-technology.pdf"
     ]
   }
 }

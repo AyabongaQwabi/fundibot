@@ -118,7 +118,8 @@
       "selection_required": null,
       "overview": "Combines Mechanical and Electrical engineering with robotics.",
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -141,7 +142,8 @@
       "selection_required": null,
       "overview": "Preparation for policing, private security, and correctional services.",
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -165,11 +167,13 @@
         }
       ],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -192,7 +196,8 @@
       "selection_required": null,
       "overview": "Covers freight logistics and supply chain management.",
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -211,11 +216,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": "Focuses on office practice and information processing.",
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -238,7 +245,8 @@
       "selection_required": null,
       "overview": "Systems development and computer programming focus.",
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -261,7 +269,8 @@
       "selection_required": null,
       "overview": "Fitting and Turning focus.",
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -280,11 +289,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": "Focuses on municipal admin and public law.",
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:351:NATED|3787633babc5|report 191",
@@ -307,7 +318,21 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2001,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "s DHET Level 6",
+        "Textiles DHET Level 6",
+        "Tourism DHET Level 6",
+        "s Degree in the cognate field and horizontally with a cognate Diploma or Advanced Certificate at Level 6",
+        "Part 2",
+        "Level 6 NQF Level"
+      ]
     }
   ],
   "admission": {
@@ -334,17 +359,19 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:52:24Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:59:15Z",
     "test_mode": false,
-    "completeness_before": 0.126,
-    "completeness_after": 0.133,
-    "improvement": 0.007,
-    "fields_enriched": 1,
+    "points_system": "tvet_none",
+    "completeness_before": 0.118,
+    "completeness_after": 0.131,
+    "improvement": 0.013,
+    "fields_enriched": 5,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/port-elizabeth-tvet-college.pdf",
-      "/Users/nonwork/dev/fundibot/seed/workik/batch1/Port-Elizabeth-TVET-College-PDF-NCV-INSIDE.pdf",
-      "/Users/nonwork/dev/fundibot/seed/workik/batch1/Port-Elizabeth-TVET-College-PDF-Report-191-INSIDE.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/port-elizabeth-tvet-college.pdf",
+      "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/Port-Elizabeth-TVET-College-PDF-NCV-INSIDE.pdf",
+      "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/Port-Elizabeth-TVET-College-PDF-Report-191-INSIDE.pdf"
     ]
   }
 }

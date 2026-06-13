@@ -62,7 +62,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -91,7 +92,16 @@
         "National Certificate: Civil Engineering & Building"
       ],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Offered at Makwarela and Mavhoi Campuses Level 2",
+        "Contact Centre Operations Level 3",
+        "Contact Centre Operations Level 4",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects"
+      ]
     },
     {
       "id": null,
@@ -120,7 +130,16 @@
         "National Certificate: Civil Engineering & Building"
       ],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Offered at Makwarela and Mavhoi Campuses Level 2",
+        "Contact Centre Operations Level 3",
+        "Contact Centre Operations Level 4",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects"
+      ]
     },
     {
       "id": null,
@@ -148,7 +167,18 @@
         "business"
       ],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Level 3",
+        "New Venture Creation Level 4",
+        "Offered at Mashamba Campus Level 2",
+        "business Level 3",
+        "business Level 4",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects"
+      ]
     },
     {
       "id": null,
@@ -176,7 +206,18 @@
         "business"
       ],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Level 3",
+        "New Venture Creation Level 4",
+        "Offered at Mashamba Campus Level 2",
+        "business Level 3",
+        "business Level 4",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects"
+      ]
     },
     {
       "id": null,
@@ -200,7 +241,8 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -226,7 +268,11 @@
         "Offered"
       ],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Mathematics ■ Industrial Electronics ■ Industrial Instrument Some of the career opportunities available include but are not limited to: Telecommunications Technician, Radio & TV Technician, Electronic Engin"
+      ]
     },
     {
       "id": null,
@@ -245,12 +291,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -274,7 +322,11 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Level."
+      ]
     },
     {
       "id": null,
@@ -293,12 +345,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -317,12 +371,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -341,12 +397,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "name": "Shingwedzi and Musina). The College offers NC (V), Report 191 Business Studies and Engineering",
@@ -377,7 +435,13 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 896
+      "_discovery_char": 896,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Design Level 6",
+        "Level 6 subjects",
+        "Mathematics ■ Mechanical Drafting N5 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Drawing & Design Level 6 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Dra"
+      ]
     },
     {
       "name": "Vhembe TVET College offers a variety of programmes under National Certificate Vocational (NCV) and NATED.",
@@ -403,7 +467,8 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 9819
+      "_discovery_char": 9819,
+      "_points_system": "tvet_none"
     },
     {
       "name": "different courses under our NATED programmes,",
@@ -429,7 +494,11 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 11186
+      "_discovery_char": 11186,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Level."
+      ]
     },
     {
       "name": "National Certificate: Electrical Infrastructure &",
@@ -461,7 +530,19 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 14335
+      "_discovery_char": 14335,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "ns Level 4",
+        "Offered at Makwarela and Mavhoi campuses Level 2",
+        "Construction or Physical Science Level 3",
+        "Construction or Physical Science Level 4",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects",
+        "Physical Science Level 3 Vocational subjects: ■ Electrical Principles & Practice ■ Electrical Workmanship ■ Electrical Control & Digital Electronics ■ Electrical Systems & Construction or Physical Science Level"
+      ]
     },
     {
       "name": "National Certificate: Engineering & Related",
@@ -493,7 +574,19 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 15230
+      "_discovery_char": 15230,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Construction or Physical Science Level 4",
+        "Offered at Makwarela campus Level 2",
+        "Maintenance or Engineering Fabrication or Welding Level 3",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects",
+        "Physical Science Level 4 Vocational subjects: ■ Electrical Principles & Practice ■ Electrical Workmanship ■ Electrical Control & Digital Electronics ■ Electrical Systems & Construction or Physical Science Some o",
+        "Physical Science or Fitting & Turning ■ Automotive Repair & Maintenance or Engineering Fabrication or Welding Level 3 Vocational subjects: ■ Engineering Practice & Maintenance ■"
+      ]
     },
     {
       "name": "National Certificate: Process Plant Operations",
@@ -524,7 +617,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 16224
+      "_discovery_char": 16224,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Offered at Makwarela Campus Level 2",
+        "Papermaking Technology of Process Chemistry Level 3",
+        "Papermaking Technology of Process Chemistry Level 4",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects",
+        "Physical Science ■ Pulp & Papermaking Technology of Process Chemistry Level 3 Vocational subjects: ■ Process Technology ■ Process Control ■ Physical Science ■ Pulp & Papermaking Technology of Process Chemistry Leve"
+      ]
     },
     {
       "name": "National Certificate: Civil Engineering & Building",
@@ -555,7 +659,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 16941
+      "_discovery_char": 16941,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Offered at Makwarela Campus Level 2",
+        "Papermaking Technology of Process Chemistry Level 3",
+        "Papermaking Technology of Process Chemistry Level 4",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects",
+        "Physical Science ■ Pulp & Papermaking Technology of Process Chemistry Level 3 Vocational subjects: ■ Process Technology ■ Process Control ■ Physical Science ■ Pulp & Papermaking Technology of Process Chemistry Leve"
+      ]
     },
     {
       "name": "National Certificate: Management",
@@ -581,7 +696,9 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 17951
+      "_discovery_char": 17951,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none"
     },
     {
       "name": "National Certificate: Marketing",
@@ -609,7 +726,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 18564
+      "_discovery_char": 18564,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Project Management Level 4",
+        "Offered at Makwarela Campus Level 2",
+        "Consumer Behaviour or Call Centre Operations Level 3",
+        "Consumer Behaviour or Call Centre Operations Level 4",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects"
+      ]
     },
     {
       "name": "National Certificate: Office Administration -",
@@ -637,7 +765,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 19273
+      "_discovery_char": 19273,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Project Management Level 4",
+        "Offered at Makwarela Campus Level 2",
+        "Consumer Behaviour or Call Centre Operations Level 3",
+        "Consumer Behaviour or Call Centre Operations Level 4",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects"
+      ]
     },
     {
       "name": "National Certificate: Finance, Economic",
@@ -666,7 +805,17 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 20173
+      "_discovery_char": 20173,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "nd Language Level 4",
+        "Offered at Makwarela and Tshisimani Campuses Level 2",
+        "Level 3",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects"
+      ]
     },
     {
       "name": "National Certificate: Primary Agriculture",
@@ -696,7 +845,19 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 20827
+      "_discovery_char": 20827,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Level 3",
+        "New Venture Creation Level 4",
+        "Offered at Mashamba Campus Level 2",
+        "business Level 3",
+        "business Level 4",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects"
+      ]
     },
     {
       "name": "National Certificate: Hospitality",
@@ -724,7 +885,19 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 21419
+      "_discovery_char": 21419,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Level 3",
+        "business Level 4",
+        "Offered at Makwarela Campus Level 2",
+        "Hospitality Services Level 3",
+        "Hospitality Services Level 4",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects"
+      ]
     },
     {
       "name": "National Diploma: Electrical Engineering Heavy",
@@ -755,7 +928,14 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 22126
+      "_discovery_char": 22126,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Hospitality Services Level 4",
+        "Level 4 Vocational subjects",
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N5 subjects: ■ Electro-Technics ■ Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N6 subjects: ■ Electro-Technics",
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device Some of the career opportunities"
+      ]
     },
     {
       "name": "National Diploma: Electrical Engineering Light",
@@ -783,7 +963,13 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 22782
+      "_discovery_char": 22782,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device Some of the career opportunities available include but are not limited to: Electrical Engineer, Electrical & PLC Automation Engineer, Co",
+        "Mathematics ■ Industrial Electronics ■ Industrial Instrument N5 subjects: ■ Digital Electronics ■ Communication Electronics ■ Mathematics ■ Industrial Electronics ■ Industrial Instrument N6 subjects: ■ Di",
+        "Mathematics ■ Industrial Electronics ■ Industrial Instrument Some of the c"
+      ]
     },
     {
       "name": "National Diploma: Civil Engineering",
@@ -814,7 +1000,13 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 23479
+      "_discovery_char": 23479,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Design Level 6",
+        "Level 6 subjects",
+        "Mathematics ■ Mechanical Drafting N5 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Drawing & Design Level 6 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Dra"
+      ]
     },
     {
       "name": "National Diploma: Mechanical Engineering",
@@ -845,7 +1037,13 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 24309
+      "_discovery_char": 24309,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Mathematics ■ Strength of Material & Structure ■ Power Mechanics Some of the career opportunities available include but are not limited to: Fitter & Turner, Mechanical Fitter/Turner, Fitters Assistant and F",
+        "Mathematics ■ Mechanical Draughting N5 subjects: ■ Engineering Physics ■ Mechano-Technics ■ Mechanical Drawing & Design ■ Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics",
+        "Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics Some of the career opportunities available include but are not"
+      ]
     },
     {
       "name": "National Diploma: Chemical Engineering",
@@ -873,7 +1071,14 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 24909
+      "_discovery_char": 24909,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Design Level 6",
+        "Level 6 subjects",
+        "Mathematics ■ Mechanical Drawing & Design Level 6 subjects: ■ Mechano-Technics ■ Power Machines ■ Mathematics ■ Mechanical Drawing & Design Some of the career opportunities available include but are not limited",
+        "Mathematics ■ Chemistry N5 subjects: ■ Chemical Plant Operation ■ Engineering Physics ■ Mathematics ■ Chemistry N6 subjects: ■ Chemical Plant Operation ■ Chemical Technology ■ Mathematics ■ Engineering Physics"
+      ]
     },
     {
       "name": "National Diploma: Motor Mechanics",
@@ -904,7 +1109,13 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 25449
+      "_discovery_char": 25449,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Mathematics ■ Engineering Physics Some of the career opportunities available include but are not limited to: Analytical Chemist",
+        "Mathematics N5 subjects: ■ Fluid Mechanics ■ Mechano-Technics ■ Strength of Material & Structure ■ Mechanical Drawing & Design ■ Mathematics ■ Power Mechanics ■ Engineering Physics N6 subjects: ■ Fluid M",
+        "Mathematics ■ Power Mechanics ■ Engineering Physics Some of the career opportunities available include but are not l"
+      ]
     },
     {
       "name": "National Diploma: Fitting & Turning - Offered",
@@ -932,7 +1143,17 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 26205
+      "_discovery_char": 26205,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Maintenance or Engineering Fabrication or Welding Level 3",
+        "Maintenance or Engineering Fabrication or Welding Level 4",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects",
+        "Physical Science or Fitting & Turning ■ Automotive Repair & Maintenance or Engineering Fabrication or Welding Level 3 Vocational subjects: ■ Engineering Practice & Maintenance ■ Materials Technology ■ Engineerin",
+        "Physical Science or Fitting & Turning ■ Automotive Repair & Maintenance or Engineering Fabrication or Welding Level 4 Vocational subjects: ■ Engineering Process ■ Professional Engineering Practice ■ Applied Engin",
+        "Physical Science or Fitting & Turning ■ Automotive Repair & Maintenance or Engineering Fabrication or Welding Some of the career opportunities available include but are not limited to: Welding, Car Manufacturing,"
+      ]
     },
     {
       "name": "National Diploma: Boiler Maker - Offered at",
@@ -963,7 +1184,13 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 26861
+      "_discovery_char": 26861,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Mathematics ■ Strength of Material & Structure ■ Power Mechanics Some of the career opportunities available include but are not limited to: Fitter & Turner, Mechanical Fitter/Turner, Fitters Assistant and F",
+        "Mathematics ■ Mechanical Draughting N5 subjects: ■ Engineering Physics ■ Mechano-Technics ■ Mechanical Drawing & Design ■ Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics",
+        "Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics Some of the career opportunities available include but are not"
+      ]
     },
     {
       "name": "National Diploma: Business Management -",
@@ -991,7 +1218,11 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 27613
+      "_discovery_char": 27613,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Select 1"
+      ]
     },
     {
       "name": "National Diploma: Financial Management",
@@ -1019,7 +1250,11 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 28360
+      "_discovery_char": 28360,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Select 1"
+      ]
     },
     {
       "name": "National Diploma: Human Resource Management",
@@ -1047,7 +1282,14 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 29079
+      "_discovery_char": 29079,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Hospitality Services Level 4",
+        "Level 4 Vocational subjects",
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N5 subjects: ■ Electro-Technics ■ Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N6 subjects: ■ Electro-Technics",
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device Some of the career opportunities"
+      ]
     },
     {
       "name": "National Diploma: Clothing Production - Offered",
@@ -1075,7 +1317,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 29722
+      "_discovery_char": 29722,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Level 3",
+        "New Venture Creation Level 4",
+        "Offered at Mashamba Campus Level 2",
+        "business Level 3",
+        "business Level 4",
+        "Level 3 Vocational subjects",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects"
+      ]
     },
     {
       "name": "National Diploma: Hospitality & Catering",
@@ -1103,7 +1356,14 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 30294
+      "_discovery_char": 30294,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Hospitality Services Level 4",
+        "Level 4 Vocational subjects",
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N5 subjects: ■ Electro-Technics ■ Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device N6 subjects: ■ Electro-Technics",
+        "Mathematics ■ Industrial Electronics ■ Fault Finding & Protective Device Some of the career opportunities"
+      ]
     },
     {
       "name": "National Diploma: Farming Management",
@@ -1131,7 +1391,8 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 30871
+      "_discovery_char": 30871,
+      "_points_system": "tvet_none"
     },
     {
       "name": "National Diploma: Marketing Management -",
@@ -1159,7 +1420,17 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 31534
+      "_discovery_char": 31534,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Project Management Level 4",
+        "Offered at Makwarela Campus Level 2",
+        "Consumer Behaviour or Call Centre Operations Level 3",
+        "Consumer Behaviour or Call Centre Operations Level 4",
+        "Level 4 Vocational subjects",
+        "Level 2 Vocational subjects",
+        "Level 3 Vocational subjects"
+      ]
     },
     {
       "name": "National Diploma: Public Management",
@@ -1187,7 +1458,12 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 32156
+      "_discovery_char": 32156,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Select 1",
+        "Mathematics ■ Strength of Material & Structure ■ Power Machines ■ Fluid Mechanics Some of the career opportunities available include but are not limited to: Artisan Boilermaker, Dragline Boilermaker, Maint"
+      ]
     },
     {
       "name": "National Diploma: Management Assistant",
@@ -1219,7 +1495,8 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 32774
+      "_discovery_char": 32774,
+      "_points_system": "tvet_none"
     },
     {
       "name": "National Diploma: Tourism Management",
@@ -1251,7 +1528,8 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "vhembe-tvet-prospectus.pdf",
-      "_discovery_char": 33366
+      "_discovery_char": 33366,
+      "_points_system": "tvet_none"
     }
   ],
   "admission": {
@@ -1276,15 +1554,28 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:54:37Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:02:28Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.133,
-    "improvement": 0.066,
-    "fields_enriched": 43,
+    "points_system": "tvet_none",
+    "completeness_before": 0.118,
+    "completeness_after": 0.161,
+    "improvement": 0.043,
+    "fields_enriched": 36,
+    "qual_type_inferred": [
+      "National Certificate: Electrical Infrastructure &",
+      "National Certificate: Engineering & Related",
+      "National Certificate: Process Plant Operations",
+      "National Certificate: Civil Engineering & Building",
+      "National Certificate: Management",
+      "National Certificate: Marketing",
+      "National Certificate: Office Administration -",
+      "National Certificate: Finance, Economic",
+      "National Certificate: Primary Agriculture",
+      "National Certificate: Hospitality"
+    ],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/vhembe-tvet-prospectus.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/vhembe-tvet-prospectus.pdf"
     ]
   }
 }

@@ -700,7 +700,18 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "dna 3",
+        "2 leveL",
+        "1 Year Per Level (Full Time)",
+        "3 Years in Total January",
+        "9 edarg rof troper loohcs dne raey A",
+        "ilauQ 1",
+        "to access NQF Level 2",
+        "leveL 1 Year Per Level (Full Time)"
+      ]
     },
     {
       "id": null,
@@ -724,7 +735,18 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "dna 3",
+        "2 leveL",
+        "1 Year Per Level (Full Time)",
+        "3 Years in Total January",
+        "9 edarg rof troper loohcs dne raey A",
+        "ilauQ 1",
+        "to access NQF Level 2",
+        "leveL 1 Year Per Level (Full Time)"
+      ]
     },
     {
       "id": null,
@@ -748,7 +770,18 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "dna 3",
+        "2 leveL",
+        "1 Year Per Level (Full Time)",
+        "3 Years in Total January",
+        "9 edarg rof troper loohcs dne raey A",
+        "ilauQ 1",
+        "to access NQF Level 2",
+        "leveL 1 Year Per Level (Full Time)"
+      ]
     },
     {
       "id": null,
@@ -772,7 +805,18 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "dna 3",
+        "2 leveL",
+        "1 Year Per Level (Full Time)",
+        "3 Years in Total January",
+        "9 edarg rof troper loohcs dne raey A",
+        "ilauQ 1",
+        "to access NQF Level 2",
+        "leveL 1 Year Per Level (Full Time)"
+      ]
     },
     {
       "id": null,
@@ -796,7 +840,8 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -815,12 +860,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -839,12 +886,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -863,12 +912,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -887,12 +938,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -911,12 +964,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -935,12 +990,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     }
   ],
   "admission": {
@@ -965,15 +1022,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:33Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:59Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.14,
-    "improvement": 0.073,
-    "fields_enriched": 12,
+    "points_system": "tvet_none",
+    "completeness_before": 0.123,
+    "completeness_after": 0.144,
+    "improvement": 0.021,
+    "fields_enriched": 10,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/elangeni-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/elangeni-tvet-college.pdf"
     ]
   }
 }

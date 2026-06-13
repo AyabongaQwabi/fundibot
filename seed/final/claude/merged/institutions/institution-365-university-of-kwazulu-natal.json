@@ -187,7 +187,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 yrsBEd (Intermediate Phase) KN",
+        "Level 5",
+        "any lang HL/FAL 5",
+        "3 yrs BA Cultural",
+        "Deg with English and LO 4",
+        "3 yrs BA in Music Foundation",
+        "4 yrs B Soc Sc (General Studies) KN",
+        "Level 5 in any two of Math",
+        "Mathematics 48-28 4 yrsBEd (Intermediate Phase) KN-E-BIP NSC-Deg with Engl & LO L4, Level 5 in any two of Math, Math Lit, Technology, Life Science, Physical Science BEd (Senior Phase/ Further Education &",
+        "Maths/Maths Lit, Music, Religion Stud, Vis Arts, any lang HL/FAL 5",
+        "English and LO 4 28 3 yrs BA in Music Foundation* KN-H-BMX NSC-Deg with English and LO 4 Auditions required for music programmes 22 4 yrs B Soc Sc (General Studies) KN-H-SO2 KN-P-SO2 NSC-Deg with Engl &"
+      ]
     },
     {
       "id": "prog:2aab62dd8160",
@@ -213,7 +227,21 @@
         "SGE/KN",
         "year degree designed to"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 yrsBEd (Intermediate Phase) KN",
+        "Level 5",
+        "any lang HL/FAL 5",
+        "3 yrs BA Cultural",
+        "Deg with English and LO 4",
+        "3 yrs BA in Music Foundation",
+        "4 yrs B Soc Sc (General Studies) KN",
+        "Level 5 in any two of Math",
+        "Mathematics 48-28 4 yrsBEd (Intermediate Phase) KN-E-BIP NSC-Deg with Engl & LO L4, Level 5 in any two of Math, Math Lit, Technology, Life Science, Physical Science BEd (Senior Phase/ Further Education &",
+        "Maths/Maths Lit, Music, Religion Stud, Vis Arts, any lang HL/FAL 5",
+        "English and LO 4 28 3 yrs BA in Music Foundation* KN-H-BMX NSC-Deg with English and LO 4 Auditions required for music programmes 22 4 yrs B Soc Sc (General Studies) KN-H-SO2 KN-P-SO2 NSC-Deg with Engl &"
+      ]
     },
     {
       "id": "prog:b79af2f4c2f6",
@@ -236,7 +264,26 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 yrsBEd (Intermediate Phase) KN",
+        "Level 5",
+        "any lang HL/FAL 5",
+        "3 yrs BA Cultural",
+        "Deg with English and LO 4",
+        "3 yrs BA in Music Foundation",
+        "4 yrs B Soc Sc (General Studies) KN",
+        "Level 5 in any two of Math",
+        "Mathematics 48-28 4 yrsBEd (Intermediate Phase) KN-E-BIP NSC-Deg with Engl & LO L4, Level 5 in any two of Math, Math Lit, Technology, Life Science, Physical Science BEd (Senior Phase/ Further Education &",
+        "Maths/Maths Lit, Music, Religion Stud, Vis Arts, any lang HL/FAL 5",
+        "English and LO 4 28 3 yrs BA in Music Foundation* KN-H-BMX NSC-Deg with English and LO 4 Auditions required for music programmes 22 4 yrs B Soc Sc (General Studies) KN-H-SO2 KN-P-SO2 NSC-Deg with Engl &"
+      ],
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:09c26d6ff4ea",
@@ -260,7 +307,14 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "credits at level 1",
+        "credits at level 2",
+        "credits at level 3",
+        "level 2 and"
+      ]
     },
     {
       "id": "prog:37b9173c08dc",
@@ -284,7 +338,14 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "credits at level 1",
+        "credits at level 2",
+        "credits at level 3",
+        "level 2 and"
+      ]
     },
     {
       "id": "prog:fa3c8f2c5a95",
@@ -308,7 +369,13 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths at Level 5",
+        "Level 5 or above",
+        "Maths at Level 5 or above, or 36 Matriculation p"
+      ]
     },
     {
       "id": "prog:4818f1a087c9",
@@ -346,6 +413,20 @@
       "credits": 160,
       "campuses_offering": [
         "Howard College Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 yrsBEd (Intermediate Phase) KN",
+        "Level 5",
+        "any lang HL/FAL 5",
+        "3 yrs BA Cultural",
+        "Deg with English and LO 4",
+        "3 yrs BA in Music Foundation",
+        "4 yrs B Soc Sc (General Studies) KN",
+        "Level 5 in any two of Math",
+        "Mathematics 48-28 4 yrsBEd (Intermediate Phase) KN-E-BIP NSC-Deg with Engl & LO L4, Level 5 in any two of Math, Math Lit, Technology, Life Science, Physical Science BEd (Senior Phase/ Further Education &",
+        "Maths/Maths Lit, Music, Religion Stud, Vis Arts, any lang HL/FAL 5",
+        "English and LO 4 28 3 yrs BA in Music Foundation* KN-H-BMX NSC-Deg with English and LO 4 Auditions required for music programmes 22 4 yrs B Soc Sc (General Studies) KN-H-SO2 KN-P-SO2 NSC-Deg with Engl &"
       ]
     },
     {
@@ -381,7 +462,12 @@
         ],
         "subject_or_groups": []
       },
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Studies √ √ Ethics Studies √ Fine Art √ French √ √ Greek √",
+        "NATAL"
+      ]
     },
     {
       "id": "prog:55849a46fa3b",
@@ -423,6 +509,14 @@
       "modules": [
         "Howard College",
         "Pietermaritzburg"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematics level 3",
+        "and English and Life Orientation level 4",
+        "level 3 and English and Life Orientation level",
+        "Mathematics level 3 and English and Life Orientation level 4",
+        "Deg with APS 26 with Mathematics"
       ]
     },
     {
@@ -464,7 +558,14 @@
       "campuses_offering": [
         "Howard College Campus"
       ],
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "and LO 4",
+        "Applicants from quintiles 1",
+        "3 schools will be given preference",
+        "English/academic writing skills in order to enter the main BA in Music degree"
+      ]
     },
     {
       "id": "prog:66a4fef039ee",
@@ -502,7 +603,15 @@
       "campuses_offering": [
         "Howard College Campus"
       ],
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematics level 3",
+        "and English and Life Orientation level 4",
+        "level 3 and English and Life Orientation level",
+        "Mathematics level 3 and English and Life Orientation level 4",
+        "Deg with APS 26 with Mathematics"
+      ]
     },
     {
       "id": "prog:fee9a482642a",
@@ -540,7 +649,14 @@
       "campuses_offering": [
         "Howard College Campus"
       ],
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "and LO 4",
+        "Applicants from quintiles 1",
+        "3 schools will be given preference",
+        "English/academic writing skills in order to enter the main BA in Music degree"
+      ]
     },
     {
       "id": "prog:15cf6d565dd8",
@@ -578,6 +694,13 @@
       "credits": 160,
       "campuses_offering": [
         "Howard College Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "credits at level 1",
+        "credits at level 2",
+        "credits at level 3",
+        "level 2 and"
       ]
     },
     {
@@ -612,7 +735,21 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 yrsBEd (Intermediate Phase) KN",
+        "Level 5",
+        "any lang HL/FAL 5",
+        "3 yrs BA Cultural",
+        "Deg with English and LO 4",
+        "3 yrs BA in Music Foundation",
+        "4 yrs B Soc Sc (General Studies) KN",
+        "Level 5 in any two of Math",
+        "Mathematics 48-28 4 yrsBEd (Intermediate Phase) KN-E-BIP NSC-Deg with Engl & LO L4, Level 5 in any two of Math, Math Lit, Technology, Life Science, Physical Science BEd (Senior Phase/ Further Education &",
+        "Maths/Maths Lit, Music, Religion Stud, Vis Arts, any lang HL/FAL 5",
+        "English and LO 4 28 3 yrs BA in Music Foundation* KN-H-BMX NSC-Deg with English and LO 4 Auditions required for music programmes 22 4 yrs B Soc Sc (General Studies) KN-H-SO2 KN-P-SO2 NSC-Deg with Engl &"
+      ]
     },
     {
       "id": "prog:cdf894e9194f",
@@ -650,6 +787,13 @@
       "credits": 160,
       "campuses_offering": [
         "Howard College Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "credits at level 1",
+        "credits at level 2",
+        "credits at level 3",
+        "level 2 and"
       ]
     },
     {
@@ -674,7 +818,14 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "credits at level 1",
+        "credits at level 2",
+        "credits at level 3",
+        "level 2 and"
+      ]
     },
     {
       "id": "prog:720a82972b8f",
@@ -698,7 +849,12 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 Students who have completed an LLB can a",
+        "including an average mark of 60%"
+      ]
     },
     {
       "id": "prog:496ce3182469",
@@ -724,6 +880,13 @@
       "fees_per_year": null,
       "campuses_offering": [
         "Howard College Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "and LO 4",
+        "Applicants from quintiles 1",
+        "3 schools will be given preference",
+        "English/academic writing skills in order to enter the main BA in Music degree"
       ]
     },
     {
@@ -773,7 +936,22 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "EITHER 1",
+        "with Level 3",
+        "Level 4",
+        "English (home or first additional language) and Level 4",
+        "with Level 2",
+        "Mathematics and Level 4",
+        "Level 3 Mathematics",
+        "Level 4 English (home or first additional langua",
+        "Level 4 Life Orientation",
+        "Level 2 Mathematics and Level",
+        "Mathematics, Level 4 English (home or first additional language) and Level 4 Life Orientation",
+        "Mathematics and Level 4 Engl"
+      ]
     },
     {
       "id": "prog:b734ea65bed9",
@@ -864,7 +1042,36 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Deg with Engl HL 5",
+        "FAL 6",
+        "Maths 3",
+        "Maths Lit 5",
+        "4 yrs Bachelor of Laws (p/t) KN",
+        "BLZ 6",
+        "3 yrsBachelor of Bus iness Administration",
+        "Deg with Maths 6",
+        "4 yrs Bachelor of Business Science in Inv",
+        "4 yrs B Com (General) KN",
+        "Maths 4",
+        "3 yrs B Com (Accounting) KN",
+        "Deg with Maths 5",
+        "B Com 4",
+        "Maths 3/Maths Lit 5 & LO 4 48-32 4 yrs Bachelor of Laws (p/t) KN-H-BLZ 6 yrs Bachelor of Administration KN-W-BAD NSC-Deg with Engl & LO 4 & Maths 3 48-28 3 yrsBachelor of Bus iness Administration (E",
+        "Maths 3 48-26 Bachelor of Business Science in Finance KN-W-B5F NSC-Deg with Maths 6 & Engl & LO 4 48-33 4 yrs Bachelor of Business Science in Investment Science KN-W- B5I NSC-Deg with Maths 6 & Engl",
+        "Maths 4 48-30 3 yrs B Com (Accounting) KN-P-BCN KN-W-BCN NSC-Deg with Maths 5 & Engl & LO 4 48-32 B Com 4 General (Extended",
+        "BL1 NSC",
+        "Deg with Engl HL 5/FAL 6",
+        "BLZ 6 yrs",
+        "BAD NSC",
+        "Deg with Engl & LO 4",
+        "B5F NSC",
+        "Deg with Maths 6 & Engl",
+        "33 4 yrs",
+        "B5I NSC"
+      ]
     },
     {
       "id": "prog:ae8882871ad1",
@@ -904,7 +1111,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Duration of Degrees The Bachelor of Business Science is a 4",
+        "Alternative Access Programmes Management Studies Extended Programme (BCom 4",
+        "BCG) Management Studies Extended Programme (B Com 4"
+      ]
     },
     {
       "id": "prog:0a7c99feab0c",
@@ -938,7 +1151,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "grammes require Mathematics Level 4",
+        "a pass in Economics (NSC at least Level 4",
+        "2 Bachelor of Agriculture KN",
+        "LO and Agricultural Science or Life Science or Physical Science at Level 4",
+        "3 Access Programme",
+        "Level 4 or HG",
+        "Level 4 OR Matriculation Exemption with a minimu",
+        "Mathematics Level 4 or HG ‘E’ or SG ‘B’",
+        "Mathematics, English, LO and Agricultural Science or Life Science or Physical Science at Level 4 OR Matriculation Exemption with a minimum of 34 points",
+        "Mathematics and at least one of Physical Science, Biology or Agricultural Science with SG ‘B’ or HG ‘E’"
+      ]
     },
     {
       "id": "prog:1eba8f68adda",
@@ -972,7 +1198,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "grammes require Mathematics Level 4",
+        "a pass in Economics (NSC at least Level 4",
+        "2 Bachelor of Agriculture KN",
+        "LO and Agricultural Science or Life Science or Physical Science at Level 4",
+        "3 Access Programme",
+        "Level 4 or HG",
+        "Level 4 OR Matriculation Exemption with a minimu",
+        "Mathematics Level 4 or HG ‘E’ or SG ‘B’",
+        "Mathematics, English, LO and Agricultural Science or Life Science or Physical Science at Level 4 OR Matriculation Exemption with a minimum of 34 points",
+        "Mathematics and at least one of Physical Science, Biology or Agricultural Science with SG ‘B’ or HG ‘E’"
+      ]
     },
     {
       "id": "prog:a4dd85706aef",
@@ -1006,7 +1245,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "grammes require Mathematics Level 4",
+        "a pass in Economics (NSC at least Level 4",
+        "2 Bachelor of Agriculture KN",
+        "LO and Agricultural Science or Life Science or Physical Science at Level 4",
+        "3 Access Programme",
+        "Level 4 or HG",
+        "Level 4 OR Matriculation Exemption with a minimu",
+        "Mathematics Level 4 or HG ‘E’ or SG ‘B’",
+        "Mathematics, English, LO and Agricultural Science or Life Science or Physical Science at Level 4 OR Matriculation Exemption with a minimum of 34 points",
+        "Mathematics and at least one of Physical Science, Biology or Agricultural Science with SG ‘B’ or HG ‘E’"
+      ]
     },
     {
       "id": "prog:6fe80d8c5a0b",
@@ -1049,6 +1301,10 @@
       "campuses_offering": [
         "Westville Campus",
         "Pietermaritzburg Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics • Chemistry • Introduction to Engineering Materials • Drawing and Design • Mathematics • Physics Please visit the University website: saa"
       ]
     },
     {
@@ -1081,6 +1337,10 @@
         "Chemistry",
         "Introduction to Engineering",
         "Drawing and Design"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics • Chemistry • Introduction to Engineering Materials • Drawing and Design • Mathematics • Physics Please visit the University website: saa"
       ]
     },
     {
@@ -1118,6 +1378,18 @@
       },
       "campuses_offering": [
         "Pietermaritzburg Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 Access Programme",
+        "Candidates from educationally disadvantaged schools (Quintiles 1",
+        "excluding LO) and English and LO Level 4",
+        "and Mathematics Level 3",
+        "and Agricultural Science or Life Science or Physical Science Level 3",
+        "Level 4 and Mathematics Level",
+        "Level 3 may apply for the B Sc",
+        "Mathematics and at least one of Physical Science, Biology or Agricultural Science with SG ‘B’ or HG ‘E’",
+        "English and LO Level 4 and Mathematics Level 3 and Agricultural Science or Life Science or Physical Science Level 3 may apply for the B Sc4 (Augmented Programme)"
       ]
     },
     {
@@ -1152,7 +1424,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths at Level 5",
+        "Graduates who attain a minimum of 60%",
+        "Level 5 or above",
+        "Maths at Level 5 or above, or 36 Matriculation points with Maths at HG ‘E’ or SG ‘C’"
+      ]
     },
     {
       "id": "prog:dc2d27570fa8",
@@ -1201,7 +1480,12 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Studies √ √ Ethics Studies √ Fine Art √ French √ √ Greek √",
+        "NATAL"
+      ]
     },
     {
       "id": "prog:af13f8d83de8",
@@ -1252,7 +1536,13 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Deg with Engl and LO 4",
+        "and Maths and Life Sci or Phy Sci 3",
+        "Maths and Life Sci or Phy Sci 3 (Cho"
+      ]
     },
     {
       "id": "prog:08ae88d572ea",
@@ -1303,7 +1593,33 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Deg with Engl and LO 4",
+        "and Maths and Life Sci or Phy Sci 3",
+        "Choices 1",
+        "4 yrsBachelor of Speech",
+        "BDT NSC Deg with Engl and LO 4",
+        "and Life Sci and Maths 3",
+        "only) 3",
+        "Maths and Phys Sci 4",
+        "Choice 1",
+        "2 and",
+        "3 will be prioritised)",
+        "3 yrs B Medical Science Physiology KN",
+        "and Maths 3",
+        "and Life Sci or Phys Sci 3",
+        "only) 4",
+        "Maths and Life Sci or Phys Sci 4",
+        "4 yrs B Oral Hygiene KN",
+        "Maths and Life Sci or Phy Sci 3 (Choices 1 to 3 only) 48-30 4 yrsBachelor of Speech-Language Therapy KN-W-BPB B Dental Therapy KN-W-BDT NSC Deg with Engl and LO 4 and Life Sci and Maths 3 (Choices",
+        "Maths and Phys Sci 4 (Choice 1, 2 and 3 will be prioritised) 48-30 3 yrs B Medical Science Physiology KN-W-SBF B Occupational Therapy KN-W-BOT NSC-Deg with Engl and LO 4 and Maths 3 and Life Sci or Ph",
+        "Maths and Life Sci or Phys Sci 4 (Choices 1 to 3 only) 48-33 4 yrs B Oral Hygiene KN-W-BON NSC Deg with Engl an",
+        "Language",
+        "MBS NSC",
+        "Deg with Engl, LO 4, Life"
+      ]
     },
     {
       "id": "prog:525123fb61db",
@@ -1352,7 +1668,13 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Duration of Degrees The Bachelor of Business Science is a 4",
+        "Alternative Access Programmes Management Studies Extended Programme (BCom 4",
+        "BCG) Management Studies Extended Programme (B Com 4"
+      ]
     },
     {
       "id": "prog:9098238137a3",
@@ -1443,7 +1765,13 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Duration of Degrees The Bachelor of Business Science is a 4",
+        "Alternative Access Programmes Management Studies Extended Programme (BCom 4",
+        "BCG) Management Studies Extended Programme (B Com 4"
+      ]
     },
     {
       "id": "prog:3ef7cbd86601",
@@ -1534,7 +1862,22 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematics Level 6",
+        "and English and Life Orientation Level 4",
+        "with English and Life Orientation Level 4",
+        "and Mathematics Level 6",
+        "Level 6 and English and Life Orientation Level",
+        "Level 4 and Mathematics Level",
+        "Mathematics Level 6 and English and Life Orientation Level 4 or Matriculation Exemption with Mathematics HG ‘B’ and 38 points",
+        "English and Life Orientation Level 4 and Mathematics Level 6 will be considered for early selection",
+        "Deg with APS 33 with Mathematics",
+        "year full",
+        "time qualification,",
+        "performing students."
+      ]
     },
     {
       "id": "prog:309af9fc051e",
@@ -1617,7 +1960,22 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematics Level 6",
+        "and English and Life Orientation Level 4",
+        "with English and Life Orientation Level 4",
+        "and Mathematics Level 6",
+        "Level 6 and English and Life Orientation Level",
+        "Level 4 and Mathematics Level",
+        "Mathematics Level 6 and English and Life Orientation Level 4 or Matriculation Exemption with Mathematics HG ‘B’ and 38 points",
+        "English and Life Orientation Level 4 and Mathematics Level 6 will be considered for early selection",
+        "Deg with APS 33 with Mathematics",
+        "year full",
+        "time qualification,",
+        "performing students."
+      ]
     },
     {
       "id": "prog:6481d0a36c10",
@@ -1708,7 +2066,13 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Duration of Degrees The Bachelor of Business Science is a 4",
+        "Alternative Access Programmes Management Studies Extended Programme (BCom 4",
+        "BCG) Management Studies Extended Programme (B Com 4"
+      ]
     },
     {
       "id": "prog:8eb9b257445c",
@@ -1742,7 +2106,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "English (HL/ FAL) and LO at level 4",
+        "Life Sciences and Mathematics at level 3",
+        "English (HL/ FAL) and LO at level 4, Life Sciences and Mathematics at level 3",
+        "Deg with APS of 30, English (HL/"
+      ]
     },
     {
       "id": "prog:883c37ab7a24",
@@ -1776,7 +2152,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "English (HL/ FAL) and LO at level 4",
+        "Life Sciences and Mathematics at level 3",
+        "English (HL/ FAL) and LO at level 4, Life Sciences and Mathematics at level 3",
+        "Deg with APS of 30, English (HL/"
+      ]
     },
     {
       "id": "prog:9d431138df05",
@@ -1821,6 +2209,19 @@
         "Chemistry",
         "Introduction to Engineering",
         "Drawing and Design"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "grammes require Mathematics Level 4",
+        "a pass in Economics (NSC at least Level 4",
+        "2 Bachelor of Agriculture KN",
+        "LO and Agricultural Science or Life Science or Physical Science at Level 4",
+        "3 Access Programme",
+        "Level 4 or HG",
+        "Level 4 OR Matriculation Exemption with a minimu",
+        "Mathematics Level 4 or HG ‘E’ or SG ‘B’",
+        "Mathematics, English, LO and Agricultural Science or Life Science or Physical Science at Level 4 OR Matriculation Exemption with a minimum of 34 points",
+        "Mathematics and at least one of Physical Science, Biology or Agricultural Science with SG ‘B’ or HG ‘E’"
       ]
     },
     {
@@ -1870,7 +2271,11 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English, apply for a conditional Senate Exemption, and may then apply for admission to the degree programme for the Bachelor of Arts in Music, the Bachelor of Arts in Music and Drama Performance, or th"
+      ]
     },
     {
       "id": "prog:45f106f16c30",
@@ -1910,7 +2315,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "English (HL/ FAL) and LO at level 4",
+        "Life Sciences and Mathematics at level 3",
+        "English (HL/ FAL) and LO at level 4, Life Sciences and Mathematics at level 3",
+        "Deg with APS of 30, English (HL/",
+        "being, and life"
+      ]
     },
     {
       "id": "prog:65cc17879ab8",
@@ -1950,6 +2368,15 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Deg with APS of 30, with English (HL/"
+      ],
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -1984,7 +2411,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Mathematics and Life Sciences or Physical Sciences at level 4",
+        "English (HL/ FAL), LO, Mathematics and Life Sciences or Physical Sciences at level 4",
+        "Deg with APS of 33, with English (HL/",
+        "orientated"
+      ]
     },
     {
       "id": "prog:2dcc8a109880",
@@ -2018,7 +2457,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "English (HL/ FAL) and LO at level 4",
+        "Life Sciences and Mathematics at level 3",
+        "English (HL/ FAL) and LO at level 4, Life Sciences and Mathematics at level 3",
+        "Deg with APS of 30, English (HL/"
+      ]
     },
     {
       "id": "prog:9e71bc15e315",
@@ -2052,7 +2503,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "English (HL/ FAL) and LO at level 4",
+        "Life Sciences and Mathematics at level 3",
+        "English (HL/ FAL) and LO at level 4, Life Sciences and Mathematics at level 3",
+        "Deg with APS of 30, English (HL/"
+      ]
     },
     {
       "id": "prog:e054db923737",
@@ -2086,7 +2549,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Life Sciences and Physical Sciences at level 4",
+        "English (HL/ FAL), LO, Mathematics, Life Sciences and Physical Sciences at level 4",
+        "Deg with APS of 33, with English (HL/",
+        "Natal. It"
+      ]
     },
     {
       "id": "prog:43134a5a7dfd",
@@ -2123,6 +2598,10 @@
       },
       "campuses_offering": [
         "Howard College Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "level knowledge, skills, values"
       ]
     },
     {
@@ -2160,6 +2639,10 @@
       },
       "campuses_offering": [
         "Howard College Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "level knowledge, skills, values"
       ]
     },
     {
@@ -2194,7 +2677,23 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "English (HL/FAL) and LO at level 4",
+        "Mathematics and Life Sciences or Physical Sciences all at Level 3",
+        "English (HL/FAL) and LO at level 4, Mathematics and Life Sciences or Physical Sciences all at Level 3",
+        "Deg with APS 30, English (HL/FAL) and",
+        "Language",
+        "Natal in particular, with skilled",
+        "Language Therapists, to ensure",
+        "language pathology services in the"
+      ]
     },
     {
       "id": "prog:8ec063088e8c",
@@ -2233,6 +2732,22 @@
         "Chemistry",
         "Introduction to Engineering",
         "Drawing and Design"
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Life Sciences and Physical Sciences at level 4",
+        "Deg with Engl and LO and Maths 4",
+        "and Agric Sci or Life Sci or Phys Sci 4",
+        "English (HL/ FAL), LO, Mathematics, Life Sciences and Physical Sciences at level 4",
+        "Maths 4 and Agric Sci or Life Sci or Phys Sci 4 Closing date: 30 September 2025",
+        "Deg with APS of 30, with English (HL/",
+        "year qualification.",
+        "Deg with Engl and LO and Maths 4 and"
       ]
     },
     {
@@ -2267,7 +2782,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:85c618d9fc63",
@@ -2306,6 +2822,10 @@
         "Chemistry",
         "Introduction to Engineering",
         "Drawing and Design"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics • Chemistry • Introduction to Engineering Materials • Drawing and Design • Mathematics • Physics Please visit the University website: saa"
       ]
     },
     {
@@ -2329,7 +2849,22 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "EITHER 1",
+        "with Level 3",
+        "Level 4",
+        "English (home or first additional language) and Level 4",
+        "with Level 2",
+        "Mathematics and Level 4",
+        "Level 3 Mathematics",
+        "Level 4 English (home or first additional langua",
+        "Level 4 Life Orientation",
+        "Level 2 Mathematics and Level",
+        "Mathematics, Level 4 English (home or first additional language) and Level 4 Life Orientation",
+        "Mathematics and Level 4 Engl"
+      ]
     },
     {
       "id": "prog:4e1bbfab9d95",
@@ -2363,7 +2898,25 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematics level 3",
+        "and English and Life Orientation Level 4",
+        "and from the Quintile 1",
+        "3 Schools",
+        "B Com 4",
+        "with Mathematics Level 4",
+        "level 3 and English and Life Orientation Level",
+        "Level 4 and English and Life Orientation Level",
+        "Mathematics level 3 and English and Life Orientation Level 4 and from the Quintile 1-3 Schools",
+        "Mathematics Level 4 and English and Life Orientation Level 4 and from the Quintile 1-3 Schools",
+        "Deg with APS 26 with Mathematics",
+        "year B Com degree extended over",
+        "BCO/KN",
+        "Deg with APS 28 with Mathematics",
+        "year BCom Accounting degree"
+      ]
     },
     {
       "id": "prog:0addc0dd596b",
@@ -2412,7 +2965,25 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematics level 3",
+        "and English and Life Orientation Level 4",
+        "and from the Quintile 1",
+        "3 Schools",
+        "B Com 4",
+        "with Mathematics Level 4",
+        "level 3 and English and Life Orientation Level",
+        "Level 4 and English and Life Orientation Level",
+        "Mathematics level 3 and English and Life Orientation Level 4 and from the Quintile 1-3 Schools",
+        "Mathematics Level 4 and English and Life Orientation Level 4 and from the Quintile 1-3 Schools",
+        "Deg with APS 26 with Mathematics",
+        "year B Com degree extended over",
+        "BCO/KN",
+        "Deg with APS 28 with Mathematics",
+        "year BCom Accounting degree"
+      ]
     },
     {
       "id": "prog:d0c0f941f2e9",
@@ -2461,7 +3032,25 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematics level 3",
+        "and English and Life Orientation Level 4",
+        "and from the Quintile 1",
+        "3 Schools",
+        "B Com 4",
+        "with Mathematics Level 4",
+        "level 3 and English and Life Orientation Level",
+        "Level 4 and English and Life Orientation Level",
+        "Mathematics level 3 and English and Life Orientation Level 4 and from the Quintile 1-3 Schools",
+        "Mathematics Level 4 and English and Life Orientation Level 4 and from the Quintile 1-3 Schools",
+        "Deg with APS 26 with Mathematics",
+        "year B Com degree extended over",
+        "BCO/KN",
+        "Deg with APS 28 with Mathematics",
+        "year BCom Accounting degree"
+      ]
     },
     {
       "id": "prog:49e90e39a7ca",
@@ -2484,7 +3073,23 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "and English and Life Orientation Level 4",
+        "and Maths Level 3",
+        "with English and Life Orientation at Level 4",
+        "Deg with Maths 2",
+        "English and Life Orientation 4",
+        "Level 4 and Maths Level",
+        "English and Life Orientation Level 4 and Maths Level 3 Or Matric Exemption with Maths HG ‘E’ or SG ’D’ symbol",
+        "English and Life Orientation at Level 4 and Maths Level 3 will be considered for early selection",
+        "Maths 2 (No Maths Literacy), English and Life Orientation 4 and 24 NSC points (excluding LO)",
+        "Deg with APS 28 and English and Life",
+        "Deg with Maths 2 (No Maths",
+        "year full",
+        "time qualification"
+      ]
     },
     {
       "id": "prog:0d0378965cb8",
@@ -2518,7 +3123,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with a Bachelors pass or NQF Level 4",
+        "Level 4 National Certificate (Vocational) with a",
+        "English or FAL L4 • Life orientation L4 • National Senior Certificate – with a Bachelors pass or NQF Level 4 National Certificate (Vocational) with an endorsement for entry into Bachelor studies (degree",
+        "Minimum 28 points",
+        "however, meeting the",
+        "English or FAL L4",
+        "Life orientation L4",
+        "National Senior Certificate – with a",
+        "Foundation phase: Minimum rating of"
+      ]
     },
     {
       "id": "prog:3dd7d4090443",
@@ -2552,7 +3169,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with a Bachelors pass or NQF Level 4",
+        "Level 4 National Certificate (Vocational) with a",
+        "English or FAL L4 • Life orientation L4 • National Senior Certificate – with a Bachelors pass or NQF Level 4 National Certificate (Vocational) with an endorsement for entry into Bachelor studies (degree",
+        "Minimum 28 points",
+        "however, meeting the",
+        "English or FAL L4",
+        "Life orientation L4",
+        "National Senior Certificate – with a",
+        "Foundation phase: Minimum rating of"
+      ]
     },
     {
       "id": "prog:47d92e184d20",
@@ -2575,7 +3204,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with a Bachelors pass or NQF Level 4",
+        "Level 4 National Certificate (Vocational) with a",
+        "English or FAL L4 • Life orientation L4 • National Senior Certificate – with a Bachelors pass or NQF Level 4 National Certificate (Vocational) with an endorsement for entry into Bachelor studies (degree",
+        "Minimum 28 points",
+        "however, meeting the",
+        "English or FAL L4",
+        "Life orientation L4",
+        "National Senior Certificate – with a",
+        "Foundation phase: Minimum rating of"
+      ]
     },
     {
       "id": "prog:34a40ab9ad3c",
@@ -2621,7 +3262,24 @@
         "Westville",
         "The cost of a university education",
         "In addition, they will also need to"
-      ]
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with a Bachelors pass or NQF Level 4",
+        "Level 4 National Certificate (Vocational) with a",
+        "English or FAL L4 • Life orientation L4 • National Senior Certificate – with a Bachelors pass or NQF Level 4 National Certificate (Vocational) with an endorsement for entry into Bachelor studies (degree",
+        "Minimum 28 points",
+        "however, meeting the",
+        "English or FAL L4",
+        "Life orientation L4",
+        "National Senior Certificate – with a",
+        "Foundation phase: Minimum rating of"
+      ],
+      "pricing": {
+        "amount_min": 85000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:09721910beff",
@@ -2644,7 +3302,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 85000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Module per semester (No levy) Full load 4",
+        "tuition Costs to be Planned for Expenses Amount (R) International levy 4",
+        "per year Medical insurance (compulsory) Momentum Compare Wellness 7"
+      ]
     },
     {
       "id": "prog:60698978cfad",
@@ -2684,6 +3353,23 @@
         "Westville",
         "The cost of a university education",
         "In addition, they will also need to"
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 85000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "with a Bachelors pass or NQF Level 4",
+        "Level 4 National Certificate (Vocational) with a",
+        "English or FAL L4 • Life orientation L4 • National Senior Certificate – with a Bachelors pass or NQF Level 4 National Certificate (Vocational) with an endorsement for entry into Bachelor studies (degree",
+        "Minimum 28 points",
+        "however, meeting the",
+        "English or FAL L4",
+        "Life orientation L4",
+        "National Senior Certificate – with a",
+        "Foundation phase: Minimum rating of"
       ]
     },
     {
@@ -2730,7 +3416,24 @@
         "Westville",
         "The cost of a university education",
         "In addition, they will also need to"
-      ]
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with a Bachelors pass or NQF Level 4",
+        "Level 4 National Certificate (Vocational) with a",
+        "English or FAL L4 • Life orientation L4 • National Senior Certificate – with a Bachelors pass or NQF Level 4 National Certificate (Vocational) with an endorsement for entry into Bachelor studies (degree",
+        "Minimum 28 points",
+        "however, meeting the",
+        "English or FAL L4",
+        "Life orientation L4",
+        "National Senior Certificate – with a",
+        "Foundation phase: Minimum rating of"
+      ],
+      "pricing": {
+        "amount_min": 85000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:23e24dd35208",
@@ -2770,7 +3473,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:dd8a90a7508c",
@@ -2804,7 +3508,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:33c8c0e6df93",
@@ -2832,7 +3537,19 @@
         "Pietermaritzburg",
         "Westville"
       ],
-      "credits": 160
+      "credits": 160,
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Mathematics and Life Sciences or Physical Sciences at level 4",
+        "English (HL/ FAL), LO, Mathematics and Life Sciences or Physical Sciences at level 4",
+        "Deg with APS of 33, with English (HL/",
+        "orientated"
+      ]
     },
     {
       "id": "prog:970745a57794",
@@ -2866,7 +3583,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:dd4af9384cc9",
@@ -2893,6 +3611,18 @@
       "modules": [
         "Pietermaritzburg",
         "Westville"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or more APS points and English and LO at Level 4",
+        "and Mathematics and Agricultural Science or Life Science or Physical Science 3",
+        "Only applicants from schools with quintiles 1",
+        "and 2",
+        "Level 4 and Mathematics and Agricultural Science",
+        "English and LO at Level 4 and Mathematics and Agricultural Science or Life Science or Physical Science 3",
+        "Deg with 26 or",
+        "year degree with an",
+        "year study is spread over two"
       ]
     },
     {
@@ -2920,6 +3650,14 @@
       "modules": [
         "Pietermaritzburg",
         "Westville"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "The minimum Mathematics requirement is Level 5",
+        "Level 5 in the NSC",
+        "Mathematics (such as Mathematics, Statistics, Physics and Computer Science), a NSC-Deg is required with an APS of at least 30 (excluding LO)",
+        "Mathematics requirement is Level 5 in the NSC-Deg OR an ‘A’ at SG or a ‘D’ at HG",
+        "Mathematics qualification are marked by an asterisk in the tables on page 86"
       ]
     },
     {
@@ -2963,6 +3701,14 @@
       "campuses_offering": [
         "Westville Campus",
         "Pietermaritzburg Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "The minimum Mathematics requirement is Level 5",
+        "Level 5 in the NSC",
+        "Mathematics (such as Mathematics, Statistics, Physics and Computer Science), a NSC-Deg is required with an APS of at least 30 (excluding LO)",
+        "Mathematics requirement is Level 5 in the NSC-Deg OR an ‘A’ at SG or a ‘D’ at HG",
+        "Mathematics qualification are marked by an asterisk in the tables on page 86"
       ]
     },
     {
@@ -3012,6 +3758,10 @@
       "campuses_offering": [
         "Westville Campus",
         "Pietermaritzburg Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics • Chemistry • Introduction to Engineering Materials • Drawing and Design • Mathematics • Physics Please visit the University website: saa"
       ]
     },
     {
@@ -3052,7 +3802,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "grammes require Mathematics Level 4",
+        "a pass in Economics (NSC at least Level 4",
+        "2 Bachelor of Agriculture KN",
+        "LO and Agricultural Science or Life Science or Physical Science at Level 4",
+        "3 Access Programme",
+        "Level 4 or HG",
+        "Level 4 OR Matriculation Exemption with a minimu",
+        "Mathematics Level 4 or HG ‘E’ or SG ‘B’",
+        "Mathematics, English, LO and Agricultural Science or Life Science or Physical Science at Level 4 OR Matriculation Exemption with a minimum of 34 points",
+        "Mathematics and at least one of Physical Science, Biology or Agricultural Science with SG ‘B’ or HG ‘E’"
+      ]
     },
     {
       "id": "prog:2fcd1534c7ea",
@@ -3101,6 +3864,10 @@
       "campuses_offering": [
         "Westville Campus",
         "Pietermaritzburg Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics • Chemistry • Introduction to Engineering Materials • Drawing and Design • Mathematics • Physics Please visit the University website: saa"
       ]
     },
     {
@@ -3139,6 +3906,22 @@
       "modules": [
         "Pietermaritzburg",
         "Westville"
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Life Sciences and Physical Sciences at level 4",
+        "Deg with Engl and LO and Maths 4",
+        "and Agric Sci or Life Sci or Phys Sci 4",
+        "English (HL/ FAL), LO, Mathematics, Life Sciences and Physical Sciences at level 4",
+        "Maths 4 and Agric Sci or Life Sci or Phys Sci 4 Closing date: 30 September 2025",
+        "Deg with APS of 30, with English (HL/",
+        "year qualification.",
+        "Deg with Engl and LO and Maths 4 and"
       ]
     },
     {
@@ -3167,6 +3950,22 @@
         "1a B Sc (Life and Earth Sciences)",
         "B Sc in Agriculture, B Sc in Dietetics",
         "B Sc Environmental Science and"
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Life Sciences and Physical Sciences at level 4",
+        "Deg with Engl and LO and Maths 4",
+        "and Agric Sci or Life Sci or Phys Sci 4",
+        "English (HL/ FAL), LO, Mathematics, Life Sciences and Physical Sciences at level 4",
+        "Maths 4 and Agric Sci or Life Sci or Phys Sci 4 Closing date: 30 September 2025",
+        "Deg with APS of 30, with English (HL/",
+        "year qualification.",
+        "Deg with Engl and LO and Maths 4 and"
       ]
     },
     {
@@ -3205,6 +4004,13 @@
       "modules": [
         "Pietermaritzburg",
         "Westville"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or more APS points and English and LO at Level 4",
+        "Level 4 and Math",
+        "English and LO at Level 4 and Math",
+        "Deg with 26 or"
       ]
     },
     {
@@ -3232,6 +4038,13 @@
       "modules": [
         "Pietermaritzburg",
         "Westville"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "or more APS points and English and LO at Level 4",
+        "Level 4 and Math",
+        "English and LO at Level 4 and Math",
+        "Deg with 26 or"
       ]
     },
     {
@@ -3273,6 +4086,10 @@
         "Engineering Physics",
         "Survey Camp (in July vacation)",
         "Statistics and Adjustment."
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics (Eng) • Mathematics • Engineering Physics • Survey Camp (in July vacation) • Statistics and Adjustment"
       ]
     },
     {
@@ -3310,6 +4127,10 @@
       },
       "modules": [
         "√ √ KN-P-BSU"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
       ]
     },
     {
@@ -3333,7 +4154,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:4b4d0430f29c",
@@ -3373,7 +4195,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:6bc022534751",
@@ -3401,6 +4224,13 @@
         "A maximum of four percent (4%) of",
         "Only applicants with complete",
         "All selections will be done on academic"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths at Level 5",
+        "Graduates who attain a minimum of 60%",
+        "Level 5 or above",
+        "Maths at Level 5 or above, or 36 Matriculation points with Maths at HG ‘E’ or SG ‘C’"
       ]
     },
     {
@@ -3429,6 +4259,13 @@
       "fees_per_year": null,
       "campuses_offering": [
         "Edgewood Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Maths at Level 5",
+        "Graduates who attain a minimum of 60%",
+        "Level 5 or above",
+        "Maths at Level 5 or above, or 36 Matriculation points with Maths at HG ‘E’ or SG ‘C’"
       ]
     },
     {
@@ -3452,7 +4289,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:26195c7ea8b7",
@@ -3475,7 +4313,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "A pass in an examination equivalent to Level 4",
+        "Level 4 or higher in English as Home or FAL in t",
+        "English Language Requirements UKZN is an English-medium University",
+        "English language proficiency requires that applicants demonstrate at least one of the following levels of proficiency in English: • A pass in an examination equivalent to Level 4 or higher in English as",
+        "English at Higher Grade (First or Second language) at South African Senior Certificate level (Matriculation); • A pass in English Language at A-level, AS or O-level (C symbol or higher), or the Internat"
+      ]
     },
     {
       "id": "prog:001261b109fe",
@@ -3498,7 +4344,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
+      ]
     },
     {
       "id": "prog:5d3919a9e982",
@@ -3521,7 +4371,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
+      ],
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:a5aedbdf03c6",
@@ -3544,7 +4403,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
+      ],
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:c9b34829df19",
@@ -3584,7 +4452,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Duration of Degrees The Bachelor of Business Science is a 4",
+        "Alternative Access Programmes Management Studies Extended Programme (BCom 4",
+        "BCG) Management Studies Extended Programme (B Com 4"
+      ]
     },
     {
       "id": "prog:75f4bba15f76",
@@ -3667,7 +4541,14 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Deg require English (Home Language) at Level 5",
+        "or English (First Additional Language) at Level 6",
+        "English (Home Language) at Level 5; or English (First Additional Language) at Level 6 a",
+        "Deg require English (Home Language)"
+      ]
     },
     {
       "id": "prog:eca3fed59800",
@@ -3701,7 +4582,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Deg require English (Home Language) at Level 5",
+        "or English (First Additional Language) at Level 6",
+        "English (Home Language) at Level 5; or English (First Additional Language) at Level 6 a",
+        "Deg require English (Home Language)"
+      ]
     },
     {
       "id": "prog:e7c0a2f37282",
@@ -3776,7 +4664,14 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Deg require English (Home Language) at Level 5",
+        "or English (First Additional Language) at Level 6",
+        "English (Home Language) at Level 5; or English (First Additional Language) at Level 6 a",
+        "Deg require English (Home Language)"
+      ]
     },
     {
       "id": "prog:529ae80a6cae",
@@ -3804,7 +4699,8 @@
       "fees_per_year": null,
       "campuses_offering": [
         "Edgewood Campus"
-      ]
+      ],
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:31f5abdf1250",
@@ -3827,7 +4723,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d4b0442dab53",
@@ -3855,7 +4752,8 @@
       "fees_per_year": null,
       "campuses_offering": [
         "Edgewood Campus"
-      ]
+      ],
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:365:Degree|b87a6970ee47|bachelor of arts or bachelor of social science degree with a law major, or",
@@ -3878,7 +4776,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 Students who have completed an LLB can a",
+        "including an average mark of 60%"
+      ]
     },
     {
       "id": "prog:365:Degree|8ceb344dfa96|bachelor of business administration",
@@ -3927,7 +4830,22 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "EITHER 1",
+        "with Level 3",
+        "Level 4",
+        "English (home or first additional language) and Level 4",
+        "with Level 2",
+        "Mathematics and Level 4",
+        "Level 3 Mathematics",
+        "Level 4 English (home or first additional langua",
+        "Level 4 Life Orientation",
+        "Level 2 Mathematics and Level",
+        "Mathematics, Level 4 English (home or first additional language) and Level 4 Life Orientation",
+        "Mathematics and Level 4 Engl"
+      ]
     },
     {
       "id": "prog:365:Degree|31f61e18eb90|bachelor of business administration,",
@@ -3976,7 +4894,22 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "EITHER 1",
+        "with Level 3",
+        "Level 4",
+        "English (home or first additional language) and Level 4",
+        "with Level 2",
+        "Mathematics and Level 4",
+        "Level 3 Mathematics",
+        "Level 4 English (home or first additional langua",
+        "Level 4 Life Orientation",
+        "Level 2 Mathematics and Level",
+        "Mathematics, Level 4 English (home or first additional language) and Level 4 Life Orientation",
+        "Mathematics and Level 4 Engl"
+      ]
     },
     {
       "id": "prog:365:Degree|b6f78cd72d99|bachelor of business science,",
@@ -4067,7 +5000,13 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Duration of Degrees The Bachelor of Business Science is a 4",
+        "Alternative Access Programmes Management Studies Extended Programme (BCom 4",
+        "BCG) Management Studies Extended Programme (B Com 4"
+      ]
     },
     {
       "id": "prog:365:Degree|12fe17ce28a9|bachelor of education",
@@ -4101,7 +5040,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with a Bachelors pass or NQF Level 4",
+        "Level 4 National Certificate (Vocational) with a",
+        "English or FAL L4 • Life orientation L4 • National Senior Certificate – with a Bachelors pass or NQF Level 4 National Certificate (Vocational) with an endorsement for entry into Bachelor studies (degree",
+        "Minimum 28 points",
+        "however, meeting the",
+        "English or FAL L4",
+        "Life orientation L4",
+        "National Senior Certificate – with a",
+        "Foundation phase: Minimum rating of"
+      ]
     },
     {
       "id": "prog:365:Degree|133b87641b6d|bachelor of education undergraduate degree",
@@ -4124,7 +5075,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Edgewood",
+        "Pietermaritzburg"
+      ]
     },
     {
       "id": "prog:365:Degree|c7c6263d2d82|bachelor of laws (llb)",
@@ -4173,7 +5129,14 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Deg require English (Home Language) at Level 5",
+        "or English (First Additional Language) at Level 6",
+        "English (Home Language) at Level 5; or English (First Additional Language) at Level 6 a",
+        "Deg require English (Home Language)"
+      ]
     },
     {
       "id": "prog:365:Degree|4e749992a1bf|bachelor of laws kn-h-bl1",
@@ -4224,7 +5187,14 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Deg require English (Home Language) at Level 5",
+        "or English (First Additional Language) at Level 6",
+        "English (Home Language) at Level 5; or English (First Additional Language) at Level 6 a",
+        "Deg require English (Home Language)"
+      ]
     },
     {
       "id": "prog:365:Degree|21829e16502c|bachelor of nursing",
@@ -4276,6 +5246,21 @@
       },
       "campuses_offering": [
         "Howard College Campus"
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "with English at Level 4",
+        "Life Orientation at Level 4",
+        "point requirement) and Life Sciences at level 4",
+        "and Mathematics Literacy or Mathematics at Level 3",
+        "level 4 and Mathematics Literacy or Mathematics",
+        "English at Level 4 (HL/FAL), Life Orientation at Level 4 (Life Orientation points are not included in the 30 point requirement) and Life Sciences at level 4 and Mathematics Literacy or Mathematics at Le",
+        "Deg, APS score of 30, with English at"
       ]
     },
     {
@@ -4310,7 +5295,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Mathematics and Life Sciences or Physical Sciences at level 4",
+        "English (HL/ FAL), LO, Mathematics and Life Sciences or Physical Sciences at level 4",
+        "Deg with APS of 33, with English (HL/",
+        "orientated"
+      ]
     },
     {
       "id": "prog:365:Degree|281dea65e79e|bachelor of pharmacy degree is designed to",
@@ -4338,6 +5335,18 @@
         "Chemistry",
         "Introduction to Engineering",
         "Drawing and Design"
+      ],
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Mathematics and Life Sciences or Physical Sciences at level 4",
+        "English (HL/ FAL), LO, Mathematics and Life Sciences or Physical Sciences at level 4",
+        "Deg with APS of 33, with English (HL/",
+        "orientated"
       ]
     },
     {
@@ -4372,7 +5381,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Duration of Degrees The Bachelor of Business Science is a 4",
+        "Alternative Access Programmes Management Studies Extended Programme (BCom 4",
+        "BCG) Management Studies Extended Programme (B Com 4"
+      ]
     },
     {
       "id": "prog:365:Degree|6d86063eaf6f|bachelor of social science degree with",
@@ -4406,7 +5421,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 Students who have completed an LLB can a",
+        "including an average mark of 60%"
+      ]
     },
     {
       "id": "prog:365:Degree|9ec3f23682fa|bachelor of social science in housing. the degree",
@@ -4502,6 +5522,11 @@
       },
       "campuses_offering": [
         "Edgewood Campus"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Edgewood",
+        "Pietermaritzburg"
       ]
     },
     {
@@ -4542,7 +5567,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "any lang HL/FAL 5",
+        "3 yrs BA International Studies KN",
+        "4 yrs College of Law and Management Studies",
+        "Maths/Maths Lit, Music, Religion Stud, Vis Arts, any lang HL/FAL 5 48-30 3 yrs BA International Studies KN-P-ABI 48-28BA Visual Art KN-P-AAV B Soc Sc Government, Business & Ethics KN-P-SOG B Theology",
+        "Deg with Engl & LO 4 and",
+        "28BA Visual Art KN",
+        "SO4 NSC",
+        "Deg with Engl & LO 4 20/27 4 yrs"
+      ]
     },
     {
       "id": "prog:365:Degree|347b3f304210|bachelor of theology,",
@@ -4576,7 +5612,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:365:Postgraduate|1153244cd7de|doctorate for senior statistician – dr nobuhle mchunu",
@@ -4599,7 +5636,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "A pass in an examination equivalent to Level 4",
+        "Level 4 or higher in English as Home or FAL in t",
+        "English Language Requirements UKZN is an English-medium University",
+        "English language proficiency requires that applicants demonstrate at least one of the following levels of proficiency in English: • A pass in an examination equivalent to Level 4 or higher in English as",
+        "English at Higher Grade (First or Second language) at South African Senior Certificate level (Matriculation); • A pass in English Language at A-level, AS or O-level (C symbol or higher), or the Internat"
+      ]
     },
     {
       "id": "prog:365:Postgraduate|95084bc691cd|honours leading diabetes researcher with fellowship – ukzn fellow, professor sha",
@@ -4622,7 +5667,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
+      ]
     },
     {
       "id": "prog:365:Postgraduate|0ad1e2ef15cd|honours, masters and doctoral levels.",
@@ -4645,7 +5694,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
+      ],
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:365:Postgraduate|a6c398e2adb1|honours, masters and doctoral study",
@@ -4668,7 +5726,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years)"
+      ],
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:365:Postgraduate|4791d8652bc6|hons)",
@@ -4691,7 +5758,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "with English (HL/ FAL) and LO 4",
+        "and Mathematics Literacy or Mathematics at level 3",
+        "English (HL/ FAL) and LO 4, and Mathematics Literacy or Mathematics at level 3",
+        "Deg with APS of 30, with English (HL/"
+      ]
     },
     {
       "id": "prog:365:Postgraduate|235b5ef052bc|masters in housing.",
@@ -4719,7 +5798,8 @@
       "fees_per_year": null,
       "campuses_offering": [
         "Edgewood Campus"
-      ]
+      ],
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:365:Postgraduate|08c37e18df45|phd research investigates radioactivity in materials used in sa’s building indus",
@@ -4747,7 +5827,8 @@
       "fees_per_year": null,
       "campuses_offering": [
         "Edgewood Campus"
-      ]
+      ],
+      "_points_system": "aps_points"
     }
   ],
   "admission": {
@@ -6167,15 +7248,17 @@
     "adm_reqs_count": 45
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:53:02Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:00:10Z",
     "test_mode": false,
-    "completeness_before": 0.094,
-    "completeness_after": 0.247,
-    "improvement": 0.152,
-    "fields_enriched": 295,
+    "points_system": "aps_points",
+    "completeness_before": 0.217,
+    "completeness_after": 0.283,
+    "improvement": 0.065,
+    "fields_enriched": 132,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-kwazulu-natal.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-kwazulu-natal.pdf"
     ]
   }
 }

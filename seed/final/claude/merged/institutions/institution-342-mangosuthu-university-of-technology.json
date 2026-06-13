@@ -111,7 +111,14 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Rules and Regulations",
+        "1 Bachelor of Technology and Advanced Diplo",
+        "2 Post Graduate Diploma",
+        "3 Master"
+      ]
     },
     {
       "id": "prog:abb86d8b128c",
@@ -134,7 +141,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:0964db73510c",
@@ -157,7 +165,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:a7a7d7054f24",
@@ -180,7 +192,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:0a3ed5ae4469",
@@ -203,7 +216,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "5 STUDENT AFFAIRS DEPARTMENT DEAN OF STUDE"
+      ]
     },
     {
       "id": "prog:ebb9bc22543a",
@@ -226,7 +243,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:a3b805b55d54",
@@ -249,7 +267,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:529cd458b494",
@@ -272,7 +294,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 OFFICE OF THE VICE"
+      ]
     },
     {
       "id": "prog:060d73270125",
@@ -295,7 +321,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:0c7abe62d6a1",
@@ -318,7 +345,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:800cbf527140",
@@ -341,7 +374,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:23a785cb3631",
@@ -364,7 +398,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:0a2b8888ca6b",
@@ -387,7 +427,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:4339e5b3feb5",
@@ -410,7 +456,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:5d3c359caae0",
@@ -433,7 +485,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:0ab9566721ea",
@@ -456,7 +514,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:2e6f00eab335",
@@ -479,7 +543,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:1f82d3315a2f",
@@ -502,7 +567,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 REGISTRAR"
+      ]
     },
     {
       "id": "prog:75dc1f23a521",
@@ -525,7 +594,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:f15206fbd03e",
@@ -548,7 +618,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:9dcd0fb803d0",
@@ -571,7 +642,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:9a47bedf30a6",
@@ -594,7 +666,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:9fb70a59b07d",
@@ -617,7 +690,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 TEACHING AND LEARNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:5a776902f81e",
@@ -640,7 +717,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:355f127f67c5",
@@ -663,7 +744,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:1747b7373c01",
@@ -686,7 +768,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:538f6b719929",
@@ -709,7 +792,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:f45196e5cee8",
@@ -732,7 +816,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 TEACHING AND LEARNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:e18a77533e8c",
@@ -755,7 +843,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:cc1113b250a7",
@@ -779,7 +868,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s Degree (NQF Level 9",
+        "credits) Post Graduate Diploma NQF Level 8",
+        "Credits) Advanced Diploma 4",
+        "Years NQF Level 7",
+        "credits) Diploma 3",
+        "years NQF Level 6"
+      ]
     },
     {
       "id": "prog:55f6804b1e36",
@@ -803,7 +901,14 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Rules and Regulations",
+        "1 Bachelor of Technology and Advanced Diplo",
+        "2 Post Graduate Diploma",
+        "3 Master"
+      ]
     },
     {
       "id": "prog:af355c64180d",
@@ -826,7 +931,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:5f5db61f67f3",
@@ -849,7 +955,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c1665cffa21c",
@@ -872,7 +979,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 POST GRADUATE DIPLOMA a",
+        "A student shall pass a course with distinction if he obtained a final mark of 75%",
+        "A student shall be awarded a degree cum laude if his achievement in each subject assessed over his period of study is 75%"
+      ]
     },
     {
       "id": "prog:3e061e110e29",
@@ -895,7 +1008,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 Post",
+        "7 Researcher A researcher is a person who",
+        "8 Academic Integrity Academic Integrity is"
+      ]
     },
     {
       "id": "prog:e2d9456da85b",
@@ -918,7 +1037,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:a1ea0aba973c",
@@ -941,7 +1064,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:1bb61df516b0",
@@ -964,7 +1091,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:f092fee772f7",
@@ -987,7 +1118,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:3f20eac97809",
@@ -1010,7 +1145,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:b90ded64d1df",
@@ -1033,7 +1172,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:538472a4e41c",
@@ -1056,7 +1196,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:b711772a64aa",
@@ -1079,7 +1223,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:6bb76f622d1c",
@@ -1102,7 +1250,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:a6d1cc48ae7e",
@@ -1125,7 +1277,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:dce7404921b2",
@@ -1148,7 +1304,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:754c484f1d20",
@@ -1171,7 +1331,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:de90e2385686",
@@ -1194,7 +1355,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:f68137925dc8",
@@ -1217,7 +1384,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:708f68ec2f4e",
@@ -1240,7 +1411,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:63bb25582092",
@@ -1263,7 +1440,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:4f1e2b3ec833",
@@ -1286,7 +1464,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:1670a798da4b",
@@ -1309,7 +1491,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:bed5c64ceee4",
@@ -1332,7 +1518,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:163fa6186233",
@@ -1355,7 +1545,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 The HoD must consult the Teaching and Lea",
+        "admission of the student as indicated in 6",
+        "1 and",
+        "2 above",
+        "4 After consultation by the HoD",
+        "5 The HoD must submit evidence of",
+        "2 and",
+        "4 to the Faculty Appeals Committee for app"
+      ]
     },
     {
       "id": "prog:53f423b11029",
@@ -1378,7 +1579,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:25d6ea3d3696",
@@ -1401,7 +1603,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:7e3b084d5bdb",
@@ -1424,7 +1627,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:0f8a68b88d0a",
@@ -1447,7 +1651,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:736b0b0171be",
@@ -1470,7 +1675,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:5caca0eb9f64",
@@ -1493,7 +1699,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:2b7b3e2d35a8",
@@ -1516,7 +1723,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:6d1f1f601f03",
@@ -1539,7 +1750,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:924bf941abf6",
@@ -1562,7 +1774,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:6d5a312642d0",
@@ -1585,7 +1798,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:60e4fd6314b3",
@@ -1608,7 +1822,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:547e7d9f8c99",
@@ -1631,7 +1846,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:b3862c073b61",
@@ -1654,7 +1870,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:58b10f5504d3",
@@ -1677,7 +1894,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:17c217439090",
@@ -1700,7 +1918,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:80575b29cedd",
@@ -1723,7 +1942,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:19194474edef",
@@ -1746,7 +1966,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:2db0aba3815b",
@@ -1769,7 +1990,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 REGISTRAR"
+      ]
     },
     {
       "id": "prog:4b69a27d5601",
@@ -1793,7 +2018,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s Degree (NQF Level 9",
+        "credits) Post Graduate Diploma NQF Level 8",
+        "Credits) Advanced Diploma 4",
+        "Years NQF Level 7",
+        "credits) Diploma 3",
+        "years NQF Level 6"
+      ]
     },
     {
       "id": "prog:d5d35fddd01e",
@@ -1816,7 +2050,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:2aec7801c940",
@@ -1839,7 +2079,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:962ca338d859",
@@ -1862,7 +2103,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:854a67238259",
@@ -1885,7 +2127,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:b5237720ef58",
@@ -1908,7 +2151,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:b2be5b585211",
@@ -1931,7 +2175,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:e92ea5142f14",
@@ -1954,7 +2199,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:2b18cafadc24",
@@ -1977,7 +2223,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:6aff37a02d6e",
@@ -2000,7 +2252,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:36c3e0a27c12",
@@ -2023,7 +2281,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:8d847399f2fe",
@@ -2046,7 +2310,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d56037f0e6d1",
@@ -2069,7 +2334,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:99322fe935f9",
@@ -2092,7 +2358,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:be72730b9dc0",
@@ -2115,7 +2382,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:253235188049",
@@ -2138,7 +2409,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:631dc7101ff0",
@@ -2161,7 +2433,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:e50ff9c7c53a",
@@ -2184,7 +2457,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:b39d594bc9ef",
@@ -2207,7 +2481,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:2ee40d44f859",
@@ -2230,7 +2505,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:4ce4f3a31419",
@@ -2253,7 +2529,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:0b268f0d465d",
@@ -2276,7 +2553,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d098581ed5de",
@@ -2299,7 +2577,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:861953b1d36f",
@@ -2322,7 +2604,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:607fcaf048fd",
@@ -2345,7 +2628,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c062319bfd3f",
@@ -2368,7 +2652,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d3d6db2c5216",
@@ -2391,7 +2676,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:be58c4800ad5",
@@ -2414,7 +2700,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:be10fcdee282",
@@ -2437,7 +2724,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:f4716a4d9620",
@@ -2460,7 +2753,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:82aa7f4be6d8",
@@ -2483,7 +2777,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "A student who has passed a programme of study successfully and wishes to register for another programme of study may apply for recognition of up to 50%"
+      ],
+      "pricing": {
+        "amount_min": 2008,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:1586aa7cdf9f",
@@ -2506,7 +2809,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:a8de045a9751",
@@ -2529,7 +2833,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:d051085dba4c",
@@ -2552,7 +2860,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:56e4080cb77f",
@@ -2575,7 +2884,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:3ffa9a9ced20",
@@ -2598,7 +2908,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:55234c09c707",
@@ -2621,7 +2932,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:348b094e5bc2",
@@ -2644,7 +2956,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:5adbe166d08b",
@@ -2667,7 +2980,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:82ff6acb7a2e",
@@ -2690,7 +3007,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:cfd555dd9d3e",
@@ -2713,7 +3034,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:1861dcbf207a",
@@ -2736,7 +3058,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:d4de57c6fa70",
@@ -2759,7 +3087,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:8aafefe370dd",
@@ -2782,7 +3111,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:2d34d2ae0c66",
@@ -2805,7 +3135,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:42cf6f2e8fd0",
@@ -2828,7 +3159,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:712059274b25",
@@ -2851,7 +3186,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 OFFICE OF THE VICE"
+      ]
     },
     {
       "id": "prog:edebfd144cc6",
@@ -2874,7 +3213,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:2e7caffa14ba",
@@ -2897,7 +3237,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:6941e0ae5773",
@@ -2920,7 +3261,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:fab7772c3638",
@@ -2943,7 +3285,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:de715b9f7836",
@@ -2966,7 +3312,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:52beb93bf788",
@@ -2989,7 +3336,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:7db5525b0b9e",
@@ -3012,7 +3360,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 REGISTRAR"
+      ]
     },
     {
       "id": "prog:72e8ccaa2799",
@@ -3035,7 +3387,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:f312d134dba2",
@@ -3058,7 +3414,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:b4331a095a73",
@@ -3081,7 +3438,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:5da6af090551",
@@ -3104,7 +3465,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:72c20dcc5d89",
@@ -3127,7 +3489,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:e3fa430dcf93",
@@ -3150,7 +3516,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:689073fed2b0",
@@ -3173,7 +3540,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:73dbd78d88e9",
@@ -3196,7 +3569,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:bb274fa87284",
@@ -3219,7 +3593,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:e1a34b4cb276",
@@ -3242,7 +3617,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:e544d7fb370f",
@@ -3265,7 +3641,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c101c8c77066",
@@ -3288,7 +3665,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:6714fa653c31",
@@ -3311,7 +3689,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:194e3682be27",
@@ -3334,7 +3713,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Degree|970f519c2cad|ba",
@@ -3357,7 +3740,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|b96fe76d97df|ba (hons)",
@@ -3380,7 +3764,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Advanced Diploma|2a7515a1c04b|bachelor of technology and advanced diploma",
@@ -3403,7 +3791,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Rules and Regulations",
+        "1 Bachelor of Technology and Advanced Diplo",
+        "2 Post Graduate Diploma",
+        "3 Master"
+      ]
     },
     {
       "id": "prog:342:Advanced Diploma|2fefa2388462|bachelor of technology and advanced diploma…………….…………………………………… 68",
@@ -3426,7 +3821,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Rules and Regulations",
+        "1 Bachelor of Technology and Advanced Diplo",
+        "2 Post Graduate Diploma",
+        "3 Master"
+      ]
     },
     {
       "id": "prog:342:Degree|0f163d44538f|bachelor of technology degree if he is in possession",
@@ -3449,7 +3851,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 POST GRADUATE DIPLOMA a",
+        "A student shall pass a course with distinction if he obtained a final mark of 75%",
+        "A student shall be awarded a degree cum laude if his achievement in each subject assessed over his period of study is 75%"
+      ]
     },
     {
       "id": "prog:342:Degree|1548da813807|bachelor of technology degree or has been granted status (rule g18(b)(i) refers)",
@@ -3472,7 +3880,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 POST GRADUATE DIPLOMA a",
+        "A student shall pass a course with distinction if he obtained a final mark of 75%",
+        "A student shall be awarded a degree cum laude if his achievement in each subject assessed over his period of study is 75%"
+      ]
     },
     {
       "id": "prog:342:Degree|ffa2787703ec|bachelor of technology degree shall be those contained in rules g.22 and g23.",
@@ -3495,7 +3909,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 POST GRADUATE DIPLOMA a",
+        "A student shall pass a course with distinction if he obtained a final mark of 75%",
+        "A student shall be awarded a degree cum laude if his achievement in each subject assessed over his period of study is 75%"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|4df51294ddc2|bcom (hons)",
@@ -3518,7 +3938,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:342:Degree|5f75057e98ee|bsc",
@@ -3541,7 +3965,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|10b86092bcd6|bsc (hons)",
@@ -3564,7 +3994,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Degree|2c3bbd231bb4|btech",
@@ -3587,7 +4023,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|c97f01493d34|doctorate degrees, irrespective of whether it is a coursework or research qualif",
@@ -3610,7 +4047,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 Post",
+        "7 Researcher A researcher is a person who",
+        "8 Academic Integrity Academic Integrity is"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|b7fa677367df|hons (carleton), ma(carleton),",
@@ -3633,7 +4076,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|b7c0d7f82df3|hons (ukzn)",
@@ -3656,7 +4103,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|b9655e85c8fa|hons (ukzn), m ed (ukzn)",
@@ -3679,7 +4130,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|19bb1167e6aa|hons (ukzn), ma",
@@ -3702,7 +4157,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|246ae4008d49|hons lis(ukzn)",
@@ -3725,7 +4184,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|4791d8652bc6|hons)",
@@ -3748,7 +4211,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|176f519c2342|hons) (su)",
@@ -3771,7 +4238,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|6702e21ec60f|hons) (udw)",
@@ -3794,7 +4262,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|ca4e69acb739|hons) (udw), ma (und), ma",
@@ -3817,7 +4289,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|3a4290f36011|hons) (udw), sabpp",
@@ -3840,7 +4316,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|b5a1395ffa59|hons) (ukzn)",
@@ -3863,7 +4343,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|682affba81f2|hons) (ukzn), mis (ukzn)",
@@ -3886,7 +4370,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|03bcf0bff106|hons) (unisa)",
@@ -3909,7 +4397,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|eae41d34382d|hons) (unisa) pgd (ukzn)",
@@ -3932,7 +4421,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|5ddb814dd6d1|hons) (up)",
@@ -3955,7 +4450,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|fdd0a83ada77|hons) (uz)",
@@ -3978,7 +4477,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|7c414a42dc6f|hons) agric, agric",
@@ -4001,7 +4506,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|79ed493f2438|hons) mis",
@@ -4024,7 +4530,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|072d4dc051bd|hons) ukzn",
@@ -4047,7 +4557,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|87be620c4d54|hons)(ukzn)",
@@ -4070,7 +4584,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|3d592e6b33f8|hons), geo & reg plan",
@@ -4093,7 +4611,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 The HoD must consult the Teaching and Lea",
+        "admission of the student as indicated in 6",
+        "1 and",
+        "2 above",
+        "4 After consultation by the HoD",
+        "5 The HoD must submit evidence of",
+        "2 and",
+        "4 to the Faculty Appeals Committee for app"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|90783486b4b0|mba",
@@ -4116,7 +4645,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|7abfc966003b|mba (bcuc, uk), m.ed. (ukzn)",
@@ -4139,7 +4669,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|6233545259cc|mba (dut)",
@@ -4162,7 +4693,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|292643ffb3c6|mba (mancosa) saipa",
@@ -4185,7 +4717,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|e5e2ef217623|mba (regent),",
@@ -4208,7 +4741,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|bb0e3befedfe|mba (udw)",
@@ -4231,7 +4765,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|6ec259b38525|mba (ukzn)",
@@ -4254,7 +4789,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|38321a4e0c51|mba (ukzn), btech (mut)",
@@ -4277,7 +4813,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|f4e4aa899627|mba (uq),",
@@ -4300,7 +4840,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|e422fd227a58|mcom",
@@ -4323,7 +4864,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|dbf95a7e50ff|mcom (is&t)",
@@ -4346,7 +4888,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|4bcd8e939c34|mcom (nwu)",
@@ -4369,7 +4912,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|928f2c965e7c|mcom (ukzn)",
@@ -4392,7 +4936,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|6c877d306a78|mcom (ukzn)*",
@@ -4415,7 +4960,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|3124bd9afd01|mcom (ukzn), sabpp",
@@ -4438,7 +4984,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|accb50700c49|mcom (unisa)",
@@ -4461,7 +5008,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|00f675ea88c0|mcom hrm (ukzn)",
@@ -4484,7 +5032,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|d7b830526c88|mcom) (ukzn) (sace)",
@@ -4507,7 +5056,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|8fcd0a688595|mcom, mphil, msc (ukzn)",
@@ -4530,7 +5080,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|e830f2cbc8e6|mphil ( uj)",
@@ -4553,7 +5104,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 REGISTRAR"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|09031b645151|mphil (su)",
@@ -4577,7 +5132,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s Degree (NQF Level 9",
+        "credits) Post Graduate Diploma NQF Level 8",
+        "Credits) Advanced Diploma 4",
+        "Years NQF Level 7",
+        "credits) Diploma 3",
+        "years NQF Level 6"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|66d199f3caf3|mphil (zim), pg",
@@ -4600,7 +5164,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|23b1d728a4d7|mphil,",
@@ -4623,7 +5193,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|b9102d94f98d|msc (agric) (ukzn)",
@@ -4646,7 +5217,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|8c7eb5b854ac|msc (agric) (up)",
@@ -4669,7 +5241,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|ed165932375f|msc (agric) (uz)",
@@ -4692,7 +5265,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|11a56c1cda21|msc (au)",
@@ -4715,7 +5289,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|651467a23140|msc (dut), btech (mut), ndip",
@@ -4738,7 +5313,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|abdf33a0d665|msc (kzn)",
@@ -4761,7 +5337,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|26e2e3412a4c|msc (luton un, uk), phd (ukzn).",
@@ -4784,7 +5361,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|1559b24b9f52|msc (mgu, india); bsc",
@@ -4807,7 +5390,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|3519b1240279|msc (nmmu), bsc hons (uz, zim),",
@@ -4830,7 +5419,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|8a69d6ddff9f|msc (ufs)",
@@ -4853,7 +5448,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|f5ae13ed0c79|msc (uj)",
@@ -4876,7 +5472,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|7cc2c31754c8|msc (ukzn)",
@@ -4899,7 +5496,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|c105928bff86|msc (ukzn), ca (sa)",
@@ -4922,7 +5520,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|088a3aff33d8|msc (unisa)",
@@ -4945,7 +5547,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|56cfabc5fcf7|msc (unizulu)",
@@ -4968,7 +5571,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|f448e22224e8|msc (up)",
@@ -4991,7 +5595,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|98dd282e2b01|msc (uwc)",
@@ -5014,7 +5619,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|67e9daa52856|msc (uz)",
@@ -5037,7 +5643,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|387270c6d950|msc (uz) msaimeche",
@@ -5060,7 +5667,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|35f5094ae33f|msc (uz), msaimeche",
@@ -5083,7 +5691,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|cfcd19cb8436|msc (uz), msaimeche, pr eng",
@@ -5106,7 +5715,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|300a4d32635d|msc agric (nwu)",
@@ -5129,7 +5742,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|a824dba88905|msc agric econ,(ukzn)",
@@ -5152,7 +5766,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|3a93fdf71aed|msc eng (ukzn)",
@@ -5175,7 +5790,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|a1c1d65e7ab3|msc(esiee/f’sati)",
@@ -5198,7 +5814,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|30576e93db9b|msc. (uz)",
@@ -5221,7 +5838,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|8c30f50ee2b1|msc. pgdip te",
@@ -5244,7 +5862,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|38d4748b91f2|msc.sport sc. (ukzn)",
@@ -5267,7 +5891,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|0c2db2d9c990|phd",
@@ -5290,7 +5915,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|242816e611e0|phd (agric.) (ukzn)",
@@ -5313,7 +5939,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|a1ef853a4f71|phd (dic)",
@@ -5336,7 +5963,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|28d922090811|phd (dut)",
@@ -5359,7 +5990,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|d78e35942293|phd (dut) (masa)",
@@ -5382,7 +6014,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|4dac0c19db5f|phd (dut), mba (ukzn)",
@@ -5405,7 +6038,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|754b23bd6afa|phd (dut), saipa, saaa",
@@ -5428,7 +6062,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|5b6569f1fdd1|phd (dut); mtech (dut) nhd,",
@@ -5451,7 +6086,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|8724f5088367|phd (mcgill)",
@@ -5474,7 +6110,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|0529d0b8fba3|phd (nottingham, uk)",
@@ -5497,7 +6137,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|1be13daa79a8|phd (pub & dev mgt) (su)",
@@ -5520,7 +6164,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|e522bbc69590|phd (ru)",
@@ -5543,7 +6188,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|41cc70da1af4|phd (uct)",
@@ -5566,7 +6217,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|02fd9c3fca72|phd (ufh)",
@@ -5589,7 +6241,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|d1ac26d8a4b5|phd (ufs)",
@@ -5612,7 +6265,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|833cda95d999|phd (ufs), msc(futo), bsc",
@@ -5635,7 +6289,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 RESOURCES AND PLANNING DEPUTY VICE"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|1d50686b7b17|phd (uhn)",
@@ -5658,7 +6316,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "1 OFFICE OF THE VICE"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|7e32dfea43f0|phd (ukzn",
@@ -5681,7 +6343,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|309cffea4eeb|phd (ukzn)",
@@ -5704,7 +6367,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|8a2efd989919|phd (ukzn) (masa)",
@@ -5727,7 +6391,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|55a8d6c13be9|phd (ukzn),",
@@ -5750,7 +6415,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|1657560cbe07|phd (ukzn), (saapam)",
@@ -5773,7 +6439,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|82e709df7a5f|phd (ukzn), msaimeche",
@@ -5796,7 +6466,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|ab7a93acf1d9|phd (ukzn), sabpp",
@@ -5819,7 +6490,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|753f76c4bd47|phd (ul)",
@@ -5842,7 +6514,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "6 REGISTRAR"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|856d94b54fa6|phd (und)",
@@ -5865,7 +6541,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|d9a5206ac7d4|phd (unisa),",
@@ -5888,7 +6568,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|59a83a2ec3ce|phd (up)",
@@ -5911,7 +6592,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|5f2a5a69ae3b|phd (usl)",
@@ -5934,7 +6619,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|1588275060a4|phd (uz)",
@@ -5957,7 +6643,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|5cf8835a53e1|phd (wits)",
@@ -5980,7 +6670,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|4c95d686520e|phd (wits), llb (ukzn) (attorney",
@@ -6003,7 +6694,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|63aad59db144|phd agri. econ. (ufh)",
@@ -6026,7 +6723,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|bb0348227965|phd agric, agric ext (ufh); m",
@@ -6049,7 +6747,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|cd5f9a656fe5|phd) (da vinci institute of technology)",
@@ -6072,7 +6771,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|5573b23c98f7|phd) ukzn",
@@ -6095,7 +6795,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|89f7a75c681c|phd) unisa",
@@ -6118,7 +6819,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|8c930f6bd9cc|phd, msc (ukzn)",
@@ -6141,7 +6843,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|fa7969fa91fa|phd, r.eng",
@@ -6164,7 +6867,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 ACADEMIC STAFF FACULTY OF ENGINEERING"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|dd0a7fa9c499|hons (carleton), ma(carleton)",
@@ -6187,7 +6894,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|8116a47c422b|mba (regent)",
@@ -6210,7 +6921,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|508390bc42cd|mba (uq)",
@@ -6233,7 +6945,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|50cb7135ef50|mphil",
@@ -6256,7 +6969,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|ba135ea18195|msc (nmmu), bsc hons (uz, zim)",
@@ -6279,7 +6993,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 RESEARCH",
+        "MATHEMATICS AND SCIENCE EDUCATION UNIT : Vacant SECRETARY : Mrs CN Majozi NDip (MUT) BTech (DUT) CHEMISTRY LECTURER : Ms A Ramrung, M Tech (DUT); PGDip (RU) PHYSICS LECTURER",
+        "MATHEMATICS AND BASIC NUMERACY LECTURER : Dr D Hove, MSc (NMMU), BSc Hons (UZ, Zim), PGDip (HE) (RU), BSc (UNISA) 10"
+      ]
     },
     {
       "id": "prog:342:Postgraduate|7ea80e3b977e|phd (dut); mtech (dut) nhd",
@@ -6302,7 +7022,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:342:Postgraduate|2a25c7cc312f|phd (unisa)",
@@ -6325,7 +7046,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     }
   ],
   "admission": {
@@ -6351,15 +7073,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:57Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:58:35Z",
     "test_mode": false,
-    "completeness_before": 0.1,
-    "completeness_after": 0.117,
-    "improvement": 0.016,
-    "fields_enriched": 66,
+    "points_system": "aps_points",
+    "completeness_before": 0.103,
+    "completeness_after": 0.128,
+    "improvement": 0.025,
+    "fields_enriched": 114,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/mangosuthu-university-of-technology.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/mangosuthu-university-of-technology.pdf"
     ]
   }
 }

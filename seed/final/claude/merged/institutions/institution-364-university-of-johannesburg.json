@@ -230,7 +230,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:008732e940e7",
@@ -253,7 +254,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) B ARCHITECTURE B",
+        "3 years) BA (COMMUNICATION DESIGN) B",
+        "with Mathematical Literacy 5",
+        "Mathematics OR 26 with Mathematical Literacy 5 (60%+) 3 (40%+) 4 (50%+) Not",
+        "cost housing projects to"
+      ]
     },
     {
       "id": "prog:cef2e434d535",
@@ -276,7 +285,26 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Tech Maths 5",
+        "4 Not accepted",
+        "5 Diploma in Fashion Production (D",
+        "with Maths Lit 5",
+        "4 Not accepted Diploma in Jewellery Design",
+        "5 B Arch (Architecture) (B",
+        "5 Not accepted Not accepted BA (Communicati",
+        "4 Not accepted BA (Digital Media Design) (",
+        "4 Not accepted BA (Fashion Design) (B",
+        "5 Not accepted BA (Industrial Design) (B",
+        "Mathematics ** Mathematics Mathematical Literacy English * Diploma in Architecture (D8AT1Q) 25 with Maths or 26 with Tech Maths 5 4 Not accepted 5 Diploma in Fashion Production (D8FP1Q) 22 with Maths or 23",
+        "Maths Lit 5 3 4 Not accepted Diploma in Jewellery Design and Manufacture (D8JD1Q) 20 with Maths or 21 with Maths Lit or 22 with Tech Maths 5 3 4 5 B Arch (Architecture) (B8BA3Q) 30 5 5 Not accepted Not ac",
+        "Maths or 26 with Maths Lit 5 3 4 Not accepted BA (Digital Media Design) (B8DM3Q) 25 with Maths or 26 with Maths Lit 5 3 4 Not accepted BA (Fashion Design) (B8FD1Q) 25 with Maths or 26 with Maths Lit 5 4 5",
+        "Maths or 26 with Maths Lit",
+        "Mathematics",
+        "Diploma in Architecture"
+      ]
     },
     {
       "id": "prog:3d075bedb179",
@@ -310,7 +338,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s minimum admission requirements including the Admission Points Score (APS) and the achievement ratings of the 6",
+        "an achievement rating of 5",
+        "For all other fundamental and vocational categories an achievement rating of 4",
+        "English, an achievement rating of 5 (80-100%) is required or 1st Additional Language, an achievement rating of 5 (80-100%) is required",
+        "100%) is required or 1st",
+        "100%) is required. For all other fundamental and vocational"
+      ]
     },
     {
       "id": "prog:d5c55384021a",
@@ -339,7 +376,15 @@
         "printmaking and print studio management, paper",
         "making and paper production design, community"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematical Literacy 5",
+        "Mathematics Mathematical Literacy Technical Mathematics ** CAREER CAMPUS English * BA (INTERIOR DESIGN) B8BA6Q 25 with Mathematics OR 26 with Mathematical Literacy 5 (60%+) 4 (50%+) 5 (60%+) Not accepted Inter",
+        "Mathematics OR 26 with Mathematical Literacy 5 (60%+) 4 (50%+) 5 (60%+) Not accepted A degree in fashion design prepares graduates for various career possibilities in the fast- paced fashion industry",
+        "CAREER",
+        "BA (INTERIOR"
+      ]
     },
     {
       "id": "prog:496eaa3e3cca",
@@ -362,7 +407,26 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Tech Maths 5",
+        "4 Not accepted",
+        "5 Diploma in Fashion Production (D",
+        "with Maths Lit 5",
+        "4 Not accepted Diploma in Jewellery Design",
+        "5 B Arch (Architecture) (B",
+        "5 Not accepted Not accepted BA (Communicati",
+        "4 Not accepted BA (Digital Media Design) (",
+        "4 Not accepted BA (Fashion Design) (B",
+        "5 Not accepted BA (Industrial Design) (B",
+        "Mathematics ** Mathematics Mathematical Literacy English * Diploma in Architecture (D8AT1Q) 25 with Maths or 26 with Tech Maths 5 4 Not accepted 5 Diploma in Fashion Production (D8FP1Q) 22 with Maths or 23",
+        "Maths Lit 5 3 4 Not accepted Diploma in Jewellery Design and Manufacture (D8JD1Q) 20 with Maths or 21 with Maths Lit or 22 with Tech Maths 5 3 4 5 B Arch (Architecture) (B8BA3Q) 30 5 5 Not accepted Not ac",
+        "Maths or 26 with Maths Lit 5 3 4 Not accepted BA (Digital Media Design) (B8DM3Q) 25 with Maths or 26 with Maths Lit 5 3 4 Not accepted BA (Fashion Design) (B8FD1Q) 25 with Maths or 26 with Maths Lit 5 4 5",
+        "Maths or 26 with Maths Lit",
+        "Mathematics",
+        "Diploma in Architecture"
+      ]
     },
     {
       "id": "prog:3e0f3e576566",
@@ -385,7 +449,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematical Literacy 5",
+        "Mathematics Mathematical Literacy Technical Mathematics ** CAREER CAMPUS English * BA (INTERIOR DESIGN) B8BA6Q 25 with Mathematics OR 26 with Mathematical Literacy 5 (60%+) 4 (50%+) 5 (60%+) Not accepted Inter",
+        "Mathematics OR 26 with Mathematical Literacy 5 (60%+) 4 (50%+) 5 (60%+) Not accepted A degree in fashion design prepares graduates for various career possibilities in the fast- paced fashion industry",
+        "CAREER",
+        "BA (INTERIOR"
+      ]
     },
     {
       "id": "prog:12992b69b603",
@@ -419,7 +491,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "After completing a 3",
+        "year BCom (Law) or BA (Law) degree students can register for an LLB degree and will be able to complete this degree within a further 2",
+        "thus obtaining two qualifications within 5"
+      ]
     },
     {
       "id": "prog:2ff170cf228d",
@@ -448,7 +526,13 @@
         "printmaking and print studio management, paper",
         "making and paper production design, community"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematical Literacy 5",
+        "Maths / Tech Maths OR 26 with Mathematical Literacy 5 (60%+) 3 (40%+) 4 (50%+) 3 (40%+) Visual Art graduates find work in diverse fields of the visual arts industries",
+        "maths or maths literacy as a matric subject for international admission into the BA in Visu"
+      ]
     },
     {
       "id": "prog:ec84ac358075",
@@ -482,7 +566,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Minimum APS Compulsory 1",
+        "Language and Maths/Maths Literacy Mathematics/ Mathematical Literacy Subject 1",
+        "Subject 2",
+        "Subject 3",
+        "Subject 4",
+        "4 in all of the other subjects DIPLOMA IN P",
+        "4 in all of the other subjects EXTENDED DIP",
+        "4 in all of the other subjects AMENDED SENI",
+        "Maths/Maths Literacy Mathematics/ Mathematical Literacy Subject 1 Subject 2 Subject 3 Subject 4 Languages (Must comply with NASCA minimum requirements) Language of Teaching and Learning Or Other Rec",
+        "Degree"
+      ]
     },
     {
       "id": "prog:d22fb4f4d84f",
@@ -511,7 +608,13 @@
         "printmaking and print studio management, paper",
         "making and paper production design, community"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Mathematical Literacy 5",
+        "Maths / Tech Maths OR 26 with Mathematical Literacy 5 (60%+) 3 (40%+) 4 (50%+) 3 (40%+) Visual Art graduates find work in diverse fields of the visual arts industries",
+        "maths or maths literacy as a matric subject for international admission into the BA in Visu"
+      ]
     },
     {
       "id": "prog:ec03075624c6",
@@ -539,7 +642,16 @@
         "industry.",
         "JEWELLERY"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) ARCHITECTURE D",
+        "with Tech Maths 5",
+        "Not accepted 5",
+        "with Maths Lit 5",
+        "Maths OR 26 with Tech Maths 5 (60%+) 4 (50%+) Not accepted 5 (60%+) Architectural Practitioners design simple buildings and produce technological details",
+        "Maths OR 23 with Maths Lit 5 (60%+) 3 (40%+) 4 (50%+) Not accepted Fashion Production Graduates can be involved in the business, manufacturing, retail and quality assurance aspects of the clothing ind"
+      ]
     },
     {
       "id": "prog:4b95aca35f64",
@@ -573,7 +685,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) BIOKINETICS B",
+        "with Mathematical Literacy 5",
+        "4 years) DIAGNOSTIC RADIOGRAPHY B",
+        "with Mathematics 5",
+        "English Mathematics Mathematical Literacy CAREER CAMPUS DEGREE PROGRAMMES Bachelor of Biokinetics (4 years) BIOKINETICS B9S15Q 32 with Mathematics OR 33 with Mathem",
+        "English Mathematics Physical Sciences Life Sciences CAREER CAMPUS Bachelor Degree (4 years) DIAGNOSTIC RADIOGRAPHY B9M01Q 31 with Mathematics 5 ("
+      ]
     },
     {
       "id": "prog:5a189b77472f",
@@ -607,7 +728,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) ENVIRONMENTAL HEAL TH B",
+        "Not accepted 4",
+        "English Mathematics Mathematics Literacy Physical Sciences Life Sciences CAREER CAMPUS Bachelor of Environmental Health (4 years) ENVIRONMENTAL HEAL TH B9ENV1 24 4 (50%+) 4 (50%+) Not accepted 4 (50%+) 4 (5"
+      ]
     },
     {
       "id": "prog:5757d0eb002f",
@@ -647,7 +774,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Mathematics Mathematics Literacy Physical Sciences Life Sciences Technical Mathematics Technical Science CAREER CAMPUS PROGRAMME Qualification Code Minimum APS English Mathematics Mathematical Liter"
+      ]
     },
     {
       "id": "prog:eb0ebd94019d",
@@ -676,7 +807,11 @@
         "of visual related irregularities, such",
         "as vision defects, abnormalities"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Mathematics Mathematics Literacy Physical Sciences Life Sciences Technical Mathematics Technical Science CAREER CAMPUS PROGRAMME Qualification Code Minimum APS English Mathematics Mathematical Liter"
+      ]
     },
     {
       "id": "prog:66b61506bb4b",
@@ -713,7 +848,22 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) Hospitality Management B",
+        "of the 7",
+        "3 Y ears) Business Management B",
+        "HNQ 70%",
+        "HRP 70%",
+        "HRQ 70%",
+        "TDQ 70%",
+        "BMQ 70%",
+        "70% N/A",
+        "CEMQ 70%",
+        "INQ 70%",
+        "English Mathematics OR Mathematical Literacy Mathe- matics Mathemati- cal Literacy DEGREE PROGRAMMES Bachelor Degree (3 years) Hospitality Management B34HNQ 70% 70% 80% 70% in 5 of the 7 fundamental and"
+      ]
     },
     {
       "id": "prog:e7ba71d7e8ff",
@@ -736,7 +886,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) MINE SURVEYING B",
+        "3 years) CONSTRUCTION B",
+        "3 years) URBAN AND REGIONAL PLANNING B",
+        "Not applicable 5",
+        "English Mathematics / Technical Mathematics Physical Sciences OR Technical Science Geography CAREER CAMPUS Bachelor of Mine Surveying Degree (3 years) MINE SURVEYING B6SU0Q 23 4 (50%+) 5 (60%+) 5 (60%+) OR"
+      ]
     },
     {
       "id": "prog:6ced3ac89bb9",
@@ -776,7 +934,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) ENVIRONMENTAL HEAL TH B",
+        "Not accepted 4",
+        "English Mathematics Mathematics Literacy Physical Sciences Life Sciences CAREER CAMPUS Bachelor of Environmental Health (4 years) ENVIRONMENTAL HEAL TH B9ENV1 24 4 (50%+) 4 (50%+) Not accepted 4 (50%+) 4 (5"
+      ]
     },
     {
       "id": "prog:5f3710952c17",
@@ -810,7 +974,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) SOCIAL WORK B",
+        "3 years) BA B",
+        "English CAREER CAMPUS DEGREE PROGRAMMES Bachelor of Social Work (4 years) SOCIAL WORK B7025Q 31 5 (60%+) Social Worker in Private Sector, Welfare Organisations and Government or Non-Governmental Organis",
+        "English Mathematics CAREER CAMPUS Bachelor of Arts (3 years) BA B7023Q 27 5 (60%+) Technical Mathematics",
+        "Governmental Organisations."
+      ]
     },
     {
       "id": "prog:cc542285668a",
@@ -833,7 +1005,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) MINE SURVEYING B",
+        "3 years) CONSTRUCTION B",
+        "3 years) URBAN AND REGIONAL PLANNING B",
+        "Not applicable 5",
+        "English Mathematics / Technical Mathematics Physical Sciences OR Technical Science Geography CAREER CAMPUS Bachelor of Mine Surveying Degree (3 years) MINE SURVEYING B6SU0Q 23 4 (50%+) 5 (60%+) 5 (60%+) OR"
+      ]
     },
     {
       "id": "prog:de289f93e189",
@@ -867,7 +1047,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%",
+        "Maths 50% and 2b"
+      ]
     },
     {
       "id": "prog:01627366d222",
@@ -907,7 +1094,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) ACCOUNTANCY",
+        "D3A15Q"
+      ]
     },
     {
       "id": "prog:6b7563f44106",
@@ -947,7 +1139,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "After completing a 3",
+        "year BCom (Law) or BA (Law) degree students can register for an LLB degree and will be able to complete this degree within a further 2",
+        "thus obtaining two qualifications within 5"
+      ]
     },
     {
       "id": "prog:a1b61d748c2a",
@@ -987,7 +1185,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%",
+        "Maths 50% and 2b"
+      ]
     },
     {
       "id": "prog:5e76235ca756",
@@ -1010,7 +1215,22 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) Hospitality Management B",
+        "of the 7",
+        "3 Y ears) Business Management B",
+        "HNQ 70%",
+        "HRP 70%",
+        "HRQ 70%",
+        "TDQ 70%",
+        "BMQ 70%",
+        "70% N/A",
+        "CEMQ 70%",
+        "INQ 70%",
+        "English Mathematics OR Mathematical Literacy Mathe- matics Mathemati- cal Literacy DEGREE PROGRAMMES Bachelor Degree (3 years) Hospitality Management B34HNQ 70% 70% 80% 70% in 5 of the 7 fundamental and"
+      ]
     },
     {
       "id": "prog:01fd3eac4f69",
@@ -1033,7 +1253,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%",
+        "Maths 50% and 2b"
+      ]
     },
     {
       "id": "prog:6946cc74dc97",
@@ -1067,7 +1294,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%",
+        "Maths 50% and 2b"
+      ]
     },
     {
       "id": "prog:4b217a0247d1",
@@ -1107,7 +1341,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Maths = 3  English = 3  Applicants younger than 23 will be handled on an Ad-hoc basis",
+        "will be considered if the",
+        "hoc basis.",
+        "Mature age conditional exemptions as per par. 30"
+      ]
     },
     {
       "id": "prog:51cb0a559e76",
@@ -1130,7 +1371,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ]
     },
     {
       "id": "prog:1dfec16328a5",
@@ -1153,7 +1400,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ]
     },
     {
       "id": "prog:c8de8d1f3d37",
@@ -1176,7 +1429,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ]
     },
     {
       "id": "prog:6dc393030f49",
@@ -1199,7 +1458,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ]
     },
     {
       "id": "prog:bccb30defe05",
@@ -1222,7 +1487,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) CIVIL ENGINEERING B",
+        "English Mathematics / Technical Mathematics Physical Sciences OR Technical Science CAREER CAMPUS DEGREE PROGRAMMES Bachelor of Engineering (BEng) Degree (4 years) CIVIL ENGINEERING B6CISQ 32 5 (60%+) 5 (6"
+      ]
     },
     {
       "id": "prog:94e1410ccd99",
@@ -1245,7 +1515,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
+      ]
     },
     {
       "id": "prog:e1ebbdeceacb",
@@ -1268,7 +1544,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:3a548a6f3fa2",
@@ -1296,6 +1573,12 @@
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ]
     },
     {
@@ -1324,6 +1607,12 @@
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ]
     },
     {
@@ -1363,6 +1652,14 @@
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science",
+        "Life Science",
+        "4 (50%+)/"
       ]
     },
     {
@@ -1399,6 +1696,14 @@
         "subject_or_groups": []
       },
       "modules": [
+        "Physical Science",
+        "Life Science",
+        "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
@@ -1450,6 +1755,14 @@
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
+        "Physical Science",
+        "Life Science",
+        "4 (50%+)/"
       ]
     },
     {
@@ -1495,6 +1808,14 @@
         ]
       },
       "modules": [
+        "Physical Science",
+        "Life Science",
+        "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
@@ -1546,6 +1867,12 @@
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ]
     },
     {
@@ -1594,6 +1921,12 @@
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ]
     },
     {
@@ -1639,6 +1972,14 @@
         ]
       },
       "modules": [
+        "Physical Science",
+        "Life Science",
+        "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
@@ -1690,6 +2031,12 @@
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
       ]
     },
     {
@@ -1724,7 +2071,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) ACCOUNTANCY",
+        "D3A15Q"
+      ]
     },
     {
       "id": "prog:7bfe7b816ff1",
@@ -1758,7 +2110,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) ACCOUNTANCY",
+        "D3A15Q"
+      ]
     },
     {
       "id": "prog:20bc990b3d17",
@@ -1797,7 +2154,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with Tech Maths 5",
+        "4 Not accepted",
+        "5 Diploma in Fashion Production (D",
+        "with Maths Lit 5",
+        "4 Not accepted Diploma in Jewellery Design",
+        "5 B Arch (Architecture) (B",
+        "5 Not accepted Not accepted BA (Communicati",
+        "4 Not accepted BA (Digital Media Design) (",
+        "4 Not accepted BA (Fashion Design) (B",
+        "5 Not accepted BA (Industrial Design) (B",
+        "Mathematics ** Mathematics Mathematical Literacy English * Diploma in Architecture (D8AT1Q) 25 with Maths or 26 with Tech Maths 5 4 Not accepted 5 Diploma in Fashion Production (D8FP1Q) 22 with Maths or 23",
+        "Maths Lit 5 3 4 Not accepted Diploma in Jewellery Design and Manufacture (D8JD1Q) 20 with Maths or 21 with Maths Lit or 22 with Tech Maths 5 3 4 5 B Arch (Architecture) (B8BA3Q) 30 5 5 Not accepted Not ac",
+        "Maths or 26 with Maths Lit 5 3 4 Not accepted BA (Digital Media Design) (B8DM3Q) 25 with Maths or 26 with Maths Lit 5 3 4 Not accepted BA (Fashion Design) (B8FD1Q) 25 with Maths or 26 with Maths Lit 5 4 5",
+        "Maths or 26 with Maths Lit",
+        "Mathematics",
+        "Diploma in Architecture"
+      ]
     },
     {
       "id": "prog:a9cd20010f7d",
@@ -1846,7 +2222,16 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "A NCV (level 4",
+        "for 5",
+        "of the 7",
+        "An achievement of at least 70%",
+        "English as Language of Teaching and Learning/First Additional Language, and one additional language",
+        "Mathematics – taken as a fundamental subject"
+      ]
     },
     {
       "id": "prog:45c0e0e17469",
@@ -1886,7 +2271,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%",
+        "Maths 50% and 2b"
+      ]
     },
     {
       "id": "prog:e9c0751ebcd3",
@@ -1938,6 +2330,10 @@
       },
       "modules": [
         "It is recommended that applicants to the"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "and 2"
       ]
     },
     {
@@ -1977,7 +2373,16 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) ARCHITECTURE D",
+        "with Tech Maths 5",
+        "Not accepted 5",
+        "with Maths Lit 5",
+        "Maths OR 26 with Tech Maths 5 (60%+) 4 (50%+) Not accepted 5 (60%+) Architectural Practitioners design simple buildings and produce technological details",
+        "Maths OR 23 with Maths Lit 5 (60%+) 3 (40%+) 4 (50%+) Not accepted Fashion Production Graduates can be involved in the business, manufacturing, retail and quality assurance aspects of the clothing ind"
+      ]
     },
     {
       "id": "prog:9ebbd65fe120",
@@ -2014,7 +2419,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics Mathematical Literacy Technical Mathematics ** CAREER CAMPUS English * Image: Black Chronicles IV (Curated by Renée Mussai of Autograph ABP , London), FADA Gallery, 2018, Photo by UJ Photographic Se",
+        "CAREER",
+        "Image: Black Chronicles IV (Curated by Renée Mussai of Autograph ABP ,"
+      ]
     },
     {
       "id": "prog:deec6dbed9b3",
@@ -2062,6 +2473,10 @@
       },
       "modules": [
         "It is recommended that applicants to the"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "It is recommended that applicants to the"
       ]
     },
     {
@@ -2086,7 +2501,13 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "4 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "English, determines the range of the overall APS score"
+      ]
     },
     {
       "id": "prog:594c0a3c09f8",
@@ -2110,7 +2531,13 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "4 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "English, determines the range of the overall APS score"
+      ]
     },
     {
       "id": "prog:9142581c35e7",
@@ -2134,7 +2561,13 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "4 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "English, determines the range of the overall APS score"
+      ]
     },
     {
       "id": "prog:09dd57bbf60a",
@@ -2158,7 +2591,13 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "4 years) PUBLIC RELATIONS AND COMMUNICATIO",
+        "English, determines the range of the overall APS score"
+      ]
     },
     {
       "id": "prog:4fc4e9096795",
@@ -2206,6 +2645,10 @@
       },
       "modules": [
         "It is recommended that applicants to the"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "It is recommended that applicants to the"
       ]
     },
     {
@@ -2231,6 +2674,14 @@
       "career_outcomes": [],
       "fees_per_year": null,
       "modules": [
+        "Physical Science",
+        "Life Science",
+        "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
@@ -2263,7 +2714,11 @@
         "Not accepted",
         "Not accepted"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not accepted Not accepted 4"
+      ]
     },
     {
       "id": "prog:780923fc08d1",
@@ -2292,7 +2747,11 @@
         "Not accepted",
         "Not accepted"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not accepted Not accepted 4"
+      ]
     },
     {
       "id": "prog:0709f7de5430",
@@ -2316,7 +2775,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s minimum admission requirements including the Admission Points Score (APS) and the achievement ratings of the 6",
+        "an achievement rating of 5",
+        "For all other fundamental and vocational categories an achievement rating of 4",
+        "English, an achievement rating of 5 (80-100%) is required or 1st Additional Language, an achievement rating of 5 (80-100%) is required",
+        "100%) is required or 1st",
+        "100%) is required. For all other fundamental and vocational"
+      ]
     },
     {
       "id": "prog:364:Degree|2f626699033c|bachelor of education degrees).",
@@ -2350,7 +2818,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "BEd in Intermediate Phase Teaching (Grades 4",
+        "BEd in Senior Phase and FET Teaching (Grades 8",
+        "reflective about the who, what,"
+      ]
     },
     {
       "id": "prog:364:Degree|cbf038a1a3b2|bachelor of engineering (beng) degree",
@@ -2373,7 +2847,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) CIVIL ENGINEERING B",
+        "English Mathematics / Technical Mathematics Physical Sciences OR Technical Science CAREER CAMPUS DEGREE PROGRAMMES Bachelor of Engineering (BEng) Degree (4 years) CIVIL ENGINEERING B6CISQ 32 5 (60%+) 5 (6"
+      ]
     },
     {
       "id": "prog:364:Degree|91a498fc177b|bachelor of engineering technology (bengtech) degree programmes",
@@ -2396,7 +2875,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not applicable 5",
+        "Not applicable 4",
+        "English Mathematics / Technical Mathematics Mathematical Literacy Physical Sciences / Technical Science CAREER CAMPUS EXTENDED TECHNOLOGY DEGREE PROGRAMMES Extended Bachelor of Science in Construction (BS"
+      ]
     },
     {
       "id": "prog:364:Degree|21829e16502c|bachelor of nursing",
@@ -2436,7 +2921,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) NURSING B",
+        "4 years) B OPTOM B",
+        "English Mathematics Physical Sciences Life Sciences CAREER CAMPUS Bachelor of Nursing (4 years) NURSING B9N02Q 30 5 (60%+) 4 (50%+) 4 (50%+) 4 (50%+) The student will qualify as a professional nurse and m"
+      ]
     },
     {
       "id": "prog:364:Degree|b5508e98e435|bcom",
@@ -2476,7 +2967,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Academic Literacy 65%",
+        "Quantitative Literacy 52%",
+        "Maths 50%",
+        "Maths 50% and 2b"
+      ]
     },
     {
       "id": "prog:364:Degree|c5052532c220|bed",
@@ -2499,7 +2997,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years) FOUNDATION PHASE TEACHING GRADE",
+        "Home language 5",
+        "OR Additional Language 6",
+        "4 years) INTERMEDIATE PHASE TEACHING GRAD",
+        "English Mathematics OR Mathematical Literacy / Technical Mathematics CAREER CAMPUS DEGREE PROGRAMMES FOR PRIMARY SCHOOL TEACHING BEd Degree in Foundation Phase Teaching (4 years) FOUNDATION PHASE TEACHING",
+        "English Mathematics OR Mathematical Literacy / Technical Mathematics CAMPUS BEd Degree in Senior P"
+      ]
     },
     {
       "id": "prog:364:Degree|cc4b86819668|beng",
@@ -2522,7 +3029,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:364:Degree|5f75057e98ee|bsc",
@@ -2547,6 +3055,14 @@
       "career_outcomes": [],
       "fees_per_year": null,
       "modules": [
+        "Physical Science",
+        "Life Science",
+        "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
@@ -2585,7 +3101,13 @@
         ],
         "subject_or_groups": []
       },
-      "credits": 120
+      "credits": 120,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "credits on NQF level 4",
+        "obtaining and achievement rating of at least 70%",
+        "level 4 obtaining and achievement rating of at le"
+      ]
     },
     {
       "id": "prog:364:Postgraduate|a870925d4451|honours programme which one can pursue upon completion",
@@ -2610,6 +3132,14 @@
       "career_outcomes": [],
       "fees_per_year": null,
       "modules": [
+        "Physical Science",
+        "Life Science",
+        "4 (50%+)/"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years) BIOCHEMISTRY AND BOTANY B",
+        "English Mathematics * Physical Science ** Life Science CAREER CAMPUS Bachelor of Science in Life and Environmental Sciences (3 years) BIOCHEMISTRY AND BOTANY B2L10Q 30 5 (60%+) 5 (60%+)/ 6 (70%+)* 4 (50%+)",
         "Physical Science",
         "Life Science",
         "4 (50%+)/"
@@ -2642,7 +3172,11 @@
         "Not accepted",
         "Not accepted"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not accepted Not accepted 4"
+      ]
     },
     {
       "id": "prog:364:Postgraduate|7e700d5a4ace|master of health sciences in complementary medicine to comply with",
@@ -2671,7 +3205,11 @@
         "Not accepted",
         "Not accepted"
       ],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Not accepted Not accepted 4"
+      ]
     }
   ],
   "admission": {
@@ -3195,15 +3733,17 @@
     "adm_reqs_count": 18
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:52:52Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:59:57Z",
     "test_mode": false,
-    "completeness_before": 0.132,
-    "completeness_after": 0.266,
-    "improvement": 0.134,
-    "fields_enriched": 153,
+    "points_system": "aps_points",
+    "completeness_before": 0.234,
+    "completeness_after": 0.291,
+    "improvement": 0.057,
+    "fields_enriched": 73,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-johannesburg.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-johannesburg.pdf"
     ]
   }
 }

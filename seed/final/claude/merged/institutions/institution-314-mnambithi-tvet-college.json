@@ -94,7 +94,23 @@
         "Management",
         "Computer Practice",
         "Introductory to Accounting"
-      ]
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "6 months N",
+        "6 months Report",
+        "4 Subjects N",
+        "4 Subjects Report",
+        "3 NQF L",
+        "3 months N",
+        "3 months Report",
+        "4 Subje"
+      ],
+      "pricing": {
+        "amount_min": 2672,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:a5f63dccf03a",
@@ -117,7 +133,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:f8d5eabb0354",
@@ -151,7 +168,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "entry requirement is Grade 9"
+      ]
     },
     {
       "id": "prog:b0392e4d23a8",
@@ -185,6 +206,27 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "4 Vocational Subjects",
+        "4 Vocational Subjects ISAT PracticalISAT P",
+        "ractical ISAT PracticalISAT Practical ISAT PracticalISAT Practical NCV Level 2",
+        "NQF 2",
+        "Qualification NCV Level 2",
+        "Qualification NCV Level 3",
+        "Qualification NCV Level 4",
+        "6 months N",
+        "6 months Report",
+        "Level 2 NQF",
+        "Level 3 NQF",
+        "Level 4 NQF"
+      ],
+      "pricing": {
+        "amount_min": 550,
+        "currency": "ZAR",
+        "label": "registration fee",
+        "granularity": "programme"
       }
     },
     {
@@ -224,7 +266,28 @@
         "Life Orientation",
         "Mathematical Literacy",
         "Life Orientation"
-      ]
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "4 Vocational Subjects",
+        "4 Vocational Subjects ISAT PracticalISAT P",
+        "ractical ISAT PracticalISAT Practical ISAT PracticalISAT Practical NCV Level 2",
+        "NQF 2",
+        "Qualification NCV Level 2",
+        "Qualification NCV Level 3",
+        "Qualification NCV Level 4",
+        "6 months N",
+        "6 months Report",
+        "Level 2 NQF",
+        "Level 3 NQF",
+        "Level 4 NQF"
+      ],
+      "pricing": {
+        "amount_min": 550,
+        "currency": "ZAR",
+        "label": "registration fee",
+        "granularity": "programme"
+      }
     },
     {
       "id": "prog:1b930cbe39a3",
@@ -263,6 +326,21 @@
         "Life Orientation",
         "Mathematical Literacy",
         "Life Orientation"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "4 Vocational Subjects",
+        "4 Vocational Subjects ISAT PracticalISAT P",
+        "ractical ISAT PracticalISAT Practical ISAT PracticalISAT Practical NCV Level 2",
+        "NQF 2",
+        "Qualification NCV Level 2",
+        "Qualification NCV Level 3",
+        "Qualification NCV Level 4",
+        "6 months N",
+        "6 months Report",
+        "Level 2 NQF",
+        "Level 3 NQF",
+        "Level 4 NQF"
       ]
     }
   ],
@@ -364,15 +442,17 @@
     "adm_reqs_count": 3
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:25Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:45Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.267,
-    "improvement": 0.2,
-    "fields_enriched": 18,
+    "points_system": "tvet_none",
+    "completeness_before": 0.235,
+    "completeness_after": 0.314,
+    "improvement": 0.079,
+    "fields_enriched": 8,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/Mnambithi_TVET_Prospectus_2022.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/Mnambithi_TVET_Prospectus_2022.pdf"
     ]
   }
 }

@@ -238,7 +238,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:4dde9069e3fd",
@@ -272,7 +273,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:4c9f7eb4f431",
@@ -348,6 +350,17 @@
       },
       "modules": [
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "3 years",
+        "Mathematics level 4",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 3 years 23 Mahikeng Human Resource Management Extended programme • Mathematics level 3 (40-49%) OR Mathematical Literacy lev",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 3 years 23 Mahikeng Industrial and Organisational Psychology Extended programme • Mathematics level 3 (40-49%) OR Mathematic",
+        "Mathematics level 4 (50-59%"
       ]
     },
     {
@@ -375,6 +388,14 @@
       "modules": [
         "DURATION: 3 years",
         "MODE OF DELIVERY: Contact"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 4",
+        "3 years",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact 24 Potchefstroom BA in Pastoral Psychology as first qualification • In consultation with Association of Christian Religious Practit",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact 26 Mahikeng Vanderbijlpark BTh with Pastoral Counselling and Psychology as first qualification • In consultation with the Association",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact 26 Potchefstroom Bachelor of Divinity (BDiv) In consultation with • Curato"
       ]
     },
     {
@@ -409,7 +430,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "English or Afrikaans with educational interpreting for non-fluent students (students taking Afrikaans modules (AFLL) will be required to complete all assessments in Afrikaans"
+      ]
     },
     {
       "id": "prog:7b22586d397f",
@@ -445,6 +471,11 @@
         "subject_or_groups": []
       },
       "modules": [
+        "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
         "DURATION: 3 years"
       ]
     },
@@ -482,6 +513,11 @@
         "subject_or_groups": []
       },
       "modules": [
+        "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
         "DURATION: 3 years"
       ]
     },
@@ -559,6 +595,14 @@
       },
       "modules": [
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 4",
+        "3 years",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact 24 Potchefstroom BA in Pastoral Psychology as first qualification • In consultation with Association of Christian Religious Practit",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact 26 Mahikeng Vanderbijlpark BTh with Pastoral Counselling and Psychology as first qualification • In consultation with the Association",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact 26 Potchefstroom Bachelor of Divinity (BDiv) In consultation with • Curato"
       ]
     },
     {
@@ -605,7 +649,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "4 years",
+        "OR Mathematical Literacy level 6",
+        "3 years",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 4 years 20 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Management Sciences with Sport Business Management • Mathem",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 6 (70-79%) • DURATION: 3 years 24 Vanderbijlpark Bachelor of Commerce (BCom) in Management Sciences with Marketing and Tourism Management • Mathemat"
+      ]
     },
     {
       "id": "prog:8befec19e1bb",
@@ -681,6 +735,11 @@
       },
       "modules": [
         "DURATION: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "DURATION: 4 years"
       ]
     },
     {
@@ -724,6 +783,18 @@
       },
       "modules": [
         "Setswana HL (SETM)"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "English level 4",
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "English level 3",
+        "4 years",
+        "English level 4 (50-59%) • Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 3 years 21 Mahikeng Extended Bachelor of Administration in Development and Management with L",
+        "English level 3 (40-49%) • Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 4 years 20 Mahikeng SCHOOL OF LANGUAGES Bachelor of Arts (BA) in Language and Literary Studie",
+        "English (ENLL) • Language Practice (LPRA) • Setswana HL (SETM) • English (ENLL): Gr"
       ]
     },
     {
@@ -824,6 +895,17 @@
       },
       "modules": [
         "DURATION: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "3 years",
+        "Mathematics level 4",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 3 years 23 Mahikeng Human Resource Management Extended programme • Mathematics level 3 (40-49%) OR Mathematical Literacy lev",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 3 years 23 Mahikeng Industrial and Organisational Psychology Extended programme • Mathematics level 3 (40-49%) OR Mathematic",
+        "Mathematics level 4 (50-59%"
       ]
     },
     {
@@ -871,6 +953,18 @@
         "Best average mark",
         "Duration: 3 years",
         "An average mark above 70"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 3",
+        "and Physical Sciences level 4",
+        "Level 4",
+        "3 years",
+        "At least one subject from the Natural Sciences passed on level 4",
+        "Level 6",
+        "Mathematics level 3 (40-49%) and Physical Sciences level 4 (50-59%) • Level 4 (50-59%) for language of tuition • Life Sciences is recommended • Academic paper selection • Best average mark • Duration: 3 years 26",
+        "Mathematics or Physical Sciences or Agricultural or Life Sciences) • Level 6 (70-79%) in Mathematical Literacy will be considered • Level 4 (50-59%) for language of tuition • Late applications will be considere",
+        "Mathematics is required"
       ]
     },
     {
@@ -944,7 +1038,15 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 4",
+        "3 years",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact 24 Potchefstroom BA in Pastoral Psychology as first qualification • In consultation with Association of Christian Religious Practit",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact 26 Mahikeng Vanderbijlpark BTh with Pastoral Counselling and Psychology as first qualification • In consultation with the Association",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact 26 Potchefstroom Bachelor of Divinity (BDiv) In consultation with • Curato"
+      ]
     },
     {
       "id": "prog:856ffb0aeaba",
@@ -992,6 +1094,11 @@
         "Academic paper selection",
         "Best average mark",
         "Duration: 2 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "2 years"
       ]
     },
     {
@@ -1042,6 +1149,19 @@
         "Best average mark",
         "Duration: 4 years",
         "Late applications"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "At least one subject from the Natural Sciences must be passed at level 4",
+        "4 years",
+        "Mathematics on level 5",
+        "and Physical Sciences on level 5",
+        "Level 4",
+        "Mathematics level 5",
+        "An average mark of above 70%",
+        "Mathematics, Physical Sciences, Agricultural Sciences, or Life Sciences",
+        "Mathematics on level 5 (60-69%) and Physical Sciences on level 5 (60-69%) • Level 4 (50-59%) for language of tuition • Academic paper selection • Best average mark • Duration: 4 years 30 Potchefstroom Full-time",
+        "Mathematics level 5 (60-69%) and Physical Sciences on level 5 (60-69%) • Level 4 (50-59%) for language of tuition • Late applications"
       ]
     },
     {
@@ -1094,6 +1214,17 @@
       },
       "modules": [
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "3 years",
+        "Mathematics level 4",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 3 years 23 Mahikeng Human Resource Management Extended programme • Mathematics level 3 (40-49%) OR Mathematical Literacy lev",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 3 years 23 Mahikeng Industrial and Organisational Psychology Extended programme • Mathematics level 3 (40-49%) OR Mathematic",
+        "Mathematics level 4 (50-59%"
       ]
     },
     {
@@ -1165,6 +1296,17 @@
         "DURATION: 3 years 26 Potchefstroom",
         "Afrikaans (AFLL): Gr. 12 Afrikaans HL level 4",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Successful completion of a practical audition (Grade 6",
+        "a theoretical placement test (Grade 5",
+        "4 years APS of at least",
+        "3 years",
+        "Afrikaans HL level 4",
+        "OR Afrikaans FAL level 5",
+        "which the modules for the final year have been passed with an average of at least 60%",
+        "English • English (ENLL)"
       ]
     },
     {
@@ -1214,6 +1356,15 @@
         "Due to high volumes of applications and limited capacity",
         "Participation in the “job shadowing programme” (40",
         "Duration: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "3 years",
+        "4 years",
+        "Physical Sciences OR Mathematics OR Life Sciences on level 4",
+        "Physical Sciences OR Mathematics OR Life Sciences on level 4 (50-59%) • Level 4 (50-59%) for language of tuition • Due to high volumes of applications and limited capacity the following selection process will be fo",
+        "English or Afrikaa"
       ]
     },
     {
@@ -1246,6 +1397,15 @@
         "Due to high volumes of applications and limited capacity",
         "Participation in the “job shadowing programme” (40",
         "Duration: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "3 years",
+        "4 years",
+        "Physical Sciences OR Mathematics OR Life Sciences on level 4",
+        "Physical Sciences OR Mathematics OR Life Sciences on level 4 (50-59%) • Level 4 (50-59%) for language of tuition • Due to high volumes of applications and limited capacity the following selection process will be fo",
+        "English or Afrikaa"
       ]
     },
     {
@@ -1292,7 +1452,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:6940ba533bd2",
@@ -1335,6 +1496,19 @@
       },
       "modules": [
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 4",
+        "3 years",
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "4 years",
+        "Mathematical Literacy level 6",
+        "Mathematics level 4 (50-59%) • DURATION: 3 years 26 Potchefstroom Vanderbijlpark Bachelor of Commerce (BCom) in Economic Sciences with Information Systems • Mathematics level 4 (50-59%) • DURATION: 3 years 26 M",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 4 years 20 Mahikeng Bachelor of Commerce (BCom) in Economic Sciences with Risk Management • Mathematics level 4 (50-59%) • DU",
+        "Mathematics level 3 (40-49%) OR • Mathematical Literacy level 6 (70-79%) • DURATION: 4 years 24 Vanderbijlpark SCHOOL OF INDUSTRIAL PSYCHOLOGY AND RESOURCE MANAGEMENT Bachelor of Administration (BAdmin) Human",
+        "Mathematics level 3 (40-49%) OR"
       ]
     },
     {
@@ -1412,6 +1586,19 @@
       "modules": [
         "DURATION: 3 years",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Mathematics level 5",
+        "Mathematics level 6",
+        "Mathematics level 3",
+        "4 years",
+        "Mathematics level 4",
+        "OR Mathematical Literacy level 7",
+        "Mathematics level 5 (60-69%) if the student took Grade 12 Accounting OR • Mathematics level 6 (70-79%) if the student did not take Grade 12 Accounting • DURATION: 3 years 32 Mahikeng Potchefstroom Vanderbijl",
+        "Mathematics level 3 (40-49%) • DURATION: 4 years 28 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Financial Accountancy • Mathematics level 4 (50-59%) • DURATION: 3 years 28 Mahikeng Potchefstroom Van",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 7 (80-89%) • DURATION: 4 years 24 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the st"
       ]
     },
     {
@@ -1503,6 +1690,19 @@
       "modules": [
         "DURATION: 3 years",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Mathematics level 5",
+        "Mathematics level 6",
+        "Mathematics level 3",
+        "4 years",
+        "Mathematics level 4",
+        "OR Mathematical Literacy level 7",
+        "Mathematics level 5 (60-69%) if the student took Grade 12 Accounting OR • Mathematics level 6 (70-79%) if the student did not take Grade 12 Accounting • DURATION: 3 years 32 Mahikeng Potchefstroom Vanderbijl",
+        "Mathematics level 3 (40-49%) • DURATION: 4 years 28 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Financial Accountancy • Mathematics level 4 (50-59%) • DURATION: 3 years 28 Mahikeng Potchefstroom Van",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 7 (80-89%) • DURATION: 4 years 24 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the st"
       ]
     },
     {
@@ -1594,6 +1794,19 @@
       "modules": [
         "DURATION: 3 years",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Mathematics level 5",
+        "Mathematics level 6",
+        "Mathematics level 3",
+        "4 years",
+        "Mathematics level 4",
+        "OR Mathematical Literacy level 7",
+        "Mathematics level 5 (60-69%) if the student took Grade 12 Accounting OR • Mathematics level 6 (70-79%) if the student did not take Grade 12 Accounting • DURATION: 3 years 32 Mahikeng Potchefstroom Vanderbijl",
+        "Mathematics level 3 (40-49%) • DURATION: 4 years 28 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Financial Accountancy • Mathematics level 4 (50-59%) • DURATION: 3 years 28 Mahikeng Potchefstroom Van",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 7 (80-89%) • DURATION: 4 years 24 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the st"
       ]
     },
     {
@@ -1685,6 +1898,19 @@
       "modules": [
         "DURATION: 3 years",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Mathematics level 5",
+        "Mathematics level 6",
+        "Mathematics level 3",
+        "4 years",
+        "Mathematics level 4",
+        "OR Mathematical Literacy level 7",
+        "Mathematics level 5 (60-69%) if the student took Grade 12 Accounting OR • Mathematics level 6 (70-79%) if the student did not take Grade 12 Accounting • DURATION: 3 years 32 Mahikeng Potchefstroom Vanderbijl",
+        "Mathematics level 3 (40-49%) • DURATION: 4 years 28 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Financial Accountancy • Mathematics level 4 (50-59%) • DURATION: 3 years 28 Mahikeng Potchefstroom Van",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 7 (80-89%) • DURATION: 4 years 24 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the st"
       ]
     },
     {
@@ -1782,6 +2008,18 @@
       "modules": [
         "DURATION: 3 years",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics level 5",
+        "Mathematics level 6",
+        "Afrikaans / English level 5",
+        "3 years",
+        "Mathematics level 3",
+        "Mathematics level 5 (60-69%) if the student took Grade 12 Accounting OR • Mathematics level 6 (70-79%) if the student did not take Grade 12 Accounting • Afrikaans / English level 5 (60-69%) • DURATION: 3 y",
+        "Mathematics level 5 (60-69%) • DURATION: 3 years 30 Potchefstroom Vanderbijlpark Degree Field Subjects / Requirements APS Campus SCHOOL OF ACCOUNTING SCIENCES Bachelor of Commerce (BCom) in Accounting • Mathema",
+        "Mathematics level 5 (60-59%) if the student took Grade 12 Accounting OR • Mathematics level 6 (70-79%) if the student did not take Grade 12 Accounting • DURATION: 3 years 32 Mah"
       ]
     },
     {
@@ -1819,6 +2057,17 @@
       },
       "modules": [
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 years",
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "3 years",
+        "Mathematics level 4",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 3 years 23 Mahikeng Human Resource Management Extended programme • Mathematics level 3 (40-49%) OR Mathematical Literacy lev",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 3 years 23 Mahikeng Industrial and Organisational Psychology Extended programme • Mathematics level 3 (40-49%) OR Mathematic",
+        "Mathematics level 4 (50-59%"
       ]
     },
     {
@@ -1890,7 +2139,17 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "4 years",
+        "OR Mathematical Literacy level 6",
+        "3 years",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 4 years 20 Mahikeng Vanderbijlpark Bachelor of Commerce (BCom) in Management Sciences with Sport Business Management • Mathem",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 6 (70-79%) • DURATION: 3 years 24 Vanderbijlpark Bachelor of Commerce (BCom) in Management Sciences with Marketing and Tourism Management • Mathemat"
+      ]
     },
     {
       "id": "prog:f4132d72c974",
@@ -1963,7 +2222,21 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 5",
+        "Mathematics level 6",
+        "Afrikaans / English level 5",
+        "3 years",
+        "Mathematics level 4",
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "4 years",
+        "Mathematics level 5 (60-69%) if the student took Grade 12 Accounting OR • Mathematics level 6 (70-79%) if the student did not take Grade 12 Accounting • Afrikaans / English level 5 (60-59%) • DURATION: 3 y",
+        "Mathematics level 5 (60-69%) • DURATION: 3 years 30 Potchefstroom Vanderbijlpark SCHOOL OF ECONOMIC SCIENCES Bachelor of Commerce (BCom) in Operations Research • Mathematics level 4 (50-59%) • DURATION: 3 years",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) • DURATION: 4 years 20 Mahikeng Bachelor of Commerce (BCom) in Business Operations with Logistics Management • Mathematics level 3 (40-49%"
+      ]
     },
     {
       "id": "prog:1ede6884e936",
@@ -2000,6 +2273,17 @@
       },
       "modules": [
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Home Language AND First Additional Language level 5",
+        "Mathematics level 4",
+        "Mathematics level 4 • SELECTION: Placement process and adherence to minimum requirements of the faculty",
+        "DURATION: 3 years",
+        "NS(C) OR NC(V) for degree studies, OR with full matriculation exemption;",
+        "SELECTION: Placement process and adherence to minimum requirements of the",
+        "NS(C) OR NC(V) for degree studies, OR with full matriculation exe"
       ]
     },
     {
@@ -2037,6 +2321,17 @@
       },
       "modules": [
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Home Language AND First Additional Language level 5",
+        "Mathematics level 4",
+        "Mathematics level 4 • SELECTION: Placement process and adherence to minimum requirements of the faculty",
+        "DURATION: 3 years",
+        "NS(C) OR NC(V) for degree studies, OR with full matriculation exemption;",
+        "SELECTION: Placement process and adherence to minimum requirements of the",
+        "NS(C) OR NC(V) for degree studies, OR with full matriculation exe"
       ]
     },
     {
@@ -2086,6 +2381,19 @@
         "Distance: Afrikaans/IsiZulu/Sepedi/Sesotho/Setswana as HL AND",
         "DURATION: 4 years",
         "DURATION: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "4 years",
+        "Potchefstroom Vanderbijlpark Bachelor of Education (BEd) in Intermediate Phase Grade 4",
+        "6 with Life Skills and Social Sciences",
+        "Distance More information about Distance Learning Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7",
+        "Home Language AND First Additional Language level 4",
+        "level 3 OR Technical Mathematics level",
+        "Mathematics level 3 OR Technical Mathematics level 4",
+        "English as FAL; • VC: Afrikaans/English/IsiZulu/Sesotho as HL AND Afrikaans/English/ IsiZulu/Sesotho as FAL; • Distance: Afrikaans/IsiZulu/Sepedi/Sesotho/Setswana as HL AND English as FAL"
       ]
     },
     {
@@ -2135,6 +2443,19 @@
         "Distance: Afrikaans/IsiZulu/Sepedi/Sesotho/Setswana as HL AND",
         "DURATION: 4 years",
         "DURATION: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "4 years",
+        "Potchefstroom Vanderbijlpark Bachelor of Education (BEd) in Intermediate Phase Grade 4",
+        "6 with Life Skills and Social Sciences",
+        "Distance More information about Distance Learning Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7",
+        "Home Language AND First Additional Language level 4",
+        "level 3 OR Technical Mathematics level",
+        "Mathematics level 3 OR Technical Mathematics level 4",
+        "English as FAL; • VC: Afrikaans/English/IsiZulu/Sesotho as HL AND Afrikaans/English/ IsiZulu/Sesotho as FAL; • Distance: Afrikaans/IsiZulu/Sepedi/Sesotho/Setswana as HL AND English as FAL"
       ]
     },
     {
@@ -2184,6 +2505,19 @@
         "Distance: Afrikaans/IsiZulu/Sepedi/Sesotho/Setswana as HL AND",
         "DURATION: 4 years",
         "DURATION: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "4 years",
+        "Potchefstroom Vanderbijlpark Bachelor of Education (BEd) in Intermediate Phase Grade 4",
+        "6 with Life Skills and Social Sciences",
+        "Distance More information about Distance Learning Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7",
+        "Home Language AND First Additional Language level 4",
+        "level 3 OR Technical Mathematics level",
+        "Mathematics level 3 OR Technical Mathematics level 4",
+        "English as FAL; • VC: Afrikaans/English/IsiZulu/Sesotho as HL AND Afrikaans/English/ IsiZulu/Sesotho as FAL; • Distance: Afrikaans/IsiZulu/Sepedi/Sesotho/Setswana as HL AND English as FAL"
       ]
     },
     {
@@ -2224,7 +2558,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:b8af001d534b",
@@ -2256,6 +2591,15 @@
         "Due to high volumes of applications and limited capacity",
         "Participation in the “job shadowing programme” (40",
         "Duration: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "3 years",
+        "4 years",
+        "Physical Sciences OR Mathematics OR Life Sciences on level 4",
+        "Physical Sciences OR Mathematics OR Life Sciences on level 4 (50-59%) • Level 4 (50-59%) for language of tuition • Due to high volumes of applications and limited capacity the following selection process will be fo",
+        "English or Afrikaa"
       ]
     },
     {
@@ -2305,7 +2649,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:42d46025d0d9",
@@ -2388,7 +2733,20 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ics level 6",
+        "3 years",
+        "Mathematics level 4",
+        "OR Technical Mathematics level 5",
+        "4 years",
+        "Mathematics level 6",
+        "level 4 OR Technical Mathematics level",
+        "Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4 years 28 Vanderbijlpark Bachelor of Science in Quantitative Risk Management • Mathematics level 6 • DURATION: 3 years 32 Potchefstroom Vanderb",
+        "Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4 years 28 Vanderbijlpark Bachelor of Science in Actuarial Sciences • Mathematics level 6 • DURATION: 3 years 32 Potchefstroom Bachelor of Scien",
+        "Mathematics level 4 OR Technical Mathematics level 5 • SELECTION TEST • DURATION: 4 years 28 Potchefstroom Bachelor of Science in Agricultural Sciences with Agricultural Economics with Animal Scienc"
+      ]
     },
     {
       "id": "prog:d5b27a6855a1",
@@ -2473,6 +2831,20 @@
       "modules": [
         "Physical Science level 3 OR Life Science level 3",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 3",
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "Physical Science level 3",
+        "OR Life Science level 3",
+        "3 years",
+        "level 3 OR Technical Mathematics level",
+        "level 3 OR Life Science level",
+        "mathematics, statistics, business mathematics and informatics, and indigenous knowledge systems",
+        "Mathematics and Informatics • Indigenous Knowledge Systems Degree Field Subjects / Requirements APS Campus Diploma in Animal Health • English level 3 • Mathematics level 3 OR Technical Mathematics level 4 • Phy",
+        "Life Science level 3 • DURATION: 3 years 22 Mahikeng Diploma in Animal"
       ]
     },
     {
@@ -2550,6 +2922,12 @@
       "modules": [
         "Physical Science level 3 OR Life Science level 3",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics and Chemistry with Applied Mathematics and Electronics with Biochemistry and Chemistry with Chemistry and Computer Science with Chemistry and Mathematics with Chemistry and Physics with Computer Scie",
+        "Mathematics with Electronics and Mathematics with Electronics and Physics with Physics and Applied Mathematics with Physics and Computer Science with Physics and Mathematics in Biological Sciences with Microbiol",
+        "Mathematics and Mathematics • English"
       ]
     },
     {
@@ -2649,7 +3027,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:a9b6828a975e",
@@ -2748,7 +3127,21 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 4",
+        "OR Technical Mathematics level 5",
+        "Physical Science level 4",
+        "3 years",
+        "Mathematics level 5",
+        "Mathematics level 6",
+        "4 years",
+        "level 4 OR Technical Mathematics level",
+        "Mathematics level 4 OR Technical Mathematics level 5 • Physical Science level 4 • DURATION: 3 years 26 Potchefstroom with Chemistry and Geography • Mathematics level 5 • Physical Science level 4 • DURATION:",
+        "Mathematics • Mathematics level 6 • DURATION: 3 years 32 Potchefstroom Vanderbijlpark Extended Bachelor of Science in Financial Mathematics • Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4",
+        "Mathematics level 6 • Duration: 3 years 32 Potchefstroom Vanderbijlpark Extended Bachelor of Science in Business Analytics • Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4 years 28 Vande"
+      ]
     },
     {
       "id": "prog:a05092a305c0",
@@ -2795,6 +3188,19 @@
         "Best average mark",
         "Duration: 4 years",
         "Late applications"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "At least one subject from the Natural Sciences must be passed at level 4",
+        "4 years",
+        "Mathematics on level 5",
+        "and Physical Sciences on level 5",
+        "Level 4",
+        "Mathematics level 5",
+        "An average mark of above 70%",
+        "Mathematics, Physical Sciences, Agricultural Sciences, or Life Sciences",
+        "Mathematics on level 5 (60-69%) and Physical Sciences on level 5 (60-69%) • Level 4 (50-59%) for language of tuition • Academic paper selection • Best average mark • Duration: 4 years 30 Potchefstroom Full-time",
+        "Mathematics level 5 (60-69%) and Physical Sciences on level 5 (60-69%) • Level 4 (50-59%) for language of tuition • Late applications"
       ]
     },
     {
@@ -2876,7 +3282,13 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics and Chemistry with Applied Mathematics and Electronics with Biochemistry and Chemistry with Chemistry and Computer Science with Chemistry and Mathematics with Chemistry and Physics with Computer Scie",
+        "Mathematics with Electronics and Mathematics with Electronics and Physics with Physics and Applied Mathematics with Physics and Computer Science with Physics and Mathematics in Biological Sciences with Microbiol",
+        "Mathematics and Mathematics • English"
+      ]
     },
     {
       "id": "prog:09061c868d25",
@@ -2979,7 +3391,21 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 4",
+        "OR Technical Mathematics level 5",
+        "Physical Science level 4",
+        "3 years",
+        "Mathematics level 5",
+        "Mathematics level 6",
+        "4 years",
+        "level 4 OR Technical Mathematics level",
+        "Mathematics level 4 OR Technical Mathematics level 5 • Physical Science level 4 • DURATION: 3 years 26 Potchefstroom with Chemistry and Geography • Mathematics level 5 • Physical Science level 4 • DURATION:",
+        "Mathematics • Mathematics level 6 • DURATION: 3 years 32 Potchefstroom Vanderbijlpark Extended Bachelor of Science in Financial Mathematics • Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4",
+        "Mathematics level 6 • Duration: 3 years 32 Potchefstroom Vanderbijlpark Extended Bachelor of Science in Business Analytics • Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4 years 28 Vande"
+      ]
     },
     {
       "id": "prog:bb379fe73a23",
@@ -3070,7 +3496,21 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 4",
+        "OR Technical Mathematics level 5",
+        "Physical Science level 4",
+        "3 years",
+        "Mathematics level 5",
+        "Mathematics level 6",
+        "4 years",
+        "level 4 OR Technical Mathematics level",
+        "Mathematics level 4 OR Technical Mathematics level 5 • Physical Science level 4 • DURATION: 3 years 26 Potchefstroom with Chemistry and Geography • Mathematics level 5 • Physical Science level 4 • DURATION:",
+        "Mathematics • Mathematics level 6 • DURATION: 3 years 32 Potchefstroom Vanderbijlpark Extended Bachelor of Science in Financial Mathematics • Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4",
+        "Mathematics level 6 • Duration: 3 years 32 Potchefstroom Vanderbijlpark Extended Bachelor of Science in Business Analytics • Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4 years 28 Vande"
+      ]
     },
     {
       "id": "prog:364587a1825c",
@@ -3123,6 +3563,20 @@
       "modules": [
         "Physical Science level 3 OR Life Science level 3",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 3",
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "Physical Science level 3",
+        "OR Life Science level 3",
+        "3 years",
+        "level 3 OR Technical Mathematics level",
+        "level 3 OR Life Science level",
+        "mathematics, statistics, business mathematics and informatics, and indigenous knowledge systems",
+        "Mathematics and Informatics • Indigenous Knowledge Systems Degree Field Subjects / Requirements APS Campus Diploma in Animal Health • English level 3 • Mathematics level 3 OR Technical Mathematics level 4 • Phy",
+        "Life Science level 3 • DURATION: 3 years 22 Mahikeng Diploma in Animal"
       ]
     },
     {
@@ -3218,6 +3672,25 @@
         "DURATION: 4 years",
         "DURATION: 4 years",
         "DURATION: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 4",
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "Physical Science level 3",
+        "4 years",
+        "Mathematics level 4",
+        "OR Technical Mathematics level 5",
+        "3 years",
+        "Mathematics level 5",
+        "Physical Science level 4",
+        "level 3 OR Technical Mathematics level",
+        "level 4 OR Technical Mathematics level",
+        "Mathematics and Mathematics • English level 4 • Mathematics level 3 OR Technical Mathematics level 4 • Physical Science level 3 • DURATION: 4 years 24 Mahikeng Bachelor of Science in Information Technology •",
+        "Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 3 years • MODE OF DELIVERY: Contact and Distance 26 Potchefstroom Vanderbijlpark *Distance Extended Bachelor of Science in Information",
+        "Mathematics level 3 OR Technical Mathematics level 4 • DURATION: 4 years 24 Vanderbijlpark Bachelor of Science in Mathematical Sciences with Statistics and Mathematics • Mathematics level 5 • Physical Scienc",
+        "Mathematics • Mathematic"
       ]
     },
     {
@@ -3299,7 +3772,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:374f623ab9ff",
@@ -3390,7 +3864,20 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ics level 6",
+        "3 years",
+        "Mathematics level 4",
+        "OR Technical Mathematics level 5",
+        "4 years",
+        "Mathematics level 6",
+        "level 4 OR Technical Mathematics level",
+        "Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4 years 28 Vanderbijlpark Bachelor of Science in Quantitative Risk Management • Mathematics level 6 • DURATION: 3 years 32 Potchefstroom Vanderb",
+        "Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4 years 28 Vanderbijlpark Bachelor of Science in Actuarial Sciences • Mathematics level 6 • DURATION: 3 years 32 Potchefstroom Bachelor of Scien",
+        "Mathematics level 4 OR Technical Mathematics level 5 • SELECTION TEST • DURATION: 4 years 28 Potchefstroom Bachelor of Science in Agricultural Sciences with Agricultural Economics with Animal Scienc"
+      ]
     },
     {
       "id": "prog:68aab1b26f8d",
@@ -3479,7 +3966,20 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ics level 6",
+        "3 years",
+        "Mathematics level 4",
+        "OR Technical Mathematics level 5",
+        "4 years",
+        "Mathematics level 6",
+        "level 4 OR Technical Mathematics level",
+        "Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4 years 28 Vanderbijlpark Bachelor of Science in Quantitative Risk Management • Mathematics level 6 • DURATION: 3 years 32 Potchefstroom Vanderb",
+        "Mathematics level 4 OR Technical Mathematics level 5 • DURATION: 4 years 28 Vanderbijlpark Bachelor of Science in Actuarial Sciences • Mathematics level 6 • DURATION: 3 years 32 Potchefstroom Bachelor of Scien",
+        "Mathematics level 4 OR Technical Mathematics level 5 • SELECTION TEST • DURATION: 4 years 28 Potchefstroom Bachelor of Science in Agricultural Sciences with Agricultural Economics with Animal Scienc"
+      ]
     },
     {
       "id": "prog:98c6ec657d38",
@@ -3519,7 +4019,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics and Chemistry with Applied Mathematics and Electronics with Biochemistry and Chemistry with Chemistry and Computer Science with Chemistry and Mathematics with Chemistry and Physics with Computer Scie",
+        "Mathematics with Electronics and Mathematics with Electronics and Physics with Physics and Applied Mathematics with Physics and Computer Science with Physics and Mathematics in Biological Sciences with Microbiol",
+        "Mathematics and Mathematics • English"
+      ]
     },
     {
       "id": "prog:d9d3a98e40fa",
@@ -3634,7 +4140,13 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics and Chemistry with Applied Mathematics and Electronics with Biochemistry and Chemistry with Chemistry and Computer Science with Chemistry and Mathematics with Chemistry and Physics with Computer Scie",
+        "Mathematics with Electronics and Mathematics with Electronics and Physics with Physics and Applied Mathematics with Physics and Computer Science with Physics and Mathematics in Biological Sciences with Microbiol",
+        "Mathematics and Mathematics • English"
+      ]
     },
     {
       "id": "prog:fd79f3c6dd87",
@@ -3663,6 +4175,18 @@
         "Duration: 3 years",
         "Academic paper selection",
         "Duration: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 5",
+        "and Physical Sciences on level 5",
+        "Level 4",
+        "4 years",
+        "Mathematics level 3",
+        "or Mathematical Literacy level 5",
+        "3 years",
+        "Mathematics level 5 (60-69%) and Physical Sciences on level 5 (60-69%) • Level 4 (50-59%) for language of tuition • Late applications will be considered on merit • Academic paper selection • Best average mark •",
+        "Mathematics level 3 (40-49%) or Mathematical Literacy level 5 (60-69%) • Level 4 (50-59%) for language of tuition • Academic paper selection • Duration: 3 years 26 Potchefstroom Vanderbijlpark Full-time Conta"
       ]
     },
     {
@@ -3725,6 +4249,25 @@
       "modules": [
         "Physical Science level 3 OR Life Science level 3",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 3",
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "Physical Science level 3",
+        "OR Life Science level 3",
+        "3 years",
+        "OR Mathematics Literacy level 5",
+        "OR Agricultural Science level 4",
+        "Mathematics level 5",
+        "Physical Science level 4",
+        "level 3 OR Technical Mathematics level",
+        "level 3 OR Life Science level",
+        "English level 3 • Mathematics level 3 OR Technical Mathematics level 4 • Physical Science level 3 OR Life Science level 3 • DURATION: 3 years 22 Mahikeng Diploma in Animal Science • English level 3 • Mathem",
+        "Mathematics level 4 OR Mathematics Literacy level 5 • Physical Science level 3 OR Life Science level 3 OR Agricultural Science level 4 • DURATION: 3 years 22 Mahikeng Diploma in Plant Science • English level 3",
+        "Mathematics level 3 OR Technical Mathematics level 4 OR Mathematics Literacy level 5 • Physical Science level 3 OR Life Science level 3 OR Agricultural Science level 4 • DURATION: 3 years 22 Mahikeng Bachelor",
+        "Mathematics with Physics and Applied Mathematics with Physics and Computer Science • Mathematics level 5 • Physical Science level 4 • DURATION: 3 years 26 M"
       ]
     },
     {
@@ -3787,6 +4330,25 @@
       "modules": [
         "Physical Science level 3 OR Life Science level 3",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 3",
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "Physical Science level 3",
+        "OR Life Science level 3",
+        "3 years",
+        "OR Mathematics Literacy level 5",
+        "OR Agricultural Science level 4",
+        "Mathematics level 5",
+        "Physical Science level 4",
+        "level 3 OR Technical Mathematics level",
+        "level 3 OR Life Science level",
+        "English level 3 • Mathematics level 3 OR Technical Mathematics level 4 • Physical Science level 3 OR Life Science level 3 • DURATION: 3 years 22 Mahikeng Diploma in Animal Science • English level 3 • Mathem",
+        "Mathematics level 4 OR Mathematics Literacy level 5 • Physical Science level 3 OR Life Science level 3 OR Agricultural Science level 4 • DURATION: 3 years 22 Mahikeng Diploma in Plant Science • English level 3",
+        "Mathematics level 3 OR Technical Mathematics level 4 OR Mathematics Literacy level 5 • Physical Science level 3 OR Life Science level 3 OR Agricultural Science level 4 • DURATION: 3 years 22 Mahikeng Bachelor",
+        "Mathematics with Physics and Applied Mathematics with Physics and Computer Science • Mathematics level 5 • Physical Science level 4 • DURATION: 3 years 26 M"
       ]
     },
     {
@@ -3850,6 +4412,11 @@
         "Academic paper selection",
         "Best average mark",
         "Duration: 2 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "2 years"
       ]
     },
     {
@@ -3913,6 +4480,17 @@
         "DURATION: 3 years",
         "A laptop or equivalent device to participate",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Physical Sciences with a final mark on level 4",
+        "3 years",
+        "level 4",
+        "3 years APS of at least",
+        "At least 50%",
+        "ification in which the modules for the final year have been passed with an average of at least 60%",
+        "Physical Sciences with a final mark on level 4 (50-59%)",
+        "English in Grade 12 • Successful completion of a language proficiency test, a musical aptitude test and an audition • A laptop or equivalent device to participate in learning and assessment activities • D"
       ]
     },
     {
@@ -4016,6 +4594,25 @@
       "modules": [
         "Physical Science level 3 OR Life Science level 3",
         "DURATION: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 3",
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "Physical Science level 3",
+        "OR Life Science level 3",
+        "3 years",
+        "OR Mathematics Literacy level 5",
+        "OR Agricultural Science level 4",
+        "Mathematics level 5",
+        "Physical Science level 4",
+        "level 3 OR Technical Mathematics level",
+        "level 3 OR Life Science level",
+        "English level 3 • Mathematics level 3 OR Technical Mathematics level 4 • Physical Science level 3 OR Life Science level 3 • DURATION: 3 years 22 Mahikeng Diploma in Animal Science • English level 3 • Mathem",
+        "Mathematics level 4 OR Mathematics Literacy level 5 • Physical Science level 3 OR Life Science level 3 OR Agricultural Science level 4 • DURATION: 3 years 22 Mahikeng Diploma in Plant Science • English level 3",
+        "Mathematics level 3 OR Technical Mathematics level 4 OR Mathematics Literacy level 5 • Physical Science level 3 OR Life Science level 3 OR Agricultural Science level 4 • DURATION: 3 years 22 Mahikeng Bachelor",
+        "Mathematics with Physics and Applied Mathematics with Physics and Computer Science • Mathematics level 5 • Physical Science level 4 • DURATION: 3 years 26 M"
       ]
     },
     {
@@ -4056,7 +4653,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:99b9171302c2",
@@ -4096,7 +4694,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:349:Degree|12fe17ce28a9|bachelor of education",
@@ -4169,7 +4768,13 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English level 4",
+        "3 years",
+        "English level 4 (50-59%) • DURATION: 3 years • MODE OF DELIVERY: Contact; Distance 24 Potchefstroom Distance More information about Distance Learning"
+      ]
     },
     {
       "id": "prog:349:Degree|fc353263d323|bachelor of education (bed)",
@@ -4248,6 +4853,19 @@
         "Distance: Afrikaans/IsiZulu/Sepedi/Sesotho/Setswana as HL AND",
         "DURATION: 4 years",
         "DURATION: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 3",
+        "OR Technical Mathematics level 4",
+        "4 years",
+        "Potchefstroom Vanderbijlpark Bachelor of Education (BEd) in Intermediate Phase Grade 4",
+        "6 with Life Skills and Social Sciences",
+        "Distance More information about Distance Learning Bachelor of Education (BEd) in Senior and Further Education and Training Grade 7",
+        "Home Language AND First Additional Language level 4",
+        "level 3 OR Technical Mathematics level",
+        "Mathematics level 3 OR Technical Mathematics level 4",
+        "English as FAL; • VC: Afrikaans/English/IsiZulu/Sesotho as HL AND Afrikaans/English/ IsiZulu/Sesotho as FAL; • Distance: Afrikaans/IsiZulu/Sepedi/Sesotho/Setswana as HL AND English as FAL"
       ]
     },
     {
@@ -4321,7 +4939,15 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Chemical and Minerals Engineering",
+        "Electrical, Electronic and Computer Engineering",
+        "Mechanical Engineering",
+        "Nuclear Engineering",
+        "Industrial Engineering"
+      ]
     },
     {
       "id": "prog:349:Degree|db15e57d0768|bachelor of laws",
@@ -4361,7 +4987,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Home Language AND First Additional Language level 5",
+        "Mathematics level 4",
+        "Mathematics level 4 • SELECTION: Placement process and adherence to minimum requirements of the faculty",
+        "DURATION: 3 years",
+        "NS(C) OR NC(V) for degree studies, OR with full matriculation exemption;",
+        "SELECTION: Placement process and adherence to minimum requirements of the",
+        "NS(C) OR NC(V) for degree studies, OR with full matriculation exe"
+      ]
     },
     {
       "id": "prog:349:Degree|c7c6263d2d82|bachelor of laws (llb)",
@@ -4401,7 +5038,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Home Language AND First Additional Language level 5",
+        "Mathematics level 4",
+        "Mathematics level 4 • SELECTION: Placement process and adherence to minimum requirements of the faculty",
+        "DURATION: 3 years",
+        "NS(C) OR NC(V) for degree studies, OR with full matriculation exemption;",
+        "SELECTION: Placement process and adherence to minimum requirements of the",
+        "NS(C) OR NC(V) for degree studies, OR with full matriculation exe"
+      ]
     },
     {
       "id": "prog:349:Degree|693203046fb0|bachelor of nursing nursing • physical sciences or mathematics or life sciences ",
@@ -4417,7 +5065,7 @@
       "campus": null,
       "programme_code": null,
       "saqa_code": null,
-      "min_aps": null,
+      "min_aps": 22,
       "subjects_compulsory": [],
       "subject_or_groups": [],
       "min_grade": null,
@@ -4433,6 +5081,32 @@
         "Due to high volumes of applications and limited capacity",
         "Participation in the “job shadowing programme” (40",
         "Duration: 4 years"
+      ],
+      "_points_system": "aps_points",
+      "admissionRequirements": {
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": []
+      },
+      "admission_requirements_raw": [
+        "Level 4",
+        "3 years",
+        "4 years",
+        "Physical Sciences OR Mathematics OR Life Sciences on level 4",
+        "Physical Sciences OR Mathematics OR Life Sciences on level 4 (50-59%) • Level 4 (50-59%) for language of tuition • Due to high volumes of applications and limited capacity the following selection process will be fo",
+        "English or Afrikaa"
       ]
     },
     {
@@ -4473,7 +5147,20 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "3 years",
+        "Mathematics level 3",
+        "OR Mathematical Literacy level 4",
+        "AND Physical Sciences OR Life Sciences level 4",
+        "Level 4",
+        "4 years",
+        "Mathematics on level 5",
+        "and Physical Sciences on level 5",
+        "Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%) AND Physical Sciences OR Life Sciences level 4 (50-59%) • Level 4 (50-59%) for language of tuition • Students must be medically fit for the",
+        "Mathematics on level 5 (60-69%) and Physical Sciences on level 5 (60-69%) • Level 4 (50-59%) for language of tuition • Life Sciences is recommended • Late applications will be considered on merit, depending on"
+      ]
     },
     {
       "id": "prog:349:Degree|9ef7056ea3c2|bachelor of social science with psychology • level 4 (50-59%) for language of tu",
@@ -4502,6 +5189,18 @@
         "Duration: 3 years",
         "Academic paper selection",
         "Duration: 3 years"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics level 5",
+        "and Physical Sciences on level 5",
+        "Level 4",
+        "4 years",
+        "Mathematics level 3",
+        "or Mathematical Literacy level 5",
+        "3 years",
+        "Mathematics level 5 (60-69%) and Physical Sciences on level 5 (60-69%) • Level 4 (50-59%) for language of tuition • Late applications will be considered on merit • Academic paper selection • Best average mark •",
+        "Mathematics level 3 (40-49%) or Mathematical Literacy level 5 (60-69%) • Level 4 (50-59%) for language of tuition • Academic paper selection • Duration: 3 years 26 Potchefstroom Vanderbijlpark Full-time Conta"
       ]
     }
   ],
@@ -7272,15 +7971,17 @@
     "adm_reqs_count": 51
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:52:24Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:59:15Z",
     "test_mode": false,
-    "completeness_before": 0.128,
-    "completeness_after": 0.326,
-    "improvement": 0.197,
-    "fields_enriched": 207,
+    "points_system": "aps_points",
+    "completeness_before": 0.287,
+    "completeness_after": 0.34,
+    "improvement": 0.053,
+    "fields_enriched": 63,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/north-west-university.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/north-west-university.pdf"
     ]
   }
 }

@@ -61,11 +61,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:8435f1b9d37e",
@@ -99,7 +101,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:f482f2579e5b",
@@ -135,7 +138,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "ered at Senwabarwana Campus from 7"
+      ]
     },
     {
       "id": "prog:b778d0ff4cfb",
@@ -174,7 +181,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Manager of an Early Childhood Development site",
+        "Play group practitioner",
+        "Au pair",
+        "Educare practitioner"
+      ]
     },
     {
       "id": "prog:4e87ef33c5e7",
@@ -210,7 +224,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "ered at Senwabarwana Campus from 7"
+      ]
     },
     {
       "id": "prog:5f10f94ea3bd",
@@ -252,7 +270,15 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Manager of a guesthouse",
+        "Deal with client services in an accommodation facility",
+        "Work as an Assistant Cook/Chef preparing food in a restaurant, hotel or guest house",
+        "Work as a Waiter/tress",
+        "Work as a Housekee"
+      ]
     },
     {
       "id": "prog:bab6ca9407a7",
@@ -288,7 +314,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Admin oﬃcer",
+        "Human resource clerk",
+        "Personnel oﬃcer"
+      ]
     },
     {
       "id": "prog:b08cec18ce28",
@@ -324,7 +356,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "26 _Capricorn TVET Prospectus_48 Pages Final.pdf 11 3/11/2025 12:38:00 PM",
+        "Recepti"
+      ]
     },
     {
       "id": "prog:7bd92eb79b28",
@@ -365,7 +402,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "ered at Senwabarwana Campus from 7"
+      ]
     },
     {
       "id": "prog:badf62b41a7f",
@@ -405,7 +446,11 @@
         ],
         "subject_or_groups": []
       },
-      "credits": 130
+      "credits": 130,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "ered at Senwabarwana Campus from 7"
+      ]
     },
     {
       "id": "prog:5d28cda6b392",
@@ -461,6 +506,13 @@
         "Human and Social Development",
         "Learning Psychology",
         "Early Chilhood Development"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Manager of an Early Childhood Development site",
+        "Play group practitioner",
+        "Au pair",
+        "Educare practitioner"
       ]
     },
     {
@@ -495,7 +547,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:93fe4123b603",
@@ -529,7 +582,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:0b16a32c96db",
@@ -563,7 +617,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "vocational"
+      ]
     },
     {
       "id": "prog:325:NATED|3787633babc5|report 191",
@@ -590,6 +648,15 @@
       "modules": [
         "Access workplace opportunities in a work environment or sector relevant to",
         "Access the workplace with the occupational specialisation he/she might have"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "NSFAS 7",
+        "Campuses And Management 7",
+        "Programmes And Management 7",
+        "And Nc(V) 8",
+        "Business Management 9",
+        "Management Assistant 9"
       ]
     }
   ],
@@ -741,15 +808,17 @@
     "adm_reqs_count": 5
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:29Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:53Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.231,
-    "improvement": 0.164,
-    "fields_enriched": 37,
+    "points_system": "tvet_none",
+    "completeness_before": 0.204,
+    "completeness_after": 0.247,
+    "improvement": 0.043,
+    "fields_enriched": 12,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/capricorn-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/capricorn-tvet-college.pdf"
     ]
   }
 }

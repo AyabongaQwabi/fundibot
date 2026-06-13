@@ -109,7 +109,25 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "mining-qualifications-authority-mqa.pdf",
-      "_discovery_char": 8080
+      "_discovery_char": 8080,
+      "_qual_type_inferred": true,
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 500,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "academic requirements 7",
+        "The selection criteria 2",
+        "1 Beneficiary selection criteria Applicants",
+        "Academic merit",
+        "Employment interest and suitability for the sector",
+        "Previously disadvantaged profile",
+        "Must be a South African citizen",
+        "Academic field",
+        "Must not have benefitted from prior work experience programmes"
+      ]
     }
   ],
   "admission": {
@@ -134,15 +152,19 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:24Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:45Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.067,
-    "improvement": 0.0,
-    "fields_enriched": 0,
+    "points_system": "aps_points",
+    "completeness_before": 0.059,
+    "completeness_after": 0.176,
+    "improvement": 0.117,
+    "fields_enriched": 2,
+    "qual_type_inferred": [
+      "clinic, the money must be supplied when students present a doctor’s invoice for primary"
+    ],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/mining-qualifications-authority-mqa.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/mining-qualifications-authority-mqa.pdf"
     ]
   }
 }

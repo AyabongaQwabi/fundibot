@@ -67,7 +67,12 @@
         "college/ 1/7"
       ],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "college/ 1",
+        "7 knowledge with practical skills developme"
+      ]
     },
     {
       "id": null,
@@ -95,7 +100,12 @@
         "college/ 1/7"
       ],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "college/ 1",
+        "7 knowledge with practical skills developme"
+      ]
     },
     {
       "id": null,
@@ -123,7 +133,12 @@
         "college/ 1/7"
       ],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "college/ 1",
+        "7 knowledge with practical skills developme"
+      ]
     },
     {
       "id": null,
@@ -151,7 +166,12 @@
         "college/ 1/7"
       ],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "college/ 1",
+        "7 knowledge with practical skills developme"
+      ]
     },
     {
       "id": null,
@@ -175,7 +195,8 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -194,12 +215,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -218,12 +241,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -242,12 +267,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -266,12 +293,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -290,12 +319,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -314,12 +345,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "name": "The college specializes in National Certificate (Vocational) qualifications and Report",
@@ -349,7 +382,13 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
-      "_discovery_char": 409
+      "_discovery_char": 409,
+      "_qual_type_inferred": true,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "college/ 1",
+        "7 knowledge with practical skills developme"
+      ]
     },
     {
       "name": "delivered in full compliance with national quality standards. Students gain NCV qualifications at Levels",
@@ -379,7 +418,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
-      "_discovery_char": 10172
+      "_discovery_char": 10172,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Students gain NCV qualifications at Levels 2",
+        "and 4"
+      ],
+      "pricing": {
+        "amount_min": 2000,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      }
     },
     {
       "name": ", 3, and 4 or equivalent Report 191 certifications, recognized across South Africa and internationally.",
@@ -409,7 +459,12 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf",
-      "_discovery_char": 10277
+      "_discovery_char": 10277,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Students gain NCV qualifications at Levels 2",
+        "and 4"
+      ]
     }
   ],
   "admission": {
@@ -435,15 +490,19 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:25Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:45Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.1,
+    "points_system": "tvet_none",
+    "completeness_before": 0.088,
+    "completeness_after": 0.122,
     "improvement": 0.033,
-    "fields_enriched": 7,
+    "fields_enriched": 14,
+    "qual_type_inferred": [
+      "The college specializes in National Certificate (Vocational) qualifications and Report"
+    ],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf"
     ]
   }
 }

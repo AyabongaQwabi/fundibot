@@ -220,7 +220,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "durban-university-of-technology.pdf",
-      "_discovery_char": 3054
+      "_discovery_char": 3054,
+      "_qual_type_inferred": true,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Go to www",
+        "At least 50%",
+        "and At least 60%",
+        "At least 60%",
+        "and At least 70%",
+        "English; and At least 60% in three compulsory vocational subjects",
+        "English; and At least 70% in four compulsory vocational subjects, chosen from the National Certificate (Vocational) Level four subjects"
+      ]
     },
     {
       "name": "A National Certificate (Vocational) Level four",
@@ -249,7 +260,23 @@
       "_discovery_char": 3132,
       "modules": [
         "INSTRUCTIONS BELOW:"
-      ]
+      ],
+      "_qual_type_inferred": true,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Go to www",
+        "At least 50%",
+        "and At least 60%",
+        "At least 60%",
+        "and At least 70%",
+        "English; and At least 60% in three compulsory vocational subjects",
+        "English; and At least 70% in four compulsory vocational subjects, chosen from the National Certificate (Vocational) Level four subjects"
+      ],
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "name": "subjects, chosen from the National Certificate",
@@ -275,7 +302,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "durban-university-of-technology.pdf",
-      "_discovery_char": 3545
+      "_discovery_char": 3545,
+      "_qual_type_inferred": true,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "4 Go to www",
+        "At least 50%",
+        "and At least 60%",
+        "At least 60%",
+        "and At least 70%",
+        "English; and At least 60% in three compulsory vocational subjects",
+        "English; and At least 70% in four compulsory vocational subjects, chosen from the National Certificate (Vocational) Level four subjects"
+      ]
     }
   ],
   "admission": {
@@ -301,15 +339,21 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:32Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:58Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.089,
-    "improvement": 0.022,
-    "fields_enriched": 1,
+    "points_system": "aps_points",
+    "completeness_before": 0.079,
+    "completeness_after": 0.157,
+    "improvement": 0.078,
+    "fields_enriched": 4,
+    "qual_type_inferred": [
+      "A National Certificate (Vocational) Level",
+      "A National Certificate (Vocational) Level four",
+      "subjects, chosen from the National Certificate"
+    ],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/durban-university-of-technology.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/durban-university-of-technology.pdf"
     ]
   }
 }

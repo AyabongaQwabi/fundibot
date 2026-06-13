@@ -88,7 +88,33 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3",
+        "or NC(V) Level 4",
+        "2 Official Languages N",
+        "or NC(V) Level 5",
+        "or Professional Qualifications Degree Masters Degree Doctoral Degree Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5",
+        "Level 6",
+        "Level 7",
+        "Level 8",
+        "Level 9",
+        "Level 2 Certificate",
+        "Level 3 Certificate",
+        "Level 4 Certificate",
+        "Level 1 Level",
+        "Level 3 Level",
+        "Level 5 Level",
+        "Level 7 Level",
+        "Level 9 Level"
+      ]
     },
     {
       "id": "prog:f603a37b6b10",
@@ -107,11 +133,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:7d2fc534ad23",
@@ -130,11 +158,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:6f67221fcefc",
@@ -153,11 +183,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:f5522ca72a58",
@@ -180,7 +212,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:afad25c863c0",
@@ -203,7 +236,33 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3",
+        "or NC(V) Level 4",
+        "2 Official Languages N",
+        "or NC(V) Level 5",
+        "or Professional Qualifications Degree Masters Degree Doctoral Degree Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5",
+        "Level 6",
+        "Level 7",
+        "Level 8",
+        "Level 9",
+        "Level 2 Certificate",
+        "Level 3 Certificate",
+        "Level 4 Certificate",
+        "Level 1 Level",
+        "Level 3 Level",
+        "Level 5 Level",
+        "Level 7 Level",
+        "Level 9 Level"
+      ]
     },
     {
       "id": "prog:24e0cdb097b0",
@@ -226,7 +285,33 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3",
+        "or NC(V) Level 4",
+        "2 Official Languages N",
+        "or NC(V) Level 5",
+        "or Professional Qualifications Degree Masters Degree Doctoral Degree Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5",
+        "Level 6",
+        "Level 7",
+        "Level 8",
+        "Level 9",
+        "Level 2 Certificate",
+        "Level 3 Certificate",
+        "Level 4 Certificate",
+        "Level 1 Level",
+        "Level 3 Level",
+        "Level 5 Level",
+        "Level 7 Level",
+        "Level 9 Level"
+      ]
     },
     {
       "id": "prog:04e5977132f7",
@@ -249,7 +334,33 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3",
+        "or NC(V) Level 4",
+        "2 Official Languages N",
+        "or NC(V) Level 5",
+        "or Professional Qualifications Degree Masters Degree Doctoral Degree Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5",
+        "Level 6",
+        "Level 7",
+        "Level 8",
+        "Level 9",
+        "Level 2 Certificate",
+        "Level 3 Certificate",
+        "Level 4 Certificate",
+        "Level 1 Level",
+        "Level 3 Level",
+        "Level 5 Level",
+        "Level 7 Level",
+        "Level 9 Level"
+      ]
     },
     {
       "id": "prog:c236e7c167d3",
@@ -272,7 +383,33 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3",
+        "or NC(V) Level 4",
+        "2 Official Languages N",
+        "or NC(V) Level 5",
+        "or Professional Qualifications Degree Masters Degree Doctoral Degree Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5",
+        "Level 6",
+        "Level 7",
+        "Level 8",
+        "Level 9",
+        "Level 2 Certificate",
+        "Level 3 Certificate",
+        "Level 4 Certificate",
+        "Level 1 Level",
+        "Level 3 Level",
+        "Level 5 Level",
+        "Level 7 Level",
+        "Level 9 Level"
+      ]
     },
     {
       "id": "prog:900fc2770ed0",
@@ -295,7 +432,33 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3",
+        "or NC(V) Level 4",
+        "2 Official Languages N",
+        "or NC(V) Level 5",
+        "or Professional Qualifications Degree Masters Degree Doctoral Degree Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5",
+        "Level 6",
+        "Level 7",
+        "Level 8",
+        "Level 9",
+        "Level 2 Certificate",
+        "Level 3 Certificate",
+        "Level 4 Certificate",
+        "Level 1 Level",
+        "Level 3 Level",
+        "Level 5 Level",
+        "Level 7 Level",
+        "Level 9 Level"
+      ]
     },
     {
       "id": "prog:685352eac20e",
@@ -318,7 +481,33 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "T V E T C O L L E G E P R O S P E C T U S NATIONAL QUALIFICATION FRAMEWORK (NQF) NQF LEVEL GRADE DESCRIPTION CATEGORY General Education Certificate (Grade 9",
+        "or NC(V) Level 2",
+        "or NC(V) Level 3",
+        "or NC(V) Level 4",
+        "2 Official Languages N",
+        "or NC(V) Level 5",
+        "or Professional Qualifications Degree Masters Degree Doctoral Degree Level 1",
+        "Level 2",
+        "Level 3",
+        "Level 4",
+        "Level 5",
+        "Level 6",
+        "Level 7",
+        "Level 8",
+        "Level 9",
+        "Level 2 Certificate",
+        "Level 3 Certificate",
+        "Level 4 Certificate",
+        "Level 1 Level",
+        "Level 3 Level",
+        "Level 5 Level",
+        "Level 7 Level",
+        "Level 9 Level"
+      ]
     },
     {
       "id": "prog:3c9cbe20d559",
@@ -358,7 +547,19 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Management Assistant 6",
+        "Management Assistant Nquthu PUBLIC MANAGEMENT 4",
+        "5 Public Administration N",
+        "Public Management 6",
+        "Public Administration 6",
+        "1 M T H A S H A N",
+        "NSC with English 50%",
+        "English 50%, or Pass NCV L4 Certificate N4 Management Assistant 6 Information Processing N6 Computer Practice N6 Office Practice N6 Communication N6 N5 Management Assistant Nquthu PUBLIC MANAGEMENT 4 5 Publi",
+        "English 50%, or Pass NCV L4 Certificate N4 Public Management 6 Public Administration 6 Public Finance N6 Public Law N6 Municipal Administration N6 N5 Public Management Kwagqikazi Vryheid BUSINESS STUDIES N4"
+      ]
     },
     {
       "id": "prog:58a53c0f3c5f",
@@ -377,7 +578,7 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Completion of NCV Level 3",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
@@ -398,7 +599,9 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     }
   ],
   "admission": {
@@ -455,15 +658,17 @@
     "adm_reqs_count": 1
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:57Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:58:36Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.103,
+    "points_system": "tvet_none",
+    "completeness_before": 0.091,
+    "completeness_after": 0.127,
     "improvement": 0.036,
-    "fields_enriched": 7,
+    "fields_enriched": 12,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/Mthashana-College-2026booklet_design-3.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/Mthashana-College-2026booklet_design-3.pdf"
     ]
   }
 }

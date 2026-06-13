@@ -64,7 +64,26 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 15230,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "NAL CERTIFICATE VOCATIONAL Primary Health Level 2",
+        "Primary Health Level 3",
+        "Primary Health Level 4",
+        "Legal Secretary Safety in Society Level 2",
+        "Safety in Society Level 3",
+        "Safety in Society Level 4",
+        "Beauty Therapist Year 1",
+        "VOCATIONAL FEE STRUCTURE R 2",
+        "Accounting Level 2",
+        "Level 2 Safety in Society Level",
+        "Level 4 Medical Secretary CENTRE OF SPECIALISATIO"
+      ]
     },
     {
       "id": null,
@@ -88,7 +107,21 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Engineering and Related Design Level 4",
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Primary Health Level 2",
+        "Primary Health Level 3",
+        "Primary Health Level 4"
+      ]
     },
     {
       "id": null,
@@ -112,7 +145,21 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Engineering and Related Design Level 4",
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Primary Health Level 2",
+        "Primary Health Level 3",
+        "Primary Health Level 4"
+      ]
     },
     {
       "id": null,
@@ -136,7 +183,21 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Engineering and Related Design Level 4",
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Primary Health Level 2",
+        "Primary Health Level 3",
+        "Primary Health Level 4"
+      ]
     },
     {
       "id": null,
@@ -160,7 +221,8 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -179,12 +241,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -208,7 +272,21 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 11480,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Solar Photovoltaic Service Technician Year 1",
+        "8 BELLVILLE CAMPUS DESCRIPTION",
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Engineering and Related Design Level 4",
+        "Panel Beater Year 1"
+      ]
     },
     {
       "id": null,
@@ -227,12 +305,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -256,7 +336,21 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Engineering and Related Design Level 4",
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Primary Health Level 2",
+        "Primary Health Level 3",
+        "Primary Health Level 4"
+      ]
     },
     {
       "id": null,
@@ -280,7 +374,18 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ]
     },
     {
       "id": null,
@@ -304,7 +409,18 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ]
     },
     {
       "name": "Engineering Studies N4 (Electrical)",
@@ -330,7 +446,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 12261
+      "_discovery_char": 12261,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ]
     },
     {
       "name": "Engineering Studies N5 (Electrical)",
@@ -356,7 +483,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 12313
+      "_discovery_char": 12313,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ]
     },
     {
       "name": "Engineering Studies N6 (Electrical)",
@@ -382,7 +520,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 12393
+      "_discovery_char": 12393,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ]
     },
     {
       "name": "Engineering Studies N4 (Building and Civil)",
@@ -408,7 +557,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 12437
+      "_discovery_char": 12437,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ]
     },
     {
       "name": "Engineering Studies N5 (Building and Civil)",
@@ -434,7 +594,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 12481
+      "_discovery_char": 12481,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ]
     },
     {
       "name": "Engineering Studies N6 (Building and Civil)",
@@ -460,7 +631,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 12533
+      "_discovery_char": 12533,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ]
     },
     {
       "name": "Occupational Certificate: Panel Beater Year",
@@ -486,7 +668,22 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 13352
+      "_discovery_char": 13352,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 17315,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Panel Beater Year 1",
+        "Vehicle Painter (Automobile and Marine paint)) Year 1",
+        "Early Childhood Development Practitioner NQF Level 4",
+        "Refer to the Campus for more information 9",
+        "Payment in full required NATIONAL CERTIFICATE VOCATIONAL Engineering and Related Design Level 2",
+        "Engineering and Related Design Level 3",
+        "Level 4 Online Offerings for"
+      ]
     },
     {
       "name": "Engineering Studies N4",
@@ -512,7 +709,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 12261
+      "_discovery_char": 12261,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ]
     },
     {
       "name": "Engineering Studies N5",
@@ -538,7 +746,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 12313
+      "_discovery_char": 12313,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ]
     },
     {
       "name": "Engineering Studies N6",
@@ -564,7 +783,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 12393
+      "_discovery_char": 12393,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 640,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "ES (Legacy) 7",
+        "Electrical) R 2",
+        "Building and Civil) R 2"
+      ]
     },
     {
       "name": "Occupational Certificate: Beauty Therapist Year",
@@ -590,7 +820,26 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 15205
+      "_discovery_char": 15205,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 15230,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "NAL CERTIFICATE VOCATIONAL Primary Health Level 2",
+        "Primary Health Level 3",
+        "Primary Health Level 4",
+        "Legal Secretary Safety in Society Level 2",
+        "Safety in Society Level 3",
+        "Safety in Society Level 4",
+        "Beauty Therapist Year 1",
+        "VOCATIONAL FEE STRUCTURE R 2",
+        "Accounting Level 2",
+        "Level 2 Safety in Society Level",
+        "Level 4 Medical Secretary CENTRE OF SPECIALISATIO"
+      ]
     },
     {
       "name": "Occupational Certificate: Computer Technician year",
@@ -616,7 +865,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 17032
+      "_discovery_char": 17032,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ]
     },
     {
       "name": "Occupational Certificate: Cybersecurity Analyst Year",
@@ -642,7 +902,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 17085
+      "_discovery_char": 17085,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ]
     },
     {
       "name": "Occupational Certificate: Fitness Instructor Year",
@@ -668,7 +939,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 17139
+      "_discovery_char": 17139,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ]
     },
     {
       "name": "Occupational Certificate: Internet of things Year",
@@ -694,7 +976,18 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "northlink-tvet-college.pdf",
-      "_discovery_char": 17191
+      "_discovery_char": 17191,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 13855,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Computer Technician year 1",
+        "Fitness Instructor Year 1",
+        "Internet of things Year 1"
+      ]
     }
   ],
   "admission": {
@@ -719,15 +1012,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:25Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:46Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.08,
-    "improvement": 0.013,
-    "fields_enriched": 5,
+    "points_system": "tvet_none",
+    "completeness_before": 0.07,
+    "completeness_after": 0.174,
+    "improvement": 0.103,
+    "fields_enriched": 48,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/northlink-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/northlink-tvet-college.pdf"
     ]
   }
 }

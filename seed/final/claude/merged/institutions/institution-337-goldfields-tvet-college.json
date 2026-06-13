@@ -76,7 +76,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "or a 1",
+        "3 AET L",
+        "4 RPL Assessment Programme",
+        "or an 1",
+        "5 APS score of",
+        "Using the best of six Grade 9",
+        "6 APS score of",
+        "8 APS score of",
+        "9 APS score of",
+        "statement with a 50%",
+        "GETC) with a 50%",
+        "Mathematics / Mathematical Literacy and English FAL; or a 1",
+        "Mathematics / Mathematical Literacy and English FAL; or an Equivalent Occupational Qualiﬁcation: or a 1",
+        "Mathematics / Mathematical Literacy / Technical Mathematics and English; or an 1",
+        "Mathematics / Mathematical Literacy / Technical Mathematics; or an; 1",
+        "Mathematics / Mathematical Liter"
+      ]
     },
     {
       "id": "prog:326b81771e24",
@@ -110,7 +129,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "or a 1",
+        "3 AET L",
+        "4 RPL Assessment Programme",
+        "or an 1",
+        "5 APS score of",
+        "Using the best of six Grade 9",
+        "6 APS score of",
+        "8 APS score of",
+        "9 APS score of",
+        "statement with a 50%",
+        "GETC) with a 50%",
+        "Mathematics / Mathematical Literacy and English FAL; or a 1",
+        "Mathematics / Mathematical Literacy and English FAL; or an Equivalent Occupational Qualiﬁcation: or a 1",
+        "Mathematics / Mathematical Literacy / Technical Mathematics and English; or an 1",
+        "Mathematics / Mathematical Literacy / Technical Mathematics; or an; 1",
+        "Mathematics / Mathematical Liter"
+      ]
     },
     {
       "id": "prog:dea06a42731a",
@@ -144,7 +182,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "or a 1",
+        "3 AET L",
+        "4 RPL Assessment Programme",
+        "or an 1",
+        "5 APS score of",
+        "Using the best of six Grade 9",
+        "6 APS score of",
+        "8 APS score of",
+        "9 APS score of",
+        "statement with a 50%",
+        "GETC) with a 50%",
+        "Mathematics / Mathematical Literacy and English FAL; or a 1",
+        "Mathematics / Mathematical Literacy and English FAL; or an Equivalent Occupational Qualiﬁcation: or a 1",
+        "Mathematics / Mathematical Literacy / Technical Mathematics and English; or an 1",
+        "Mathematics / Mathematical Literacy / Technical Mathematics; or an; 1",
+        "Mathematics / Mathematical Liter"
+      ]
     },
     {
       "id": "prog:337:NATED|3787633babc5|report 191",
@@ -163,11 +220,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     }
   ],
   "admission": {
@@ -312,16 +371,18 @@
     "adm_reqs_count": 4
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:34Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:59Z",
     "test_mode": false,
-    "completeness_before": 0.117,
-    "completeness_after": 0.167,
-    "improvement": 0.05,
-    "fields_enriched": 3,
+    "points_system": "tvet_none",
+    "completeness_before": 0.147,
+    "completeness_after": 0.191,
+    "improvement": 0.044,
+    "fields_enriched": 4,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/goldfields-tvet-college.pdf",
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/goldfields-tvet-prospectus.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/goldfields-tvet-college.pdf",
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/goldfields-tvet-prospectus.pdf"
     ]
   }
 }

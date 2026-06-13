@@ -232,7 +232,7 @@
     {
       "id": "eastcape-midlands-tvet-college-school-of-art-and-social-sciences",
       "name": "School of Art & Social Scieences",
-      "overview":"School of Art & Social Scieences",
+      "overview": "School of Art & Social Scieences",
       "kind": "faculty"
     }
   ],
@@ -242,170 +242,339 @@
       "name": "Tourism",
       "normalized_name": "Tourism",
       "qualification_type": "NCV Certificate",
-      "faculty_name": "School of Art & Social Scieences"
+      "faculty_name": "School of Art & Social Scieences",
+      "_points_system": "tvet_none"
     },
     {
       "id": "safety-east-1",
       "name": "Safety in Society",
       "normalized_name": "Safety in Society",
       "qualification_type": "Certificate",
-      "faculty_name": "School of Art & Social Scieences"
+      "faculty_name": "School of Art & Social Scieences",
+      "_points_system": "tvet_none",
+      "modules": [
+        "Life Skills & Computer Literacy",
+        "Optional subjects can",
+        "SCHOOL OF BUSINESS",
+        "Science of Tourism",
+        "Client Services and Human",
+        "Sustainable Tourism in SA",
+        "Tourism Operations",
+        "Introduction to Governance"
+      ],
+      "campuses_offering": [
+        "High Street Campus",
+        "Grahamstown Campus"
+      ],
+      "admission_requirements_raw": [
+        "SOCIAL SCIENCES LEVEL 2",
+        "LEVEL 2 Tourism",
+        "English) • Life Skills & Computer Literacy • Mathematics or Mathematical Literacy WHICH ARE THE VOCATIONAL SUBJECTS? Subjects are listed as per certificate"
+      ]
     },
     {
       "id": "hospitality-east-1",
       "name": "Hospitality",
       "normalized_name": "Hospitality",
       "qualification_type": "NCV Certificate",
-      "faculty_name": "School of Art & Social Scieences"
+      "faculty_name": "School of Art & Social Scieences",
+      "_points_system": "tvet_none"
     },
     {
       "id": "marketing-east-1",
       "name": "Marketing",
       "normalized_name": "Marketing",
       "qualification_type": "NCV Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none"
     },
     {
       "id": "office-east-1",
       "name": "Office Administration",
       "normalized_name": "Office Administration",
       "qualification_type": "NCV Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none"
     },
     {
       "id": "finance-east-1",
       "name": "Finance, Economics & Accounting",
       "normalized_name": "Finance, Economics & Accounting",
       "qualification_type": "NCV Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "modules": [
+        "Life Skills & Computer Literacy",
+        "Optional subjects can",
+        "SCHOOL OF BUSINESS",
+        "Science of Tourism",
+        "Client Services and Human",
+        "Sustainable Tourism in SA",
+        "Tourism Operations",
+        "Introduction to Governance"
+      ],
+      "campuses_offering": [
+        "High Street Campus",
+        "Grahamstown Campus"
+      ],
+      "admission_requirements_raw": [
+        "SOCIAL SCIENCES LEVEL 2",
+        "LEVEL 2 Tourism",
+        "English) • Life Skills & Computer Literacy • Mathematics or Mathematical Literacy WHICH ARE THE VOCATIONAL SUBJECTS? Subjects are listed as per certificate"
+      ]
     },
     {
       "id": "Mangement-east-n4",
       "name": "Management Assistant",
       "normalized_name": "Management Assistant",
       "qualification_type": "N4 Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
     },
-     {
+    {
       "id": "Mangement-east-n5",
       "name": "Management Assistant",
       "normalized_name": "Management Assistant",
       "qualification_type": "N5 Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
     },
-     {
+    {
       "id": "Mangement-east-n6",
       "name": "Management Assistant",
       "normalized_name": "Management Assistant",
       "qualification_type": "N6 Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
     },
-     {
+    {
       "id": "fin-Mangement-east-n4",
       "name": "Financial Management",
       "normalized_name": "Financial Management",
       "qualification_type": "N4 Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
     },
-      {
-        "id": "fin-Mangement-east-n5",
-        "name": "Financial Management",
-        "normalized_name": "Financial Management",
-        "qualification_type": "N5 Certificate",
-        "faculty_name": "School of Business"
-      },
-      {
-        "id": "fin-Mangement-east-n6",
-        "name": "Financial Management",
-        "normalized_name": "Financial Management",
-        "qualification_type": "N6 Certificate",
-        "faculty_name": "School of Business"
-      },
-      {
+    {
+      "id": "fin-Mangement-east-n5",
+      "name": "Financial Management",
+      "normalized_name": "Financial Management",
+      "qualification_type": "N5 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
+    },
+    {
+      "id": "fin-Mangement-east-n6",
+      "name": "Financial Management",
+      "normalized_name": "Financial Management",
+      "qualification_type": "N6 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
+    },
+    {
       "id": "biz-Mangement-east-n4",
       "name": "Business Management",
       "normalized_name": "Business Management",
       "qualification_type": "N4 Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
     },
-      {
-        "id": "biz-Mangement-east-n5",
-        "name": "Business Management",
-        "normalized_name": "Business Management",
-        "qualification_type": "N5 Certificate",
-        "faculty_name": "School of Business"
-      },
-      {
-        "id": "biz-Mangement-east-n6",
-        "name": "Business Management",
-        "normalized_name": "Business Management",
-        "qualification_type": "N6 Certificate",
-        "faculty_name": "School of Business"
-      },
-      {
+    {
+      "id": "biz-Mangement-east-n5",
+      "name": "Business Management",
+      "normalized_name": "Business Management",
+      "qualification_type": "N5 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
+    },
+    {
+      "id": "biz-Mangement-east-n6",
+      "name": "Business Management",
+      "normalized_name": "Business Management",
+      "qualification_type": "N6 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
+    },
+    {
       "id": "hr-Mangement-east-n4",
       "name": "Human Resource Management",
       "normalized_name": "Human Resource Management",
       "qualification_type": "N4 Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "modules": [
+        "Communication",
+        "Introduction to Computer Practice",
+        "Introduction to Information",
+        "Office Practice",
+        "Management Communication",
+        "Financial Accounting",
+        "Computerised Financial Systems",
+        "Entrepreneurship & Business",
+        "Introduction to Computer Practice N4 or",
+        "Entrepreneurship & Business",
+        "Management Communication",
+        "Introduction to Accounting N4 or"
+      ],
+      "pricing": {
+        "amount_min": 12027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "evel 5",
+        "The final date for returning student enrolment is Semester 1",
+        "National Certificate (NATED/TVET) Level 6",
+        "The date for returning student enrolment is Semester 2",
+        "Level 6 course (N"
+      ]
     },
-      {
-        "id": "hr-Mangement-east-n5",
-        "name": "Human Resource Management",
-        "normalized_name": "Human Resource Management",
-        "qualification_type": "N5 Certificate",
-        "faculty_name": "School of Business"
+    {
+      "id": "hr-Mangement-east-n5",
+      "name": "Human Resource Management",
+      "normalized_name": "Human Resource Management",
+      "qualification_type": "N5 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "modules": [
+        "Communication",
+        "Introduction to Computer Practice",
+        "Introduction to Information",
+        "Office Practice",
+        "Management Communication",
+        "Financial Accounting",
+        "Computerised Financial Systems",
+        "Entrepreneurship & Business",
+        "Introduction to Computer Practice N4 or",
+        "Entrepreneurship & Business",
+        "Management Communication",
+        "Introduction to Accounting N4 or"
+      ],
+      "pricing": {
+        "amount_min": 12027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-       {
-        "id": "hr-Mangement-east-n6",
-        "name": "Human Resource Management",
-        "normalized_name": "Human Resource Management",
-        "qualification_type": "N6 Certificate",
-        "faculty_name": "School of Business"
+      "admission_requirements_raw": [
+        "evel 5",
+        "The final date for returning student enrolment is Semester 1",
+        "National Certificate (NATED/TVET) Level 6",
+        "The date for returning student enrolment is Semester 2",
+        "Level 6 course (N"
+      ]
+    },
+    {
+      "id": "hr-Mangement-east-n6",
+      "name": "Human Resource Management",
+      "normalized_name": "Human Resource Management",
+      "qualification_type": "N6 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "modules": [
+        "Communication",
+        "Introduction to Computer Practice",
+        "Introduction to Information",
+        "Office Practice",
+        "Management Communication",
+        "Financial Accounting",
+        "Computerised Financial Systems",
+        "Entrepreneurship & Business",
+        "Introduction to Computer Practice N4 or",
+        "Entrepreneurship & Business",
+        "Management Communication",
+        "Introduction to Accounting N4 or"
+      ],
+      "pricing": {
+        "amount_min": 12027,
+        "currency": "ZAR",
+        "granularity": "institutional"
       },
-      {
+      "admission_requirements_raw": [
+        "evel 5",
+        "The final date for returning student enrolment is Semester 1",
+        "National Certificate (NATED/TVET) Level 6",
+        "The date for returning student enrolment is Semester 2",
+        "Level 6 course (N"
+      ]
+    },
+    {
       "id": "legal-sec-east-n4",
       "name": "Legal Secretary",
       "normalized_name": "Legal Secretary",
       "qualification_type": "N4 Certificate",
-      "faculty_name": "School of Business"
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
     },
-      {
-        "id": "legal-sec-east-n5",
-        "name": "Legal Secretary",
-        "normalized_name": "Legal Secretary",
-        "qualification_type": "N5 Certificate",
-        "faculty_name": "School of Business"
-      },
-       {
-        "id": "legal-sec-east-n6",
-        "name": "Legal Secretary",
-        "normalized_name": "Legal Secretary",
-        "qualification_type": "N6 Certificate",
-        "faculty_name": "School of Business"
-      },
-      {
-        "id": "marketing-man-east-n4",
-        "name": "Marketing Management",
-        "normalized_name": "Marketing Management",
-        "qualification_type": "N4 Certificate",
-        "faculty_name": "School of Business"
-      },
-      {
-        "id": "marketing-man-east-n5",
-        "name": "Marketing Management",
-        "normalized_name": "Marketing Management",
-        "qualification_type": "N5 Certificate",
-        "faculty_name": "School of Business"
-      },
-      {
-        "id": "marketing-man-east-n6",
-        "name": "Marketing Management",
-        "normalized_name": "Marketing Management",
-        "qualification_type": "N6 Certificate",
-        "faculty_name": "School of Business"
-      },
-
+    {
+      "id": "legal-sec-east-n5",
+      "name": "Legal Secretary",
+      "normalized_name": "Legal Secretary",
+      "qualification_type": "N5 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
+    },
+    {
+      "id": "legal-sec-east-n6",
+      "name": "Legal Secretary",
+      "normalized_name": "Legal Secretary",
+      "qualification_type": "N6 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
+    },
+    {
+      "id": "marketing-man-east-n4",
+      "name": "Marketing Management",
+      "normalized_name": "Marketing Management",
+      "qualification_type": "N4 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
+    },
+    {
+      "id": "marketing-man-east-n5",
+      "name": "Marketing Management",
+      "normalized_name": "Marketing Management",
+      "qualification_type": "N5 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
+    },
+    {
+      "id": "marketing-man-east-n6",
+      "name": "Marketing Management",
+      "normalized_name": "Marketing Management",
+      "qualification_type": "N6 Certificate",
+      "faculty_name": "School of Business",
+      "_points_system": "tvet_none",
+      "min_grade": "Grade 12 / Matric",
+      "_admission_is_default": true
+    },
     {
       "id": "prog:8829d73564ba",
       "name": "NCV LEVEL 4",
@@ -423,11 +592,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Completion of NCV Level 3",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:307:NATED|3787633babc5|report 191",
@@ -446,11 +617,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "name": "NCV & REPORT",
@@ -476,7 +649,8 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "eastcape-midlands-tvet-college.pdf",
-      "_discovery_char": 3902
+      "_discovery_char": 3902,
+      "_points_system": "tvet_none"
     }
   ],
   "admission": {
@@ -501,15 +675,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:24Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:45Z",
     "test_mode": false,
-    "completeness_before": 0.073,
-    "completeness_after": 0.222,
-    "improvement": 0.15,
-    "fields_enriched": 27,
+    "points_system": "tvet_none",
+    "completeness_before": 0.114,
+    "completeness_after": 0.142,
+    "improvement": 0.028,
+    "fields_enriched": 32,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/eastcape-midlands-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/eastcape-midlands-tvet-college.pdf"
     ]
   }
 }

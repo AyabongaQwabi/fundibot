@@ -5126,7 +5126,20 @@
         "Mathematical literacy L2-L4",
         "Life Skills and Computer Literacy L2-L4 &"
       ],
-      "credits": 120
+      "credits": 120,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "or Office Data Processing Level 4",
+        "b) Students must pass 3",
+        "subjects to progress to the next level 7",
+        "BUSINESS AND UTILITY PROGRAMMES Site of Delivery N/B The tick illustrates the campus where the course is offered Programme NQF Level Heidelberg Campus Sebokeng Campus Vanderbijlpark Campus Vereeniging Campus Hospitality 2",
+        "4 Management (L",
+        "4 Marketing (L",
+        "4 Office Administration (L",
+        "4 SUBJECTS PER PROGRAMME SUBJECTS Funda",
+        "level 7 NATIONAL CERTIFICATE VOCATIONAL NC(V) L",
+        "English First Additional Language L2-L4 • Mathematical literacy L2-L4 • Life Skills and Computer Literacy L2-L4 & • 4 V"
+      ]
     },
     {
       "id": "prog:8c859b8776e3",
@@ -5207,7 +5220,33 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "1 Trimester per level REPORT",
+        "phasing out 2",
+        "FEA 1",
+        "semester per level 3",
+        "Business Studies 1",
+        "semester per level 4",
+        "semester per level 5",
+        "semester per level 6",
+        "semester per level 7",
+        "Hospitality 1",
+        "semester per level 8",
+        "Tourism 1",
+        "pass with Maths 30%",
+        "and Science 30%",
+        "Catering 40%",
+        "with Tourism subject at 50%",
+        "level 3 MANAGEMENT ASSISTANT N",
+        "level 4 MARKETING MANAGEMENT N",
+        "level 5 HUMAN RESOURCE MANAGEMENT N",
+        "level 6 PUBLIC MANAGEMENT N",
+        "level 7 HOSPITALY",
+        "level 8 TOURISM N",
+        "Maths 30% and Science 30% 1 Trimester per level REPORT 191/ NATED BUSINESS STUDIES (N4 – N6) phasing out 2 BUSINESS MANAGEMENT N4 Pass grade 12 with Accounting (30%) /NC(V) L4-FEA 1 semester per le"
+      ]
     },
     {
       "id": "prog:79736f126dee",
@@ -5284,6 +5323,18 @@
       "modules": [
         "Mathematical literacy L2-L4",
         "Life Skills and Computer Literacy L2-L4 &"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Engineering Studies Vereeniging 2",
+        "NQF Level 4",
+        "pass with Mathematics or Technical Mathematics Sebokeng 3",
+        "CNC Miling Machinist NQF Level 4",
+        "Engineering Studies Vereeniging 3",
+        "Engineering Studies Vereeniging 1",
+        "Level 4 Grade",
+        "Mathematics or Technical Mathematics Sebokeng 3 Years Occupational Certificate: CNC Miling Machinist NQF Level 4 Grade 12 pass with Mathematics and Physical Science or Technical grade 12 or NC(V",
+        "Mathematics and Physical Science or Technical grade 12 or NC(V) L4 Engineering Related and Design or NC(V) L4 Mechatronics or N2 or N3 Engineering Studies Vereeniging 1 Years Occupational Certificate"
       ]
     },
     {
@@ -5365,7 +5416,33 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "1 Trimester per level REPORT",
+        "phasing out 2",
+        "FEA 1",
+        "semester per level 3",
+        "Business Studies 1",
+        "semester per level 4",
+        "semester per level 5",
+        "semester per level 6",
+        "semester per level 7",
+        "Hospitality 1",
+        "semester per level 8",
+        "Tourism 1",
+        "pass with Maths 30%",
+        "and Science 30%",
+        "Catering 40%",
+        "with Tourism subject at 50%",
+        "level 3 MANAGEMENT ASSISTANT N",
+        "level 4 MARKETING MANAGEMENT N",
+        "level 5 HUMAN RESOURCE MANAGEMENT N",
+        "level 6 PUBLIC MANAGEMENT N",
+        "level 7 HOSPITALY",
+        "level 8 TOURISM N",
+        "Maths 30% and Science 30% 1 Trimester per level REPORT 191/ NATED BUSINESS STUDIES (N4 – N6) phasing out 2 BUSINESS MANAGEMENT N4 Pass grade 12 with Accounting (30%) /NC(V) L4-FEA 1 semester per le"
+      ]
     },
     {
       "id": "prog:a6559502423a",
@@ -5444,7 +5521,19 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Engineering Studies Vereeniging 1",
+        "NQF Level 5",
+        "with English or Communication Vanderbijlpark Heidelberg 2",
+        "Finance Economics and Accounting Vanderbijlpark Sebokeng 3",
+        "Tourism Vanderbijlpark 2",
+        "Vanderbijlpark 2",
+        "Level 5 Grade",
+        "English or Communication Vanderbijlpark Heidelberg 2 Years Occupational Certificate: Bookkeeper - NQF Level 5 Grade 12 pass with Mathematical Literacy or Mathematics plus English and",
+        "English and Mathematics or Mathematical Literacy or NC(V) L4 Tourism Vanderbijlpark 2 Years Occupational Certificate: Conference and Event Organiser - NQF Level 5 Grade 12 pass with English or"
+      ]
     },
     {
       "id": "prog:353:NATED|3787633babc5|report 191",
@@ -5467,7 +5556,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "2 SEDIBENG TECHNICAL AND VOCATIONAL ED",
+        "COLLEGE VALUES Integrity Ethics Accountability Service Excellence Responsiveness Collaboration Innovation 1",
+        "2 Phasing out of NATED Report"
+      ],
+      "pricing": {
+        "amount_min": 22026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     }
   ],
   "admission": {
@@ -5650,15 +5750,17 @@
     "adm_reqs_count": 3
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:52:24Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:59:16Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.3,
-    "improvement": 0.233,
-    "fields_enriched": 21,
+    "points_system": "tvet_none",
+    "completeness_before": 0.265,
+    "completeness_after": 0.333,
+    "improvement": 0.069,
+    "fields_enriched": 7,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/sedibeng-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/sedibeng-tvet-college.pdf"
     ]
   }
 }

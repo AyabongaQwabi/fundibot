@@ -234,7 +234,12 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 360
+      "credits": 360,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "2 School related subjects)",
+        "Mathematics, Science and Technology for ACET (Information Technology, Mathematical Literacy, Mathematics, Natura"
+      ]
     },
     {
       "id": "prog:e56dcb3d893d",
@@ -257,7 +262,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c3742d676753",
@@ -280,7 +286,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:9e1b7956099d",
@@ -303,7 +310,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:b104165f6e86",
@@ -326,7 +338,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree at NQF level 7",
+        "focused Master’s programme, culminating"
+      ]
     },
     {
       "id": "prog:bbe6d5a3e0b3",
@@ -349,7 +366,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "b) 60%"
+      ]
     },
     {
       "id": "prog:67d253d720b0",
@@ -372,7 +394,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree at NQF l evel 7",
+        "b) Applicants must obtain at least 60%"
+      ]
     },
     {
       "id": "prog:d7010e1afe42",
@@ -395,7 +422,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree in Information Studies or related disciplines with NQF exit level 7",
+        "level 7 Dura",
+        "and beyond",
+        "by providing quality programmes in a multicultural"
+      ]
     },
     {
       "id": "prog:c182e76de09b",
@@ -418,7 +452,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A relevant 4",
+        "a) Candidates for the MOptom degree must possess a 4",
+        "b) An average of 60%",
+        "b) The candidates may be required to have received at least a 60%",
+        "year Bachelor’s degree or equivalent.",
+        "year Bachelor of Optom etry"
+      ]
     },
     {
       "id": "prog:f591e762a718",
@@ -441,7 +484,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A candidate must be in possession of a Bachelor of Social Work degree or equivalent at NQF level 8",
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:654f2e6fb6d9",
@@ -464,7 +512,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree at NQF l evel 7",
+        "b) Applicants must obtain at least 60%"
+      ]
     },
     {
       "id": "prog:8f7c2bd7a831",
@@ -487,7 +540,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree at NQF l evel 7",
+        "b) Applicants must obtain at least 60%"
+      ]
     },
     {
       "id": "prog:eebac7db1510",
@@ -510,7 +568,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ]
     },
     {
       "id": "prog:81248e4ac76e",
@@ -533,7 +597,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:9811aec5a66e",
@@ -556,7 +621,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ]
     },
     {
       "id": "prog:5484be198496",
@@ -579,7 +650,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:6d6c4e72d16c",
@@ -602,7 +678,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "year professional"
+      ]
     },
     {
       "id": "prog:bef26a04040d",
@@ -625,7 +705,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:274fa3368fd5",
@@ -648,7 +733,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%",
+        "Mathematics Education (h) Science Education (i) Technology Education Admission Requirements: (a) A candidate must hold a Master of Education degree or the Bachelor of Education"
+      ]
     },
     {
       "id": "prog:d107a231716d",
@@ -671,7 +761,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ]
     },
     {
       "id": "prog:cf6e10ad0405",
@@ -694,7 +790,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropr iate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:47d2ea67e61f",
@@ -717,7 +818,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropr iate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:56ba9928fcc1",
@@ -740,7 +846,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%",
+        "Physical Science or Biology",
+        "Physical Science Duration: Minimum of one year and maximum of three years",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:c0f077fb823d",
@@ -763,7 +878,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:ef3a1515759b",
@@ -786,7 +906,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:da73d11d0175",
@@ -809,7 +934,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:e0af4133c306",
@@ -832,7 +962,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s qualification (NQF level 7",
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:7b0a42a63f5e",
@@ -855,7 +990,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:0b21cfd5bb40",
@@ -889,7 +1029,13 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ]
     },
     {
       "id": "prog:ea7acc264dea",
@@ -923,7 +1069,11 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "This includes the requirement for the approval of the research proposal within 6"
+      ]
     },
     {
       "id": "prog:f4c1263857a8",
@@ -946,7 +1096,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "This includes the requirement for the approval of the research proposal within 6"
+      ]
     },
     {
       "id": "prog:cd36abd3aaad",
@@ -981,7 +1135,14 @@
         ],
         "subject_or_groups": []
       },
-      "credits": 360
+      "credits": 360,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree in Information Studies or related disciplines with NQF exit level 7",
+        "level 7 Dura",
+        "and beyond",
+        "by providing quality programmes in a multicultural"
+      ]
     },
     {
       "id": "prog:f321231d1019",
@@ -1015,7 +1176,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s qualification (NQF level 7",
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:cfc8d4584204",
@@ -1038,7 +1204,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "7 HOW TO APPLY ONLINE FOR POSTGRADUATE QUAL",
+        "Current and Former UL students (with student number) Step 1",
+        "za) Step 2",
+        "Enabler (online facilities",
+        "www.ul.ac.za)"
+      ]
     },
     {
       "id": "prog:8a3950697ae6",
@@ -1061,7 +1235,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "b) 60%"
+      ]
     },
     {
       "id": "prog:4205a5bf0f48",
@@ -1084,7 +1263,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:a2ab36b52e3c",
@@ -1107,7 +1287,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "An Honours degree in English with an average of 60%",
+        "dissertation that carries 50%",
+        "A candidate must be in possession of a Bachelor Honours degree in a relevant subject with a mark of 60%",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:d3056018b453",
@@ -1130,7 +1318,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:1adcfb137378",
@@ -1153,7 +1342,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%",
+        "English Studies (MA (English Studies)) This is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:841ca6f8ccf7",
@@ -1176,7 +1374,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%",
+        "English Studies (MA (English Studies)) This is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:29fdd1246203",
@@ -1199,7 +1406,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:a1f8ecee70ed",
@@ -1222,7 +1433,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:588a64d29e6f",
@@ -1245,7 +1460,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of at least 60%",
+        "dissertation that carries 50%",
+        "level 8 in the appropriate disciplinary area",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:f2442dc8c328",
@@ -1268,7 +1491,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ]
     },
     {
       "id": "prog:cbcacd8fbf84",
@@ -1291,7 +1520,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least an Honours degree or equivalent NQF level 8",
+        "c) An average of 60%",
+        "level 8 qualification in Public Administration or"
+      ]
     },
     {
       "id": "prog:91887d70b0a8",
@@ -1314,7 +1549,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:593684101808",
@@ -1337,7 +1573,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:3d2119f293c4",
@@ -1360,7 +1601,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:f5479aa5d949",
@@ -1383,7 +1629,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "LIFE SCIENCES Bachelor of Science Honours (BScHons) The Honours degree programmes consist of a research project and four theory modules relevant to the chosen discipline"
+      ]
     },
     {
       "id": "prog:81d334fe71e5",
@@ -1406,7 +1656,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:b3dc55b92513",
@@ -1429,7 +1680,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:ec861081084d",
@@ -1452,7 +1704,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "Mathematics (b) Preference will be given to candidate with teaching experience in Mathematics, but others may apply for available space",
+        "Physical Science or Biology",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:19a3a90bdd8c",
@@ -1476,7 +1737,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 360
+      "credits": 360,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%",
+        "Physical Science or Biology",
+        "Physical Science Duration: Minimum of one year and maximum of three years",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:68baab3562b2",
@@ -1499,7 +1769,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%",
+        "Physical Science or Biology",
+        "Physical Science Duration: Minimum of one year and maximum of three years",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:6946a0d93e3a",
@@ -1522,7 +1801,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:5f2164c62518",
@@ -1545,7 +1825,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "year equivalent NQF level 8",
+        "b) 60%",
+        "qualification degree (b) with at least a 60%",
+        "level 8 qualification degree (b) with at least",
+        "year equiva"
+      ]
     },
     {
       "id": "prog:f398f720ed70",
@@ -1569,7 +1857,17 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 360
+      "credits": 360,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "credit Level 6",
+        "credit Level 7",
+        "credit Level 8",
+        "Level 6 Diploma or National N",
+        "Level 7 Bachelor",
+        "Level 8 Bachelor",
+        "Diploma, or a 360 credit Level 7"
+      ]
     },
     {
       "id": "prog:ea7eb5ffbeaf",
@@ -1592,7 +1890,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:f940498edf18",
@@ -1615,7 +1914,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:66213a2fb6bf",
@@ -1638,7 +1938,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of 60%",
+        "level 8 in the appropriate disciplinary area"
+      ]
     },
     {
       "id": "prog:6a502c929fc4",
@@ -1661,7 +1967,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree in the discipline in which the student intends to do an MSc degree (b) A minimum of 60%",
+        "a) An MSc degree in the discipline in which the student intends to do a PhD degree and preferably with a minimum of 60%"
+      ]
     },
     {
       "id": "prog:ba7af13a5251",
@@ -1684,7 +1995,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of at least 60%",
+        "dissertation that carries 50%",
+        "level 8 in the appropriate disciplinary area",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:53998e496311",
@@ -1707,7 +2026,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:7b01e39f55e0",
@@ -1730,7 +2057,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "specialising in Mathematics (b) An average of 60%",
+        "Mathematics (MSc (Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "Mathematics (b) An average of 60% in the Honours degree Duration: (c) Minimum one (1) year (d) Maximum three (3) years",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:7e4d1c9d457c",
@@ -1753,7 +2089,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:2c51e45fb442",
@@ -1776,7 +2120,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ]
     },
     {
       "id": "prog:f2b079ebb96d",
@@ -1799,7 +2149,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:25a67e5f2f7b",
@@ -1823,7 +2174,14 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 360
+      "credits": 360,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:7fecddd6d7df",
@@ -1846,7 +2204,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:0d990fbff4fd",
@@ -1869,7 +2234,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:271490bb9862",
@@ -1892,7 +2258,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%",
+        "English Studies (MA (English Studies)) This is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:85b38c5f18cf",
@@ -1915,7 +2290,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:7f6470cc8ea9",
@@ -1938,7 +2320,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%",
+        "English Studies (MA (English Studies)) This is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:0e758e971c15",
@@ -1961,7 +2352,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:1ac5be8faf20",
@@ -1984,7 +2382,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "An Honours degree in English with an average of 60%",
+        "dissertation that carries 50%",
+        "A candidate must be in possession of a Bachelor Honours degree in a relevant subject with a mark of 60%",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:98aa4cf38361",
@@ -2007,7 +2413,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "year equivalent NQF level 8",
+        "b) 60%",
+        "qualification degree (b) with at least a 60%",
+        "level 8 qualification degree (b) with at least",
+        "year equiva"
+      ]
     },
     {
       "id": "prog:9219cdbb39d2",
@@ -2030,7 +2444,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:fca1a0055c66",
@@ -2053,7 +2471,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:b41fb64471fa",
@@ -2076,7 +2498,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A 4",
+        "b) An average of 60%",
+        "English Studies (c) Media Studies (d) Northern Sotho (e) Tshivenda (f) Xitsonga Duration: (a) Minimum of one year with a maximum of three years"
+      ]
     },
     {
       "id": "prog:d09e72722d13",
@@ -2099,7 +2527,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) A candidate should h ave at least 60%",
+        "focused Master’s programme,"
+      ]
     },
     {
       "id": "prog:c1d4fbf35e0c",
@@ -2122,7 +2555,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) A candidate should h ave at least 60%"
+      ]
     },
     {
       "id": "prog:be3a9c081b8c",
@@ -2145,7 +2582,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) A candidate should h ave at least 60%"
+      ]
     },
     {
       "id": "prog:1b9156646c0b",
@@ -2168,7 +2609,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:c66fb676bc77",
@@ -2191,7 +2633,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:00b1f83fa555",
@@ -2214,7 +2657,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d54f8043322b",
@@ -2237,7 +2681,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:5ba05e985d69",
@@ -2260,7 +2705,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:435f0c6ba103",
@@ -2283,7 +2729,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:18f3366c5fd9",
@@ -2306,7 +2753,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:451eb9ffa172",
@@ -2329,7 +2777,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:def0c3ec0c0a",
@@ -2352,7 +2801,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:52b1383cd5b8",
@@ -2375,7 +2825,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:ed9c34e9fe28",
@@ -2398,7 +2849,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:cbb17cfc1b4d",
@@ -2421,7 +2873,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:ea7e8ca82a86",
@@ -2444,7 +2897,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:7e45d27c02f0",
@@ -2467,7 +2921,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:a4ea3261e75c",
@@ -2490,7 +2945,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:7d1ae604ad1c",
@@ -2513,7 +2969,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:b93b34a94063",
@@ -2536,7 +2993,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:a09233e6a23f",
@@ -2559,7 +3017,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:7905c4bec20d",
@@ -2582,7 +3041,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:6ffd69bbc472",
@@ -2605,7 +3069,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A relevant 4",
+        "a) Candidates for the MOptom degree must possess a 4",
+        "b) An average of 60%",
+        "b) The candidates may be required to have received at least a 60%",
+        "year Bachelor’s degree or equivalent.",
+        "year Bachelor of Optom etry"
+      ]
     },
     {
       "id": "prog:5c9552b5016c",
@@ -2628,7 +3101,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A 4",
+        "b) An average of 60%",
+        "year Bachelor’s degree or equivalent in Pharmacy."
+      ]
     },
     {
       "id": "prog:02150d00618a",
@@ -2651,7 +3130,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:92102b812c16",
@@ -2674,7 +3157,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least 60%"
+      ]
     },
     {
       "id": "prog:7d875a05701d",
@@ -2697,7 +3184,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least 60%"
+      ]
     },
     {
       "id": "prog:7d76ab8cc494",
@@ -2720,7 +3211,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A candidate must be in possession of a Bachelor of Social Work degree or equivalent at NQF level 8",
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:5cd6f140c1b0",
@@ -2743,7 +3239,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:ec674d40b1d3",
@@ -2766,7 +3267,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:853477b9da92",
@@ -2789,7 +3295,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:cefc74527466",
@@ -2812,7 +3323,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:4176875cdec6",
@@ -2835,7 +3347,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:f4c25c044c5d",
@@ -2858,7 +3371,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "Mathematics (b) Preference will be given to candidate with teaching experience in Mathematics, but others may apply for available space",
+        "Physical Science or Biology",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:fd0411546a8c",
@@ -2881,7 +3403,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:b6778e57e59c",
@@ -2904,7 +3433,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:2cb1629ae7fb",
@@ -2928,7 +3464,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 360
+      "credits": 360,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "Mathematics (b) Preference will be given to candidate with teaching experience in Mathematics, but others may apply for available space",
+        "Physical Science or Biology",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:547d0576e56b",
@@ -2951,7 +3496,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "Mathematics (b) Preference will be given to candidate with teaching experience in Mathematics, but others may apply for available space",
+        "Physical Science or Biology",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:9ec1e9181773",
@@ -2974,7 +3528,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%",
+        "Physical Science or Biology",
+        "Physical Science Duration: Minimum of one year and maximum of three years",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:1fd88bf84998",
@@ -2997,7 +3560,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:a5573445b9ba",
@@ -3020,7 +3584,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree in the discipline in which the student intends to do an MSc degree (b) A minimum of 60%",
+        "a) An MSc degree in the discipline in which the student intends to do a PhD degree and preferably with a minimum of 60%"
+      ]
     },
     {
       "id": "prog:833d26ad3b6e",
@@ -3043,7 +3612,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:e0e37011d072",
@@ -3066,7 +3636,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Agricultural",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Animal produ"
+      ]
     },
     {
       "id": "prog:5fe95748be0c",
@@ -3089,7 +3667,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Animal production",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Plant production or"
+      ]
     },
     {
       "id": "prog:7732adb9a549",
@@ -3112,7 +3698,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Agricultural",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Animal produ"
+      ]
     },
     {
       "id": "prog:4e3b0ae6ecb3",
@@ -3135,7 +3729,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:539604ec9262",
@@ -3158,7 +3760,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A relevant 4",
+        "b) An average of 60%",
+        "year Bachelor’s degree or equivalent."
+      ]
     },
     {
       "id": "prog:0f32e3f553c4",
@@ -3181,7 +3789,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:56aa052ad6e7",
@@ -3204,7 +3820,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Animal production",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Plant production or"
+      ]
     },
     {
       "id": "prog:e6d211fd1d36",
@@ -3227,7 +3851,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:edbd9ce053fb",
@@ -3250,7 +3882,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A 4",
+        "s degree or equivalent in Medical Sciences or a 4",
+        "year Health Sciences related degree (b) An average of at least 60%",
+        "year Bachelor’s degree or equivalent in Medical Sciences or a 4",
+        "year Health Sciences"
+      ]
     },
     {
       "id": "prog:b3aed8254661",
@@ -3273,7 +3913,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Plant production or",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Plant/Animal"
+      ]
     },
     {
       "id": "prog:acc200c20f47",
@@ -3296,7 +3944,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "with an average of at least 60%",
+        "b) An average of at least 60%",
+        "level 8 in the appropriate disciplinary area",
+        "year equivalent degree with specialisation in Plant production or",
+        "focused Master’s programme,"
+      ]
     },
     {
       "id": "prog:b8d606304c3b",
@@ -3319,7 +3976,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Soil Science or",
+        "dissertation contributing at least 50% towards the"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|d8448f1c8f27|bachelor of arts honours (bahons)",
@@ -3342,7 +4006,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|2cd3b807427c|bachelor of arts or sciences with honours in nursing,",
@@ -3365,7 +4030,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|d15e2cf8e8d0|bachelor of agricultural management honours (bagrmanhons)",
@@ -3388,7 +4058,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "b) 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|e560fe8d2999|bachelor of development honours in planning & management (bdevhons (planning &",
@@ -3411,7 +4086,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree at NQF l evel 7",
+        "b) Applicants must obtain at least 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|45ab391ab90b|bachelor of education honours degree or pgdip",
@@ -3434,7 +4114,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree in Information Studies or related disciplines with NQF exit level 7",
+        "level 7 Dura",
+        "and beyond",
+        "by providing quality programmes in a multicultural"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|19064dd41f2a|bachelor of education honours in adult and commun ity education and training (be",
@@ -3458,7 +4145,12 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 360
+      "credits": 360,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|757e0b0883b4|bachelor of education honours in curriculum studies (bedhons (curriculum studies",
@@ -3481,7 +4173,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "year professional"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|029b6464e661|bachelor of education honours in educational management (bedhons (educational",
@@ -3504,7 +4200,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|143e6dbe3c94|bachelor of education honours in educational studies (bedhons (educational studi",
@@ -3527,7 +4228,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|1a65143deade|bachelor of education honours in language education (bedhons (language education",
@@ -3550,7 +4256,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|4907dd64e419|bachelor of education honours in mathematics education (bedho ns (mathematics",
@@ -3573,7 +4285,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropr iate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|6930767d0eed|bachelor of education honours in science education (bedhons (science education))",
@@ -3596,7 +4313,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recognised professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|0e1feac6e237|bachelor of education honours in technology education (bedhons (technology educa",
@@ -3619,7 +4341,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "year professional"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|35d19189ba88|bachelor of commerce honours in accountancy (bcomhons (accountancy))",
@@ -3642,7 +4369,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ]
     },
     {
       "id": "prog:366:Degree|c5052532c220|bed",
@@ -3665,7 +4398,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Degree|5f75057e98ee|bsc",
@@ -3688,7 +4422,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|bcc11cdb4587|bachelor of science honours in mineral processing and ore beneficiation",
@@ -3711,7 +4446,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s qualification (NQF level 7",
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|0c1b8de468e4|honours and postgraduate diploma/certificate students",
@@ -3734,7 +4474,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "7 HOW TO APPLY ONLINE FOR POSTGRADUATE QUAL",
+        "Current and Former UL students (with student number) Step 1",
+        "za) Step 2",
+        "Enabler (online facilities",
+        "www.ul.ac.za)"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|f700a2de8cad|honours bachelor’s degree or equivalent.",
@@ -3757,7 +4505,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "b) 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|7386a731a5c6|honours degree",
@@ -3780,7 +4533,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|be71b3738ce7|honours degree in a relevant subject with a mark",
@@ -3803,7 +4557,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "An Honours degree in English with an average of 60%",
+        "dissertation that carries 50%",
+        "A candidate must be in possession of a Bachelor Honours degree in a relevant subject with a mark of 60%",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|3718ea63ef2d|honours degree in a relevant subject.",
@@ -3826,7 +4588,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|bd917bf1425c|honours degree in an african language with an average of 60%.",
@@ -3849,7 +4612,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%",
+        "English Studies (MA (English Studies)) This is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|0fafd89e6b18|honours degree in english with an average of 60% in literature, language or the",
@@ -3872,7 +4644,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%",
+        "English Studies (MA (English Studies)) This is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|450d435aa16c|honours degree in nursing .",
@@ -3895,7 +4676,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|de1e620b499f|honours degree in the program that he/she",
@@ -3918,7 +4704,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|152701b4a930|honours degree in the program that he/she intends to",
@@ -3941,7 +4731,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|03030bf54dd2|honours degree or equivalent in accountancy or",
@@ -3964,7 +4758,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s qualification (NQF level 7",
+        "with 55%",
+        "in Financial Accounting and an overall average of 55%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|fae05876b72b|honours degree or equivalent nqf level 8 qualification in public administration ",
@@ -3987,7 +4787,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least an Honours degree or equivalent NQF level 8",
+        "c) An average of 60%",
+        "level 8 qualification in Public Administration or"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|4492c34ce0ef|honours degree or equivalent.",
@@ -4010,7 +4816,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|2cf9285e4c00|honours degree programme consists of a r esearch project and four theory modules",
@@ -4033,7 +4840,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|9b8e546a1f26|honours degree programme consists of a research project and four theory modules.",
@@ -4056,7 +4868,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc degree with major(s) in courses in Geology (b) A final average mark for the relevant final year major(s) of at least 60%",
+        "b) A final average mark for the relevant final year major(s) of at least 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|13fe8a973402|honours degree programmes consist of a research project and four theory modules",
@@ -4079,7 +4896,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "LIFE SCIENCES Bachelor of Science Honours (BScHons) The Honours degree programmes consist of a research project and four theory modules relevant to the chosen discipline"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|fde3b63130bc|honours degree studies",
@@ -4102,7 +4923,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|f0d5eaee1f4b|honours degree.",
@@ -4125,7 +4947,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|171da89572fe|honours in mathematics",
@@ -4148,7 +4971,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "Mathematics (b) Preference will be given to candidate with teaching experience in Mathematics, but others may apply for available space",
+        "Physical Science or Biology",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|6c8df1a6de32|honours in physical science or biology.",
@@ -4172,7 +5004,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 360
+      "credits": 360,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%",
+        "Physical Science or Biology",
+        "Physical Science Duration: Minimum of one year and maximum of three years",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|8a5c7a97b36b|honours levels.",
@@ -4195,7 +5036,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|fc1811522b06|honours or a four-year equivalent nqf level 8 qualification degree",
@@ -4218,7 +5060,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "year equivalent NQF level 8",
+        "b) 60%",
+        "qualification degree (b) with at least a 60%",
+        "level 8 qualification degree (b) with at least",
+        "year equiva"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|c9e180444e22|honours or postgraduate diploma level",
@@ -4242,7 +5092,17 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 360
+      "credits": 360,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "credit Level 6",
+        "credit Level 7",
+        "credit Level 8",
+        "Level 6 Diploma or National N",
+        "Level 7 Bachelor",
+        "Level 8 Bachelor",
+        "Diploma, or a 360 credit Level 7"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
@@ -4265,7 +5125,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|c23b0d990451|honours study.",
@@ -4288,7 +5149,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|9fcfe1c18e34|honours, master's and doctoral degrees.",
@@ -4311,7 +5173,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of 60%",
+        "level 8 in the appropriate disciplinary area"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|e5f39f69faa0|hons degree in the discipline in which the student intends to do an msc degree",
@@ -4334,7 +5202,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree in the discipline in which the student intends to do an MSc degree (b) A minimum of 60%",
+        "a) An MSc degree in the discipline in which the student intends to do a PhD degree and preferably with a minimum of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are",
@@ -4357,7 +5230,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree or its equivalent at NQF level 8",
+        "b) An average of at least 60%",
+        "dissertation that carries 50%",
+        "level 8 in the appropriate disciplinary area",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|1d0082663248|hons degree or its equivalent, specialising in applied mathematics.",
@@ -4380,7 +5261,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|07e22765be3b|hons degree or its equivalent, specialising in mathematics",
@@ -4403,7 +5292,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "specialising in Mathematics (b) An average of 60%",
+        "Mathematics (MSc (Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "Mathematics (b) An average of 60% in the Honours degree Duration: (c) Minimum one (1) year (d) Maximum three (3) years",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|a6dc836ddc6b|hons degree or its equivalent, specialising in relevant disciplines such as",
@@ -4426,7 +5324,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|eecf1351231d|hons degree, is a four -year professional",
@@ -4449,7 +5355,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree (within appropriate subject area) and a recogni sed professional teaching qualification (in Senior phase and / or FET phase teaching) with an average of 60%",
+        "English, Sepedi, Tshivenda or Xitsonga",
+        "year professional"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|5b8f9027f711|hons degree.",
@@ -4472,7 +5384,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|8b6efe0c950e|master of agricultural management (magricman)",
@@ -4495,7 +5408,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "year equivalent NQF level 8",
+        "b) 60%",
+        "qualification degree (b) with at least a 60%",
+        "level 8 qualification degree (b) with at least",
+        "year equiva"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|7a664f9ecea6|master of arts (ma)",
@@ -4518,7 +5439,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|377f27a33183|master of arts in african languages (ma (african languages))",
@@ -4541,7 +5469,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%",
+        "English Studies (MA (English Studies)) This is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|a457fc217bc0|master of arts in clinical psychology (ma (clinical psychology))",
@@ -4564,7 +5501,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|daa918b21f6e|master of arts in english studies (ma (english studies))",
@@ -4587,7 +5531,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) An Honours degree in an African Language with an average of 60%",
+        "dissertation that carries 50%",
+        "An Honours degree in English with an average of 60%",
+        "English Studies (MA (English Studies)) This is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final mark",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|98358047dbe9|master of arts in folklore studies (ma (folklore studies))",
@@ -4610,7 +5563,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree within the disciplinary area of choice (b) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|c8eeeca22b4e|master of arts in translation studies & linguistics (ma (translation studies and",
@@ -4633,7 +5593,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "An Honours degree in English with an average of 60%",
+        "dissertation that carries 50%",
+        "A candidate must be in possession of a Bachelor Honours degree in a relevant subject with a mark of 60%",
+        "English with an average of 60% in Literature, Language or the combination thereof",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|4bcef939a730|master of business administration (mba)",
@@ -4656,7 +5624,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|9617f6c7198f|master of commerce (mcom)",
@@ -4679,7 +5652,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "focused Master’s programme, culminating"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|58894f0d57e9|master of development in planning and management (mdev (planning & management))",
@@ -4702,7 +5680,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|21838c2db92d|master of development in planning and management (mdev (planning and management)",
@@ -4725,7 +5707,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|391b9d938060|master of education (med)",
@@ -4748,7 +5734,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|5b9fe67261c3|master of education degree or the bachelor of education honours",
@@ -4771,7 +5764,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s degree in Information Studies or related disciplines with NQF exit level 7",
+        "level 7 Dura",
+        "and beyond",
+        "by providing quality programmes in a multicultural"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|27aa9bd445f1|master of education in adult education (med (adult education))",
@@ -4794,7 +5794,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|ec74dfaa0f65|master of education in language education (med (language education))",
@@ -4817,7 +5824,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BEd Hons in Language Education (b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) A BEd Hons in Adult and Community Education (b) An average of 60%",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|9d9a2cee52c1|master of education in mathematics education (med (mathematics education))",
@@ -4840,7 +5854,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "Mathematics (b) Preference will be given to candidate with teaching experience in Mathematics, but others may apply for available space",
+        "Physical Science or Biology",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|08eeee014a67|master of education in science education (med (science education))",
@@ -4863,7 +5886,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "c) An average of 60%",
+        "dissertation that carries 50%",
+        "b) An average of 60%",
+        "Mathematics (b) Preference will be given to candidate with teaching experience in Mathematics, but others may apply for available space",
+        "Physical Science or Biology",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|e96421dcdb9c|master of education in technology education (med (technology education))",
@@ -4886,7 +5918,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that carries 50%",
+        "a) Candidate must be in possession of a BEd Honours in Technology Education (b) An average of 60%",
+        "Physical Science or Biology",
+        "Physical Science Duration: Minimum of one year and maximum of three years",
+        "dissertation that carries 50% of the final"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|a3bcf5569a87|master of information studies (minf)",
@@ -4909,7 +5950,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A 4",
+        "b) An average of 60%",
+        "English Studies (c) Media Studies (d) Northern Sotho (e) Tshivenda (f) Xitsonga Duration: (a) Minimum of one year with a maximum of three years"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|8eb482e47566|master of laws (llm) by research",
@@ -4932,7 +5979,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) A candidate should h ave at least 60%",
+        "focused Master’s programme,"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|82a40dd2d04e|master of laws in development and management law (llm (development & management",
@@ -4955,7 +6007,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) A candidate should h ave at least 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|aebb4853e028|master of laws in labour law (llm (labour law))",
@@ -4978,7 +6034,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) A candidate should h ave at least 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|13facf723645|master of medicine",
@@ -5001,7 +6061,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|365b8b080062|master of medicine in anaesthesiology (mmed (anaesthesiology))",
@@ -5024,7 +6085,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|dfc3f11b7159|master of medicine in dermatology (mmed (dermatology))",
@@ -5047,7 +6109,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|ccde111972d6|master of medicine in diagnostic radiography (mmed (diagnostic radiography))",
@@ -5070,7 +6133,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|2ec9b246b536|master of medicine in family medicine (mmed (family medicine))",
@@ -5093,7 +6157,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|5f2576606986|master of medicine in forensic pathology (mmed (forensic pathology))",
@@ -5116,7 +6181,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|74b27bb99c41|master of medicine in general surgery (mmed (general surgery))",
@@ -5139,7 +6205,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|d7b17d7f8fbf|master of medicine in internal medicine (mmed (internal medicine))",
@@ -5162,7 +6229,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|a58e2406e675|master of medicine in nuclear medicine (mmed (nuclear medicine))",
@@ -5185,7 +6253,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|ac1f07bed3c2|master of medicine in obstetrics & gynaecology (mmed (obstetrics & gynaecology))",
@@ -5208,7 +6277,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|73ccb355ed59|master of medicine in ophthalmology (mmed (ophthalmology))",
@@ -5231,7 +6301,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|44db8706d853|master of medicine in orthopaedics (mmed (orthopaedics))",
@@ -5254,7 +6325,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|a84f410f51a3|master of medicine in otorhinolaryngology (mmed (otorhinolaryngology))",
@@ -5277,7 +6349,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|aca73249ecd4|master of medicine in paediatrics & child health (mmed (paediatrics & child heal",
@@ -5300,7 +6373,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|a1bb26f546cb|master of medicine in psychiatry (mmed (psychiatry))",
@@ -5323,7 +6397,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|fcc578c12125|master of medicine in public health medicine (mmed (public health medicine))",
@@ -5346,7 +6421,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|c27e040b1bbe|master of medicine in radiation oncology (mmed (radiation oncology))",
@@ -5369,7 +6445,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|6896312ddf0b|master of medicine in urology (mmed (urology))",
@@ -5392,7 +6469,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|9c1193af5b7b|master of nursing (mnurs)",
@@ -5415,7 +6493,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|9d025d501242|master of optometry (moptom)",
@@ -5438,7 +6521,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A relevant 4",
+        "a) Candidates for the MOptom degree must possess a 4",
+        "b) An average of 60%",
+        "b) The candidates may be required to have received at least a 60%",
+        "year Bachelor’s degree or equivalent.",
+        "year Bachelor of Optom etry"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|a73b8c7a3d31|master of pharmacy (mpharm)",
@@ -5461,7 +6553,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A 4",
+        "b) An average of 60%",
+        "year Bachelor’s degree or equivalent in Pharmacy."
+      ]
     },
     {
       "id": "prog:366:Postgraduate|bbec96a83aa2|master of public administration and management (mpam)",
@@ -5484,7 +6582,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|dd2a51877037|master of public health (mph)",
@@ -5507,7 +6609,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|68127c54a5a3|master of public health, any of the following may be admitted as",
@@ -5530,7 +6636,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|703bb674a15d|master of science (msc)",
@@ -5553,7 +6663,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Soil Science or",
+        "dissertation contributing at least 50% towards the"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|54b770bff9e0|master of science in agricultural economics (msc (agricultural economics))",
@@ -5576,7 +6693,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Agricultural",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Animal produ"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|9e28fc884e55|master of science in agronomy (msc (agronomy))",
@@ -5599,7 +6724,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Animal production",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Plant production or"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|cf3060f7eefc|master of science in animal production (msc (animal production))",
@@ -5622,7 +6755,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Agricultural",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Animal produ"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|5b7fcbc67660|master of science in applied mathematics (msc (applied mathematics))",
@@ -5645,7 +6786,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|2506e5b00a3f|master of science in dietetics (msc (dietetics))",
@@ -5668,7 +6817,13 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A relevant 4",
+        "b) An average of 60%",
+        "year Bachelor’s degree or equivalent."
+      ]
     },
     {
       "id": "prog:366:Postgraduate|ca07af37644b|master of science in escience (msc (escience))",
@@ -5691,7 +6846,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|fecbd3fc9bf3|master of science in horticulture (msc (horticulture))",
@@ -5714,7 +6877,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Plant production or",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Plant/Animal"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|d5a814433b53|master of science in mathematics (msc (mathematics))",
@@ -5737,7 +6908,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) An average of 60%",
+        "dissertation that accounts for 50%",
+        "mathematics, statistics and computer science",
+        "Mathematics (MSc (Applied Mathematics)) This is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the final mark",
+        "dissertation that accounts for 50% of the"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|fe5ff7ffe334|master of science in medical sciences (msc (medical sciences))",
@@ -5760,7 +6939,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A 4",
+        "s degree or equivalent in Medical Sciences or a 4",
+        "year Health Sciences related degree (b) An average of at least 60%",
+        "year Bachelor’s degree or equivalent in Medical Sciences or a 4",
+        "year Health Sciences"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|905eb6a8c24a|master of science in pasture science (msc (pasture science))",
@@ -5783,7 +6970,15 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Plant production or",
+        "dissertation contributing at least 50% towards the final",
+        "year equivalent degree with specialisation in Plant/Animal"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|3a9f3108378c|master of science in plant protection (msc (plant protection))",
@@ -5806,7 +7001,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Soil Science or",
+        "dissertation contributing at least 50% towards the"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|c08503ae4983|master of science in soil science (msc (soil science))",
@@ -5829,7 +7031,14 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "with an average of at least 60%",
+        "dissertation contributing at least 50%",
+        "year equivalent degree with specialisation in Soil Science or",
+        "dissertation contributing at least 50% towards the"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|033722135361|master of social work (msw)",
@@ -5852,7 +7061,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A candidate must be in possession of a Bachelor of Social Work degree or equivalent at NQF level 8",
+        "b) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|895a99b1d104|mba applicants.",
@@ -5875,7 +7089,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|c48f2a3a8d7a|mba programme is subject to strict evaluation and selection",
@@ -5898,7 +7117,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "b) At least an Honours degree or equivalent at NQF Level 8",
+        "c) An average of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|4c0b4edf6d22|msc degree in the discipline in which the student intends to do a phd degree and",
@@ -5921,7 +7145,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) A BSc Hons degree in the discipline in which the student intends to do an MSc degree (b) A minimum of 60%",
+        "a) An MSc degree in the discipline in which the student intends to do a PhD degree and preferably with a minimum of 60%"
+      ]
     },
     {
       "id": "prog:366:Postgraduate|5bf9bea99176|msc degree.",
@@ -5944,7 +7173,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
@@ -5967,7 +7197,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:366:Postgraduate|e2c990e14aaf|bachelor of arts or sciences with honours in nursing",
@@ -5990,7 +7221,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "a) Applicants must be in possession of a 4",
+        "c) An average of 60%"
+      ]
     }
   ],
   "admission": {
@@ -6042,15 +7278,17 @@
     "adm_reqs_count": 1
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:53:21Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:00:38Z",
     "test_mode": false,
-    "completeness_before": 0.103,
-    "completeness_after": 0.136,
-    "improvement": 0.034,
-    "fields_enriched": 127,
+    "points_system": "aps_points",
+    "completeness_before": 0.121,
+    "completeness_after": 0.163,
+    "improvement": 0.043,
+    "fields_enriched": 182,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-limpopo.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-limpopo.pdf"
     ]
   }
 }

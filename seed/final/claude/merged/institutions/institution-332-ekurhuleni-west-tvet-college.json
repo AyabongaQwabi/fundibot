@@ -67,7 +67,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "The students should cover 2",
+        "Intro 2"
+      ]
     },
     {
       "id": "prog:b8a753f6e0fc",
@@ -90,7 +95,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "and/ or the two years or 2"
+      ]
     },
     {
       "id": "prog:254846fc35ca",
@@ -113,7 +127,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "DHET will give the final feedback on your application within 3",
+        "Mathematics N5 ➢Production and Quality Control N4 ➢Chemical Plant Operation N4 ➢Chemistry N4 ➢Mathematics N4 CHEMICAL ENGINEERING PROCEDURE TO FOLLOW WHEN APPLYING FOR NATIONAL N-DIPLOMA  Once you have success"
+      ]
     },
     {
       "id": "prog:85e3ebd72209",
@@ -137,7 +156,16 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 120
+      "credits": 120,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2000,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "and/ or the two years or 2"
+      ]
     },
     {
       "id": "prog:468639743182",
@@ -160,7 +188,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:3728bd3b642a",
@@ -183,7 +212,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:90ad9d88e905",
@@ -206,7 +236,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:7b53b82b7978",
@@ -225,11 +256,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:8771fa46a1a6",
@@ -248,11 +281,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:d021b28db8cf",
@@ -271,11 +306,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:415c4710469d",
@@ -298,7 +335,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:8f7bea293453",
@@ -328,7 +366,11 @@
         "and the theoretical component which is extended for 18"
       ],
       "fees_per_year": null,
-      "credits": 60
+      "credits": 60,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "5 year duration)"
+      ]
     },
     {
       "id": "prog:7cb1f97a808c",
@@ -358,7 +400,13 @@
         "and the theoretical component which is extended for 18"
       ],
       "fees_per_year": null,
-      "credits": 180
+      "credits": 180,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Month/ 1",
+        "and Information Processing or Office Practice 2",
+        "months and more 3"
+      ]
     },
     {
       "id": "prog:657eb83ee582",
@@ -385,6 +433,11 @@
       "modules": [
         "Only one core is covered,",
         "Retail shops i.e. Shoprite, Click"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "An NCV Level 4",
+        "Level 4 Certificate in the relevant specializati"
       ]
     },
     {
@@ -404,12 +457,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "credits": 180
+      "credits": 180,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     }
   ],
   "admission": {
@@ -434,15 +489,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:33Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:58Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.138,
-    "improvement": 0.071,
-    "fields_enriched": 16,
+    "points_system": "tvet_none",
+    "completeness_before": 0.122,
+    "completeness_after": 0.157,
+    "improvement": 0.035,
+    "fields_enriched": 13,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/ekurhuleni-west-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/ekurhuleni-west-tvet-college.pdf"
     ]
   }
 }

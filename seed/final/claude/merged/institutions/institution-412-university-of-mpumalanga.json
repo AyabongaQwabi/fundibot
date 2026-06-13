@@ -129,7 +129,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:8087ab9ba210",
@@ -200,7 +201,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:5f34c37c0974",
@@ -273,6 +275,22 @@
       "credits": 360,
       "modules": [
         "Applicants must have completed"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "Level 3",
+        "BACHELOR OF SCIENCE IN AGRICUL TURE 4",
+        "Level 6",
+        "Level 3 BACHELOR OF SCIENCE IN AGRICUL TURE",
+        "Level 4 or Mathematical Literacy",
+        "Mathematics or 24 with Mathematical Literacy • English (Home or First Additional Language): Level 4 • Mathematics: Level 3 BACHELOR OF SCIENCE IN AGRICUL TURE 4 Year | 480 Credit Qualification Admission Req",
+        "English (Home or First Additional Language): Level 4 • Mathematics: Level 4 or Mathematical Literacy: Level 6 • Life",
+        "Minimum Admission Point Score:",
+        "English (Home or First Additional",
+        "Mathematics: Level 3",
+        "Minimum Admission Point Score: 30",
+        "Mathematics: Level 4 or"
       ]
     },
     {
@@ -338,7 +356,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:e242cd494f3b",
@@ -389,7 +408,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:fe5fddc1b630",
@@ -436,6 +456,29 @@
         "Mathematical Literacy or Technical",
         "Any three Additional Vocational",
         "NCV level 4 with the following"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "Level 2",
+        "NCV level 4",
+        "and Tourism Discipline BACHELOR OF SOCIAL WORK 4",
+        "Level 3",
+        "Level 2 National Certificate (Vocational)",
+        "level 4 with the following recommended subject(s",
+        "Level 2 or Mathematical Literacy",
+        "Level 3 BACHELOR OF ARTS (GE",
+        "Mathematics or 21 with Mathematical Literacy or Technical Mathematics • Diploma/Higher Certificate Endorsement • English (Home or First Additional Language): Level 4 • Mathematics: Level 2 • Mathematical Lit",
+        "Mathematics: Level 4 • Any three Additional Vocational Subjects: Level 2 National Certificate (Vocational): • NCV level 4 with the following recommended subject(s): Business Studies, Hospitality Studies, and",
+        "English (Home or First Additional Language): Level 4 • Mathematics: Level 2 or Mathematical Literacy: Level 3 BACHELOR OF ARTS (GE",
+        "Minimum Admission Point Score:",
+        "Diploma/Higher Certificate",
+        "English (Home or First Additional",
+        "Mathematics: Level 2",
+        "Mathematical Literacy or Technical",
+        "Any three Additional Vocational",
+        "NCV level 4 with the following",
+        "Minimum A"
       ]
     },
     {
@@ -501,7 +544,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:cd550a49c0bd",
@@ -535,7 +579,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:7c1e81c79817",
@@ -581,7 +626,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:d5a58573cc64",
@@ -656,6 +702,22 @@
       "credits": 360,
       "modules": [
         "Applicants must have completed"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "Level 3",
+        "BACHELOR OF SCIENCE IN AGRICUL TURE 4",
+        "Level 6",
+        "Level 3 BACHELOR OF SCIENCE IN AGRICUL TURE",
+        "Level 4 or Mathematical Literacy",
+        "Mathematics or 24 with Mathematical Literacy • English (Home or First Additional Language): Level 4 • Mathematics: Level 3 BACHELOR OF SCIENCE IN AGRICUL TURE 4 Year | 480 Credit Qualification Admission Req",
+        "English (Home or First Additional Language): Level 4 • Mathematics: Level 4 or Mathematical Literacy: Level 6 • Life",
+        "Minimum Admission Point Score:",
+        "English (Home or First Additional",
+        "Mathematics: Level 3",
+        "Minimum Admission Point Score: 30",
+        "Mathematics: Level 4 or"
       ]
     },
     {
@@ -714,7 +776,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:9f70fab5877a",
@@ -789,7 +852,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:adad91456bdb",
@@ -835,6 +899,13 @@
       },
       "credits": 480,
       "modules": [
+        "Preliminary admission is based",
+        "The prescribed seven subjects"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Mathematics or 27 with Mathematical Literacy • Preliminary admission is based on the final Grade 11 examination results",
+        "Minimum Admission Point Score:",
         "Preliminary admission is based",
         "The prescribed seven subjects"
       ]
@@ -904,6 +975,22 @@
       "credits": 360,
       "modules": [
         "Applicants must have completed"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "Level 3",
+        "BACHELOR OF SCIENCE IN AGRICUL TURE 4",
+        "Level 6",
+        "Level 3 BACHELOR OF SCIENCE IN AGRICUL TURE",
+        "Level 4 or Mathematical Literacy",
+        "Mathematics or 24 with Mathematical Literacy • English (Home or First Additional Language): Level 4 • Mathematics: Level 3 BACHELOR OF SCIENCE IN AGRICUL TURE 4 Year | 480 Credit Qualification Admission Req",
+        "English (Home or First Additional Language): Level 4 • Mathematics: Level 4 or Mathematical Literacy: Level 6 • Life",
+        "Minimum Admission Point Score:",
+        "English (Home or First Additional",
+        "Mathematics: Level 3",
+        "Minimum Admission Point Score: 30",
+        "Mathematics: Level 4 or"
       ]
     },
     {
@@ -950,7 +1037,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:44f0f4db351f",
@@ -987,6 +1075,19 @@
       },
       "credits": 360,
       "modules": [
+        "Life Science, Physical Science or"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "BACHELOR OF SCIENCE DEGREE 3",
+        "Level 4",
+        "Level 6",
+        "Level 4 or Mathematical Literacy",
+        "Level 4 South African students who have written",
+        "English (Home or First Additional Language): Level 4 • Mathematics: Level 4 or Mathematical Literacy: Level 6 • Life Science, Physical Science or Geography: Level 4 South African students who have written",
+        "Minimum Admission Point Score: 30",
+        "English (Home or First Additional",
+        "Mathematics: Level 4 or",
         "Life Science, Physical Science or"
       ]
     },
@@ -1077,6 +1178,29 @@
         "NSC or IEB with Admission for",
         "Physical Science: Level 4",
         "Two of Life Science, Agricultural"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "Level 6",
+        "BACHELOR OF SCIENCE IN FORESTRY 4",
+        "DIPLOMA IN ANIMAL PRODUCTION 3",
+        "Level 4 or Mathematical Literacy",
+        "Level 4 BACHELOR OF SCIENCE IN FORESTRY",
+        "Level 4 DIPLOMA IN ANIMAL PRODUCTION",
+        "English (Home or First Additional Language): Level 4 • Mathematics: Level 4 or Mathematical Literacy: Level 6 • Life Sciences, Biology or Agriculture: Level 4 • Physical Sciences: Level 4 • Any other Rele",
+        "English (Home or First Additional Language): Level 4 • Mathematics: Level 4 • Physical Science: Level 4 • Two of Life Science, Agricultural Science or Geography: Level 4 DIPLOMA IN ANIMAL PRODUCTION 3 Ye",
+        "Mathematics or 27 with Mathe",
+        "Minimum Admission Point Score: 30",
+        "English (Home or First Additional",
+        "Mathematics: Level 4 or",
+        "Life Sciences, Biology or",
+        "Physical Sciences: Level 4",
+        "Any other Relevant Subjects: Level 4",
+        "NSC or IEB with Admission for",
+        "Mathematics: Level 4",
+        "Physical Science: Level 4",
+        "Two of Life Science, Agricultural"
       ]
     },
     {
@@ -1147,6 +1271,30 @@
       "modules": [
         "Geography/History and One Other",
         "Sciences: Level 4"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Level 4",
+        "Level 3",
+        "Any other Four Subjects BACHELOR OF DEVELOPMENT STUDIES 3",
+        "Level 2",
+        "HIGHER CERTIFICATE IN EVENT MANAGEMENT 1",
+        "with Mathematics or 2",
+        "Level 2 or Mathematical Literacy",
+        "Level 4 HIGHER CERTIFICATE IN EVENT MANAGEMENT",
+        "Mathematics or 25 with Mathematical Literacy • Diploma Endorsement • English (Home or First Additional Language): Level 4 • Mathematics: Level 3 • Mathematical Literacy: Level 4 • One Additional Language • An",
+        "English (Home or First Additional Language): Level 4 • Mathematics: Level 2 or Mathematical Literacy: Level 3 • Geography/History and One Other Social or Commercial Subject • Sciences: Level 4 HIGHER CERT",
+        "Minimum Admission Point Score:",
+        "Diploma Endorsement",
+        "English (Home or First Additional",
+        "Mathematics: Level 3",
+        "Mathematical Literacy: Level 4",
+        "One Additional Language",
+        "Any other Four Subjects",
+        "Minimum Admission Point Score: 32",
+        "Mathematics: Level 2 or",
+        "Geography/History and One Other",
+        "Sciences: Leve"
       ]
     },
     {
@@ -1185,6 +1333,23 @@
       "credits": 360,
       "modules": [
         "Any other Four Modules"
+      ],
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "DIPLOMA IN ICT IN APPLICATIONS DEVELOPMENT 3",
+        "Level 4",
+        "Any other Four Modules BACHELOR OF ICT 3",
+        "English (Home or First Additional Language): Level 4 • One Additional Language • Mathematics: Level 4 • Any other Four Modules BACHELOR OF ICT 3 Year | 360 Credit Qualification Admission Requirements: • Min",
+        "English (Home or First Additional Language): Level 4 • Mathematics: Level 4 • Bachelor Endorsement National Certificate (Vocational): • NCV le",
+        "Minimum Admission Point Score: 24",
+        "Diploma Endorsement",
+        "English (Home or First Additional",
+        "One Additional Language",
+        "Mathematics: Level 4",
+        "Any other Four Modules",
+        "Minimum Admission Point Score: 32",
+        "Bachelor Endorsement",
+        "NCV le"
       ]
     },
     {
@@ -1237,7 +1402,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:99756c342677",
@@ -1294,7 +1460,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:9ac6c9124023",
@@ -1351,7 +1518,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:412:Degree|12fe17ce28a9|bachelor of education",
@@ -1402,7 +1570,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     }
   ],
   "admission": {
@@ -2857,15 +3026,17 @@
     "adm_reqs_count": 44
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:54:44Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:02:38Z",
     "test_mode": false,
-    "completeness_before": 0.13,
-    "completeness_after": 0.278,
-    "improvement": 0.148,
-    "fields_enriched": 51,
+    "points_system": "aps_points",
+    "completeness_before": 0.245,
+    "completeness_after": 0.268,
+    "improvement": 0.023,
+    "fields_enriched": 9,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-mpumalanga.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-mpumalanga.pdf"
     ]
   }
 }

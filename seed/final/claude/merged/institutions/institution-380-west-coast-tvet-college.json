@@ -66,7 +66,8 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -85,12 +86,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 9",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -109,12 +112,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Completion of NCV Level 2",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -133,12 +138,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Completion of NCV Level 3",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -162,7 +169,8 @@
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -181,12 +189,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -205,12 +215,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -229,12 +241,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -253,12 +267,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -277,12 +293,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -301,12 +319,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "name": "The following admission and progression requirements for NC (V) qualifications are to be implemented with",
@@ -332,7 +352,16 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 880
+      "_discovery_char": 880,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 fundamental subjects"
+      ]
     },
     {
       "name": "proceed to the next NC (V) level in a vocational or a fundamental subject unless the candidate has passed the",
@@ -358,7 +387,16 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 1232
+      "_discovery_char": 1232,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "3 fundamental subjects"
+      ]
     },
     {
       "name": " A candidate can only ever be registered to offer a maximum of seven NC (V) subjects in an academic year,",
@@ -384,7 +422,23 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 1463
+      "_discovery_char": 1463,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "3 fundamental subjects",
+        "3 core vocational subjects",
+        "1 optional vocational subject",
+        "only subject(s) passed on Level 2",
+        "can be offered on Level 3",
+        "subject(s) failed on Level 2",
+        "must be repeated on Level 2",
+        "Level 2 in"
+      ],
+      "pricing": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "name": "the next NC (V) level in that subject in the following academic year, e.g. only subject(s) passed on Level 2 in",
@@ -410,7 +464,23 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 1768
+      "_discovery_char": 1768,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "3 fundamental subjects",
+        "3 core vocational subjects",
+        "1 optional vocational subject",
+        "only subject(s) passed on Level 2",
+        "can be offered on Level 3",
+        "subject(s) failed on Level 2",
+        "must be repeated on Level 2",
+        "Level 2 in"
+      ],
+      "pricing": {
+        "amount_min": 2015,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "name": "proceed to the next NC (V) level in that subject and must repeat the subject on the particular level in the",
@@ -436,7 +506,23 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 2027
+      "_discovery_char": 2027,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "3 fundamental subjects",
+        "3 core vocational subjects",
+        "1 optional vocational subject",
+        "only subject(s) passed on Level 2",
+        "can be offered on Level 3",
+        "subject(s) failed on Level 2",
+        "must be repeated on Level 2",
+        "Level 2 in"
+      ],
+      "pricing": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "name": " A candidate is not allowed to offer an NC (V) subject on two levels simultaneously, e.g. Mathematics Level",
@@ -462,7 +548,29 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 2242
+      "_discovery_char": 2242,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "subject(s) failed on Level 2",
+        "must be repeated on Level 2",
+        "Mathematics Level 2",
+        "and Mathematics Level 3",
+        "Levels 2",
+        "and 3",
+        "OR Levels 3",
+        "and 4",
+        "but not on Levels 2",
+        "ICASS tasks for Mathematics failed on Level 2",
+        "must be repeated on Level 3",
+        "Level 2 and Mathematics Level",
+        "Mathematics Level 2 and Mathematics Level 3 cannot be offered together in the same academic year",
+        "Mathematics failed on Level 2 in 2015 must be repeated on Level 3 in 2016"
+      ],
+      "pricing": {
+        "amount_min": 2014,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "name": "Levels 3 and 4, but not on Levels 2 and 4 OR all three NC (V) levels simultaneously.",
@@ -488,7 +596,24 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 2543
+      "_discovery_char": 2543,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "subject(s) failed on Level 2",
+        "must be repeated on Level 2",
+        "Mathematics Level 2",
+        "and Mathematics Level 3",
+        "Levels 2",
+        "and 3",
+        "OR Levels 3",
+        "and 4",
+        "but not on Levels 2",
+        "ICASS tasks for Mathematics failed on Level 2",
+        "must be repeated on Level 3",
+        "Level 2 and Mathematics Level",
+        "Mathematics Level 2 and Mathematics Level 3 cannot be offered together in the same academic year",
+        "Mathematics failed on Level 2 in 2015 must be repeated on Level 3 in 2016"
+      ]
     },
     {
       "name": " The same optional vocational subject is to be offered across NC (V) Levels 2, 3 and 4.",
@@ -514,7 +639,24 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 2926
+      "_discovery_char": 2926,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "subject(s) failed on Level 2",
+        "must be repeated on Level 2",
+        "Mathematics Level 2",
+        "and Mathematics Level 3",
+        "Levels 2",
+        "and 3",
+        "OR Levels 3",
+        "and 4",
+        "but not on Levels 2",
+        "ICASS tasks for Mathematics failed on Level 2",
+        "must be repeated on Level 3",
+        "Level 2 and Mathematics Level",
+        "Mathematics Level 2 and Mathematics Level 3 cannot be offered together in the same academic year",
+        "Mathematics failed on Level 2 in 2015 must be repeated on Level 3 in 2016"
+      ]
     },
     {
       "name": "As per the NC (V) policy , candidates are required to achieve at least 50% in the internal (ICASS) and the external",
@@ -540,7 +682,29 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 5367
+      "_discovery_char": 5367,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2015,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "minimums for entry to supplementary examinations must be repeated on Level 2",
+        "The above requirement will be phased in for all candidates on Level 2",
+        "Level 3",
+        "examinations onwards and Level 4",
+        "rule will be implemented across NC (V) Levels 2",
+        "3 and",
+        "4 in the examination registration",
+        "3 The requirements regar",
+        "candidates are required to achieve at least 50%",
+        "This 50%",
+        "Level 2 in the",
+        "Level 2 from the November",
+        "Level 3 from the November",
+        "Level 4 from the November"
+      ]
     },
     {
       "name": "vocational NC (V) subjects. This 50% rule will be implemented across NC (V) Levels 2, 3 and 4 in the examination",
@@ -566,7 +730,23 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 5598
+      "_discovery_char": 5598,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "rule will be implemented across NC (V) Levels 2",
+        "3 and",
+        "4 in the examination registration",
+        "3 The requirements regarding the",
+        "This 50%",
+        "The requirements regarding the 50%",
+        "A candidate who has attempted all ICASS tasks for a vocational subject and has met the 50%",
+        "A candidate who has attempted all ICASS tasks for a vocational subject and has failed to meet the 50%"
+      ],
+      "pricing": {
+        "amount_min": 2015,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "name": "Kindly ensure that all college officials and NC (V) candidates are informed of the above admission and promotion",
@@ -592,7 +772,16 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 7109
+      "_discovery_char": 7109,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "uirement will be phased in for all candidates on Level 2",
+        "Level 3",
+        "and Level 4",
+        "phased in over a 3",
+        "across NC (V) Levels 2",
+        "Level 4 in"
+      ]
     },
     {
       "name": "phased in over a 3-year period (2015 - 2017) across NC (V) Levels 2 to 4.",
@@ -618,7 +807,21 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "west-coast-tvet-college.pdf",
-      "_discovery_char": 7335
+      "_discovery_char": 7335,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "uirement will be phased in for all candidates on Level 2",
+        "Level 3",
+        "and Level 4",
+        "phased in over a 3",
+        "across NC (V) Levels 2",
+        "Level 4 in"
+      ],
+      "pricing": {
+        "amount_min": 2015,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     }
   ],
   "admission": {
@@ -643,15 +846,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:54:43Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:02:37Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.067,
-    "improvement": 0.0,
-    "fields_enriched": 0,
+    "points_system": "tvet_none",
+    "completeness_before": 0.059,
+    "completeness_after": 0.112,
+    "improvement": 0.053,
+    "fields_enriched": 30,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/west-coast-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/west-coast-tvet-college.pdf"
     ]
   }
 }

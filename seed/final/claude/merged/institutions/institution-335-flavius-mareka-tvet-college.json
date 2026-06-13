@@ -485,6 +485,10 @@
       "modules": [
         "Introductory Computer Practice N4 OR",
         "Computer Practice N4"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "If you have Grade 9"
       ]
     },
     {
@@ -532,6 +536,10 @@
       "modules": [
         "Introductory Computer Practice N4 OR",
         "Computer Practice N4"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "If you have Grade 9"
       ]
     },
     {
@@ -579,6 +587,10 @@
       "modules": [
         "Introductory Computer Practice N4 OR",
         "Computer Practice N4"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "If you have Grade 9"
       ]
     },
     {
@@ -626,6 +638,10 @@
       "modules": [
         "Introductory Computer Practice N4 OR",
         "Computer Practice N4"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "If you have Grade 9"
       ]
     },
     {
@@ -645,7 +661,7 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
@@ -685,7 +701,9 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:1b7fd91a79a9",
@@ -755,6 +773,10 @@
         "Office Manager",
         "Secretary",
         "Admin Clerk"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Mathematics N4 Engineering Science N4 Supervisory Management N4 (part-time option only) N5 Certificate Trimester Course Mechano-technics N5 Mathematics N5 Engineering Physics N5 Power Machines N5 Strength of"
       ]
     },
     {
@@ -774,7 +796,7 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
@@ -814,7 +836,9 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:d58ef3dd5da9",
@@ -881,7 +905,14 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Plumber NCV Civil Engineering Level 2",
+        "Level 4",
+        "Level 4 Prospectus",
+        "Mathematics N4 Engineering Science N4 N5 Certificate Trimester Course Chemical Plant Operation N5 Chemistry N5 Mathematics N5 Engineering Physics N5 N6 Certificate Trimester Course Chemical Plant Operations N6"
+      ]
     },
     {
       "id": "prog:4d4cf4e117b3",
@@ -904,7 +935,11 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Mathematics N4 Engineering Science N4 Supervisory Management N4 (part-time option only) N5 Certificate Trimester Course Electro-technics N5 Indust"
+      ]
     },
     {
       "id": "prog:0efa9c6d026f",
@@ -947,6 +982,19 @@
       },
       "modules": [
         "Completed application form as prescrib"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "science not required NC(V) L 2",
+        "engineering programmes English 50%",
+        "50% Mathematics",
+        "60% Science",
+        "60% Life Skills",
+        "50% Average",
+        "45% Average",
+        "55% Average",
+        "55% Prospectus",
+        "mathematics & science not required NC(V) L 2 engineering and programmes requiring competency in mathematics and/or science Report 191 N1 engineering programmes English 50% 50% 50% 50% Mathematics 40% 40% 6"
       ]
     },
     {
@@ -990,6 +1038,19 @@
       },
       "modules": [
         "Completed application form as prescrib"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "science not required NC(V) L 2",
+        "engineering programmes English 50%",
+        "50% Mathematics",
+        "60% Science",
+        "60% Life Skills",
+        "50% Average",
+        "45% Average",
+        "55% Average",
+        "55% Prospectus",
+        "mathematics & science not required NC(V) L 2 engineering and programmes requiring competency in mathematics and/or science Report 191 N1 engineering programmes English 50% 50% 50% 50% Mathematics 40% 40% 6"
       ]
     },
     {
@@ -1037,6 +1098,10 @@
       "modules": [
         "Introductory Computer Practice N4 OR",
         "Computer Practice N4"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "If you have Grade 9"
       ]
     },
     {
@@ -1056,11 +1121,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     }
   ],
   "admission": {
@@ -1223,15 +1290,17 @@
     "adm_reqs_count": 4
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:33Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:59Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.231,
-    "improvement": 0.164,
-    "fields_enriched": 32,
+    "points_system": "tvet_none",
+    "completeness_before": 0.203,
+    "completeness_after": 0.249,
+    "improvement": 0.045,
+    "fields_enriched": 13,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/flavius-mareka-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/flavius-mareka-tvet-college.pdf"
     ]
   }
 }

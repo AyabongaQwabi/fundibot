@@ -95,7 +95,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Business Studies"
+      ]
     },
     {
       "id": "prog:1ee54ca7a619",
@@ -118,7 +127,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Business Studies"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:6b071acb2072",
@@ -141,7 +159,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Business Studies"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:a01435bf156b",
@@ -164,7 +191,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Business Studies"
+      ]
     },
     {
       "id": "prog:bfb62e60146d",
@@ -187,7 +223,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Business Studies"
+      ]
     },
     {
       "id": "prog:c5c5a99c1803",
@@ -210,7 +255,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Business Studies"
+      ]
     },
     {
       "id": "prog:75abcd0f1a04",
@@ -233,7 +287,16 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Business Studies"
+      ],
+      "pricing": {
+        "amount_min": 2027,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "id": "prog:6e43aacd7ca5",
@@ -256,7 +319,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:a198f57f8c97",
@@ -279,7 +343,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2",
+        "report with Maths LEVEL 3",
+        "Passed Level 2",
+        "At least 5",
+        "LEVEL 3 Passed Level",
+        "Maths LEVEL 3 Passed Level 2 (At least 5 subjects – must enrol for supplementary) Students can"
+      ]
     },
     {
       "id": "prog:c30882a3b481",
@@ -313,7 +388,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2",
+        "report with Maths LEVEL 3",
+        "Passed Level 2",
+        "At least 5",
+        "LEVEL 3 Passed Level",
+        "Maths LEVEL 3 Passed Level 2 (At least 5 subjects – must enrol for supplementary) Students can"
+      ]
     },
     {
       "id": "prog:633ba10100fa",
@@ -336,7 +422,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2",
+        "report with Maths LEVEL 3",
+        "Passed Level 2",
+        "At least 5",
+        "LEVEL 3 Passed Level",
+        "Maths LEVEL 3 Passed Level 2 (At least 5 subjects – must enrol for supplementary) Students can"
+      ]
     },
     {
       "id": "prog:5b98cea55560",
@@ -370,7 +467,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2",
+        "report with Maths LEVEL 3",
+        "Passed Level 2",
+        "At least 5",
+        "LEVEL 3 Passed Level",
+        "Maths LEVEL 3 Passed Level 2 (At least 5 subjects – must enrol for supplementary) Students can"
+      ]
     },
     {
       "id": "prog:3bc6db5c0acd",
@@ -393,7 +501,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:6e90014c3378",
@@ -416,7 +525,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:91f1957d9077",
@@ -439,7 +549,18 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "5 or an equivalent qualification N",
+        "Office Administration NCV LEVEL 2",
+        "passed report LEVEL 2",
+        "report with Maths LEVEL 3",
+        "Passed Level 2",
+        "At least 5",
+        "LEVEL 3 Passed Level",
+        "Maths LEVEL 3 Passed Level 2 (At least 5 subjects – must enrol for supplementary) Students can"
+      ]
     },
     {
       "id": "prog:354:Degree|5f75057e98ee|bsc",
@@ -462,7 +583,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:354:Postgraduate|4ba774b4722c|msc degrees",
@@ -485,7 +607,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:354:NATED|3787633babc5|report 191",
@@ -504,11 +627,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     }
   ],
   "admission": {
@@ -630,15 +755,17 @@
     "adm_reqs_count": 5
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:52:24Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:59:16Z",
     "test_mode": false,
-    "completeness_before": 0.115,
-    "completeness_after": 0.148,
-    "improvement": 0.033,
-    "fields_enriched": 9,
+    "points_system": "tvet_none",
+    "completeness_before": 0.131,
+    "completeness_after": 0.193,
+    "improvement": 0.062,
+    "fields_enriched": 20,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/sekhukhune-tvet-college-web.txt"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/sekhukhune-tvet-college-web.txt"
     ]
   }
 }

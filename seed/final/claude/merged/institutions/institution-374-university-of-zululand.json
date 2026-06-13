@@ -89,7 +89,25 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Psychology) 3",
+        "NSC Deg with Engl 4",
+        "credit subjects BA in Psychology 3",
+        "and Social Sci (Geography/History) 4",
+        "Theatre and Performance 3",
+        "and Dramatic Art or Visual Art 4",
+        "credit subjects Diploma in Public Relations Management 3",
+        "NSC Dip with Engl 4",
+        "credit subjects B A Development Studies 3",
+        "credit subjects B A Information Science 3",
+        "Information Science 4",
+        "credit subjects B Social Work 4",
+        "NSC Deg with Engl HL 4",
+        "FAL 5",
+        "credit subjects B A Sociology 3"
+      ]
     },
     {
       "id": "prog:5635d1e628ab",
@@ -129,7 +147,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Studies 3",
+        "NSC Dip with Engl 4",
+        "credit subjects B A Correctional Studies 3",
+        "NSC Deg with Engl 5",
+        "credit subjects B A Industrial Sociology 3",
+        "NSC Deg with Engl 4",
+        "History) 3",
+        "Tourism) 3",
+        "IsiZulu) 3",
+        "English) 3",
+        "Psychology) 3",
+        "credit subjects BA in Psychology 3",
+        "and Social Sci (Geography/History) 4",
+        "Theatre and Performance 3",
+        "yrs 2",
+        "English) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects B A (Philosophy & Psychology) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and So"
+      ]
     },
     {
       "id": "prog:53e5b8d25ccb",
@@ -184,7 +221,16 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4",
+        "and Maths 3",
+        "Maths Lit 4",
+        "Maths 3/Maths Lit 4 Bachelor of Education in Intermediate Phase Teaching: Languages and Humanitie"
+      ]
     },
     {
       "id": "prog:e8e5e14b96e5",
@@ -224,7 +270,36 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4",
+        "and Maths 3",
+        "Maths Lit 4",
+        "Languages and Humanities 4",
+        "NSC Deg with IsiZulu 4",
+        "and Engl 4",
+        "and Geog and Hist 4",
+        "Technology 4",
+        "NSC Deg with IsiZulu FAL/HL 4",
+        "and Engl HL/FAL 4",
+        "and Maths 4",
+        "and Phys Sci 3",
+        "or Maths 3",
+        "and Phys Sci 4",
+        "Public Administration and Business Management 3",
+        "NSC Deg Endorsement with Engl 4",
+        "Maths 3/Maths Lit 4 Bachelor of Education in Intermediate Phase Teaching: Languages and Humanities 4 yrs 26 NSC Deg with IsiZulu 4 and Engl 4 and Geog and Hist 4 Bachelor of Education in Intermediate P",
+        "Maths, Natural Science & Technology 4 yrs 26 NSC Deg with IsiZulu FAL/HL 4 and Engl HL/FAL 4 and Maths 4 and Phys Sci 3 or Maths 3 and Phys Sci 4 FACULTY OF COMMERCE, ADMINISTRATION AND LAW TEL: 03",
+        "Maths 3/Maths Lit 4"
+      ]
     },
     {
       "id": "prog:6e7c41c9a5e0",
@@ -264,7 +339,36 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4",
+        "and Maths 3",
+        "Maths Lit 4",
+        "Languages and Humanities 4",
+        "NSC Deg with IsiZulu 4",
+        "and Engl 4",
+        "and Geog and Hist 4",
+        "Technology 4",
+        "NSC Deg with IsiZulu FAL/HL 4",
+        "and Engl HL/FAL 4",
+        "and Maths 4",
+        "and Phys Sci 3",
+        "or Maths 3",
+        "and Phys Sci 4",
+        "Public Administration and Business Management 3",
+        "NSC Deg Endorsement with Engl 4",
+        "Maths 3/Maths Lit 4 Bachelor of Education in Intermediate Phase Teaching: Languages and Humanities 4 yrs 26 NSC Deg with IsiZulu 4 and Engl 4 and Geog and Hist 4 Bachelor of Education in Intermediate P",
+        "Maths, Natural Science & Technology 4 yrs 26 NSC Deg with IsiZulu FAL/HL 4 and Engl HL/FAL 4 and Maths 4 and Phys Sci 3 or Maths 3 and Phys Sci 4 FACULTY OF COMMERCE, ADMINISTRATION AND LAW TEL: 03",
+        "Maths 3/Maths Lit 4"
+      ]
     },
     {
       "id": "prog:4876053241f4",
@@ -316,6 +420,28 @@
           }
         ],
         "subject_or_groups": []
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "ects B A in Intercultural Communication 3",
+        "NSC Deg with Engl 4",
+        "credit subjects Diploma in Media Studies 3",
+        "NSC Dip with Engl 4",
+        "credit subjects B A Correctional Studies 3",
+        "NSC Deg with Engl 5",
+        "credit subjects B A Industrial Sociology 3",
+        "History) 3",
+        "Tourism) 3",
+        "IsiZulu) 3",
+        "English) 3",
+        "Psychology) 3",
+        "credit subjects BA in Psychology 3",
+        "English) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects B A (Philosophy & Psychology) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects BA in Psychology 3 yrs 28 NSC Deg with En"
+      ],
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
       }
     },
     {
@@ -362,7 +488,25 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Psychology) 3",
+        "NSC Deg with Engl 4",
+        "credit subjects BA in Psychology 3",
+        "and Social Sci (Geography/History) 4",
+        "Theatre and Performance 3",
+        "and Dramatic Art or Visual Art 4",
+        "credit subjects Diploma in Public Relations Management 3",
+        "NSC Dip with Engl 4",
+        "credit subjects B A Development Studies 3",
+        "credit subjects B A Information Science 3",
+        "Information Science 4",
+        "credit subjects B Social Work 4",
+        "NSC Deg with Engl HL 4",
+        "FAL 5",
+        "credit subjects B A Sociology 3"
+      ]
     },
     {
       "id": "prog:7251fe9d60d1",
@@ -429,7 +573,16 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4",
+        "and Maths 3",
+        "Maths Lit 4",
+        "Maths 3/Maths Lit 4 Bachelor of Education in Intermediate Phase Teaching: Languages and Humanitie"
+      ]
     },
     {
       "id": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
@@ -469,7 +622,36 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4",
+        "and Maths 3",
+        "Maths Lit 4",
+        "Languages and Humanities 4",
+        "NSC Deg with IsiZulu 4",
+        "and Engl 4",
+        "and Geog and Hist 4",
+        "Technology 4",
+        "NSC Deg with IsiZulu FAL/HL 4",
+        "and Engl HL/FAL 4",
+        "and Maths 4",
+        "and Phys Sci 3",
+        "or Maths 3",
+        "and Phys Sci 4",
+        "Public Administration and Business Management 3",
+        "NSC Deg Endorsement with Engl 4",
+        "Maths 3/Maths Lit 4 Bachelor of Education in Intermediate Phase Teaching: Languages and Humanities 4 yrs 26 NSC Deg with IsiZulu 4 and Engl 4 and Geog and Hist 4 Bachelor of Education in Intermediate P",
+        "Maths, Natural Science & Technology 4 yrs 26 NSC Deg with IsiZulu FAL/HL 4 and Engl HL/FAL 4 and Maths 4 and Phys Sci 3 or Maths 3 and Phys Sci 4 FACULTY OF COMMERCE, ADMINISTRATION AND LAW TEL: 03",
+        "Maths 3/Maths Lit 4"
+      ]
     },
     {
       "id": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
@@ -509,7 +691,36 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "pricing": {
+        "amount_min": 2025,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      },
+      "admission_requirements_raw": [
+        "Admission Requirements Bachelor of Education in Foundation Phase Teaching 4",
+        "NSC Deg with IsiZulu HL 4",
+        "and Engl FAL 4",
+        "and Maths 3",
+        "Maths Lit 4",
+        "Languages and Humanities 4",
+        "NSC Deg with IsiZulu 4",
+        "and Engl 4",
+        "and Geog and Hist 4",
+        "Technology 4",
+        "NSC Deg with IsiZulu FAL/HL 4",
+        "and Engl HL/FAL 4",
+        "and Maths 4",
+        "and Phys Sci 3",
+        "or Maths 3",
+        "and Phys Sci 4",
+        "Public Administration and Business Management 3",
+        "NSC Deg Endorsement with Engl 4",
+        "Maths 3/Maths Lit 4 Bachelor of Education in Intermediate Phase Teaching: Languages and Humanities 4 yrs 26 NSC Deg with IsiZulu 4 and Engl 4 and Geog and Hist 4 Bachelor of Education in Intermediate P",
+        "Maths, Natural Science & Technology 4 yrs 26 NSC Deg with IsiZulu FAL/HL 4 and Engl HL/FAL 4 and Maths 4 and Phys Sci 3 or Maths 3 and Phys Sci 4 FACULTY OF COMMERCE, ADMINISTRATION AND LAW TEL: 03",
+        "Maths 3/Maths Lit 4"
+      ]
     }
   ],
   "admission": {
@@ -844,15 +1055,17 @@
     "adm_reqs_count": 8
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:54:36Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T01:02:27Z",
     "test_mode": false,
-    "completeness_before": 0.08,
-    "completeness_after": 0.146,
-    "improvement": 0.066,
-    "fields_enriched": 10,
+    "points_system": "aps_points",
+    "completeness_before": 0.13,
+    "completeness_after": 0.217,
+    "improvement": 0.088,
+    "fields_enriched": 15,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/university-of-zululand.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/university-of-zululand.pdf"
     ]
   }
 }

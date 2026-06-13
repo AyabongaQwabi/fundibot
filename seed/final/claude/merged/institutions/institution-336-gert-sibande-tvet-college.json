@@ -1695,6 +1695,11 @@
         "Computer Programming",
         "Multimedia Ser vice",
         "Introduction to Computers"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "bursary recipients who complete NC(V) Level 4",
+        "Level 4 are eligible for financial assistance sh"
       ]
     },
     {
@@ -1718,7 +1723,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "rs (Level 2",
+        "Level 4"
+      ]
     },
     {
       "id": "prog:336:NATED|3787633babc5|report 191",
@@ -1741,7 +1751,12 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "bursary recipients who complete NC(V) Level 4",
+        "Level 4 are eligible for financial assistance sh"
+      ]
     }
   ],
   "admission": {
@@ -1766,15 +1781,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:33Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:59Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.2,
-    "improvement": 0.133,
-    "fields_enriched": 6,
+    "points_system": "tvet_none",
+    "completeness_before": 0.176,
+    "completeness_after": 0.235,
+    "improvement": 0.059,
+    "fields_enriched": 3,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/gert-sibande-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/gert-sibande-tvet-college.pdf"
     ]
   }
 }

@@ -465,6 +465,17 @@
         "Passed N3 (4 Subjects)",
         "An NQF Level 4 qualification i.e. Technical Grade 12",
         "NC(V) Level 4 Engineering"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "NQF LEVEL 4",
+        "Certificate 4",
+        "NQF Level 3",
+        "Technical trade theory programs SETA quality assured NC(V) Certificate Level 4",
+        "Passed 7",
+        "LEVEL 4 SUBJECTS N",
+        "Level 4 Passed",
+        "Technical trade"
       ]
     },
     {
@@ -484,11 +495,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": "prog:0b52c3f0c354",
@@ -511,7 +524,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": "prog:71c73d328551",
@@ -551,7 +565,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "An NQF level 1",
+        "Grade 9",
+        "AET level 4",
+        "NC(V) Level 2",
+        "NC(V) L 2",
+        "Additional requirement Grade 9",
+        "indd 6",
+        "Average 45%",
+        "55% Additional requirement Grade",
+        "level 1 qualification i",
+        "Level 2 NC(V) L",
+        "English 50 50 50 Mathematics 40 40 60 Science 40 40 60 Life Skills 50 50 50 Average 45% 45% 55% Additional requirement Grade 9 +: NC(V) Programme Subject Requirements Subjects Pass Requirement FEA EMS a",
+        "Mathematics Mathematical Literacy 40 % 50 % Ekurhuleni TVET PROSPECTUS 2024 2",
+        "An NQF level 1 qualification i.e. Grade 9",
+        "PLP Results",
+        "General Education and Training Certificate L4 (GETC)"
+      ]
     },
     {
       "id": "prog:e1e489d2237f",
@@ -591,7 +624,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "An NQF level 1",
+        "Grade 9",
+        "AET level 4",
+        "NC(V) Level 2",
+        "NC(V) L 2",
+        "Additional requirement Grade 9",
+        "indd 6",
+        "Average 45%",
+        "55% Additional requirement Grade",
+        "level 1 qualification i",
+        "Level 2 NC(V) L",
+        "English 50 50 50 Mathematics 40 40 60 Science 40 40 60 Life Skills 50 50 50 Average 45% 45% 55% Additional requirement Grade 9 +: NC(V) Programme Subject Requirements Subjects Pass Requirement FEA EMS a",
+        "Mathematics Mathematical Literacy 40 % 50 % Ekurhuleni TVET PROSPECTUS 2024 2",
+        "An NQF level 1 qualification i.e. Grade 9",
+        "PLP Results",
+        "General Education and Training Certificate L4 (GETC)"
+      ]
     },
     {
       "id": "prog:809eed1ddf11",
@@ -631,7 +683,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "An NQF level 1",
+        "Grade 9",
+        "AET level 4",
+        "NC(V) Level 2",
+        "NC(V) L 2",
+        "Additional requirement Grade 9",
+        "indd 6",
+        "Average 45%",
+        "55% Additional requirement Grade",
+        "level 1 qualification i",
+        "Level 2 NC(V) L",
+        "English 50 50 50 Mathematics 40 40 60 Science 40 40 60 Life Skills 50 50 50 Average 45% 45% 55% Additional requirement Grade 9 +: NC(V) Programme Subject Requirements Subjects Pass Requirement FEA EMS a",
+        "Mathematics Mathematical Literacy 40 % 50 % Ekurhuleni TVET PROSPECTUS 2024 2",
+        "An NQF level 1 qualification i.e. Grade 9",
+        "PLP Results",
+        "General Education and Training Certificate L4 (GETC)"
+      ]
     },
     {
       "id": "prog:90cd2965b1cf",
@@ -671,7 +742,26 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "An NQF level 1",
+        "Grade 9",
+        "AET level 4",
+        "NC(V) Level 2",
+        "NC(V) L 2",
+        "Additional requirement Grade 9",
+        "indd 6",
+        "Average 45%",
+        "55% Additional requirement Grade",
+        "level 1 qualification i",
+        "Level 2 NC(V) L",
+        "English 50 50 50 Mathematics 40 40 60 Science 40 40 60 Life Skills 50 50 50 Average 45% 45% 55% Additional requirement Grade 9 +: NC(V) Programme Subject Requirements Subjects Pass Requirement FEA EMS a",
+        "Mathematics Mathematical Literacy 40 % 50 % Ekurhuleni TVET PROSPECTUS 2024 2",
+        "An NQF level 1 qualification i.e. Grade 9",
+        "PLP Results",
+        "General Education and Training Certificate L4 (GETC)"
+      ]
     },
     {
       "id": "prog:331:NATED|3787633babc5|report 191",
@@ -699,6 +789,13 @@
         "A NQF Level 1 qualification i.e. Grade 9",
         "PLP results",
         "AET Level 4"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "An NQF level 1",
+        "Grade 9",
+        "level 1 qualification i",
+        "An NQF level 1 qualification i.e. Grade 9"
       ]
     }
   ],
@@ -818,15 +915,17 @@
     "adm_reqs_count": 3
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:33Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:58Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.167,
-    "improvement": 0.1,
-    "fields_enriched": 12,
+    "points_system": "tvet_none",
+    "completeness_before": 0.147,
+    "completeness_after": 0.191,
+    "improvement": 0.044,
+    "fields_enriched": 7,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/ekurhuleni-east-tvet-college.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/ekurhuleni-east-tvet-college.pdf"
     ]
   }
 }

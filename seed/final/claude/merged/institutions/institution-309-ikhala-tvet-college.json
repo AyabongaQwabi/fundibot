@@ -140,11 +140,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -167,7 +169,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none"
     },
     {
       "id": null,
@@ -190,7 +193,17 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "Entry Requirements 40%",
+        "Class Attendance of at least 80%",
+        "Passmark Requirement Core subjects 50%",
+        "Fundamentals English and Life Orientation 40%",
+        "Mathematical Literacy and Mathematics 30%",
+        "Examination Entry Requirements for NCV All vocational subjects 50%",
+        "English and Life Orientation 40%"
+      ]
     },
     {
       "id": null,
@@ -226,6 +239,16 @@
       "campuses_offering": [
         "Aliwal North",
         "Ezibeleni"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "courses/ 1",
+        "Civil Engineering and Building Construction Adm ission Requirem ents Grade 9",
+        "CONSTRUCTION/) Electrical Infrastructure Construction Adm ission Requirem ents Grade 9",
+        "courses/ 2",
+        "Engineering and Related Design Adm ission Requirem ents Grade 9",
+        "Mathematics (40%) and English (40%) Ezibeleni Campus LEARN MORE(HTTPS://IKHALA",
+        "Mathematics (40%) and English (40%) Aliwal North Campus Ezibeleni Campus LEARN MORE(HTTPS://IKHALA"
       ]
     },
     {
@@ -253,6 +276,15 @@
       "campuses_offering": [
         "Aliwal North",
         "Queen Nonesi"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "courses/ 1",
+        "or NCV Level 4",
+        "with Agriculture and Mathematics / Mathematical Literacy or NCV Level 4",
+        "Level 4 Management or Finance",
+        "Level 4 in Primary Agriculture Queen Nonesi Campu",
+        "Mathematics / Mathematical Literacy or NCV Level 4 in Primary Agriculture Queen Nonesi Campus LEARN MORE(HTTPS://IKHALA"
       ]
     },
     {
@@ -289,6 +321,16 @@
       "campuses_offering": [
         "Aliwal North",
         "Ezibeleni"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "courses/ 1",
+        "Civil Engineering and Building Construction Adm ission Requirem ents Grade 9",
+        "CONSTRUCTION/) Electrical Infrastructure Construction Adm ission Requirem ents Grade 9",
+        "courses/ 2",
+        "Engineering and Related Design Adm ission Requirem ents Grade 9",
+        "Mathematics (40%) and English (40%) Ezibeleni Campus LEARN MORE(HTTPS://IKHALA",
+        "Mathematics (40%) and English (40%) Aliwal North Campus Ezibeleni Campus LEARN MORE(HTTPS://IKHALA"
       ]
     },
     {
@@ -313,11 +355,13 @@
         }
       ],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -353,6 +397,16 @@
       "campuses_offering": [
         "Aliwal North",
         "Ezibeleni"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "courses/ 1",
+        "Civil Engineering and Building Construction Adm ission Requirem ents Grade 9",
+        "CONSTRUCTION/) Electrical Infrastructure Construction Adm ission Requirem ents Grade 9",
+        "courses/ 2",
+        "Engineering and Related Design Adm ission Requirem ents Grade 9",
+        "Mathematics (40%) and English (40%) Ezibeleni Campus LEARN MORE(HTTPS://IKHALA",
+        "Mathematics (40%) and English (40%) Aliwal North Campus Ezibeleni Campus LEARN MORE(HTTPS://IKHALA"
       ]
     },
     {
@@ -389,6 +443,15 @@
       "campuses_offering": [
         "Aliwal North",
         "Queen Nonesi"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "courses/ 1",
+        "or NCV Level 4",
+        "with Agriculture and Mathematics / Mathematical Literacy or NCV Level 4",
+        "Level 4 Management or Finance",
+        "Level 4 in Primary Agriculture Queen Nonesi Campu",
+        "Mathematics / Mathematical Literacy or NCV Level 4 in Primary Agriculture Queen Nonesi Campus LEARN MORE(HTTPS://IKHALA"
       ]
     },
     {
@@ -416,6 +479,16 @@
       "campuses_offering": [
         "Aliwal North",
         "Ezibeleni"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "ng and Related Design Adm ission Requirem ents Grade 9",
+        "courses/ 3",
+        "or NQF Level 1",
+        "courses/ 4",
+        "Level 1 Qualification or higher",
+        "Level 1 Qualification or higher Queenstown Campus",
+        "Mathematics (40%) and English (40%) Aliwal North Campus Ezibeleni Campus LEARN MORE(HTTPS://IKHALA"
       ]
     },
     {
@@ -444,6 +517,15 @@
         "Aliwal North",
         "Queen Nonesi",
         "Sterkspruit"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "courses/ 3",
+        "or a Relevant NC(V) NQF Level 4",
+        "courses/ 4",
+        "with Tourism / Geography OR NCV Level 4",
+        "Level 4 Certificate Aliwal North Campus Queenstow",
+        "Level 4 in Tourism Queen Nonesi Campus LEARN MORE"
       ]
     },
     {
@@ -472,6 +554,13 @@
         "Aliwal North",
         "Ezibeleni",
         "Queen Nonesi"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "courses/ 4",
+        "or NQF Level 1",
+        "courses/ 5",
+        "Level 1 Qualification or higher Aliwal North Camp"
       ]
     },
     {
@@ -491,11 +580,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -522,6 +613,18 @@
       "campuses_offering": [
         "Aliwal North",
         "Queen Nonesi"
+      ],
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "d Mathematics / Mathematical Literacy or NCV Level 4",
+        "courses/ 2",
+        "with Consumer Studies or NCV Level 4",
+        "or a Relevant NC(V) NQF Level 4",
+        "courses/ 3",
+        "Level 4 in Primary Agriculture Queen Nonesi Campu",
+        "Level 4 Hospitality Aliwal North Campus LEARN MOR",
+        "Level 4 Certificate Aliwal North Campus Queenstow",
+        "Mathematics / Mathematical Literacy or NCV Level 4 in Primary Agriculture Queen Nonesi Campus LEARN MORE(HTTPS://IKHALA"
       ]
     },
     {
@@ -541,11 +644,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     }
   ],
   "admission": {
@@ -573,19 +678,21 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:25Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:57:45Z",
     "test_mode": false,
-    "completeness_before": 0.111,
-    "completeness_after": 0.147,
-    "improvement": 0.036,
-    "fields_enriched": 17,
+    "points_system": "tvet_none",
+    "completeness_before": 0.129,
+    "completeness_after": 0.168,
+    "improvement": 0.039,
+    "fields_enriched": 14,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/ikhala-tvet-college-web.txt",
-      "/Users/nonwork/dev/fundibot/seed/workik/batch1/National Diploma (Report 191) - Ikhala TVET College2.pdf",
-      "/Users/nonwork/dev/fundibot/seed/workik/batch1/National Diploma (Report 191) - Ikhala TVET College3.pdf",
-      "/Users/nonwork/dev/fundibot/seed/workik/batch1/National Diploma (Report 191) - Ikhala TVET College.pdf",
-      "/Users/nonwork/dev/fundibot/seed/workik/batch1/National Certificate Courses - Ikhala TVET College.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/ikhala-tvet-college-web.txt",
+      "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/National Diploma (Report 191) - Ikhala TVET College2.pdf",
+      "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/National Diploma (Report 191) - Ikhala TVET College3.pdf",
+      "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/National Diploma (Report 191) - Ikhala TVET College.pdf",
+      "/Users/nonwork/dev/fundibot/seed/raw/workik/batch1/National Certificate Courses - Ikhala TVET College.pdf"
     ]
   }
 }

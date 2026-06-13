@@ -68,11 +68,13 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 9",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -91,12 +93,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -115,12 +119,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -139,12 +145,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -163,12 +171,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -187,12 +197,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "id": null,
@@ -211,12 +223,14 @@
       "min_aps": null,
       "subjects_compulsory": [],
       "subject_or_groups": [],
-      "min_grade": null,
+      "min_grade": "Grade 12 / Matric",
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
       "fees_per_year": null,
-      "_synthetic": true
+      "_synthetic": true,
+      "_points_system": "tvet_none",
+      "_admission_is_default": true
     },
     {
       "name": "NCV Level 2: A minimum of Grade 9 (Senior Phase) completion is required.",
@@ -242,7 +256,20 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "motheo-tvet-college-prospectus.pdf",
-      "_discovery_char": 2126
+      "_discovery_char": 2126,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "NCV Level 2",
+        "A minimum of Grade 9",
+        "college/ 2",
+        "6 M otheo TVET College is a registered NSFA"
+      ],
+      "pricing": {
+        "amount_min": 3500,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      }
     },
     {
       "name": "Report 191 N1–N3 (Engineering): A minimum of Grade 9 with passes in M athematics and Physical",
@@ -268,7 +295,20 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "motheo-tvet-college-prospectus.pdf",
-      "_discovery_char": 2199
+      "_discovery_char": 2199,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "NCV Level 2",
+        "A minimum of Grade 9",
+        "college/ 2",
+        "6 M otheo TVET College is a registered NSFA"
+      ],
+      "pricing": {
+        "amount_min": 3500,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      }
     },
     {
       "name": "Report 191 N4–N6 (Business): A Grade 12 / National Senior Certificate (NSC) or equivalent.",
@@ -294,7 +334,20 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "motheo-tvet-college-prospectus.pdf",
-      "_discovery_char": 2302
+      "_discovery_char": 2302,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "NCV Level 2",
+        "A minimum of Grade 9",
+        "college/ 2",
+        "6 M otheo TVET College is a registered NSFA"
+      ],
+      "pricing": {
+        "amount_min": 3500,
+        "currency": "ZAR",
+        "label": "tuition fee",
+        "granularity": "programme"
+      }
     },
     {
       "name": "National Certificate Vocational (NCV) — NQF Levels 2–4",
@@ -320,7 +373,12 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "motheo-tvet-college-prospectus.pdf",
-      "_discovery_char": 5458
+      "_discovery_char": 5458,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "NQF Levels 2",
+        "4 NCV programmes run for three years and co"
+      ]
     },
     {
       "name": "NCV programmes run for three years and combine theory with practical training. Available fields include",
@@ -346,7 +404,17 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "motheo-tvet-college-prospectus.pdf",
-      "_discovery_char": 5513
+      "_discovery_char": 5513,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "NQF Levels 2",
+        "4 NCV programmes run for three years and co"
+      ],
+      "pricing": {
+        "amount_min": 2026,
+        "currency": "ZAR",
+        "granularity": "institutional"
+      }
     },
     {
       "name": "Report 191 / NATED Programmes (N1–N6)",
@@ -372,7 +440,12 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "motheo-tvet-college-prospectus.pdf",
-      "_discovery_char": 5686
+      "_discovery_char": 5686,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "college/ 4",
+        "6 Engineering"
+      ]
     },
     {
       "name": "NATED programmes are offered in both Engineering Studies (trimester-based, N1–N6) and Business",
@@ -398,7 +471,12 @@
       "_synthetic": false,
       "_discovered": true,
       "_discovery_source": "motheo-tvet-college-prospectus.pdf",
-      "_discovery_char": 5724
+      "_discovery_char": 5724,
+      "_points_system": "tvet_none",
+      "admission_requirements_raw": [
+        "college/ 4",
+        "6 Engineering"
+      ]
     }
   ],
   "admission": {
@@ -423,15 +501,17 @@
     "adm_reqs_count": 0
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:51:57Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:58:36Z",
     "test_mode": false,
-    "completeness_before": 0.067,
-    "completeness_after": 0.067,
-    "improvement": 0.0,
-    "fields_enriched": 0,
+    "points_system": "tvet_none",
+    "completeness_before": 0.059,
+    "completeness_after": 0.105,
+    "improvement": 0.046,
+    "fields_enriched": 18,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/motheo-tvet-college-prospectus.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/motheo-tvet-college-prospectus.pdf"
     ]
   }
 }

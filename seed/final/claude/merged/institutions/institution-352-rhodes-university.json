@@ -106,7 +106,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua",
+        "English First Additional Language (65%) Instrumental Music Music Theory Bachelor of Journalism (BJourn) 34-44 (Dean's discretion) 45+ (Provisional offer)"
+      ]
     },
     {
       "id": "prog:ddf7c8e4727a",
@@ -165,7 +172,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Provisional offer) English Level 4",
+        "Mathematics Level 6",
+        "Computer Science Economics Information Systems Management Quantitative Management Bachelor of Commerce (BCom) 3",
+        "Mathematics Level 4",
+        "Accounting General Curriculum Bachelor of Economics (BEco) 3",
+        "Business Sciences Environmental Economics Mineral Economics Social Sciences BCom Extended Studies 4",
+        "English Level 4 (50-59%) Mathematics Level 6 (70-79%) Computer Science Economics Information Systems Management Quantitative Management Bachelor of Commerce (BCom) 3 Years 34-39 (Dean's discretion) 40+ (Prov",
+        "English Level 4 (50-59%) Mathematics Level 4 (50-59%) Accounting General Curriculum Bachelor of Economics (BEco) 3 Years 34-39 (Dean's discretion) 40+ (Provisional offer) English Level 4 (50%) Mathematics"
+      ]
     },
     {
       "id": "prog:a56520f0ec4f",
@@ -216,7 +234,18 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Provisional offer) English Level 4",
+        "Mathematics Level 6",
+        "Computer Science Economics Information Systems Management Quantitative Management Bachelor of Commerce (BCom) 3",
+        "Mathematics Level 4",
+        "Accounting General Curriculum Bachelor of Economics (BEco) 3",
+        "Business Sciences Environmental Economics Mineral Economics Social Sciences BCom Extended Studies 4",
+        "English Level 4 (50-59%) Mathematics Level 6 (70-79%) Computer Science Economics Information Systems Management Quantitative Management Bachelor of Commerce (BCom) 3 Years 34-39 (Dean's discretion) 40+ (Prov",
+        "English Level 4 (50-59%) Mathematics Level 4 (50-59%) Accounting General Curriculum Bachelor of Economics (BEco) 3 Years 34-39 (Dean's discretion) 40+ (Provisional offer) English Level 4 (50%) Mathematics"
+      ]
     },
     {
       "id": "prog:b286e56aa3ab",
@@ -250,7 +279,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua",
+        "English First Additional Language (65%) Instrumental Music Music Theory Bachelor of Journalism (BJourn) 34-44 (Dean's discretion) 45+ (Provisional offer)"
+      ]
     },
     {
       "id": "prog:2f80341115d7",
@@ -290,7 +326,18 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Provisional offer) English Level 4",
+        "Mathematics Level 6",
+        "Computer Science Economics Information Systems Management Quantitative Management Bachelor of Commerce (BCom) 3",
+        "Mathematics Level 4",
+        "Accounting General Curriculum Bachelor of Economics (BEco) 3",
+        "Business Sciences Environmental Economics Mineral Economics Social Sciences BCom Extended Studies 4",
+        "English Level 4 (50-59%) Mathematics Level 6 (70-79%) Computer Science Economics Information Systems Management Quantitative Management Bachelor of Commerce (BCom) 3 Years 34-39 (Dean's discretion) 40+ (Prov",
+        "English Level 4 (50-59%) Mathematics Level 4 (50-59%) Accounting General Curriculum Bachelor of Economics (BEco) 3 Years 34-39 (Dean's discretion) 40+ (Provisional offer) English Level 4 (50%) Mathematics"
+      ]
     },
     {
       "id": "prog:1456504c476c",
@@ -324,7 +371,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua",
+        "English First Additional Language (65%) Instrumental Music Music Theory Bachelor of Journalism (BJourn) 34-44 (Dean's discretion) 45+ (Provisional offer)"
+      ]
     },
     {
       "id": "prog:09275e102323",
@@ -366,7 +420,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "duate Certificate in Education (PGCE) 1",
+        "Senior Phase Teaching (Grade 7"
+      ]
     },
     {
       "id": "prog:74c2df46f569",
@@ -408,7 +467,12 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "duate Certificate in Education (PGCE) 1",
+        "Senior Phase Teaching (Grade 7"
+      ]
     },
     {
       "id": "prog:c897500fb6de",
@@ -442,7 +506,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua",
+        "English First Additional Language (65%) Instrumental Music Music Theory Bachelor of Journalism (BJourn) 34-44 (Dean's discretion) 45+ (Provisional offer)"
+      ]
     },
     {
       "id": "prog:1947db84b828",
@@ -501,7 +572,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:aca8c92dead2",
@@ -541,7 +613,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:46f1624e3c15",
@@ -581,7 +654,17 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Degrees Subjects Fields Bachelor of Education (BEDFP) 4",
+        "Provisional offer) English Level 4",
+        "Mathematics Level 3",
+        "Mathematics Literacy Level 4",
+        "Foundation Phase Teaching Postgraduate Certificate in Education (PGCE) 1",
+        "Senior Phase Teaching (Grade 7",
+        "English Level 4 (50-59%) Mathematics Level 3 (40-49%) Mathematics Literacy Level 4 (50-59%) Foundation Phase Teaching Postgraduate Certificate in Education (PGCE) 1 Year Bachelor's Degree FET Teaching (Grad"
+      ]
     },
     {
       "id": "prog:99d74812fe52",
@@ -663,7 +746,17 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s discretion) Mathematics Level 5",
+        "Life Sciences Level 5",
+        "Physical Science Level 5",
+        "Provisional offer) Mathematics Level 6",
+        "Life Sciences Level 6",
+        "Physical Science Level 6",
+        "Mathematics Level 5 (60-69%) Life Sciences Level 5 (60-69%) Physical Science Level 5 (60-69%) 45+ (Provisional offer) Mathematics Level 6 (70-79%) Life Sciences Level 6 (70-79%) Physical Science Level 6 (70-79%"
+      ]
     },
     {
       "id": "prog:92c9ee98933d",
@@ -709,7 +802,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:ae4c10b0816f",
@@ -732,7 +826,19 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Life Sciences Level 5",
+        "Physical Science Level 5",
+        "Provisional offer) Mathematics Level 6",
+        "Life Sciences Level 6",
+        "Physical Science Level 6",
+        "Anatomy and Physiology 1",
+        "S Pharmaceutical Biochemistry 1",
+        "Life Sciences Level 5 (60-69%) Physical Science Level 5 (60-69%) 45+ (Provisional offer) Mathematics Level 6 (70-79%) Life Sciences Level 6 (70-79%) Physical Science Level 6 (70-79%) Anatomy and Physiology 1 Cel",
+        "Mathematics 1S Pharmaceutical Biochemistry 1 18 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS SCIENCE FACULT Y The degree is taken over three years, and the key feature of the Bachelor of Science degree"
+      ]
     },
     {
       "id": "prog:6ca9959ad525",
@@ -766,7 +872,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua",
+        "English First Additional Language (65%) Instrumental Music Music Theory Bachelor of Journalism (BJourn) 34-44 (Dean's discretion) 45+ (Provisional offer)"
+      ]
     },
     {
       "id": "prog:352:Degree|970f519c2cad|ba",
@@ -789,7 +902,8 @@
       "selection_required": null,
       "overview": null,
       "career_outcomes": [],
-      "fees_per_year": null
+      "fees_per_year": null,
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:352:Degree|23691b14e265|bachelor of education (bedfp)",
@@ -840,7 +954,17 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "Degrees Subjects Fields Bachelor of Education (BEDFP) 4",
+        "Provisional offer) English Level 4",
+        "Mathematics Level 3",
+        "Mathematics Literacy Level 4",
+        "Foundation Phase Teaching Postgraduate Certificate in Education (PGCE) 1",
+        "Senior Phase Teaching (Grade 7",
+        "English Level 4 (50-59%) Mathematics Level 3 (40-49%) Mathematics Literacy Level 4 (50-59%) Foundation Phase Teaching Postgraduate Certificate in Education (PGCE) 1 Year Bachelor's Degree FET Teaching (Grad"
+      ]
     },
     {
       "id": "prog:352:Degree|d2ffc4a28890|bachelor of pharmacy (bpharm) 40-44 (dean's discretion)",
@@ -922,7 +1046,17 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "s discretion) Mathematics Level 5",
+        "Life Sciences Level 5",
+        "Physical Science Level 5",
+        "Provisional offer) Mathematics Level 6",
+        "Life Sciences Level 6",
+        "Physical Science Level 6",
+        "Mathematics Level 5 (60-69%) Life Sciences Level 5 (60-69%) Physical Science Level 5 (60-69%) 45+ (Provisional offer) Mathematics Level 6 (70-79%) Life Sciences Level 6 (70-79%) Physical Science Level 6 (70-79%"
+      ]
     },
     {
       "id": "prog:352:Degree|eb326eaa5928|bachelor of social science (bss) 34-44 (dean's discretion)",
@@ -956,7 +1090,14 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points",
+      "admission_requirements_raw": [
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Drama English Languages Literature Politics Psychology Sociology Bachelor of Social Science (BSS) 34-44 (Dean's discretion) 45",
+        "English Home Language (60%) English First Additional Language (65%) Anthropology Economics Management Politics Psychology Sociology Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion) 45+ (Provisional offe",
+        "English Home Language (60%) English First Additional Language (65%) Art History Fine Art Practice Visual Culture Bachelor of Music (BMus) 34-44 (Dean's discretion) 45+ (Provisional offer) English Home Langua",
+        "English First Additional Language (65%) Instrumental Music Music Theory Bachelor of Journalism (BJourn) 34-44 (Dean's discretion) 45+ (Provisional offer)"
+      ]
     },
     {
       "id": "prog:352:Degree|b5508e98e435|bcom",
@@ -1015,7 +1156,8 @@
             }
           ]
         ]
-      }
+      },
+      "_points_system": "aps_points"
     },
     {
       "id": "prog:352:Degree|c5052532c220|bed",
@@ -1055,7 +1197,8 @@
           }
         ],
         "subject_or_groups": []
-      }
+      },
+      "_points_system": "aps_points"
     }
   ],
   "admission": {
@@ -1538,15 +1681,17 @@
     "adm_reqs_count": 12
   },
   "_enrichment": {
-    "pipeline_version": "1.1",
-    "enriched_at": "2026-06-11T21:52:24Z",
+    "pipeline_version": "1.2",
+    "enriched_at": "2026-06-13T00:59:16Z",
     "test_mode": false,
-    "completeness_before": 0.07,
-    "completeness_after": 0.194,
-    "improvement": 0.124,
-    "fields_enriched": 41,
+    "points_system": "aps_points",
+    "completeness_before": 0.171,
+    "completeness_after": 0.214,
+    "improvement": 0.043,
+    "fields_enriched": 16,
+    "qual_type_inferred": [],
     "prospectus_files": [
-      "/Users/nonwork/dev/fundibot/seed/prospectuses/rhodes-university.pdf"
+      "/Users/nonwork/dev/fundibot/seed/raw/prospectuses/rhodes-university.pdf"
     ]
   }
 }
