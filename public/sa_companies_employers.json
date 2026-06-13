@@ -1,0 +1,2888 @@
+{
+  "metadata": {
+    "source": "Compiled from publicly known South African employer data, annual reports, graduate programme listings, and career resources",
+    "compiled_date": "2026-06-13",
+    "notes": "Company details based on known SA operations. Graduate/internship programmes change annually — always verify on the company's official careers page.",
+    "total_companies": 99
+  },
+  "companies": [
+    {
+      "name": "Takealot Group",
+      "sector": "Information Technology",
+      "career_fields": [
+        "IT",
+        "Engineering",
+        "Commerce",
+        "Logistics"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "Data Scientist",
+        "DevOps Engineer",
+        "IT Project Manager",
+        "Supply Chain Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.takealot.com/jobs",
+      "offers_internship": true,
+      "internship_details": "Graduate programme for software engineering and data roles",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "South Africa's largest online retailer"
+    },
+    {
+      "name": "Discovery Limited",
+      "sector": "Information Technology / Financial Services",
+      "career_fields": [
+        "IT",
+        "Finance",
+        "Science",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "Data Scientist",
+        "Actuary",
+        "Financial Analyst",
+        "IT Security Specialist",
+        "Business Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.discovery.co.za/portal/individual/about-careers",
+      "offers_internship": true,
+      "internship_details": "Actuarial graduate programme, technology internships, and vacation work",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Vitality-based insurance and financial services giant"
+    },
+    {
+      "name": "Naspers / MultiChoice",
+      "sector": "Information Technology / Media",
+      "career_fields": [
+        "IT",
+        "Media",
+        "Engineering",
+        "Marketing"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "Data Scientist",
+        "UX Designer",
+        "Digital Marketing Specialist",
+        "IT Project Manager"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng"
+      ],
+      "careers_url": "https://www.naspers.com/careers",
+      "offers_internship": true,
+      "internship_details": "MultiChoice bursary and internship programme for technology and media graduates",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Global consumer internet group, parent of Showmax and MultiChoice"
+    },
+    {
+      "name": "Vodacom",
+      "sector": "Telecommunications",
+      "career_fields": [
+        "IT",
+        "Engineering",
+        "Management",
+        "Marketing"
+      ],
+      "occupations_hired": [
+        "IT Network Administrator",
+        "Software Engineer",
+        "Cloud Engineer",
+        "IT Project Manager",
+        "Data Scientist"
+      ],
+      "company_size": "large",
+      "hq": "Midrand, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.vodacom.co.za/vodacom/careers",
+      "offers_internship": true,
+      "internship_details": "Vodacom Youth programme and graduate accelerator for engineering and IT",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "South Africa's largest mobile network operator"
+    },
+    {
+      "name": "MTN South Africa",
+      "sector": "Telecommunications",
+      "career_fields": [
+        "IT",
+        "Engineering",
+        "Finance",
+        "Management"
+      ],
+      "occupations_hired": [
+        "IT Network Administrator",
+        "DevOps Engineer",
+        "Financial Analyst",
+        "IT Project Manager",
+        "Software Engineer"
+      ],
+      "company_size": "large",
+      "hq": "Fairland, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Limpopo"
+      ],
+      "careers_url": "https://www.mtn.com/careers/",
+      "offers_internship": true,
+      "internship_details": "MTN Ayoba programme and graduate internships across technology and commercial functions",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Pan-African mobile network, second largest in SA"
+    },
+    {
+      "name": "Telkom",
+      "sector": "Telecommunications",
+      "career_fields": [
+        "IT",
+        "Engineering",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "IT Network Administrator",
+        "Electrical Engineer",
+        "Software Engineer",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Centurion, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.telkom.co.za/today/en/careers.html",
+      "offers_internship": true,
+      "internship_details": "Learnership and graduate programmes in IT and engineering",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "State-owned telecoms and technology company"
+    },
+    {
+      "name": "Dimension Data (NTT)",
+      "sector": "Information Technology",
+      "career_fields": [
+        "IT",
+        "Engineering",
+        "Management"
+      ],
+      "occupations_hired": [
+        "IT Network Administrator",
+        "Cloud Engineer",
+        "IT Security Specialist",
+        "DevOps Engineer",
+        "IT Consultant"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.dimensiondata.com/en-za/careers",
+      "offers_internship": true,
+      "internship_details": "Graduate programme in cloud, cybersecurity, and managed services",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Global IT solutions and managed services provider, SA-founded"
+    },
+    {
+      "name": "BCX (Business Connexion)",
+      "sector": "Information Technology",
+      "career_fields": [
+        "IT",
+        "Engineering"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "IT System Administrator",
+        "IT Support Specialist",
+        "DevOps Engineer"
+      ],
+      "company_size": "large",
+      "hq": "Centurion, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.bcx.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "Graduate IT learnerships and SETA-registered programmes",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Telkom-owned ICT solutions and services company"
+    },
+    {
+      "name": "Wipro South Africa",
+      "sector": "Information Technology",
+      "career_fields": [
+        "IT",
+        "Engineering"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "Data Analyst",
+        "IT Consultant",
+        "Python Programmer"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng"
+      ],
+      "careers_url": "https://careers.wipro.com/",
+      "offers_internship": false,
+      "internship_details": "",
+      "bbbee_focus": false,
+      "listed": true,
+      "description": "Global IT services company with SA delivery centres"
+    },
+    {
+      "name": "Accenture South Africa",
+      "sector": "Information Technology / Consulting",
+      "career_fields": [
+        "IT",
+        "Finance",
+        "Management",
+        "Engineering"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "Data Scientist",
+        "IT Consultant",
+        "Business Analyst",
+        "Cloud Engineer"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.accenture.com/za-en/careers",
+      "offers_internship": true,
+      "internship_details": "Accenture Scholarship and internship programme for technology and business graduates",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Global consulting and technology services firm"
+    },
+    {
+      "name": "EOH Group",
+      "sector": "Information Technology",
+      "career_fields": [
+        "IT",
+        "Engineering",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "IT Project Manager",
+        "IT Consultant",
+        "Systems Administrator"
+      ],
+      "company_size": "large",
+      "hq": "Midrand, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.eoh.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "Graduate learnerships across IT disciplines",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA-listed technology services group"
+    },
+    {
+      "name": "iOCO (formerly EOH iOCO)",
+      "sector": "Information Technology",
+      "career_fields": [
+        "IT",
+        "Engineering"
+      ],
+      "occupations_hired": [
+        "DevOps Engineer",
+        "Cloud Engineer",
+        "Software Engineer",
+        "IT Security Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.ioco.tech/careers",
+      "offers_internship": true,
+      "internship_details": "Graduate programme in cloud and DevOps",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Cloud, security, and digital transformation services"
+    },
+    {
+      "name": "BBD Software Development",
+      "sector": "Information Technology",
+      "career_fields": [
+        "IT"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "Java Programmer",
+        "Python Programmer",
+        "Frontend Developer",
+        "Backend Developer"
+      ],
+      "company_size": "medium",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng"
+      ],
+      "careers_url": "https://www.bbdsoftware.com/careers",
+      "offers_internship": true,
+      "internship_details": "BBD Bursary programme for computer science students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Custom software development firm, one of SA's largest"
+    },
+    {
+      "name": "Amazon Web Services (AWS) South Africa",
+      "sector": "Information Technology",
+      "career_fields": [
+        "IT",
+        "Engineering"
+      ],
+      "occupations_hired": [
+        "Cloud Engineer",
+        "DevOps Engineer",
+        "Solutions Architect",
+        "Data Scientist"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng"
+      ],
+      "careers_url": "https://www.amazon.jobs/en/locations/cape-town",
+      "offers_internship": true,
+      "internship_details": "AWS internship programme for cloud and software engineering students",
+      "bbbee_focus": false,
+      "listed": true,
+      "description": "Amazon's cloud computing division, with SA cloud region"
+    },
+    {
+      "name": "Standard Bank",
+      "sector": "Banking",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Law",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Financial Analyst",
+        "Actuary",
+        "Software Engineer",
+        "Risk Manager",
+        "Compliance Specialist",
+        "Personal Banker"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Free State",
+        "North West",
+        "Limpopo",
+        "Mpumalanga",
+        "Northern Cape"
+      ],
+      "careers_url": "https://www.standardbank.com/sbg/standard-bank-group/careers",
+      "offers_internship": true,
+      "internship_details": "Standard Bank Incubator and 12-month graduate programme across all disciplines",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Africa's largest bank by assets"
+    },
+    {
+      "name": "Absa Group",
+      "sector": "Banking",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Management",
+        "Law"
+      ],
+      "occupations_hired": [
+        "Financial Analyst",
+        "Actuary",
+        "Software Engineer",
+        "Risk Manager",
+        "Data Scientist",
+        "Chartered Accountant (CA)"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Free State",
+        "Mpumalanga"
+      ],
+      "careers_url": "https://www.absa.co.za/about-us/careers/",
+      "offers_internship": true,
+      "internship_details": "Absa Graduate Development Programme and bursary for accounting, actuarial, and IT students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Pan-African banking and financial services group"
+    },
+    {
+      "name": "FirstRand Group (FNB, RMB, WesBank)",
+      "sector": "Banking",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Management",
+        "Law"
+      ],
+      "occupations_hired": [
+        "Financial Analyst",
+        "Actuary",
+        "Software Engineer",
+        "Risk Manager",
+        "Investment Banker"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.firstrand.co.za/careers/",
+      "offers_internship": true,
+      "internship_details": "FNB and RMB graduate programmes, FirstRand bursary for honours students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA's largest financial services group by market cap"
+    },
+    {
+      "name": "Nedbank",
+      "sector": "Banking",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Financial Analyst",
+        "Data Scientist",
+        "Software Engineer",
+        "Risk Manager",
+        "Chartered Accountant (CA)"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.nedbank.co.za/content/nedbank/desktop/gt/en/careers.html",
+      "offers_internship": true,
+      "internship_details": "Nedbank Graduate Programme and vacation work for finance and IT students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Fourth largest SA bank"
+    },
+    {
+      "name": "Investec",
+      "sector": "Banking / Asset Management",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Investment Banker",
+        "Actuary",
+        "Financial Analyst",
+        "Software Engineer",
+        "Risk Manager"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.investec.com/en_za/welcome-to-investec/careers.html",
+      "offers_internship": true,
+      "internship_details": "Investec bursary and graduate programme for top performers in finance and IT",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Specialist banking and asset management group"
+    },
+    {
+      "name": "Capitec Bank",
+      "sector": "Banking",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "Data Scientist",
+        "Financial Analyst",
+        "Risk Manager"
+      ],
+      "company_size": "large",
+      "hq": "Stellenbosch, Western Cape",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Free State",
+        "Mpumalanga",
+        "North West",
+        "Limpopo",
+        "Northern Cape"
+      ],
+      "careers_url": "https://www.capitecbank.co.za/about-us/careers/",
+      "offers_internship": true,
+      "internship_details": "Capitec bursary for IT and quantitative finance students, vacation work programme",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA's largest retail bank by number of clients"
+    },
+    {
+      "name": "Old Mutual",
+      "sector": "Insurance / Financial Services",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Management",
+        "Law"
+      ],
+      "occupations_hired": [
+        "Actuary",
+        "Financial Analyst",
+        "Data Scientist",
+        "Financial Advisor",
+        "Risk Manager"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.oldmutual.co.za/career-opportunities/",
+      "offers_internship": true,
+      "internship_details": "Old Mutual actuarial and accounting bursary, Imfundo scholarship for education students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Pan-African financial services group"
+    },
+    {
+      "name": "Sanlam",
+      "sector": "Insurance / Financial Services",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Actuary",
+        "Financial Advisor",
+        "Data Scientist",
+        "Risk Manager",
+        "Software Engineer"
+      ],
+      "company_size": "large",
+      "hq": "Bellville, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.sanlam.co.za/about/careers/Pages/default.aspx",
+      "offers_internship": true,
+      "internship_details": "Sanlam bursary for actuarial science and IT, CA trainee programme",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "South Africa's largest insurance group"
+    },
+    {
+      "name": "Discovery Health",
+      "sector": "Insurance / Financial Services",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Medical",
+        "Science"
+      ],
+      "occupations_hired": [
+        "Actuary",
+        "Data Scientist",
+        "Software Engineer",
+        "Financial Analyst",
+        "Risk Manager"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.discovery.co.za/portal/individual/about-careers",
+      "offers_internship": true,
+      "internship_details": "Actuarial graduate programme and data science internship",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA's largest private health insurer"
+    },
+    {
+      "name": "PwC South Africa",
+      "sector": "Professional Services",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Law",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Chartered Accountant (CA)",
+        "Auditor",
+        "Tax Advisor",
+        "IT Auditor",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.pwc.co.za/en/careers.html",
+      "offers_internship": true,
+      "internship_details": "PwC bursary for CA students, vacation work, and honours bursary programme",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "One of the Big Four global accounting firms"
+    },
+    {
+      "name": "Deloitte South Africa",
+      "sector": "Professional Services",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Law",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Chartered Accountant (CA)",
+        "Auditor",
+        "Tax Advisor",
+        "IT Consultant",
+        "Risk Manager"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.deloitte.com/za/en/careers.html",
+      "offers_internship": true,
+      "internship_details": "Deloitte bursary and graduate programme for accounting and technology students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Big Four professional services firm"
+    },
+    {
+      "name": "KPMG South Africa",
+      "sector": "Professional Services",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Law",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Chartered Accountant (CA)",
+        "Auditor",
+        "Tax Advisor",
+        "IT Auditor",
+        "Risk Manager"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://kpmg.com/za/en/home/careers.html",
+      "offers_internship": true,
+      "internship_details": "KPMG bursary and CA training programme",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Big Four professional services firm"
+    },
+    {
+      "name": "EY South Africa (Ernst & Young)",
+      "sector": "Professional Services",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Law",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Chartered Accountant (CA)",
+        "Auditor",
+        "Tax Advisor",
+        "Data Analyst",
+        "IT Auditor"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.ey.com/en_za/careers",
+      "offers_internship": true,
+      "internship_details": "EY bursary for accounting and technology students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Big Four professional services firm"
+    },
+    {
+      "name": "BDO South Africa",
+      "sector": "Professional Services",
+      "career_fields": [
+        "Finance",
+        "Law"
+      ],
+      "occupations_hired": [
+        "Chartered Accountant (CA)",
+        "Auditor",
+        "Tax Advisor",
+        "Financial Analyst"
+      ],
+      "company_size": "medium",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.bdo.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "BDO bursary and CA training articles",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Top 5 global accounting and advisory firm"
+    },
+    {
+      "name": "Anglo American",
+      "sector": "Mining",
+      "career_fields": [
+        "Engineering",
+        "Mining",
+        "Finance",
+        "Science"
+      ],
+      "occupations_hired": [
+        "Mining Engineer",
+        "Mechanical Engineer",
+        "Chemical Engineer",
+        "Geologist",
+        "Environmental Scientist",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Limpopo",
+        "Northern Cape",
+        "North West",
+        "Mpumalanga"
+      ],
+      "careers_url": "https://www.angloamerican.com/careers",
+      "offers_internship": true,
+      "internship_details": "Anglo American bursary and graduate development programme across engineering and geosciences",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Global diversified mining group, largest employer in SA mining"
+    },
+    {
+      "name": "Sasol",
+      "sector": "Mining / Energy / Chemicals",
+      "career_fields": [
+        "Engineering",
+        "Science",
+        "Finance",
+        "IT"
+      ],
+      "occupations_hired": [
+        "Chemical Engineer",
+        "Mechanical Engineer",
+        "Process Engineer",
+        "Data Scientist",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Mpumalanga",
+        "Free State",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.sasol.com/careers",
+      "offers_internship": true,
+      "internship_details": "Sasol bursary for engineering and science students, graduate programme",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Integrated chemicals and energy company"
+    },
+    {
+      "name": "Eskom",
+      "sector": "Energy / Engineering",
+      "career_fields": [
+        "Engineering",
+        "IT",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Electrical Engineer",
+        "Mechanical Engineer",
+        "Civil Engineer",
+        "IT Engineer",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Centurion, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Mpumalanga",
+        "KwaZulu-Natal",
+        "Western Cape",
+        "Eastern Cape",
+        "Northern Cape",
+        "Limpopo"
+      ],
+      "careers_url": "https://www.eskom.co.za/careers/",
+      "offers_internship": true,
+      "internship_details": "Eskom bursary for engineering students, learnership programmes",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "State-owned electricity utility, Africa's largest power producer"
+    },
+    {
+      "name": "Impala Platinum (Implats)",
+      "sector": "Mining",
+      "career_fields": [
+        "Engineering",
+        "Mining",
+        "Science",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Mining Engineer",
+        "Metallurgist",
+        "Mechanical Engineer",
+        "Geologist",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "North West",
+        "Limpopo"
+      ],
+      "careers_url": "https://www.implats.co.za/implats/Careers.asp",
+      "offers_internship": true,
+      "internship_details": "Implats bursary for mining and metallurgy students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "World's second largest platinum producer"
+    },
+    {
+      "name": "Sibanye-Stillwater",
+      "sector": "Mining",
+      "career_fields": [
+        "Engineering",
+        "Mining",
+        "Science"
+      ],
+      "occupations_hired": [
+        "Mining Engineer",
+        "Metallurgist",
+        "Mechanical Engineer",
+        "Rock Engineering",
+        "Environmental Scientist"
+      ],
+      "company_size": "large",
+      "hq": "Westonaria, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "North West",
+        "Mpumalanga"
+      ],
+      "careers_url": "https://www.sibanyestillwater.com/business/careers/",
+      "offers_internship": true,
+      "internship_details": "Graduate programme and bursaries in mining and engineering",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Global precious metals mining company"
+    },
+    {
+      "name": "De Beers Group",
+      "sector": "Mining",
+      "career_fields": [
+        "Engineering",
+        "Mining",
+        "Science",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Mining Engineer",
+        "Geologist",
+        "Metallurgist",
+        "Chemical Engineer",
+        "Data Scientist"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Northern Cape",
+        "Limpopo"
+      ],
+      "careers_url": "https://www.debeersgroup.com/careers",
+      "offers_internship": true,
+      "internship_details": "De Beers bursary for geoscience, mining, and engineering students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "World's largest diamond producer"
+    },
+    {
+      "name": "Transnet",
+      "sector": "Transport / Engineering",
+      "career_fields": [
+        "Engineering",
+        "IT",
+        "Finance",
+        "Logistics"
+      ],
+      "occupations_hired": [
+        "Mechanical Engineer",
+        "Civil Engineer",
+        "Electrical Engineer",
+        "IT Project Manager",
+        "Supply Chain Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.transnet.net/careers",
+      "offers_internship": true,
+      "internship_details": "Transnet bursary for engineering and logistics students, learnership programmes",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "State-owned freight rail, ports, and pipelines company"
+    },
+    {
+      "name": "Netcare",
+      "sector": "Healthcare",
+      "career_fields": [
+        "Medical",
+        "Management",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Nurse",
+        "Doctor (General Practitioner)",
+        "Pharmacist",
+        "Radiographer",
+        "Physiotherapist",
+        "Hospital Manager"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Free State",
+        "Mpumalanga"
+      ],
+      "careers_url": "https://www.netcare.co.za/netcare-for-you/careers",
+      "offers_internship": true,
+      "internship_details": "Netcare bursary for nursing, pharmacy, and allied health students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA's largest private hospital group"
+    },
+    {
+      "name": "Mediclinic Southern Africa",
+      "sector": "Healthcare",
+      "career_fields": [
+        "Medical",
+        "Management",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Nurse",
+        "Doctor (General Practitioner)",
+        "Pharmacist",
+        "Radiographer",
+        "Occupational Therapist",
+        "Physiotherapist"
+      ],
+      "company_size": "large",
+      "hq": "Stellenbosch, Western Cape",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Northern Cape",
+        "Mpumalanga",
+        "Free State"
+      ],
+      "careers_url": "https://www.mediclinic.co.za/en/careers.html",
+      "offers_internship": true,
+      "internship_details": "Mediclinic bursary and ER24 paramedic training programme",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Private hospital group with 74 hospitals"
+    },
+    {
+      "name": "Life Healthcare",
+      "sector": "Healthcare",
+      "career_fields": [
+        "Medical",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Nurse",
+        "Doctor (General Practitioner)",
+        "Pharmacist",
+        "Physiotherapist",
+        "Clinical Psychologist"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Mpumalanga"
+      ],
+      "careers_url": "https://www.lifehealthcare.co.za/careers/",
+      "offers_internship": true,
+      "internship_details": "Life Healthcare nursing bursary and community service placement",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA private hospital group with 60+ hospitals"
+    },
+    {
+      "name": "Dis-Chem Pharmacies",
+      "sector": "Healthcare / Retail",
+      "career_fields": [
+        "Medical",
+        "Commerce",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Pharmacist",
+        "Pharmacy Assistant",
+        "Nurse",
+        "Sales Representative"
+      ],
+      "company_size": "large",
+      "hq": "Midrand, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.dischem.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "Pharmacy student internship and learnership programmes",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA's largest pharmacy retail chain"
+    },
+    {
+      "name": "Clicks Group",
+      "sector": "Healthcare / Retail",
+      "career_fields": [
+        "Medical",
+        "Commerce",
+        "IT"
+      ],
+      "occupations_hired": [
+        "Pharmacist",
+        "Nurse",
+        "Data Analyst",
+        "Supply Chain Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.clicksgroup.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "Clicks pharmacy bursary and graduate programme",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Health and beauty retail group"
+    },
+    {
+      "name": "Aspen Pharmacare",
+      "sector": "Pharmaceutical",
+      "career_fields": [
+        "Medical",
+        "Science",
+        "Engineering",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Pharmacist",
+        "Chemical Engineer",
+        "Regulatory Affairs Specialist",
+        "Microbiologist",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Durban, KwaZulu-Natal",
+      "provinces_operating": [
+        "KwaZulu-Natal",
+        "Gauteng",
+        "Western Cape",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.aspenpharma.com/careers/",
+      "offers_internship": true,
+      "internship_details": "Aspen graduate programme for pharmacy, chemistry, and engineering",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Africa's largest pharmaceutical manufacturer"
+    },
+    {
+      "name": "Shoprite Group",
+      "sector": "Retail",
+      "career_fields": [
+        "Commerce",
+        "IT",
+        "Logistics",
+        "Finance",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Data Scientist",
+        "Software Engineer",
+        "Supply Chain Specialist",
+        "Financial Analyst",
+        "Logistics Coordinator"
+      ],
+      "company_size": "large",
+      "hq": "Brackenfell, Western Cape",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Free State",
+        "Mpumalanga",
+        "North West",
+        "Limpopo",
+        "Northern Cape"
+      ],
+      "careers_url": "https://careers.shoprite.co.za/",
+      "offers_internship": true,
+      "internship_details": "Shoprite graduate programme for IT, finance, and supply chain",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Africa's largest food retailer"
+    },
+    {
+      "name": "Pick n Pay",
+      "sector": "Retail",
+      "career_fields": [
+        "Commerce",
+        "IT",
+        "Logistics",
+        "Finance",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Data Analyst",
+        "Supply Chain Specialist",
+        "Financial Analyst",
+        "Software Engineer"
+      ],
+      "company_size": "large",
+      "hq": "Kenilworth, Western Cape",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.pnprecruit.co.za/",
+      "offers_internship": true,
+      "internship_details": "Pick n Pay graduate programme and vacation work",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA's second largest food retailer"
+    },
+    {
+      "name": "Woolworths Holdings",
+      "sector": "Retail",
+      "career_fields": [
+        "Commerce",
+        "Design",
+        "IT",
+        "Finance",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Fashion Designer",
+        "Data Analyst",
+        "Financial Analyst",
+        "Supply Chain Specialist",
+        "Software Engineer"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.woolworths.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "Graduate programme for design, retail management, and IT",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Premium food, clothing, and financial services retailer"
+    },
+    {
+      "name": "Spar Group",
+      "sector": "Retail",
+      "career_fields": [
+        "Commerce",
+        "Logistics",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Supply Chain Specialist",
+        "Financial Analyst",
+        "Logistics Coordinator"
+      ],
+      "company_size": "large",
+      "hq": "Pinetown, KwaZulu-Natal",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.spar.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "Graduate and learnership programmes in logistics and retail management",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Retail distribution group"
+    },
+    {
+      "name": "Massmart (Makro, Game, Builders)",
+      "sector": "Retail",
+      "career_fields": [
+        "Commerce",
+        "IT",
+        "Logistics",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Data Analyst",
+        "Supply Chain Specialist",
+        "Financial Analyst",
+        "IT Support Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.massmart.co.za/careers/",
+      "offers_internship": true,
+      "internship_details": "Walmart-backed graduate and internship programme",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Walmart subsidiary, wholesale and retail group"
+    },
+    {
+      "name": "Tiger Brands",
+      "sector": "FMCG",
+      "career_fields": [
+        "Engineering",
+        "Science",
+        "Commerce",
+        "Finance",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Food Technologist",
+        "Chemical Engineer",
+        "Financial Analyst",
+        "Marketing Manager",
+        "Supply Chain Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Bryanston, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.tigerbrands.com/careers",
+      "offers_internship": true,
+      "internship_details": "Tiger Brands graduate programme in food technology, engineering, and marketing",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA's largest FMCG manufacturer (Albany, Oros, Tastic)"
+    },
+    {
+      "name": "AVI Limited",
+      "sector": "FMCG",
+      "career_fields": [
+        "Engineering",
+        "Science",
+        "Commerce",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Food Technologist",
+        "Mechanical Engineer",
+        "Financial Analyst",
+        "Marketing Manager"
+      ],
+      "company_size": "large",
+      "hq": "Bryanston, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.avi.co.za/careers/",
+      "offers_internship": true,
+      "internship_details": "AVI bursary for food science and engineering students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Multi-brand FMCG group (Five Roses, Freshpak, Frisco, Spitz)"
+    },
+    {
+      "name": "Nestle South Africa",
+      "sector": "FMCG",
+      "career_fields": [
+        "Engineering",
+        "Science",
+        "Commerce",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Food Technologist",
+        "Chemical Engineer",
+        "Marketing Manager",
+        "Supply Chain Specialist",
+        "Data Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Bryanston, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.nestle.co.za/en/jobs",
+      "offers_internship": true,
+      "internship_details": "Nestle Future Talent bursary and intern programme for food science and business graduates",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "World's largest food and beverage company SA operations"
+    },
+    {
+      "name": "AECI Limited",
+      "sector": "Chemical Industry",
+      "career_fields": [
+        "Engineering",
+        "Science",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Chemical Engineer",
+        "Environmental Scientist",
+        "Chemist",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Woodmead, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.aeci.co.za/careers/",
+      "offers_internship": true,
+      "internship_details": "AECI bursary for chemical engineering and chemistry students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Integrated industrial chemicals and services group"
+    },
+    {
+      "name": "Murray & Roberts",
+      "sector": "Construction / Engineering",
+      "career_fields": [
+        "Engineering",
+        "Construction"
+      ],
+      "occupations_hired": [
+        "Civil Engineer",
+        "Mechanical Engineer",
+        "Mining Engineer",
+        "Quantity Surveyor",
+        "Construction Manager"
+      ],
+      "company_size": "large",
+      "hq": "Bedfordview, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Northern Cape"
+      ],
+      "careers_url": "https://www.murrob.com/careers.aspx",
+      "offers_internship": true,
+      "internship_details": "Murray and Roberts graduate programme for engineering and built environment",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Engineering and construction group"
+    },
+    {
+      "name": "WBHO Construction",
+      "sector": "Construction / Engineering",
+      "career_fields": [
+        "Engineering",
+        "Construction",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Civil Engineer",
+        "Structural Engineer",
+        "Quantity Surveyor",
+        "Construction Manager"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.wbho.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "Bursary and graduate programme for engineering and built environment students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Leading SA construction and engineering group"
+    },
+    {
+      "name": "Aurecon (Zutari)",
+      "sector": "Engineering Consulting",
+      "career_fields": [
+        "Engineering",
+        "IT",
+        "Science"
+      ],
+      "occupations_hired": [
+        "Civil Engineer",
+        "Structural Engineer",
+        "Electrical Engineer",
+        "Environmental Engineer",
+        "Data Scientist"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.zutari.com/careers",
+      "offers_internship": true,
+      "internship_details": "Aurecon/Zutari bursary for engineering students and graduate development",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Engineering, management, and specialist technical services"
+    },
+    {
+      "name": "WSP South Africa",
+      "sector": "Engineering Consulting",
+      "career_fields": [
+        "Engineering",
+        "Science",
+        "IT"
+      ],
+      "occupations_hired": [
+        "Civil Engineer",
+        "Environmental Engineer",
+        "Structural Engineer",
+        "Data Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.wsp.com/en-ZA/careers",
+      "offers_internship": true,
+      "internship_details": "WSP bursary and graduate programme for engineering students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Global engineering and professional services firm"
+    },
+    {
+      "name": "Hatch Africa",
+      "sector": "Engineering Consulting",
+      "career_fields": [
+        "Engineering",
+        "Mining",
+        "Science"
+      ],
+      "occupations_hired": [
+        "Mining Engineer",
+        "Chemical Engineer",
+        "Metallurgist",
+        "Civil Engineer",
+        "Environmental Engineer"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.hatch.com/en-ZA/careers",
+      "offers_internship": true,
+      "internship_details": "Hatch bursary and graduate programme for mining and process engineering",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Engineering and project management for mining and metals"
+    },
+    {
+      "name": "Department of Basic Education (South Africa)",
+      "sector": "Public Sector / Education",
+      "career_fields": [
+        "Education",
+        "Management",
+        "Administration"
+      ],
+      "occupations_hired": [
+        "Primary School Teacher",
+        "High School Teacher",
+        "School Principal",
+        "Special Needs Teacher"
+      ],
+      "company_size": "large",
+      "hq": "Pretoria, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Free State",
+        "Mpumalanga",
+        "North West",
+        "Limpopo",
+        "Northern Cape"
+      ],
+      "careers_url": "https://www.education.gov.za/Vacancies.aspx",
+      "offers_internship": true,
+      "internship_details": "Funza Lushaka bursary obligates recipients to teach in public schools after graduation",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "National government department for school education"
+    },
+    {
+      "name": "ADvTECH Group (Varsity College, Rosebank College)",
+      "sector": "Private Education",
+      "career_fields": [
+        "Education",
+        "Management",
+        "IT"
+      ],
+      "occupations_hired": [
+        "University Lecturer",
+        "High School Teacher",
+        "Administrative Officer",
+        "IT Support Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.advtech.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "ADvTECH student teacher bursary and academic internship",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Largest private education group in sub-Saharan Africa"
+    },
+    {
+      "name": "University of Cape Town (UCT)",
+      "sector": "Higher Education",
+      "career_fields": [
+        "Education",
+        "Science",
+        "Medical",
+        "Engineering",
+        "Law"
+      ],
+      "occupations_hired": [
+        "Professor",
+        "University Lecturer",
+        "Research Scientist",
+        "Administrative Officer"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape"
+      ],
+      "careers_url": "https://www.uct.ac.za/main/hr/vacancies",
+      "offers_internship": true,
+      "internship_details": "Postgraduate research bursaries and academic tutoring",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Africa's highest ranked university"
+    },
+    {
+      "name": "University of the Witwatersrand (Wits)",
+      "sector": "Higher Education",
+      "career_fields": [
+        "Education",
+        "Science",
+        "Medical",
+        "Engineering",
+        "Law"
+      ],
+      "occupations_hired": [
+        "Professor",
+        "University Lecturer",
+        "Research Scientist"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng"
+      ],
+      "careers_url": "https://www.wits.ac.za/jobs/",
+      "offers_internship": true,
+      "internship_details": "Postdoctoral fellowships and research grants",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Leading research university"
+    },
+    {
+      "name": "South African Revenue Service (SARS)",
+      "sector": "Government / Finance",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Law",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Tax Advisor",
+        "Data Analyst",
+        "IT Security Specialist",
+        "Auditor",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Pretoria, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Free State",
+        "Mpumalanga",
+        "North West",
+        "Limpopo",
+        "Northern Cape"
+      ],
+      "careers_url": "https://www.sars.gov.za/about/sars-careers/",
+      "offers_internship": true,
+      "internship_details": "SARS bursary and graduate recruitment for accounting, IT, and legal",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "National tax authority"
+    },
+    {
+      "name": "South African Reserve Bank (SARB)",
+      "sector": "Government / Finance",
+      "career_fields": [
+        "Finance",
+        "IT",
+        "Law",
+        "Science"
+      ],
+      "occupations_hired": [
+        "Economist",
+        "Financial Analyst",
+        "Actuary",
+        "IT Analyst",
+        "Risk Manager"
+      ],
+      "company_size": "large",
+      "hq": "Pretoria, Gauteng",
+      "provinces_operating": [
+        "Gauteng"
+      ],
+      "careers_url": "https://www.resbank.co.za/en/home/about-us/careers",
+      "offers_internship": true,
+      "internship_details": "SARB economics bursary and scholarship programme",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "South Africa's central bank"
+    },
+    {
+      "name": "South African Police Service (SAPS)",
+      "sector": "Government / Security",
+      "career_fields": [
+        "Security",
+        "Government",
+        "Law"
+      ],
+      "occupations_hired": [
+        "Police Officer",
+        "Forensic Scientist",
+        "IT Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Pretoria, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Free State",
+        "Mpumalanga",
+        "North West",
+        "Limpopo",
+        "Northern Cape"
+      ],
+      "careers_url": "https://www.saps.gov.za/careers/",
+      "offers_internship": false,
+      "internship_details": "",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "National police service"
+    },
+    {
+      "name": "National Treasury",
+      "sector": "Government / Finance",
+      "career_fields": [
+        "Finance",
+        "Economics",
+        "Management",
+        "Law"
+      ],
+      "occupations_hired": [
+        "Economist",
+        "Financial Analyst",
+        "Auditor",
+        "Risk Manager"
+      ],
+      "company_size": "large",
+      "hq": "Pretoria, Gauteng",
+      "provinces_operating": [
+        "Gauteng"
+      ],
+      "careers_url": "https://www.treasury.gov.za/careers/",
+      "offers_internship": true,
+      "internship_details": "National Treasury bursary and graduate internship programme",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Government finance ministry"
+    },
+    {
+      "name": "City of Cape Town",
+      "sector": "Government / Municipality",
+      "career_fields": [
+        "Engineering",
+        "IT",
+        "Finance",
+        "Government",
+        "Education"
+      ],
+      "occupations_hired": [
+        "Civil Engineer",
+        "IT Project Manager",
+        "Financial Analyst",
+        "Urban Planner",
+        "Social Worker"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape"
+      ],
+      "careers_url": "https://www.capetown.gov.za/Work%20and%20business/working-for-the-city",
+      "offers_internship": true,
+      "internship_details": "City of Cape Town bursary and graduate internship across engineering, IT, and finance",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Metropolitan municipality, second most populous city"
+    },
+    {
+      "name": "City of Johannesburg",
+      "sector": "Government / Municipality",
+      "career_fields": [
+        "Engineering",
+        "IT",
+        "Finance",
+        "Government"
+      ],
+      "occupations_hired": [
+        "Civil Engineer",
+        "IT Analyst",
+        "Financial Analyst",
+        "Urban Planner"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng"
+      ],
+      "careers_url": "https://www.joburg.org.za/work_/Pages/Jobs/Jobs.aspx",
+      "offers_internship": true,
+      "internship_details": "Graduate internships in engineering and public administration",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Africa's wealthiest city by GDP"
+    },
+    {
+      "name": "Media24 (Naspers subsidiary)",
+      "sector": "Media",
+      "career_fields": [
+        "Media",
+        "IT",
+        "Marketing",
+        "Design"
+      ],
+      "occupations_hired": [
+        "Journalist",
+        "Digital Marketing Specialist",
+        "UX Designer",
+        "Data Analyst",
+        "Copywriter"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng"
+      ],
+      "careers_url": "https://www.media24.com/jobs/",
+      "offers_internship": true,
+      "internship_details": "Journalism cadet programme and digital media graduate internship",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Africa's largest print and digital media company"
+    },
+    {
+      "name": "TBWA South Africa",
+      "sector": "Advertising / Marketing",
+      "career_fields": [
+        "Marketing",
+        "Design",
+        "Media"
+      ],
+      "occupations_hired": [
+        "Copywriter",
+        "Graphic Designer",
+        "Digital Marketing Specialist",
+        "Brand Manager"
+      ],
+      "company_size": "medium",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.tbwa.co.za/",
+      "offers_internship": true,
+      "internship_details": "TBWA bursary and creative intern programme",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Global advertising network agency"
+    },
+    {
+      "name": "Ogilvy South Africa",
+      "sector": "Advertising / Marketing",
+      "career_fields": [
+        "Marketing",
+        "Design",
+        "Media",
+        "IT"
+      ],
+      "occupations_hired": [
+        "Copywriter",
+        "Graphic Designer",
+        "Digital Marketing Specialist",
+        "Social Media Specialist",
+        "UX Designer"
+      ],
+      "company_size": "medium",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng"
+      ],
+      "careers_url": "https://www.ogilvy.com/south-africa",
+      "offers_internship": true,
+      "internship_details": "Creative graduate programme and internship",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Global advertising and marketing communications agency"
+    },
+    {
+      "name": "Afgri Group",
+      "sector": "Agriculture",
+      "career_fields": [
+        "Agriculture",
+        "Engineering",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Agricultural Scientist",
+        "Farm Manager",
+        "Agricultural Engineer",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Centurion, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "North West",
+        "Free State",
+        "Mpumalanga",
+        "Limpopo"
+      ],
+      "careers_url": "https://www.afgri.co.za/en/careers",
+      "offers_internship": true,
+      "internship_details": "Graduate programme in agronomy and agribusiness",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Agricultural services and food processing group"
+    },
+    {
+      "name": "Rainbow Chicken (RCL Foods)",
+      "sector": "Agriculture / FMCG",
+      "career_fields": [
+        "Agriculture",
+        "Engineering",
+        "Science",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Food Technologist",
+        "Veterinarian",
+        "Agricultural Scientist",
+        "Chemical Engineer"
+      ],
+      "company_size": "large",
+      "hq": "Westville, KwaZulu-Natal",
+      "provinces_operating": [
+        "KwaZulu-Natal",
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.rclfoods.com/careers/",
+      "offers_internship": true,
+      "internship_details": "RCL Foods bursary for food science and agricultural students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Integrated poultry and grocery foods company"
+    },
+    {
+      "name": "Tongaat Hulett",
+      "sector": "Agriculture",
+      "career_fields": [
+        "Agriculture",
+        "Engineering",
+        "Science"
+      ],
+      "occupations_hired": [
+        "Agricultural Engineer",
+        "Chemical Engineer",
+        "Environmental Scientist",
+        "Agricultural Scientist"
+      ],
+      "company_size": "large",
+      "hq": "Durban, KwaZulu-Natal",
+      "provinces_operating": [
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.tongaathulett.com/careers/",
+      "offers_internship": true,
+      "internship_details": "Sugar industry bursary for engineering and agricultural sciences",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Largest sugar producer in southern Africa"
+    },
+    {
+      "name": "Webber Wentzel",
+      "sector": "Legal Services",
+      "career_fields": [
+        "Law",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Attorney / Lawyer",
+        "Paralegal",
+        "Compliance Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.webberwentzel.com/careers",
+      "offers_internship": true,
+      "internship_details": "Webber Wentzel scholarship for top law students and articles programme",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Largest law firm in SA by revenue"
+    },
+    {
+      "name": "Bowmans",
+      "sector": "Legal Services",
+      "career_fields": [
+        "Law",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Attorney / Lawyer",
+        "Advocate",
+        "Compliance Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.bowmanslaw.com/careers/",
+      "offers_internship": true,
+      "internship_details": "Bowmans bursary and candidate attorney programme",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Pan-African law firm"
+    },
+    {
+      "name": "Cliffe Dekker Hofmeyr (CDH)",
+      "sector": "Legal Services",
+      "career_fields": [
+        "Law",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Attorney / Lawyer",
+        "Paralegal",
+        "Legal Advisor"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.cdhlegal.com/careers/",
+      "offers_internship": true,
+      "internship_details": "CDH bursary for LLB students and candidate attorney articles",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Full-service corporate law firm"
+    },
+    {
+      "name": "Norton Rose Fulbright South Africa",
+      "sector": "Legal Services",
+      "career_fields": [
+        "Law",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Attorney / Lawyer",
+        "Legal Advisor",
+        "Compliance Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.nortonrosefulbright.com/en-za/careers",
+      "offers_internship": true,
+      "internship_details": "Graduate programme and articles for LLB and LLM students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Global law firm with major SA presence"
+    },
+    {
+      "name": "South African Airways (SAA)",
+      "sector": "Aviation",
+      "career_fields": [
+        "Aviation",
+        "Engineering",
+        "Finance",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Pilot",
+        "Aircraft Engineer",
+        "Air Traffic Controller",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Kempton Park, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.flysaa.com/za/en/about-saa/careers.html",
+      "offers_internship": true,
+      "internship_details": "SAA cadet pilot programme and aviation engineering learnership",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "National airline of South Africa"
+    },
+    {
+      "name": "FlySafair",
+      "sector": "Aviation",
+      "career_fields": [
+        "Aviation",
+        "Engineering",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Pilot",
+        "Aircraft Engineer",
+        "Flight Attendant",
+        "Financial Analyst"
+      ],
+      "company_size": "medium",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.flysafair.co.za/about-us/careers",
+      "offers_internship": true,
+      "internship_details": "FlySafair bursary for industrial engineering and aviation",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "SA's fastest-growing low-cost airline"
+    },
+    {
+      "name": "ACSA (Airports Company South Africa)",
+      "sector": "Aviation",
+      "career_fields": [
+        "Engineering",
+        "Aviation",
+        "IT",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Civil Engineer",
+        "Electrical Engineer",
+        "IT Project Manager",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Kempton Park, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.airports.co.za/pages/careers",
+      "offers_internship": true,
+      "internship_details": "Bursary and graduate programme for engineering students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Owns and operates SA's 9 major airports"
+    },
+    {
+      "name": "Shell South Africa",
+      "sector": "Energy",
+      "career_fields": [
+        "Engineering",
+        "Science",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Petroleum Engineer",
+        "Chemical Engineer",
+        "Data Scientist",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.shell.co.za/careers.html",
+      "offers_internship": true,
+      "internship_details": "Shell bursary for engineering and geoscience students",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Global energy company with SA operations"
+    },
+    {
+      "name": "TotalEnergies South Africa",
+      "sector": "Energy",
+      "career_fields": [
+        "Engineering",
+        "Science",
+        "Finance",
+        "IT"
+      ],
+      "occupations_hired": [
+        "Chemical Engineer",
+        "Petroleum Engineer",
+        "Environmental Engineer",
+        "Data Scientist"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://totalenergies.com/careers",
+      "offers_internship": true,
+      "internship_details": "TotalEnergies graduate programme for engineering and science graduates",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "French energy major with SA fuel retail and energy operations"
+    },
+    {
+      "name": "Engen Petroleum",
+      "sector": "Energy",
+      "career_fields": [
+        "Engineering",
+        "Science",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Chemical Engineer",
+        "Environmental Engineer",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.engenoil.com/careers",
+      "offers_internship": true,
+      "internship_details": "Engen bursary for chemical engineering and science students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Largest fuel retailer in sub-Saharan Africa"
+    },
+    {
+      "name": "Yoco Technologies",
+      "sector": "Fintech",
+      "career_fields": [
+        "IT",
+        "Finance",
+        "Commerce",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "Data Scientist",
+        "Product Manager",
+        "Financial Analyst"
+      ],
+      "company_size": "medium",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng"
+      ],
+      "careers_url": "https://www.yoco.com/za/careers/",
+      "offers_internship": true,
+      "internship_details": "Internship opportunities for software and product students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "SA-founded payments technology company"
+    },
+    {
+      "name": "Peach Payments",
+      "sector": "Fintech",
+      "career_fields": [
+        "IT",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "DevOps Engineer",
+        "Financial Analyst",
+        "IT Security Specialist"
+      ],
+      "company_size": "small",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape",
+        "Gauteng"
+      ],
+      "careers_url": "https://www.peachpayments.com/about/careers",
+      "offers_internship": false,
+      "internship_details": "",
+      "bbbee_focus": false,
+      "listed": false,
+      "description": "SA payment gateway and fintech company"
+    },
+    {
+      "name": "Ozow",
+      "sector": "Fintech",
+      "career_fields": [
+        "IT",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "Data Scientist",
+        "DevOps Engineer"
+      ],
+      "company_size": "small",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape"
+      ],
+      "careers_url": "https://ozow.com/careers/",
+      "offers_internship": false,
+      "internship_details": "",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "SA instant EFT payment solution"
+    },
+    {
+      "name": "LifeQ",
+      "sector": "Health Technology",
+      "career_fields": [
+        "IT",
+        "Science",
+        "Medical"
+      ],
+      "occupations_hired": [
+        "Data Scientist",
+        "Software Engineer",
+        "Biologist",
+        "AI Engineer"
+      ],
+      "company_size": "small",
+      "hq": "Stellenbosch, Western Cape",
+      "provinces_operating": [
+        "Western Cape"
+      ],
+      "careers_url": "https://www.lifeq.com/careers",
+      "offers_internship": false,
+      "internship_details": "",
+      "bbbee_focus": false,
+      "listed": false,
+      "description": "Health analytics and wearable AI technology company"
+    },
+    {
+      "name": "Aerobotics",
+      "sector": "Agriculture Technology",
+      "career_fields": [
+        "IT",
+        "Agriculture",
+        "Science"
+      ],
+      "occupations_hired": [
+        "Data Scientist",
+        "Software Engineer",
+        "Agricultural Scientist",
+        "AI Engineer"
+      ],
+      "company_size": "small",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape"
+      ],
+      "careers_url": "https://www.aerobotics.com/careers",
+      "offers_internship": true,
+      "internship_details": "Internship for data science and agricultural technology students",
+      "bbbee_focus": false,
+      "listed": false,
+      "description": "AI-powered crop intelligence platform"
+    },
+    {
+      "name": "WeThinkCode",
+      "sector": "Technology Education",
+      "career_fields": [
+        "IT",
+        "Education"
+      ],
+      "occupations_hired": [
+        "Software Engineer",
+        "IT Support Specialist"
+      ],
+      "company_size": "small",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.wethinkcode.co.za/",
+      "offers_internship": true,
+      "internship_details": "WeThinkCode is itself an internship-based coding school with employer placements",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Free coding school with employer partnership model"
+    },
+    {
+      "name": "Jumo",
+      "sector": "Fintech",
+      "career_fields": [
+        "IT",
+        "Finance",
+        "Science"
+      ],
+      "occupations_hired": [
+        "Data Scientist",
+        "Software Engineer",
+        "Financial Analyst",
+        "AI Engineer"
+      ],
+      "company_size": "medium",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Western Cape"
+      ],
+      "careers_url": "https://www.jumo.world/careers",
+      "offers_internship": false,
+      "internship_details": "",
+      "bbbee_focus": false,
+      "listed": false,
+      "description": "African fintech platform for financial services"
+    },
+    {
+      "name": "McKinsey & Company South Africa",
+      "sector": "Management Consulting",
+      "career_fields": [
+        "Management",
+        "Finance",
+        "IT",
+        "Engineering"
+      ],
+      "occupations_hired": [
+        "Business Analyst",
+        "Management Consultant",
+        "Data Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape"
+      ],
+      "careers_url": "https://www.mckinsey.com/careers",
+      "offers_internship": true,
+      "internship_details": "McKinsey summer associate and business analyst programme",
+      "bbbee_focus": false,
+      "listed": false,
+      "description": "Global top-tier management consulting firm"
+    },
+    {
+      "name": "Boston Consulting Group (BCG) South Africa",
+      "sector": "Management Consulting",
+      "career_fields": [
+        "Management",
+        "Finance",
+        "IT"
+      ],
+      "occupations_hired": [
+        "Business Analyst",
+        "Management Consultant",
+        "Data Scientist"
+      ],
+      "company_size": "large",
+      "hq": "Johannesburg, Gauteng",
+      "provinces_operating": [
+        "Gauteng"
+      ],
+      "careers_url": "https://www.bcg.com/careers",
+      "offers_internship": true,
+      "internship_details": "BCG summer consulting internship",
+      "bbbee_focus": false,
+      "listed": false,
+      "description": "Global management consulting firm"
+    },
+    {
+      "name": "Toyota South Africa Motors",
+      "sector": "Automotive Manufacturing",
+      "career_fields": [
+        "Engineering",
+        "Finance",
+        "IT",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Mechanical Engineer",
+        "Industrial Engineer",
+        "Financial Analyst",
+        "Supply Chain Specialist"
+      ],
+      "company_size": "large",
+      "hq": "Durban, KwaZulu-Natal",
+      "provinces_operating": [
+        "KwaZulu-Natal",
+        "Gauteng"
+      ],
+      "careers_url": "https://www.toyota.co.za/toyota-za/careers.html",
+      "offers_internship": true,
+      "internship_details": "Toyota SA bursary and graduate engineering programme",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "SA's largest vehicle manufacturer"
+    },
+    {
+      "name": "Volkswagen South Africa",
+      "sector": "Automotive Manufacturing",
+      "career_fields": [
+        "Engineering",
+        "Finance",
+        "IT"
+      ],
+      "occupations_hired": [
+        "Mechanical Engineer",
+        "Industrial Engineer",
+        "Financial Analyst",
+        "IT Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Uitenhage, Eastern Cape",
+      "provinces_operating": [
+        "Eastern Cape",
+        "Gauteng"
+      ],
+      "careers_url": "https://www.vw.co.za/en/volkswagen-in-south-africa/careers.html",
+      "offers_internship": true,
+      "internship_details": "VW VWSA bursary for engineering and IT students",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Major vehicle manufacturer at Eastern Cape plant"
+    },
+    {
+      "name": "BMW South Africa",
+      "sector": "Automotive Manufacturing",
+      "career_fields": [
+        "Engineering",
+        "Finance",
+        "IT"
+      ],
+      "occupations_hired": [
+        "Mechanical Engineer",
+        "Industrial Engineer",
+        "Software Engineer",
+        "Financial Analyst"
+      ],
+      "company_size": "large",
+      "hq": "Rosslyn, Gauteng",
+      "provinces_operating": [
+        "Gauteng"
+      ],
+      "careers_url": "https://www.bmwgroup.com/en/careers.html",
+      "offers_internship": true,
+      "internship_details": "BMW bursary and graduate engineering programme",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "BMW manufacturing plant, largest BMW plant outside Germany"
+    },
+    {
+      "name": "Imperial Logistics",
+      "sector": "Logistics",
+      "career_fields": [
+        "Logistics",
+        "Engineering",
+        "IT",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Logistics Coordinator",
+        "Supply Chain Specialist",
+        "Data Analyst",
+        "Fleet Manager"
+      ],
+      "company_size": "large",
+      "hq": "Bedfordview, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.imperiallogistics.com/careers",
+      "offers_internship": true,
+      "internship_details": "Graduate programme in logistics and supply chain",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Africa's leading logistics and supply chain company"
+    },
+    {
+      "name": "DHL South Africa",
+      "sector": "Logistics",
+      "career_fields": [
+        "Logistics",
+        "IT",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Logistics Coordinator",
+        "Supply Chain Specialist",
+        "IT Project Manager"
+      ],
+      "company_size": "large",
+      "hq": "Midrand, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://careers.dhl.com/za/en",
+      "offers_internship": true,
+      "internship_details": "DHL graduate programme in logistics and operations",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "World's leading express logistics company"
+    },
+    {
+      "name": "Bidvest Group",
+      "sector": "Logistics / Services",
+      "career_fields": [
+        "Logistics",
+        "Finance",
+        "Management",
+        "Commerce"
+      ],
+      "occupations_hired": [
+        "Supply Chain Specialist",
+        "Financial Analyst",
+        "Logistics Coordinator",
+        "Operations Manager"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://www.bidvest.co.za/careers",
+      "offers_internship": true,
+      "internship_details": "Bidvest graduate programme across logistics, finance, and operations",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Diversified services, trading, and distribution group"
+    },
+    {
+      "name": "Sun International",
+      "sector": "Hospitality / Tourism",
+      "career_fields": [
+        "Hospitality",
+        "Management",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Hotel Manager",
+        "Chef",
+        "Financial Analyst",
+        "Marketing Manager"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "North West"
+      ],
+      "careers_url": "https://www.suninternational.com/careers/",
+      "offers_internship": true,
+      "internship_details": "Sun City bursary and hospitality graduate programme",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "SA's largest casino and resort operator"
+    },
+    {
+      "name": "Tsogo Sun (Hospitality and Gaming)",
+      "sector": "Hospitality / Tourism",
+      "career_fields": [
+        "Hospitality",
+        "Management",
+        "Finance"
+      ],
+      "occupations_hired": [
+        "Hotel Manager",
+        "Chef",
+        "Financial Analyst",
+        "Operations Manager"
+      ],
+      "company_size": "large",
+      "hq": "Sandton, Gauteng",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal"
+      ],
+      "careers_url": "https://www.tsogosun.com/careers",
+      "offers_internship": true,
+      "internship_details": "Hospitality management trainee programme",
+      "bbbee_focus": true,
+      "listed": true,
+      "description": "Hotels, casinos, and entertainment group"
+    },
+    {
+      "name": "Protea Hotels by Marriott",
+      "sector": "Hospitality",
+      "career_fields": [
+        "Hospitality",
+        "Management"
+      ],
+      "occupations_hired": [
+        "Hotel Manager",
+        "Chef",
+        "Spa Therapist",
+        "Flight Attendant"
+      ],
+      "company_size": "large",
+      "hq": "Cape Town, Western Cape",
+      "provinces_operating": [
+        "Gauteng",
+        "Western Cape",
+        "KwaZulu-Natal",
+        "Eastern Cape"
+      ],
+      "careers_url": "https://jobs.marriott.com/",
+      "offers_internship": true,
+      "internship_details": "Marriott graduate hospitality programme",
+      "bbbee_focus": true,
+      "listed": false,
+      "description": "Largest hotel brand in Africa by number of hotels"
+    }
+  ]
+}

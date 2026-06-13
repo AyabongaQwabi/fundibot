@@ -1,0 +1,2676 @@
+{
+  "metadata": {
+    "source": "Paylab.com South Africa salary survey",
+    "scraped_date": "2026-06-13",
+    "currency": "ZAR",
+    "period": "monthly_gross",
+    "notes": "Salary ranges represent 80th percentile band. Min = 10th percentile floor, Max = 90th percentile ceiling. Actual salaries may be higher."
+  },
+  "sector_averages": {
+    "Administration": 19312,
+    "Arts & Culture": 22639,
+    "Banking": 41424,
+    "Chemical Industry": 24566,
+    "Commerce": 32347,
+    "Construction & Real Estate": 31401,
+    "Economy, Finance, Accountancy": 31388,
+    "Electrical & Power Engineering": 27816,
+    "General Labour": 16519,
+    "Information Technology": 52388,
+    "Journalism, Printing Arts & Media": 23490,
+    "Law & Legislation": 32292,
+    "Leasing": 37383,
+    "Management": 56074,
+    "Marketing, Advertising, PR": 27144,
+    "Mining, Metallurgy": 28670,
+    "Pharmaceutical Industry": 30156,
+    "Production": 23996,
+    "Public Administration": 28364,
+    "Quality Management": 29046,
+    "Security & Protection": 25266,
+    "Service Industries": 20009,
+    "Technology, Development": 36547,
+    "Telecommunications": 32786,
+    "Textile & Apparel": 16778,
+    "Top Management": 68678,
+    "Tourism, Hospitality": 20000,
+    "Translation & Interpreting": 24992,
+    "Transport, Haulage, Logistics": 23669,
+    "Water Management, Forestry, Environment": 23965,
+    "Wood Processing": 22676
+  },
+  "occupations": [
+    {
+      "title": "Software Engineer",
+      "sector": "Information Technology",
+      "salary_min": 31287,
+      "salary_max": 87913,
+      "salary_mid": 55000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Engineering"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Data Scientist",
+      "sector": "Information Technology",
+      "salary_min": 23842,
+      "salary_max": 114749,
+      "salary_mid": 65000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Science"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Business Intelligence Specialist",
+      "sector": "Information Technology",
+      "salary_min": 29903,
+      "salary_max": 130589,
+      "salary_mid": 72000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Finance"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "IT Architect",
+      "sector": "Information Technology",
+      "salary_min": 34302,
+      "salary_max": 175359,
+      "salary_mid": 95000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Lead Developer",
+      "sector": "Information Technology",
+      "salary_min": 39707,
+      "salary_max": 114205,
+      "salary_mid": 70000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Scrum Master",
+      "sector": "Information Technology",
+      "salary_min": 26623,
+      "salary_max": 116791,
+      "salary_mid": 68000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Management"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "IT Project Manager",
+      "sector": "Information Technology",
+      "salary_min": 25498,
+      "salary_max": 71505,
+      "salary_mid": 48000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Management"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "IT Security Specialist",
+      "sector": "Information Technology",
+      "salary_min": 23896,
+      "salary_max": 93340,
+      "salary_mid": 55000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Cloud Engineer",
+      "sector": "Information Technology",
+      "salary_min": 21553,
+      "salary_max": 81510,
+      "salary_mid": 50000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "DevOps Engineer",
+      "sector": "Information Technology",
+      "salary_min": 20035,
+      "salary_max": 83599,
+      "salary_mid": 50000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "AI Engineer",
+      "sector": "Information Technology",
+      "salary_min": 35000,
+      "salary_max": 130000,
+      "salary_mid": 75000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Science"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Java Programmer",
+      "sector": "Information Technology",
+      "salary_min": 25208,
+      "salary_max": 96307,
+      "salary_mid": 55000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Python Programmer",
+      "sector": "Information Technology",
+      "salary_min": 18584,
+      "salary_max": 64186,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Android Developer",
+      "sector": "Information Technology",
+      "salary_min": 21486,
+      "salary_max": 84571,
+      "salary_mid": 50000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "iOS Developer",
+      "sector": "Information Technology",
+      "salary_min": 22935,
+      "salary_max": 88761,
+      "salary_mid": 52000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "UX Designer",
+      "sector": "Information Technology",
+      "salary_min": 19082,
+      "salary_max": 72127,
+      "salary_mid": 42000,
+      "subjects_required": [
+        "Information Technology",
+        "Arts and Culture"
+      ],
+      "career_fields": [
+        "IT",
+        "Design"
+      ],
+      "qualification": "Degree/Diploma"
+    },
+    {
+      "title": "Web Designer",
+      "sector": "Information Technology",
+      "salary_min": 15727,
+      "salary_max": 49024,
+      "salary_mid": 30000,
+      "subjects_required": [
+        "Information Technology",
+        "Arts and Culture"
+      ],
+      "career_fields": [
+        "IT",
+        "Design"
+      ],
+      "qualification": "Degree/Diploma"
+    },
+    {
+      "title": "IT Network Administrator",
+      "sector": "Information Technology",
+      "salary_min": 16999,
+      "salary_max": 48102,
+      "salary_mid": 30000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Diploma"
+    },
+    {
+      "title": "IT System Administrator",
+      "sector": "Information Technology",
+      "salary_min": 20643,
+      "salary_max": 51519,
+      "salary_mid": 34000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Diploma"
+    },
+    {
+      "title": "IT Support Specialist",
+      "sector": "Information Technology",
+      "salary_min": 14876,
+      "salary_max": 42471,
+      "salary_mid": 25000,
+      "subjects_required": [
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT"
+      ],
+      "qualification": "Certificate/Diploma"
+    },
+    {
+      "title": "Game Developer",
+      "sector": "Information Technology",
+      "salary_min": 19271,
+      "salary_max": 61322,
+      "salary_mid": 37000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Arts"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Data Analyst",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 17806,
+      "salary_max": 66462,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Finance"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Doctor (General Practitioner)",
+      "sector": "Medicine & Social Care",
+      "salary_min": 26442,
+      "salary_max": 58362,
+      "salary_mid": 42000,
+      "subjects_required": [
+        "Mathematics",
+        "Life Sciences",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Medical",
+        "Science"
+      ],
+      "qualification": "MBChB Degree"
+    },
+    {
+      "title": "Surgeon",
+      "sector": "Medicine & Social Care",
+      "salary_min": 60000,
+      "salary_max": 200000,
+      "salary_mid": 120000,
+      "subjects_required": [
+        "Mathematics",
+        "Life Sciences",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "MBChB + Specialisation"
+    },
+    {
+      "title": "Psychiatrist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 55000,
+      "salary_max": 180000,
+      "salary_mid": 100000,
+      "subjects_required": [
+        "Mathematics",
+        "Life Sciences",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "MBChB + Specialisation"
+    },
+    {
+      "title": "Dentist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 22212,
+      "salary_max": 50579,
+      "salary_mid": 35000,
+      "subjects_required": [
+        "Mathematics",
+        "Life Sciences",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "BDS Degree"
+    },
+    {
+      "title": "Pharmacist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 19621,
+      "salary_max": 47398,
+      "salary_mid": 32000,
+      "subjects_required": [
+        "Mathematics",
+        "Life Sciences",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Medical",
+        "Science"
+      ],
+      "qualification": "BPharm Degree"
+    },
+    {
+      "title": "Nurse",
+      "sector": "Medicine & Social Care",
+      "salary_min": 12249,
+      "salary_max": 34895,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "Life Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Physiotherapist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 12012,
+      "salary_max": 33132,
+      "salary_mid": 21000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "BSc Physiotherapy"
+    },
+    {
+      "title": "Occupational Therapist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 12000,
+      "salary_max": 35000,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "Life Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "BSc OT"
+    },
+    {
+      "title": "Radiographer",
+      "sector": "Medicine & Social Care",
+      "salary_min": 14589,
+      "salary_max": 35912,
+      "salary_mid": 24000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "BSc Radiography"
+    },
+    {
+      "title": "Clinical Psychologist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 15125,
+      "salary_max": 41092,
+      "salary_mid": 27000,
+      "subjects_required": [
+        "Life Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Medical",
+        "Social Science"
+      ],
+      "qualification": "Masters Degree"
+    },
+    {
+      "title": "Optometrist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 14372,
+      "salary_max": 34765,
+      "salary_mid": 23000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "BSc Optometry"
+    },
+    {
+      "title": "Paramedic",
+      "sector": "Medicine & Social Care",
+      "salary_min": 13802,
+      "salary_max": 38734,
+      "salary_mid": 24000,
+      "subjects_required": [
+        "Life Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "Diploma"
+    },
+    {
+      "title": "Veterinarian",
+      "sector": "Medicine & Social Care",
+      "salary_min": 13305,
+      "salary_max": 37324,
+      "salary_mid": 24000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Science",
+        "Medical"
+      ],
+      "qualification": "BVSc Degree"
+    },
+    {
+      "title": "Anaesthesiologist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 24162,
+      "salary_max": 53620,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "Mathematics",
+        "Life Sciences",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "MBChB + Specialisation"
+    },
+    {
+      "title": "Medical Laboratory Technician",
+      "sector": "Medicine & Social Care",
+      "salary_min": 13629,
+      "salary_max": 27535,
+      "salary_mid": 20000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Medical",
+        "Science"
+      ],
+      "qualification": "Diploma"
+    },
+    {
+      "title": "Speech Therapist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 11601,
+      "salary_max": 33028,
+      "salary_mid": 21000,
+      "subjects_required": [
+        "Life Sciences",
+        "English"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "BSc Speech-Language Therapy"
+    },
+    {
+      "title": "Midwife",
+      "sector": "Medicine & Social Care",
+      "salary_min": 12273,
+      "salary_max": 35196,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "Life Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Medical"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Regulatory Affairs Specialist",
+      "sector": "Pharmaceutical Industry",
+      "salary_min": 20614,
+      "salary_max": 47867,
+      "salary_mid": 33000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Medical",
+        "Science"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Civil Engineer",
+      "sector": "Construction & Real Estate",
+      "salary_min": 22000,
+      "salary_max": 80000,
+      "salary_mid": 48000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering"
+      ],
+      "qualification": "BEng/BSc Engineering"
+    },
+    {
+      "title": "Electrical Engineer",
+      "sector": "Electrical & Power Engineering",
+      "salary_min": 22000,
+      "salary_max": 85000,
+      "salary_mid": 50000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering"
+      ],
+      "qualification": "BEng/BSc Engineering"
+    },
+    {
+      "title": "Mechanical Engineer",
+      "sector": "Engineering",
+      "salary_min": 22000,
+      "salary_max": 80000,
+      "salary_mid": 48000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering"
+      ],
+      "qualification": "BEng/BSc Engineering"
+    },
+    {
+      "title": "Chemical Engineer",
+      "sector": "Engineering",
+      "salary_min": 25000,
+      "salary_max": 90000,
+      "salary_mid": 55000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Engineering",
+        "Science"
+      ],
+      "qualification": "BEng/BSc Engineering"
+    },
+    {
+      "title": "Mining Engineer",
+      "sector": "Mining, Metallurgy",
+      "salary_min": 25000,
+      "salary_max": 90000,
+      "salary_mid": 55000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering",
+        "Mining"
+      ],
+      "qualification": "BEng/BSc Engineering"
+    },
+    {
+      "title": "Structural Engineer",
+      "sector": "Construction & Real Estate",
+      "salary_min": 25000,
+      "salary_max": 85000,
+      "salary_mid": 52000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering"
+      ],
+      "qualification": "BEng/BSc Engineering"
+    },
+    {
+      "title": "Mechatronics Engineer",
+      "sector": "Engineering",
+      "salary_min": 22000,
+      "salary_max": 80000,
+      "salary_mid": 48000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering"
+      ],
+      "qualification": "BEng/BSc Engineering"
+    },
+    {
+      "title": "Metallurgist",
+      "sector": "Mining, Metallurgy",
+      "salary_min": 20000,
+      "salary_max": 75000,
+      "salary_mid": 45000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering",
+        "Science"
+      ],
+      "qualification": "BSc/BEng"
+    },
+    {
+      "title": "Environmental Engineer",
+      "sector": "Water Management, Forestry, Environment",
+      "salary_min": 18000,
+      "salary_max": 65000,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Engineering",
+        "Science"
+      ],
+      "qualification": "BEng/BSc Engineering"
+    },
+    {
+      "title": "Quantity Surveyor",
+      "sector": "Construction & Real Estate",
+      "salary_min": 18000,
+      "salary_max": 65000,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering",
+        "Commerce"
+      ],
+      "qualification": "BSc Quantity Surveying"
+    },
+    {
+      "title": "Architect",
+      "sector": "Construction & Real Estate",
+      "salary_min": 20000,
+      "salary_max": 70000,
+      "salary_mid": 42000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "Arts and Culture"
+      ],
+      "career_fields": [
+        "Engineering",
+        "Arts"
+      ],
+      "qualification": "BArch Degree"
+    },
+    {
+      "title": "Geologist",
+      "sector": "Construction & Real Estate",
+      "salary_min": 18000,
+      "salary_max": 65000,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "Geography"
+      ],
+      "career_fields": [
+        "Science",
+        "Engineering"
+      ],
+      "qualification": "BSc Geology"
+    },
+    {
+      "title": "Land Surveyor",
+      "sector": "Construction & Real Estate",
+      "salary_min": 18000,
+      "salary_max": 60000,
+      "salary_mid": 35000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "Geography"
+      ],
+      "career_fields": [
+        "Engineering"
+      ],
+      "qualification": "BSc Geomatics"
+    },
+    {
+      "title": "Electrician",
+      "sector": "Electrical & Power Engineering",
+      "salary_min": 12000,
+      "salary_max": 40000,
+      "salary_mid": 24000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering",
+        "Trades"
+      ],
+      "qualification": "Trade Certificate / N3-N6"
+    },
+    {
+      "title": "Welder",
+      "sector": "Engineering",
+      "salary_min": 10000,
+      "salary_max": 35000,
+      "salary_mid": 20000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Trades"
+      ],
+      "qualification": "Trade Certificate"
+    },
+    {
+      "title": "Chartered Accountant (CA)",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 40000,
+      "salary_max": 130000,
+      "salary_mid": 75000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance"
+      ],
+      "qualification": "BCom + CA(SA)"
+    },
+    {
+      "title": "Financial Analyst",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 18953,
+      "salary_max": 61278,
+      "salary_mid": 37000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance"
+      ],
+      "qualification": "BCom Degree"
+    },
+    {
+      "title": "Accountant",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 13508,
+      "salary_max": 48339,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance"
+      ],
+      "qualification": "BCom Degree"
+    },
+    {
+      "title": "Tax Advisor",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 18857,
+      "salary_max": 63794,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance",
+        "Law"
+      ],
+      "qualification": "BCom + Postgrad Tax"
+    },
+    {
+      "title": "Auditor",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 16889,
+      "salary_max": 54884,
+      "salary_mid": 33000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance"
+      ],
+      "qualification": "BCom Degree"
+    },
+    {
+      "title": "Financial Advisor",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 16249,
+      "salary_max": 49922,
+      "salary_mid": 30000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting",
+        "Economics"
+      ],
+      "career_fields": [
+        "Finance"
+      ],
+      "qualification": "BCom Degree"
+    },
+    {
+      "title": "Actuary",
+      "sector": "Banking",
+      "salary_min": 40000,
+      "salary_max": 130000,
+      "salary_mid": 80000,
+      "subjects_required": [
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Finance",
+        "Science"
+      ],
+      "qualification": "BSc Actuarial Science"
+    },
+    {
+      "title": "Economist",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 13142,
+      "salary_max": 42977,
+      "salary_mid": 27000,
+      "subjects_required": [
+        "Mathematics",
+        "Economics"
+      ],
+      "career_fields": [
+        "Finance",
+        "Social Science"
+      ],
+      "qualification": "BCom/BA Economics"
+    },
+    {
+      "title": "Investment Banker",
+      "sector": "Banking",
+      "salary_min": 35000,
+      "salary_max": 120000,
+      "salary_mid": 70000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting",
+        "Economics"
+      ],
+      "career_fields": [
+        "Finance"
+      ],
+      "qualification": "BCom/BComHons"
+    },
+    {
+      "title": "Personal Banker",
+      "sector": "Banking",
+      "salary_min": 15000,
+      "salary_max": 45000,
+      "salary_mid": 27000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance"
+      ],
+      "qualification": "Degree/Diploma"
+    },
+    {
+      "title": "Risk Manager",
+      "sector": "Banking",
+      "salary_min": 30000,
+      "salary_max": 90000,
+      "salary_mid": 55000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance",
+        "Management"
+      ],
+      "qualification": "BCom Degree"
+    },
+    {
+      "title": "IFRS Specialist",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 24436,
+      "salary_max": 86258,
+      "salary_mid": 52000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance"
+      ],
+      "qualification": "BCom + CA"
+    },
+    {
+      "title": "Payroll Clerk",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 12691,
+      "salary_max": 39926,
+      "salary_mid": 23000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance",
+        "Administration"
+      ],
+      "qualification": "Diploma"
+    },
+    {
+      "title": "Junior Accountant",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 8763,
+      "salary_max": 33858,
+      "salary_mid": 18000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance"
+      ],
+      "qualification": "BCom/Diploma"
+    },
+    {
+      "title": "Attorney / Lawyer",
+      "sector": "Law & Legislation",
+      "salary_min": 20000,
+      "salary_max": 100000,
+      "salary_mid": 50000,
+      "subjects_required": [
+        "English",
+        "History",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Law"
+      ],
+      "qualification": "LLB Degree"
+    },
+    {
+      "title": "Advocate",
+      "sector": "Law & Legislation",
+      "salary_min": 30000,
+      "salary_max": 150000,
+      "salary_mid": 75000,
+      "subjects_required": [
+        "English",
+        "History",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Law"
+      ],
+      "qualification": "LLB + Bar Exam"
+    },
+    {
+      "title": "Legal Advisor",
+      "sector": "Law & Legislation",
+      "salary_min": 20000,
+      "salary_max": 80000,
+      "salary_mid": 45000,
+      "subjects_required": [
+        "English",
+        "History"
+      ],
+      "career_fields": [
+        "Law"
+      ],
+      "qualification": "LLB Degree"
+    },
+    {
+      "title": "Paralegal",
+      "sector": "Law & Legislation",
+      "salary_min": 12000,
+      "salary_max": 35000,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "English"
+      ],
+      "career_fields": [
+        "Law"
+      ],
+      "qualification": "Diploma"
+    },
+    {
+      "title": "Judge",
+      "sector": "Law & Legislation",
+      "salary_min": 60000,
+      "salary_max": 180000,
+      "salary_mid": 100000,
+      "subjects_required": [
+        "English",
+        "History",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Law"
+      ],
+      "qualification": "LLB + Years of Practice"
+    },
+    {
+      "title": "Compliance Specialist",
+      "sector": "Banking",
+      "salary_min": 20000,
+      "salary_max": 65000,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Law",
+        "Finance"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Primary School Teacher",
+      "sector": "Education, Science & Research",
+      "salary_min": 12000,
+      "salary_max": 35000,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Education"
+      ],
+      "qualification": "BEd Degree"
+    },
+    {
+      "title": "High School Teacher",
+      "sector": "Education, Science & Research",
+      "salary_min": 14000,
+      "salary_max": 42000,
+      "salary_mid": 26000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Education"
+      ],
+      "qualification": "BEd Degree"
+    },
+    {
+      "title": "School Principal",
+      "sector": "Top Management",
+      "salary_min": 13342,
+      "salary_max": 67511,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Education",
+        "Management"
+      ],
+      "qualification": "BEd + Experience"
+    },
+    {
+      "title": "University Lecturer",
+      "sector": "Education, Science & Research",
+      "salary_min": 22000,
+      "salary_max": 70000,
+      "salary_mid": 40000,
+      "subjects_required": [
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Education",
+        "Science"
+      ],
+      "qualification": "Masters/PhD"
+    },
+    {
+      "title": "Professor",
+      "sector": "Education, Science & Research",
+      "salary_min": 40000,
+      "salary_max": 100000,
+      "salary_mid": 65000,
+      "subjects_required": [
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Education",
+        "Science"
+      ],
+      "qualification": "PhD"
+    },
+    {
+      "title": "Special Needs Teacher",
+      "sector": "Education, Science & Research",
+      "salary_min": 14000,
+      "salary_max": 40000,
+      "salary_mid": 25000,
+      "subjects_required": [
+        "English",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Education"
+      ],
+      "qualification": "BEd Degree"
+    },
+    {
+      "title": "Preschool Teacher",
+      "sector": "Education, Science & Research",
+      "salary_min": 8000,
+      "salary_max": 25000,
+      "salary_mid": 15000,
+      "subjects_required": [
+        "English"
+      ],
+      "career_fields": [
+        "Education"
+      ],
+      "qualification": "Diploma/BEd"
+    },
+    {
+      "title": "Sports Coach",
+      "sector": "Education, Science & Research",
+      "salary_min": 10000,
+      "salary_max": 35000,
+      "salary_mid": 20000,
+      "subjects_required": [
+        "Physical Education",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Education",
+        "Sport"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Guidance Counsellor",
+      "sector": "Education, Science & Research",
+      "salary_min": 15000,
+      "salary_max": 45000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "English",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Education",
+        "Social Science"
+      ],
+      "qualification": "BEd/BCounselling"
+    },
+    {
+      "title": "Research Scientist",
+      "sector": "Education, Science & Research",
+      "salary_min": 22000,
+      "salary_max": 75000,
+      "salary_mid": 42000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Science"
+      ],
+      "qualification": "BSc + Postgrad"
+    },
+    {
+      "title": "Biologist",
+      "sector": "Education, Science & Research",
+      "salary_min": 15000,
+      "salary_max": 55000,
+      "salary_mid": 32000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Science"
+      ],
+      "qualification": "BSc Biology"
+    },
+    {
+      "title": "Chemist",
+      "sector": "Chemical Industry",
+      "salary_min": 16000,
+      "salary_max": 60000,
+      "salary_mid": 35000,
+      "subjects_required": [
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Science"
+      ],
+      "qualification": "BSc Chemistry"
+    },
+    {
+      "title": "Environmental Scientist",
+      "sector": "Water Management, Forestry, Environment",
+      "salary_min": 15000,
+      "salary_max": 55000,
+      "salary_mid": 32000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences",
+        "Geography"
+      ],
+      "career_fields": [
+        "Science"
+      ],
+      "qualification": "BSc Environmental Science"
+    },
+    {
+      "title": "Microbiologist",
+      "sector": "Pharmaceutical Industry",
+      "salary_min": 18000,
+      "salary_max": 60000,
+      "salary_mid": 36000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Science",
+        "Medical"
+      ],
+      "qualification": "BSc Microbiology"
+    },
+    {
+      "title": "Meteorologist",
+      "sector": "Water Management, Forestry, Environment",
+      "salary_min": 18000,
+      "salary_max": 60000,
+      "salary_mid": 36000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "Geography"
+      ],
+      "career_fields": [
+        "Science"
+      ],
+      "qualification": "BSc Meteorology"
+    },
+    {
+      "title": "Statistician",
+      "sector": "Economy, Finance, Accountancy",
+      "salary_min": 17250,
+      "salary_max": 47551,
+      "salary_mid": 30000,
+      "subjects_required": [
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Science",
+        "Finance"
+      ],
+      "qualification": "BSc Statistics"
+    },
+    {
+      "title": "Astronomer",
+      "sector": "Education, Science & Research",
+      "salary_min": 25000,
+      "salary_max": 80000,
+      "salary_mid": 48000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Science"
+      ],
+      "qualification": "BSc Physics/Astronomy"
+    },
+    {
+      "title": "Agricultural Scientist",
+      "sector": "Agriculture",
+      "salary_min": 15000,
+      "salary_max": 50000,
+      "salary_mid": 30000,
+      "subjects_required": [
+        "Life Sciences",
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Science",
+        "Agriculture"
+      ],
+      "qualification": "BSc Agriculture"
+    },
+    {
+      "title": "Chief Executive Officer (CEO)",
+      "sector": "Top Management",
+      "salary_min": 33306,
+      "salary_max": 164427,
+      "salary_mid": 90000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting",
+        "English"
+      ],
+      "career_fields": [
+        "Management"
+      ],
+      "qualification": "Degree + MBA"
+    },
+    {
+      "title": "Operations Manager",
+      "sector": "Top Management",
+      "salary_min": 15837,
+      "salary_max": 76919,
+      "salary_mid": 42000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Management"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Finance Manager",
+      "sector": "Management",
+      "salary_min": 25000,
+      "salary_max": 90000,
+      "salary_mid": 55000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting"
+      ],
+      "career_fields": [
+        "Finance",
+        "Management"
+      ],
+      "qualification": "BCom + Postgrad"
+    },
+    {
+      "title": "Human Resources Manager",
+      "sector": "Management",
+      "salary_min": 20000,
+      "salary_max": 70000,
+      "salary_mid": 40000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Management",
+        "Social Science"
+      ],
+      "qualification": "BCom HR/BA Psychology"
+    },
+    {
+      "title": "Marketing Manager",
+      "sector": "Management",
+      "salary_min": 22000,
+      "salary_max": 75000,
+      "salary_mid": 45000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Management",
+        "Marketing"
+      ],
+      "qualification": "BCom Marketing"
+    },
+    {
+      "title": "Project Manager",
+      "sector": "Management",
+      "salary_min": 22000,
+      "salary_max": 80000,
+      "salary_mid": 48000,
+      "subjects_required": [
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Management"
+      ],
+      "qualification": "Degree + PMP"
+    },
+    {
+      "title": "Sales Manager",
+      "sector": "Management",
+      "salary_min": 20000,
+      "salary_max": 80000,
+      "salary_mid": 45000,
+      "subjects_required": [
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Management",
+        "Commerce"
+      ],
+      "qualification": "Degree/Diploma"
+    },
+    {
+      "title": "IT Manager",
+      "sector": "Top Management",
+      "salary_min": 31824,
+      "salary_max": 153736,
+      "salary_mid": 80000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Management"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "IT Director",
+      "sector": "Top Management",
+      "salary_min": 31824,
+      "salary_max": 153736,
+      "salary_mid": 85000,
+      "subjects_required": [
+        "Mathematics",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "IT",
+        "Management"
+      ],
+      "qualification": "Degree + MBA"
+    },
+    {
+      "title": "Managing Director",
+      "sector": "Top Management",
+      "salary_min": 24895,
+      "salary_max": 123526,
+      "salary_mid": 72000,
+      "subjects_required": [
+        "Mathematics",
+        "Accounting",
+        "English"
+      ],
+      "career_fields": [
+        "Management"
+      ],
+      "qualification": "Degree + MBA"
+    },
+    {
+      "title": "Business Development Manager",
+      "sector": "Commerce",
+      "salary_min": 25000,
+      "salary_max": 90000,
+      "salary_mid": 52000,
+      "subjects_required": [
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Management",
+        "Commerce"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Logistics Manager",
+      "sector": "Management",
+      "salary_min": 23209,
+      "salary_max": 104767,
+      "salary_mid": 55000,
+      "subjects_required": [
+        "Mathematics",
+        "Economics"
+      ],
+      "career_fields": [
+        "Management",
+        "Logistics"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "sector": "Marketing, Advertising, PR",
+      "salary_min": 15000,
+      "salary_max": 55000,
+      "salary_mid": 30000,
+      "subjects_required": [
+        "English",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "Marketing"
+      ],
+      "qualification": "Degree/Diploma"
+    },
+    {
+      "title": "PR Manager",
+      "sector": "Marketing, Advertising, PR",
+      "salary_min": 20000,
+      "salary_max": 65000,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "English"
+      ],
+      "career_fields": [
+        "Marketing",
+        "Media"
+      ],
+      "qualification": "BA Communications"
+    },
+    {
+      "title": "Copywriter",
+      "sector": "Marketing, Advertising, PR",
+      "salary_min": 12000,
+      "salary_max": 45000,
+      "salary_mid": 25000,
+      "subjects_required": [
+        "English"
+      ],
+      "career_fields": [
+        "Marketing",
+        "Media"
+      ],
+      "qualification": "Degree/Diploma"
+    },
+    {
+      "title": "Graphic Designer",
+      "sector": "Marketing, Advertising, PR",
+      "salary_min": 12000,
+      "salary_max": 50000,
+      "salary_mid": 27000,
+      "subjects_required": [
+        "Arts and Culture",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "Design",
+        "Marketing"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Journalist",
+      "sector": "Journalism, Printing Arts & Media",
+      "salary_min": 12000,
+      "salary_max": 45000,
+      "salary_mid": 25000,
+      "subjects_required": [
+        "English",
+        "History"
+      ],
+      "career_fields": [
+        "Media"
+      ],
+      "qualification": "BA Journalism"
+    },
+    {
+      "title": "Social Media Specialist",
+      "sector": "Marketing, Advertising, PR",
+      "salary_min": 12000,
+      "salary_max": 40000,
+      "salary_mid": 23000,
+      "subjects_required": [
+        "English",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "Marketing",
+        "Media"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "SEO Analyst",
+      "sector": "Marketing, Advertising, PR",
+      "salary_min": 12000,
+      "salary_max": 40000,
+      "salary_mid": 24000,
+      "subjects_required": [
+        "English",
+        "Information Technology",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Marketing",
+        "IT"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Social Worker",
+      "sector": "Medicine & Social Care",
+      "salary_min": 12000,
+      "salary_max": 38000,
+      "salary_mid": 23000,
+      "subjects_required": [
+        "English",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Social Science"
+      ],
+      "qualification": "BSW Degree"
+    },
+    {
+      "title": "Psychologist",
+      "sector": "Medicine & Social Care",
+      "salary_min": 18000,
+      "salary_max": 60000,
+      "salary_mid": 35000,
+      "subjects_required": [
+        "Life Sciences",
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Social Science",
+        "Medical"
+      ],
+      "qualification": "MA Psychology"
+    },
+    {
+      "title": "HR Specialist",
+      "sector": "Human Resources",
+      "salary_min": 15000,
+      "salary_max": 50000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Management",
+        "Social Science"
+      ],
+      "qualification": "BCom HR"
+    },
+    {
+      "title": "Career Advisor",
+      "sector": "Human Resources",
+      "salary_min": 14000,
+      "salary_max": 45000,
+      "salary_mid": 26000,
+      "subjects_required": [
+        "English",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Education",
+        "Social Science"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Caseworker",
+      "sector": "Medicine & Social Care",
+      "salary_min": 10868,
+      "salary_max": 31733,
+      "salary_mid": 19000,
+      "subjects_required": [
+        "English",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Social Science"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Occupational Psychologist",
+      "sector": "Human Resources",
+      "salary_min": 20000,
+      "salary_max": 60000,
+      "salary_mid": 37000,
+      "subjects_required": [
+        "Life Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Social Science",
+        "Medical"
+      ],
+      "qualification": "MA Psych"
+    },
+    {
+      "title": "Air Traffic Controller",
+      "sector": "Transport, Haulage, Logistics",
+      "salary_min": 35000,
+      "salary_max": 95000,
+      "salary_mid": 62000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "English"
+      ],
+      "career_fields": [
+        "Transport",
+        "Aviation"
+      ],
+      "qualification": "ATNS Training"
+    },
+    {
+      "title": "Pilot",
+      "sector": "Transport, Haulage, Logistics",
+      "salary_min": 40000,
+      "salary_max": 120000,
+      "salary_mid": 70000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "English"
+      ],
+      "career_fields": [
+        "Transport",
+        "Aviation"
+      ],
+      "qualification": "CPL/ATPL"
+    },
+    {
+      "title": "Logistics Coordinator",
+      "sector": "Transport, Haulage, Logistics",
+      "salary_min": 14000,
+      "salary_max": 45000,
+      "salary_mid": 26000,
+      "subjects_required": [
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Logistics"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Supply Chain Specialist",
+      "sector": "Transport, Haulage, Logistics",
+      "salary_min": 18000,
+      "salary_max": 60000,
+      "salary_mid": 35000,
+      "subjects_required": [
+        "Mathematics",
+        "Economics"
+      ],
+      "career_fields": [
+        "Logistics",
+        "Commerce"
+      ],
+      "qualification": "Degree"
+    },
+    {
+      "title": "Customs Broker",
+      "sector": "Transport, Haulage, Logistics",
+      "salary_min": 14000,
+      "salary_max": 48000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Logistics",
+        "Law"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Hotel Manager",
+      "sector": "Tourism, Hospitality",
+      "salary_min": 20000,
+      "salary_max": 65000,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Hospitality"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Chef",
+      "sector": "Tourism, Hospitality",
+      "salary_min": 10000,
+      "salary_max": 40000,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "Mathematics",
+        "Consumer Studies"
+      ],
+      "career_fields": [
+        "Hospitality"
+      ],
+      "qualification": "Culinary Diploma"
+    },
+    {
+      "title": "Travel Agent",
+      "sector": "Tourism, Hospitality",
+      "salary_min": 10000,
+      "salary_max": 35000,
+      "salary_mid": 20000,
+      "subjects_required": [
+        "English",
+        "Geography"
+      ],
+      "career_fields": [
+        "Hospitality",
+        "Tourism"
+      ],
+      "qualification": "Diploma"
+    },
+    {
+      "title": "Flight Attendant",
+      "sector": "Tourism, Hospitality",
+      "salary_min": 15000,
+      "salary_max": 45000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Hospitality",
+        "Aviation"
+      ],
+      "qualification": "Matric + Training"
+    },
+    {
+      "title": "Spa Therapist",
+      "sector": "Tourism, Hospitality",
+      "salary_min": 8000,
+      "salary_max": 28000,
+      "salary_mid": 16000,
+      "subjects_required": [
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Hospitality",
+        "Health"
+      ],
+      "qualification": "Diploma"
+    },
+    {
+      "title": "Agricultural Engineer",
+      "sector": "Agriculture",
+      "salary_min": 20000,
+      "salary_max": 65000,
+      "salary_mid": 38000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Agriculture",
+        "Engineering"
+      ],
+      "qualification": "BEng/BSc Agric Engineering"
+    },
+    {
+      "title": "Farm Manager",
+      "sector": "Agriculture",
+      "salary_min": 15000,
+      "salary_max": 50000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "Life Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Agriculture"
+      ],
+      "qualification": "BSc Agriculture/Diploma"
+    },
+    {
+      "title": "Food Technologist",
+      "sector": "Agriculture",
+      "salary_min": 16000,
+      "salary_max": 55000,
+      "salary_mid": 32000,
+      "subjects_required": [
+        "Life Sciences",
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Science",
+        "Agriculture"
+      ],
+      "qualification": "BSc Food Technology"
+    },
+    {
+      "title": "Graphic Designer",
+      "sector": "Arts & Culture",
+      "salary_min": 12000,
+      "salary_max": 50000,
+      "salary_mid": 27000,
+      "subjects_required": [
+        "Arts and Culture",
+        "Information Technology"
+      ],
+      "career_fields": [
+        "Design",
+        "Arts"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Photographer",
+      "sector": "Arts & Culture",
+      "salary_min": 10000,
+      "salary_max": 40000,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "Arts and Culture"
+      ],
+      "career_fields": [
+        "Arts",
+        "Media"
+      ],
+      "qualification": "Diploma"
+    },
+    {
+      "title": "Actor",
+      "sector": "Arts & Culture",
+      "salary_min": 8000,
+      "salary_max": 50000,
+      "salary_mid": 20000,
+      "subjects_required": [
+        "Arts and Culture",
+        "Dramatic Arts",
+        "English"
+      ],
+      "career_fields": [
+        "Arts"
+      ],
+      "qualification": "Drama Diploma/Degree"
+    },
+    {
+      "title": "Musician",
+      "sector": "Arts & Culture",
+      "salary_min": 8000,
+      "salary_max": 60000,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "Arts and Culture"
+      ],
+      "career_fields": [
+        "Arts"
+      ],
+      "qualification": "BMus/Diploma"
+    },
+    {
+      "title": "Interior Designer",
+      "sector": "Construction & Real Estate",
+      "salary_min": 14000,
+      "salary_max": 50000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "Arts and Culture",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Design",
+        "Arts"
+      ],
+      "qualification": "BTech/Diploma"
+    },
+    {
+      "title": "Fashion Designer",
+      "sector": "Arts & Culture",
+      "salary_min": 10000,
+      "salary_max": 45000,
+      "salary_mid": 24000,
+      "subjects_required": [
+        "Arts and Culture",
+        "Consumer Studies"
+      ],
+      "career_fields": [
+        "Design",
+        "Arts"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Sound Engineer",
+      "sector": "Arts & Culture",
+      "salary_min": 12000,
+      "salary_max": 45000,
+      "salary_mid": 25000,
+      "subjects_required": [
+        "Arts and Culture",
+        "Physical Sciences",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Arts",
+        "Engineering"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Film Editor",
+      "sector": "Journalism, Printing Arts & Media",
+      "salary_min": 14000,
+      "salary_max": 50000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "Arts and Culture",
+        "Information Technology",
+        "English"
+      ],
+      "career_fields": [
+        "Arts",
+        "Media"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Miner",
+      "sector": "Mining, Metallurgy",
+      "salary_min": 12000,
+      "salary_max": 38000,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Mining"
+      ],
+      "qualification": "Certificate/N3"
+    },
+    {
+      "title": "Mining Technician",
+      "sector": "Mining, Metallurgy",
+      "salary_min": 16000,
+      "salary_max": 50000,
+      "salary_mid": 30000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Mining",
+        "Engineering"
+      ],
+      "qualification": "N6/Diploma"
+    },
+    {
+      "title": "Petroleum Engineer",
+      "sector": "Mining, Metallurgy",
+      "salary_min": 35000,
+      "salary_max": 120000,
+      "salary_mid": 70000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Engineering",
+        "Mining"
+      ],
+      "qualification": "BEng Degree"
+    },
+    {
+      "title": "Public Administrator",
+      "sector": "Public Administration",
+      "salary_min": 15000,
+      "salary_max": 50000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Government",
+        "Social Science"
+      ],
+      "qualification": "BAdmin/BA Degree"
+    },
+    {
+      "title": "Police Officer",
+      "sector": "Security & Protection",
+      "salary_min": 14000,
+      "salary_max": 40000,
+      "salary_mid": 24000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Government",
+        "Security"
+      ],
+      "qualification": "Matric + SAPS Training"
+    },
+    {
+      "title": "Firefighter",
+      "sector": "Security & Protection",
+      "salary_min": 12000,
+      "salary_max": 35000,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "Mathematics",
+        "Physical Sciences"
+      ],
+      "career_fields": [
+        "Government",
+        "Security"
+      ],
+      "qualification": "Matric + Training"
+    },
+    {
+      "title": "Customs Officer",
+      "sector": "Public Administration",
+      "salary_min": 14000,
+      "salary_max": 45000,
+      "salary_mid": 26000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Government",
+        "Law"
+      ],
+      "qualification": "Degree/Diploma"
+    },
+    {
+      "title": "Diplomat",
+      "sector": "Public Administration",
+      "salary_min": 30000,
+      "salary_max": 100000,
+      "salary_mid": 55000,
+      "subjects_required": [
+        "English",
+        "History",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Government",
+        "Law"
+      ],
+      "qualification": "BA International Relations"
+    },
+    {
+      "title": "Health & Safety Officer",
+      "sector": "Security & Protection",
+      "salary_min": 14000,
+      "salary_max": 48000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "Physical Sciences",
+        "Mathematics",
+        "Life Sciences"
+      ],
+      "career_fields": [
+        "Government",
+        "Engineering"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Administrative Officer",
+      "sector": "Administration",
+      "salary_min": 10000,
+      "salary_max": 32000,
+      "salary_mid": 18000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Administration"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Receptionist",
+      "sector": "Administration",
+      "salary_min": 8000,
+      "salary_max": 22000,
+      "salary_mid": 14000,
+      "subjects_required": [
+        "English"
+      ],
+      "career_fields": [
+        "Administration"
+      ],
+      "qualification": "Matric/Diploma"
+    },
+    {
+      "title": "Office Manager",
+      "sector": "Administration",
+      "salary_min": 14000,
+      "salary_max": 42000,
+      "salary_mid": 24000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Administration",
+        "Management"
+      ],
+      "qualification": "Diploma/Degree"
+    },
+    {
+      "title": "Customer Service Specialist",
+      "sector": "Commerce",
+      "salary_min": 8000,
+      "salary_max": 28000,
+      "salary_mid": 16000,
+      "subjects_required": [
+        "English"
+      ],
+      "career_fields": [
+        "Commerce",
+        "Administration"
+      ],
+      "qualification": "Matric/Diploma"
+    },
+    {
+      "title": "Sales Representative",
+      "sector": "Commerce",
+      "salary_min": 10000,
+      "salary_max": 40000,
+      "salary_mid": 22000,
+      "subjects_required": [
+        "English",
+        "Mathematics"
+      ],
+      "career_fields": [
+        "Commerce"
+      ],
+      "qualification": "Matric/Diploma"
+    },
+    {
+      "title": "Estate Agent",
+      "sector": "Construction & Real Estate",
+      "salary_min": 10000,
+      "salary_max": 60000,
+      "salary_mid": 28000,
+      "subjects_required": [
+        "Mathematics",
+        "English"
+      ],
+      "career_fields": [
+        "Commerce"
+      ],
+      "qualification": "Matric + FFC Certificate"
+    }
+  ],
+  "subject_to_career_map": {
+    "Mathematics": [
+      "Engineering",
+      "IT",
+      "Finance",
+      "Science",
+      "Medicine",
+      "Management"
+    ],
+    "Physical Sciences": [
+      "Engineering",
+      "Science",
+      "Medicine",
+      "Mining",
+      "Agriculture"
+    ],
+    "Life Sciences": [
+      "Medicine",
+      "Science",
+      "Agriculture",
+      "Social Science"
+    ],
+    "Accounting": [
+      "Finance",
+      "Management",
+      "Commerce"
+    ],
+    "Economics": [
+      "Finance",
+      "Commerce",
+      "Social Science",
+      "Management"
+    ],
+    "Information Technology": [
+      "IT",
+      "Design",
+      "Marketing"
+    ],
+    "English Home Language": [
+      "Law",
+      "Media",
+      "Education",
+      "Social Science",
+      "Marketing"
+    ],
+    "English First Additional Language": [
+      "Law",
+      "Media",
+      "Education",
+      "Social Science",
+      "Marketing"
+    ],
+    "History": [
+      "Law",
+      "Education",
+      "Government",
+      "Social Science"
+    ],
+    "Geography": [
+      "Engineering",
+      "Science",
+      "Agriculture",
+      "Transport"
+    ],
+    "Arts and Culture": [
+      "Arts",
+      "Design",
+      "Media"
+    ],
+    "Dramatic Arts": [
+      "Arts",
+      "Media"
+    ],
+    "Music": [
+      "Arts",
+      "Media"
+    ],
+    "Consumer Studies": [
+      "Hospitality",
+      "Agriculture",
+      "Design"
+    ],
+    "Mathematical Literacy": [
+      "Commerce",
+      "Administration",
+      "Hospitality"
+    ],
+    "Business Studies": [
+      "Commerce",
+      "Management",
+      "Finance"
+    ],
+    "Tourism": [
+      "Hospitality",
+      "Tourism"
+    ],
+    "Agricultural Sciences": [
+      "Agriculture",
+      "Science"
+    ],
+    "Visual Arts": [
+      "Arts",
+      "Design"
+    ],
+    "Languages (isiXhosa, isiZulu, Sesotho etc.)": [
+      "Education",
+      "Government",
+      "Media"
+    ],
+    "Technical Mathematics": [
+      "Engineering",
+      "Trades",
+      "IT"
+    ],
+    "Technical Sciences": [
+      "Engineering",
+      "Trades",
+      "Mining"
+    ],
+    "Hospitality Studies": [
+      "Hospitality",
+      "Tourism"
+    ]
+  },
+  "career_field_to_sectors": {
+    "IT": [
+      "Information Technology",
+      "Telecommunications"
+    ],
+    "Finance": [
+      "Banking",
+      "Economy, Finance, Accountancy",
+      "Insurance",
+      "Leasing"
+    ],
+    "Engineering": [
+      "Electrical & Power Engineering",
+      "Construction & Real Estate",
+      "Mining, Metallurgy"
+    ],
+    "Medical": [
+      "Medicine & Social Care",
+      "Pharmaceutical Industry"
+    ],
+    "Science": [
+      "Education, Science & Research",
+      "Chemical Industry",
+      "Water Management, Forestry, Environment"
+    ],
+    "Law": [
+      "Law & Legislation"
+    ],
+    "Education": [
+      "Education, Science & Research"
+    ],
+    "Management": [
+      "Management",
+      "Top Management"
+    ],
+    "Commerce": [
+      "Commerce"
+    ],
+    "Marketing": [
+      "Marketing, Advertising, PR"
+    ],
+    "Media": [
+      "Journalism, Printing Arts & Media"
+    ],
+    "Arts": [
+      "Arts & Culture"
+    ],
+    "Design": [
+      "Arts & Culture"
+    ],
+    "Social Science": [
+      "Medicine & Social Care",
+      "Public Administration"
+    ],
+    "Agriculture": [
+      "Agriculture"
+    ],
+    "Mining": [
+      "Mining, Metallurgy"
+    ],
+    "Hospitality": [
+      "Tourism, Hospitality"
+    ],
+    "Tourism": [
+      "Tourism, Hospitality"
+    ],
+    "Transport": [
+      "Transport, Haulage, Logistics"
+    ],
+    "Logistics": [
+      "Transport, Haulage, Logistics"
+    ],
+    "Aviation": [
+      "Transport, Haulage, Logistics"
+    ],
+    "Trades": [
+      "Electrical & Power Engineering",
+      "Production"
+    ],
+    "Government": [
+      "Public Administration",
+      "Security & Protection"
+    ],
+    "Security": [
+      "Security & Protection"
+    ],
+    "Administration": [
+      "Administration"
+    ]
+  }
+}
