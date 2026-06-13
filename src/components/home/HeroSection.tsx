@@ -121,7 +121,7 @@ export function HeroSection() {
                   width={220}
                   height={220}
                   priority
-                  className='mx-auto drop-shadow-2xl'
+                  className='mx-auto rounded-[19px] drop-shadow-2xl'
                 />
               </div>
 
