@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { GraduationCap, Search, Sparkles, ArrowRight, Home } from 'lucide-react';
+import { GraduationCap, Search, Sparkles, Building2, ArrowRight, Home } from 'lucide-react';
 import { ToolCard } from './components/ToolCard';
 
 const tools = [
@@ -26,6 +26,14 @@ const tools = [
       'Not sure what to study? Enter your subjects and marks and get personalised career paths and matching courses based on your strengths.',
     requirement: 'your Grade 12 subjects and marks.',
     href: '/tools/career-recommender',
+  },
+  {
+    icon: Building2,
+    title: 'Institution Profiles',
+    description:
+      'Explore detailed profiles for every university and college — faculties, campuses, programmes, admission requirements, and contact details.',
+    requirement: 'nothing — just browse.',
+    href: '/tools/institutions',
   },
 ];
 

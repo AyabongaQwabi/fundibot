@@ -6,7 +6,7 @@ import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
 
 const navLinks = [
-  { label: 'Universities', href: '/tools/qualification-checker' },
+  { label: 'Institutions', href: '/tools/institutions' },
   { label: 'Courses', href: '/tools/course-finder' },
   { label: 'Careers', href: '/tools/career-recommender' },
 ];

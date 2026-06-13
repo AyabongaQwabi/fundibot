@@ -31,7 +31,7 @@ export function InstitutionLogo({ logo, name, className = '' }: Props) {
 
   return (
     <div
-      className={`relative h-10 w-24 shrink-0 overflow-hidden rounded-lg bg-white ring-1 ring-slate-200 ${className}`}
+      className={`relative h-10 w-24 shrink-0 overflow-hidden ${className}`}
     >
       <Image
         src={logo}
