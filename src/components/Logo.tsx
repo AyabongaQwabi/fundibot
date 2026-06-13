@@ -25,7 +25,8 @@ export function Logo({ variant = 'dark', withTagline = false, className = '', ic
         width={iconSize}
         height={iconSize}
         priority
-        className='transition-transform duration-300 group-hover:-rotate-6 group-hover:scale-110'
+        className='rounded-[3px] bg-white transition-transform duration-300 group-hover:-rotate-6 group-hover:scale-110'
+        style={{ backgroundColor: '#ffffff' }}
       />
       <span className='flex flex-col leading-none'>
         <span className={`font-display text-xl font-extrabold lowercase tracking-tight ${wordColor}`}>
