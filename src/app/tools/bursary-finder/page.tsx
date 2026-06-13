@@ -6,6 +6,7 @@ export const metadata = {
   title: 'Bursary & Funding Matcher | Fundibot',
   description:
     'Find bursaries and NSFAS funding matched to your field of study. 976 South African bursaries sourced from zabursaries.co.za.',
+  alternates: { canonical: '/tools/bursary-finder' },
 };
 
 export type BursaryEntry = {

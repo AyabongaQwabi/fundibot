@@ -4,6 +4,7 @@ import { DeadlineTrackerClient } from './DeadlineTrackerClient';
 export const metadata = {
   title: 'Application Deadline Tracker | Fundibot',
   description: 'Browse application opening and closing dates for South African universities and colleges.',
+  alternates: { canonical: '/tools/deadline-tracker' },
 };
 
 export default function DeadlineTrackerPage() {

@@ -5,6 +5,7 @@ export const metadata = {
   title: 'Predict My Future | Fundibot',
   description:
     'See your personalised career timeline based on your grade, subjects, and marks. From Grade 8 to your first big salary — your story starts here.',
+  alternates: { canonical: '/tools/future-timeline' },
 };
 
 export default function FutureTimelinePage() {
