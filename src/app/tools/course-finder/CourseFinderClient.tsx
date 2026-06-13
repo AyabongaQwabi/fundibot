@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useMemo, useRef, useEffect } from 'react';
+import Link from 'next/link';
 import Fuse from 'fuse.js';
 import { ToolsBreadcrumb } from '../components/ToolsBreadcrumb';
 import { InstitutionLogo } from '../components/InstitutionLogo';
@@ -347,8 +348,8 @@ export function CourseFinderClient({ institutions, programmes }: Props) {
                       </div>
 
                       {/* Footer */}
-                      {institution.official_website && (
-                        <div className="mt-4 border-t border-slate-200/60 pt-3">
+                      <div className="mt-4 flex flex-wrap items-center gap-4 border-t border-slate-200/60 pt-3">
+                        {institution.official_website && (
                           <a
                             href={institution.official_website}
                             target="_blank"
@@ -358,8 +359,14 @@ export function CourseFinderClient({ institutions, programmes }: Props) {
                           >
                             Visit official website →
                           </a>
-                        </div>
-                      )}
+                        )}
+                        <Link
+                          href={`/tools/institution/${institution.id}`}
+                          className="text-sm font-medium text-slate-500 hover:text-slate-800 hover:underline"
+                        >
+                          View full profile →
+                        </Link>
+                      </div>
                     </div>
                   );
                 })}

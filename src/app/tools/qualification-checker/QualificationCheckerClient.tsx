@@ -4,6 +4,7 @@ import { useState, useMemo, useRef, useEffect } from 'react';
 import Fuse from 'fuse.js';
 import { ALL_NSC_SUBJECTS } from '@/lib/tools/constants';
 import { calcAps, percentageToAps } from '@/lib/tools/aps';
+import Link from 'next/link';
 import { ToolsBreadcrumb } from '../components/ToolsBreadcrumb';
 import { InstitutionLogo } from '../components/InstitutionLogo';
 import type { ToolInstitution, ToolProgramme } from '@/lib/tools/types';
@@ -287,8 +288,8 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
                           </div>
                         ))}
                       </div>
-                      {inst.official_website && (
-                        <div className="mt-3 border-t border-slate-100 pt-3">
+                      <div className="mt-3 flex flex-wrap items-center gap-4 border-t border-slate-100 pt-3">
+                        {inst.official_website && (
                           <a
                             href={inst.official_website}
                             target="_blank"
@@ -297,8 +298,14 @@ export function QualificationCheckerClient({ institutions, programmes }: Props) 
                           >
                             Visit official website →
                           </a>
-                        </div>
-                      )}
+                        )}
+                        <Link
+                          href={`/tools/institution/${inst.id}`}
+                          className="text-sm font-medium text-slate-500 hover:text-slate-800 hover:underline"
+                        >
+                          View full profile →
+                        </Link>
+                      </div>
                     </div>
                   );
                 })}
