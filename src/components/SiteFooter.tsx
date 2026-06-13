@@ -1,6 +1,14 @@
 import Link from 'next/link';
 import { Logo } from '@/components/Logo';
 
+const footerLinks = [
+  { label: 'About Us', href: '/about' },
+  { label: 'Tools', href: '/tools' },
+  { label: 'Institutions', href: '/tools/institutions' },
+  { label: 'Careers', href: '/tools/career-recommender' },
+  { label: 'Stats', href: '/stats' },
+];
+
 export function SiteFooter() {
   return (
     <footer className='border-t border-slate-100 bg-white py-12'>
@@ -10,16 +18,32 @@ export function SiteFooter() {
           <Logo variant='dark' withTagline iconSize={32} />
 
           {/* Links */}
-          <nav className='flex flex-wrap justify-center gap-6 text-sm font-semibold text-slate-500'>
-            <Link href='/tools/qualification-checker' className='transition-colors hover:text-brand-blue'>Qualification Checker</Link>
-            <Link href='/tools/course-finder' className='transition-colors hover:text-brand-blue'>Course Finder</Link>
-            <Link href='/tools/career-recommender' className='transition-colors hover:text-brand-blue'>Career Recommender</Link>
-            <Link href='/tools/bursary-finder' className='transition-colors hover:text-brand-blue'>Bursaries</Link>
+          <nav className='flex flex-wrap justify-center gap-x-6 gap-y-3 text-sm font-semibold text-slate-500'>
+            {footerLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className='transition-colors hover:text-brand-blue'
+              >
+                {link.label}
+              </Link>
+            ))}
           </nav>
 
+          {/* Copyright */}
           <p className='text-xs text-slate-400'>
-            © {new Date().getFullYear()} Fundibot · Built with{' '}
-            <span className='text-brand-gold-dark'>♥</span> for SA learners
+            © 2026 Qwabi Engineering. All Rights Reserved.
+          </p>
+        </div>
+
+        {/* Disclaimer */}
+        <div className='mt-8 border-t border-slate-100 pt-6'>
+          <p className='mx-auto max-w-4xl text-center text-[11px] leading-relaxed text-slate-400'>
+            Information on Fundibot is compiled from publicly available sources including university
+            and college prospectuses, official institution websites, Claude AI, zabursaries.co.za,
+            Wikimedia, and nationalgovernment.co.za. Always verify the latest details directly with
+            the institution before making any decisions. Fundibot is not affiliated with any
+            university or government department.
           </p>
         </div>
       </div>

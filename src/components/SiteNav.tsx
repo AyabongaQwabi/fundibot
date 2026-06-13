@@ -12,6 +12,7 @@ const navLinks = [
   { label: 'Careers', href: '/tools/career-recommender' },
   { label: 'Stats', href: '/stats' },
   { label: 'Bursaries', href: '/tools/bursary-finder' },
+  { label: 'About', href: '/about' },
 ];
 
 export function SiteNav() {
