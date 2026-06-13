@@ -6,9 +6,10 @@ import { useState } from 'react';
 import { Menu, X } from 'lucide-react';
 
 const navLinks = [
+  { label: 'Tools', href: '/tools' },
   { label: 'Institutions', href: '/tools/institutions' },
   { label: 'Courses', href: '/tools/course-finder' },
-  { label: 'Careers', href: '/tools/career-recommender' },
+  { label: 'Stats', href: '/stats' },
 ];
 
 export function SiteNav() {
@@ -20,7 +21,7 @@ export function SiteNav() {
     <header
       className={`fixed inset-x-0 top-0 z-50 transition-all duration-300 ${
         isHome
-          ? 'border-b border-white/10 bg-navy-900/80 backdrop-blur-xl'
+          ? 'border-b border-white/10 bg-sky-700/90 backdrop-blur-xl'
           : 'border-b border-slate-100 bg-white/95 backdrop-blur-xl shadow-sm'
       }`}
     >
@@ -55,10 +56,10 @@ export function SiteNav() {
         {/* CTA */}
         <div className='hidden items-center gap-3 md:flex'>
           <Link
-            href='/tools/qualification-checker'
-            className='rounded-full bg-brand-blue px-5 py-2 text-sm font-semibold text-white transition-all duration-200 hover:bg-brand-blue-dark hover:shadow-glow-blue active:scale-95'
+            href='/tools/course-finder'
+            className='rounded-full bg-brand-gold px-5 py-2 text-sm font-semibold text-slate-900 transition-all duration-200 hover:bg-brand-gold-light hover:shadow-glow-gold active:scale-95'
           >
-            Get Started
+            Find My Course
           </Link>
         </div>
 
@@ -74,7 +75,7 @@ export function SiteNav() {
 
       {/* Mobile menu */}
       {mobileOpen && (
-        <div className={`border-t px-4 py-4 md:hidden ${isHome ? 'border-white/10 bg-navy-900' : 'border-slate-100 bg-white'}`}>
+        <div className={`border-t px-4 py-4 md:hidden ${isHome ? 'border-white/10 bg-sky-700' : 'border-slate-100 bg-white'}`}>
           <nav className='flex flex-col gap-1'>
             {navLinks.map((link) => (
               <Link
@@ -89,11 +90,11 @@ export function SiteNav() {
               </Link>
             ))}
             <Link
-              href='/tools/qualification-checker'
+              href='/tools/course-finder'
               onClick={() => setMobileOpen(false)}
-              className='mt-2 rounded-full bg-brand-blue px-5 py-3 text-center text-sm font-semibold text-white'
+              className='mt-2 rounded-full bg-brand-gold px-5 py-3 text-center text-sm font-semibold text-slate-900'
             >
-              Get Started
+              Find My Course
             </Link>
           </nav>
         </div>

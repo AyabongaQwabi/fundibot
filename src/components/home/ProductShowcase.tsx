@@ -1,8 +1,8 @@
 const steps = [
   {
     step: '01',
-    title: 'Enter Your Subjects',
-    description: 'Select your Grade 12 subjects from the full NSC curriculum and enter your percentage marks.',
+    title: 'Enter your subjects',
+    description: 'Pick your Grade 12 subjects from the NSC list and type in your marks. Takes about a minute.',
     preview: (
       <div className='space-y-2'>
         {[
@@ -24,8 +24,8 @@ const steps = [
   },
   {
     step: '02',
-    title: 'Calculate APS Score',
-    description: 'Your APS score is automatically calculated using the official South African point system.',
+    title: 'Get your APS score',
+    description: 'Your APS calculates automatically using the official SA points system. No maths on your part.',
     preview: (
       <div className='text-center'>
         <div className='mx-auto flex h-28 w-28 items-center justify-center rounded-full bg-blue-gradient shadow-glow-blue'>
@@ -38,7 +38,7 @@ const steps = [
         <div className='mt-4 grid grid-cols-3 gap-3'>
           {[
             { label: 'Percentile', value: 'Top 15%' },
-            { label: 'Rating', value: 'Above Avg' },
+            { label: 'Rating', value: 'Above avg' },
             { label: 'Eligible', value: '12 courses' },
           ].map((stat) => (
             <div key={stat.label} className='rounded-xl border border-slate-100 bg-slate-50 py-3'>
@@ -52,8 +52,8 @@ const steps = [
   },
   {
     step: '03',
-    title: 'View Opportunities',
-    description: 'See every university and qualification you qualify for, instantly matched to your results.',
+    title: 'See what you qualify for',
+    description: 'Every university and qualification that accepts your score, right there. No guessing.',
     preview: (
       <div className='space-y-2.5'>
         {[
@@ -75,8 +75,8 @@ const steps = [
   },
   {
     step: '04',
-    title: 'Explore Careers',
-    description: 'Discover which careers align with your subject strengths and what to study to get there.',
+    title: 'Discover careers',
+    description: "See which careers your subjects point to and what you'd need to study to get there.",
     preview: (
       <div className='space-y-3'>
         <div className='flex flex-wrap gap-2'>
@@ -87,9 +87,9 @@ const steps = [
           ))}
         </div>
         <div className='rounded-xl border border-slate-100 bg-slate-50 p-4'>
-          <p className='text-xs font-semibold uppercase tracking-widest text-slate-400'>Recommended path</p>
+          <p className='text-xs font-semibold uppercase tracking-widest text-slate-400'>Suggested path</p>
           <p className='mt-2 text-sm font-bold text-slate-900'>BSc Computer Science → Software Development</p>
-          <p className='mt-1 text-xs text-slate-500'>4 years · Universities nationwide · High demand field</p>
+          <p className='mt-1 text-xs text-slate-500'>4 years · Universities nationwide · High demand</p>
         </div>
       </div>
     ),
@@ -101,17 +101,17 @@ export function ProductShowcase() {
     <section className='bg-slate-50 py-24 sm:py-32'>
       <div className='mx-auto max-w-7xl px-4 sm:px-6'>
         <div className='mx-auto max-w-2xl text-center'>
-          <span className='section-tag mb-5'>How It Works</span>
+          <span className='section-tag mb-5'>How it works</span>
           <h2 className='text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl'>
-            From Marks to Opportunities in Minutes
+            Marks in. Options out.
           </h2>
           <p className='mt-4 text-lg text-slate-500'>
-            A simple four-step journey that puts your future within reach.
+            Four steps. No registration. No waiting. Just answers.
           </p>
         </div>
 
         <div className='mt-20 grid gap-8 lg:grid-cols-2'>
-          {steps.map((step, i) => (
+          {steps.map((step) => (
             <div key={step.step} className='rounded-2xl border border-slate-200 bg-white p-7 shadow-card'>
               <div className='mb-5 flex items-center gap-4'>
                 <span className='flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-xl bg-brand-blue text-sm font-black text-white'>

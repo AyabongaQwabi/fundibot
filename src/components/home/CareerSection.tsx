@@ -60,7 +60,7 @@ const demandColor: Record<string, string> = {
 
 export function CareerSection() {
   return (
-    <section className='bg-navy-900 py-24 sm:py-32'>
+    <section className='bg-sky-700 py-24 sm:py-32'>
       <div className='mx-auto max-w-7xl px-4 sm:px-6'>
         <div className='flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between'>
           <div>
@@ -68,18 +68,18 @@ export function CareerSection() {
               Careers
             </span>
             <h2 className='text-3xl font-extrabold tracking-tight text-white sm:text-4xl'>
-              Discover Careers That{' '}
-              <span className='text-gradient-gold'>Match Your Strengths</span>
+              What your subjects{' '}
+              <span className='text-gradient-gold'>can actually get you.</span>
             </h2>
             <p className='mt-3 text-lg text-white/60'>
-              Explore career paths based on your subject strengths and academic performance.
+              Real careers, real salaries, real pathways. No "follow your passion" fluff.
             </p>
           </div>
           <Link
             href='/tools/career-recommender'
             className='flex-shrink-0 rounded-full border border-white/20 bg-white/10 px-6 py-3 text-sm font-semibold text-white backdrop-blur-sm transition-all hover:bg-white/15'
           >
-            Find My Career <ArrowRight className='ml-2 inline h-4 w-4' />
+            Find my career <ArrowRight className='ml-2 inline h-4 w-4' />
           </Link>
         </div>
 

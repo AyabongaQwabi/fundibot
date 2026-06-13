@@ -77,10 +77,10 @@ export function QualificationShowcase() {
         <div className='mx-auto max-w-2xl text-center'>
           <span className='section-tag mb-5'>Example Results</span>
           <h2 className='text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl'>
-            See Your Qualifying Programmes
+            This is what APS 36 gets you.
           </h2>
           <p className='mt-4 text-lg text-slate-500'>
-            Based on an APS score of 36. Enter your own marks to get your personalised list.
+            Enter your actual marks and you'll see your own list — not a hypothetical one.
           </p>
         </div>
 
@@ -90,25 +90,21 @@ export function QualificationShowcase() {
             const pct = Math.min(100, Math.round((q.apsUser / q.apsRequired) * 100));
             return (
               <div key={q.name} className='flex flex-col rounded-2xl border border-slate-200 bg-white p-5 shadow-card'>
-                {/* Field tag */}
                 <span className='mb-3 w-fit rounded-full bg-slate-100 px-2.5 py-1 text-xs font-semibold text-slate-500'>
                   {q.field}
                 </span>
 
                 <h3 className='font-bold leading-snug text-slate-900'>{q.name}</h3>
 
-                {/* APS info */}
                 <div className='mt-3 flex items-center justify-between text-xs text-slate-500'>
                   <span>APS Required: <strong className='text-slate-900'>{q.apsRequired}</strong></span>
                   <span>Your APS: <strong className='text-brand-blue'>36</strong></span>
                 </div>
 
-                {/* Progress bar */}
                 <div className='mt-2 h-1.5 overflow-hidden rounded-full bg-slate-100'>
                   <div className={`h-full rounded-full ${config.bar}`} style={{ width: `${Math.min(100, pct)}%` }} />
                 </div>
 
-                {/* Institutions */}
                 <div className='mt-3 flex flex-wrap gap-1.5'>
                   {q.institutions.map((inst) => (
                     <span key={inst} className='rounded-md border border-slate-100 bg-slate-50 px-2 py-0.5 text-xs text-slate-600'>
@@ -117,7 +113,6 @@ export function QualificationShowcase() {
                   ))}
                 </div>
 
-                {/* Status */}
                 <div className='mt-auto pt-4'>
                   <span className={`inline-flex items-center rounded-full border px-3 py-1 text-xs font-semibold ${config.badge}`}>
                     {config.label}
@@ -129,11 +124,8 @@ export function QualificationShowcase() {
         </div>
 
         <div className='mt-12 text-center'>
-          <Link
-            href='/tools/qualification-checker'
-            className='btn-primary'
-          >
-            Check My Qualifications
+          <Link href='/tools/course-finder' className='btn-primary'>
+            Find My Course
             <ArrowRight className='h-4 w-4' />
           </Link>
         </div>
