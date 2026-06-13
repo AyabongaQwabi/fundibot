@@ -5,6 +5,7 @@ export const metadata = {
   title: 'What Could You Earn? | Fundibot',
   description:
     'Enter your Grade 12 subjects and marks to discover which careers match your strengths and what you could earn in South Africa.',
+  alternates: { canonical: '/tools/salary-predictor' },
 };
 
 export default function SalaryPredictorPage() {

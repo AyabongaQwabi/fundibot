@@ -1,4 +1,13 @@
 import Link from 'next/link';
+import { Logo } from '@/components/Logo';
+
+const footerLinks = [
+  { label: 'About Us', href: '/about' },
+  { label: 'Tools', href: '/tools' },
+  { label: 'Institutions', href: '/tools/institutions' },
+  { label: 'Careers', href: '/tools/career-recommender' },
+  { label: 'Stats', href: '/stats' },
+];
 
 export function SiteFooter() {
   return (
@@ -6,22 +15,35 @@ export function SiteFooter() {
       <div className='mx-auto max-w-7xl px-4 sm:px-6'>
         <div className='flex flex-col items-center justify-between gap-6 sm:flex-row'>
           {/* Logo */}
-          <div className='flex items-center gap-2.5'>
-            <div className='flex h-7 w-7 items-center justify-center rounded-lg bg-brand-blue'>
-              <span className='text-xs font-bold text-white'>F</span>
-            </div>
-            <span className='text-sm font-bold text-slate-900'>Fundibot</span>
-          </div>
+          <Logo variant='dark' withTagline iconSize={32} />
 
           {/* Links */}
-          <nav className='flex flex-wrap justify-center gap-6 text-sm text-slate-500'>
-            <Link href='/tools/qualification-checker' className='transition-colors hover:text-slate-900'>Qualification Checker</Link>
-            <Link href='/tools/course-finder' className='transition-colors hover:text-slate-900'>Course Finder</Link>
-            <Link href='/tools/career-recommender' className='transition-colors hover:text-slate-900'>Career Recommender</Link>
+          <nav className='flex flex-wrap justify-center gap-x-6 gap-y-3 text-sm font-semibold text-slate-500'>
+            {footerLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className='transition-colors hover:text-brand-blue'
+              >
+                {link.label}
+              </Link>
+            ))}
           </nav>
 
+          {/* Copyright */}
           <p className='text-xs text-slate-400'>
-            © {new Date().getFullYear()} Fundibot · Free for all South African learners
+            © 2026 Qwabi Engineering. All Rights Reserved.
+          </p>
+        </div>
+
+        {/* Disclaimer */}
+        <div className='mt-8 border-t border-slate-100 pt-6'>
+          <p className='mx-auto max-w-4xl text-center text-[11px] leading-relaxed text-slate-400'>
+            Information on Fundibot is compiled from publicly available sources including university
+            and college prospectuses, official institution websites, Claude AI, zabursaries.co.za,
+            Wikimedia, and nationalgovernment.co.za. Always verify the latest details directly with
+            the institution before making any decisions. Fundibot is not affiliated with any
+            university or government department.
           </p>
         </div>
       </div>

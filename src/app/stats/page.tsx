@@ -1,9 +1,17 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { Home, BarChart2 } from 'lucide-react';
 import { getStatsData } from '@/lib/tools/stats';
 import { StatsClient } from './StatsClient';
 
 export const dynamic = 'force-static';
+
+export const metadata: Metadata = {
+  title: 'Data & Statistics — Inside the Fundibot Dataset',
+  description:
+    'Explore the open dataset behind Fundibot: charts and statistics across 75+ South African institutions, thousands of programmes, APS ranges and qualification types.',
+  alternates: { canonical: '/stats' },
+};
 
 export default function StatsPage() {
   const stats = getStatsData();

@@ -4,6 +4,7 @@ import { GapYearClient } from './GapYearClient';
 export const metadata = {
   title: 'Gap Year & Alternative Pathways | Fundibot',
   description: 'Discover TVET, bridging programmes, learnerships, and short courses if university admission was not achieved.',
+  alternates: { canonical: '/tools/gap-year' },
 };
 
 export default function GapYearPage() {

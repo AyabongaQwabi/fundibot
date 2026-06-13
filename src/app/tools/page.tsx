@@ -1,9 +1,18 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import {
   GraduationCap, Search, Sparkles, Building2, ArrowRight, Home,
   DollarSign, GitCompare, BookOpen, Calendar, Wrench, Map, BarChart2, TrendingUp, Clock,
 } from 'lucide-react';
 import { ToolCard } from './components/ToolCard';
+import { JsonLd, breadcrumbList, BASE_URL } from '@/components/seo/JsonLd';
+
+export const metadata: Metadata = {
+  title: 'Free Tools — Course Finder, APS Checker, Bursaries & More',
+  description:
+    '10 free tools to sort out your future after matric: course and institution finder, APS qualification checker, career recommender, bursary matcher, TVET planner and more. No login, no stress.',
+  alternates: { canonical: '/tools' },
+};
 
 const tools = [
   {
@@ -113,8 +122,25 @@ const wipTools = [
 ];
 
 export default function ToolsHubPage() {
+  const itemList = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'Fundibot free tools',
+    itemListElement: tools.map((tool, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: tool.title,
+      url: `${BASE_URL}${tool.href}`,
+    })),
+  };
+  const breadcrumbs = breadcrumbList([
+    { name: 'Home', path: '/' },
+    { name: 'Tools', path: '/tools' },
+  ]);
+
   return (
     <div className='min-h-screen bg-slate-50'>
+      <JsonLd data={[itemList, breadcrumbs]} />
       {/* Header */}
       <div className='bg-sky-700 pb-16 pt-28'>
         <div className='mx-auto max-w-5xl px-4 sm:px-6'>
