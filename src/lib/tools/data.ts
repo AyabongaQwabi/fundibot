@@ -7,6 +7,7 @@ import type {
   ToolInstitution,
   ToolProgramme,
   ToolsData,
+  InstitutionProfile,
 } from './types';
 
 // Point to the seed data in the fundibot folder (outside src/)
@@ -126,16 +127,70 @@ export function getToolsData(): ToolsData {
   return loadToolsData();
 }
 
-export function getInstitutionById(id: string): RichInstitution | null {
-  const institutions = getInstitutions();
-  const inst = institutions.find((i) => i.id === id);
-  if (!inst) return null;
+export function getInstitutionProfile(id: string): InstitutionProfile | null {
+  const { institutions } = loadToolsData();
+  const toolInst = institutions.find((i) => i.id === id);
+  if (!toolInst) return null;
 
-  const richPath = path.join(
-    SEED_DIR,
-    'institutions',
-    `institution-${inst.id}-${inst.slug}.rich.json`,
-  );
-  if (!fs.existsSync(richPath)) return null;
-  return readJson<RichInstitution>(richPath);
+  // Base profile from index data (always available)
+  const base: InstitutionProfile = {
+    id: toolInst.id,
+    slug: toolInst.slug,
+    name: toolInst.name,
+    short_name: toolInst.short_name,
+    logo: toolInst.logo,
+    institution_type: toolInst.institution_type,
+    province: toolInst.province,
+    city: toolInst.city,
+    official_website: toolInst.official_website,
+    application_url: null,
+    prospectus_url: null,
+    nsfas_supported: null,
+    distance_learning: null,
+    colors: toolInst.colors,
+    motto: toolInst.motto,
+    student_count: null,
+    accreditation: null,
+    qualification_types: [],
+    contact: null,
+    campuses: [],
+    faculties: [],
+    programmes: [],
+    admission: null,
+  };
+
+  // Enrich from rich file if available
+  const index = readJson<{ institutions: Institution[] }>(path.join(SEED_DIR, 'index.json'));
+  const indexInst = index.institutions.find((i) => i.institution_id === id);
+  if (!indexInst?.rich_file) return base;
+
+  const richPath = path.join(process.cwd(), 'seed', indexInst.rich_file);
+  if (!fs.existsSync(richPath)) return base;
+
+  try {
+    const rich = readJson<RichInstitution>(richPath);
+    return {
+      ...base,
+      application_url: rich.meta.application_url ?? null,
+      prospectus_url: rich.meta.prospectus_url ?? null,
+      nsfas_supported: rich.meta.nsfas_supported ?? null,
+      distance_learning: rich.meta.distance_learning ?? null,
+      accreditation: rich.meta.accreditation ?? null,
+      qualification_types: rich.meta.qualification_types ?? [],
+      student_count: rich.profile?.student_count != null
+        ? String(rich.profile.student_count)
+        : null,
+      contact: rich.contact ?? null,
+      campuses: rich.campuses ?? [],
+      faculties: rich.faculties ?? [],
+      programmes: rich.programmes ?? [],
+      admission: rich.admission ?? null,
+    };
+  } catch {
+    return base;
+  }
+}
+
+export function getAllInstitutionIds(): string[] {
+  return loadToolsData().institutions.map((i) => i.id);
 }

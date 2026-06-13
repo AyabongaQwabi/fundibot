@@ -70,13 +70,45 @@ export type RichInstitution = {
     province: string;
     city: string;
     official_website: string;
+    application_url?: string | null;
+    prospectus_url?: string | null;
+    nsfas_supported?: boolean | null;
+    distance_learning?: boolean | null;
+    accreditation?: Record<string, string> | null;
+    qualification_types?: string[];
   };
   profile?: {
     short_name?: string;
     logo?: string;
-    colors?: string[],
-    motto?: string,
+    colors?: string[];
+    motto?: string;
+    student_count?: number | string | null;
+    nickname?: string | null;
+    sports?: string[];
   };
+  contact?: {
+    emails?: string[];
+    phone_numbers?: string[];
+    physical_address?: string | null;
+    postal_address?: string | null;
+    socials?: Record<string, string | null>;
+  };
+  campuses?: Array<{
+    name: string;
+    city?: string | null;
+    province?: string | null;
+    is_main?: boolean | null;
+    type?: string | null;
+    address?: string | null;
+    coordinates?: { lat?: number | null; lng?: number | null };
+    contact?: string | null;
+  }>;
+  faculties?: Array<{
+    id?: string | null;
+    name: string;
+    overview?: string | null;
+    kind?: string | null;
+  }>;
   programmes?: Array<{
     name: string;
     qualification_type?: string;
@@ -84,7 +116,52 @@ export type RichInstitution = {
     min_aps?: number | null;
     subjects_compulsory?: string[];
     career_outcomes?: string[];
+    duration?: string | null;
+    study_mode?: string | null;
+    nqf_level?: number | null;
   }>;
+  admission?: {
+    aps_name?: string | null;
+    aps_calculation_notes?: string | null;
+    minimum_aps_for_bachelors?: number | null;
+    minimum_aps_for_diplomas?: number | null;
+    minimum_entry_note?: string | null;
+    life_orientation_cap?: number | null;
+    aps_rules?: Array<{
+      id?: string;
+      scope?: string;
+      min_aps?: number;
+      programme?: string | null;
+      excerpt?: string | null;
+    }>;
+  };
+};
+
+/** Full institution profile assembled for the institution detail page. */
+export type InstitutionProfile = {
+  id: string;
+  slug: string;
+  name: string;
+  short_name: string | null;
+  logo: string | null;
+  institution_type: InstitutionType;
+  province: string;
+  city: string;
+  official_website: string;
+  application_url: string | null;
+  prospectus_url: string | null;
+  nsfas_supported: boolean | null;
+  distance_learning: boolean | null;
+  colors: string[] | null;
+  motto: string | null;
+  student_count: string | null;
+  accreditation: Record<string, string> | null;
+  qualification_types: string[];
+  contact: RichInstitution['contact'] | null;
+  campuses: NonNullable<RichInstitution['campuses']>;
+  faculties: NonNullable<RichInstitution['faculties']>;
+  programmes: NonNullable<RichInstitution['programmes']>;
+  admission: RichInstitution['admission'] | null;
 };
 
 export type SubjectMark = {
